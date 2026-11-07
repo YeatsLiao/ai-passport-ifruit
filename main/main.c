@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "esp_random.h"
+#include "esp_system.h"
 #define KEY_DEMO ((phone_key_t)5)
 #include "esp_log.h"
 #include "freertos/FreeRTOS.h"
@@ -41,12 +42,18 @@ static void on_key(bsp_btn_t button,bsp_btn_ev_t event,void *user) {
 void app_main(void) {
     keys=xQueueCreate(16,sizeof(phone_key_t)); configASSERT(keys);
     ESP_ERROR_CHECK(phone_audio_init());
-    ESP_ERROR_CHECK(bsp_display_init()); configASSERT(bsp_lvgl_init());
+    ESP_ERROR_CHECK(bsp_display_init());
+    /* Initialization must execute even in builds with assertions disabled. */
+    if(!bsp_lvgl_init())ESP_ERROR_CHECK(ESP_FAIL);
     phone_t phone; phone_init(&phone);
     phone_storage_load(&phone);
     if(phone.world.rng==1){phone.world.rng=esp_random();if(!phone.world.rng)phone.world.rng=1;}
     phone.selected_role=phone.world.role;phone.page=PHONE_ROLE;
-    if(bsp_lvgl_lock(1000)) { phone_ui_init(); phone_ui_render(&phone); bsp_lvgl_unlock(); }
+    if(!bsp_lvgl_lock(0))ESP_ERROR_CHECK(ESP_ERR_TIMEOUT);
+    phone_ui_init();phone_ui_render(&phone);bsp_lvgl_unlock();
+    /* BSP deliberately starts LEDC at duty=0. Panel DISPON alone does not light it. */
+    bsp_display_backlight(75);
+    ESP_LOGI("phone","UI created; backlight=75%%; free heap=%lu",(unsigned long)esp_get_free_heap_size());
     ESP_ERROR_CHECK(bsp_button_init(on_key,NULL));
     TickType_t step=xTaskGetTickCount();
     for(;;) {

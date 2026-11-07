@@ -2,6 +2,7 @@
 #include "wav.h"
 #include "bsp_audio.h"
 #include "esp_spiffs.h"
+#include "esp_log.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "freertos/queue.h"
@@ -24,6 +25,8 @@ static void worker(void *arg) {
     (void)arg;
     const esp_vfs_spiffs_conf_t fs={.base_path="/assets",.partition_label="assets",.max_files=2,.format_if_mount_failed=false};
     esp_err_t mount=esp_vfs_spiffs_register(&fs);
+    if(mount!=ESP_OK)ESP_LOGW("phone_audio","Assets mount failed (%s). Flash the assets image at 0x310000; continuing without audio",esp_err_to_name(mount));
+    else ESP_LOGI("phone_audio","Assets mounted at /assets");
     esp_err_t codec=ESP_ERR_INVALID_STATE; /* Initialize lazily once actual audio exists. */
     bool initialized=false;
     command_t cmd; FILE *file=NULL; wav_t wav={0}; uint32_t left=0;
