@@ -1,0 +1,39 @@
+{
+  "source": "gta_standard_global_reg_ysc / func_700+701; appchecklist.ysc / func_30,31",
+  "adaptation": "Local replay event pool. Role assignment, random timing and manual completion are device simulation; not original mission unlock order. No unverified money reward or speech is attached.",
+  "missions": [
+    {
+      "key": "M_LS1",
+      "role": "Michael"
+    },
+    {
+      "key": "M_FAM1",
+      "role": "Michael"
+    },
+    {
+      "key": "M_ARM1",
+      "role": "Franklin"
+    },
+    {
+      "key": "M_ARM2",
+      "role": "Franklin"
+    },
+    {
+      "key": "M_TRV1",
+      "role": "Trevor"
+    },
+    {
+      "key": "M_TRV2",
+      "role": "Trevor"
+    }
+  ],
+  "checklist_keys": [
+    "CELL_3301",
+    "CELL_3302",
+    "CELL_3001",
+    "CELL_3008",
+    "CELL_3004",
+    "CELL_3005",
+    "CELL_3007"
+  ]
+}

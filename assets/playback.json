@@ -1,0 +1,17 @@
+{
+  "ringtone": null,
+  "contacts": [
+    null,
+    null,
+    "gta_answerphone_stream_072",
+    "gta_answerphone_stream_095",
+    null,
+    "gta_answerphone_stream_037"
+  ],
+  "effects": {
+    "menu_navigate": "gta_michael_menu_navigate",
+    "menu_accept": "gta_michael_menu_accept",
+    "menu_back": "gta_michael_menu_back",
+    "text_arrive_tone": "gta_michael_text_arrive_tone"
+  }
+}
