@@ -1,0 +1,19 @@
+# 仓库统一 LF，避免 Windows 换行符噪音
+* text=auto eol=lf
+
+# 游戏素材与二进制产物不做换行符转换
+*.png binary
+*.jpg binary
+*.wav binary
+*.awc binary
+*.ytd binary
+*.gxt2 binary
+*.gfx binary
+*.ysc binary
+*.as binary
+*.bin binary
+
+# Windows 脚本保留 CRLF
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf

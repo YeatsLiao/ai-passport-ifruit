@@ -1,0 +1,28 @@
+# ESP-IDF 构建产物与生成配置
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+
+# 本地递归产物与运行日志
+flashlib/
+logs/
+*.log
+
+# Python 工具缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.swp
