@@ -1,0 +1,200 @@
+{
+  "checked_on": "2026-11-07",
+  "project": "D:\\2.Project\\01_hw\\ai-passport\\ai-passport-ifruit",
+  "rea": {
+    "path": "D:\\2.Project\\01_hw\\rea",
+    "version": "6.8.0",
+    "node_required": "^22.23.4 || ^24.22.1 || >=26.12.1",
+    "source_node": "24.22.1",
+    "observed_node": "20.19.0",
+    "observed_npm": "10.8.2",
+    "dependencies_installed": false,
+    "runtime_built": false,
+    "docs": [
+      "README.md",
+      "CONTRIBUTING.md",
+      "docs/installation.md",
+      "docs/cli.md"
+    ],
+    "runtime_path": "D:\\2.Project\\01_hw\\ai-passport\\ai-passport-ifruit\\build\\tooling\\rea-runtime\\node_modules\\rea-agents",
+    "isolated_node": "24.22.1",
+    "installed_package": "6.8.0",
+    "codex_setup_status": "ready; configured_codex",
+    "active_chat_mcp_connection": "not established; CLI used successfully",
+    "native_analysis_engines": "not installed",
+    "evidence": [
+      "build/reference/home-capture.json",
+      "build/reference/contacts-capture.json",
+      "build/reference/call-capture.json"
+    ]
+  },
+  "game": {
+    "path": "D:\\1.Soft\\Steam\\steamapps\\common\\Grand Theft Auto V",
+    "edition": "Legacy (user supplied)",
+    "exe_file_version": "1.0.3889.0",
+    "exe_sha256": "677e4e355cfbdb13273b1d992407e3c261b3a108dc4dd5c8a0c4c1da651802e5",
+    "launcher_version_txt": "1.0.231.0",
+    "steam_download_verified": true,
+    "top_level_rpf": [
+      {
+        "file": "common.rpf",
+        "bytes": 27705344
+      },
+      {
+        "file": "x64a.rpf",
+        "bytes": 48707584
+      },
+      {
+        "file": "x64b.rpf",
+        "bytes": 149448704
+      },
+      {
+        "file": "x64c.rpf",
+        "bytes": 2196207616
+      },
+      {
+        "file": "x64d.rpf",
+        "bytes": 1804668928
+      },
+      {
+        "file": "x64e.rpf",
+        "bytes": 2115954688
+      },
+      {
+        "file": "x64f.rpf",
+        "bytes": 1028757504
+      },
+      {
+        "file": "x64g.rpf",
+        "bytes": 2552596480
+      },
+      {
+        "file": "x64h.rpf",
+        "bytes": 1699563520
+      },
+      {
+        "file": "x64i.rpf",
+        "bytes": 1787043840
+      },
+      {
+        "file": "x64j.rpf",
+        "bytes": 2109519872
+      },
+      {
+        "file": "x64k.rpf",
+        "bytes": 2365648896
+      },
+      {
+        "file": "x64l.rpf",
+        "bytes": 2577571840
+      },
+      {
+        "file": "x64m.rpf",
+        "bytes": 1807249408
+      },
+      {
+        "file": "x64n.rpf",
+        "bytes": 1638481920
+      },
+      {
+        "file": "x64o.rpf",
+        "bytes": 1758345216
+      },
+      {
+        "file": "x64p.rpf",
+        "bytes": 1428606976
+      },
+      {
+        "file": "x64q.rpf",
+        "bytes": 2823614464
+      },
+      {
+        "file": "x64r.rpf",
+        "bytes": 1711259648
+      },
+      {
+        "file": "x64s.rpf",
+        "bytes": 1646266368
+      },
+      {
+        "file": "x64t.rpf",
+        "bytes": 1924630528
+      },
+      {
+        "file": "x64u.rpf",
+        "bytes": 1354405888
+      },
+      {
+        "file": "x64v.rpf",
+        "bytes": 1942046720
+      },
+      {
+        "file": "x64w.rpf",
+        "bytes": 937340928
+      }
+    ],
+    "audio_sfx_present": true,
+    "steam_verification_basis": "appmanifest StateFlags=4; downloaded/staged byte counts equal totals; does not replace Steam file-integrity verification",
+    "steam_build": "24129523",
+    "steam_download_evidence": "Steam appmanifest_271590.acf: StateFlags=4; downloaded/total and staged/total equal; not an integrity verification"
+  },
+  "web_reference": {
+    "url": "https://ifruit-sim.yifubei.top",
+    "homepage_title": "iFruit - 主屏幕",
+    "observed_build": "build-20260823152714",
+    "inspection": "REA browser scenarios completed; screenshots and DOM recorded; secondary reference only per user clarification",
+    "html_snapshot": "build/ifruit-reference.html",
+    "routes": [
+      "/email/",
+      "/messages/",
+      "/contacts/",
+      "/setting/",
+      "/snapmatic/"
+    ],
+    "sample_audio_references": [
+      "/call/dave.mp3",
+      "/call/lamar/lamar_confirm.mp3",
+      "/sounds/message.mp3",
+      "/sounds/switch.wav",
+      "/sounds/enter.wav",
+      "/sounds/back.wav"
+    ],
+    "assets_imported": false
+  },
+  "asset_extraction": {
+    "manifest_entries": 635,
+    "central_phone_resources": 213,
+    "decoded_texture_images": 268,
+    "ringtone_streams": 9,
+    "verified_michael_ui_sounds": 4,
+    "unassigned_answerphone_streams": 0,
+    "complete_all_ifruit_assets": false,
+    "game_writes": false,
+    "answerphone_names_mapped": 115,
+    "unresolved_anaud_names": 5,
+    "answerphone_conversation_groups": 76,
+    "bound_answerphone_contacts": [
+      "Lester",
+      "Amanda",
+      "Dave"
+    ]
+  },
+  "content_implementation": {
+    "original_backgrounds": 15,
+    "original_themes": 7,
+    "native_settings_source": "standard_global_reg.ysc / func_689",
+    "call_text_source": "anaud.gxt2",
+    "device_tested": false,
+    "ringtone_synth_implemented": false,
+    "settings_persistence": "NVS implemented; hardware power-cycle test pending",
+    "world_events": {
+      "tasks": 6,
+      "role_progress": 3,
+      "random_task_notices": true,
+      "random_voice_calls": false,
+      "money_rewards": false,
+      "original_character_phone_skins": false,
+      "source": "docs/world-events.md"
+    }
+  }
+}

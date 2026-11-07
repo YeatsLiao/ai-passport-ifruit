@@ -1,0 +1,19 @@
+{
+  "source": "../ai-passport",
+  "files": {
+    "components/bsp/CMakeLists.txt": "a9a845c158a5f60e106d08267926eff7510cc75ad377dad8eefef6ff21e1766b",
+    "components/bsp/idf_component.yml": "1ad3f7c6ef54cb8b77de72c2faa203518b9bd9ba1629b0376446ea517efcfeaa",
+    "components/bsp/include/bsp_audio.h": "6a9b77126da3bd79aaea3321f25008c8174ee2c3aa1731fd76ac1e9a0186d118",
+    "components/bsp/include/bsp_battery.h": "037a3d4dc39fe386dd278e16db771fd420d73324984ea20a4bd8d077fe0cee0f",
+    "components/bsp/include/bsp_button.h": "ae500395e4e83787a0bc6f0247c3729e155636053072ef3c9b350a1ab9eacd76",
+    "components/bsp/include/bsp_display.h": "b347121c09e7169d12fe3d0c50e1d12f9b86a07207adf2eb6b6dab30960599f2",
+    "components/bsp/include/bsp_i2c.h": "44e954f4568a4e96bbaeab20a4b667f3242353569d18a68005eddd4b918b63d1",
+    "components/bsp/include/bsp_pins.h": "64e41da88a7fd2b5ea73c83e39c299cbdc490e599091e44baa9f49f9e7c47d73",
+    "components/bsp/src/bsp_audio.c": "a1e6ca9318e65e4ee105cd6f111047c632e5cab1c30d7604aa2ab3179ff092a3",
+    "components/bsp/src/bsp_battery.c": "4c0a406281c253d6e34c2cc101cca0d6e3ce11e9bc4d51f59126118d34f7caff",
+    "components/bsp/src/bsp_button.c": "a8ab9212ff45157c7e5b4bf94d0c5d315e7952d1fd842df8f005e2f84dc4762c",
+    "components/bsp/src/bsp_display.c": "2baed176e3e540da82586b9735b234cbd7c339233f8d9df5e98723e73b50ac48",
+    "components/bsp/src/bsp_display_lvgl.c": "77d90422bbfb56d951145b76b070c914eb9e3ea4b0ff00c3aaaf812b08082508",
+    "components/bsp/src/bsp_i2c.c": "3bea775d80d0ca854a4b2826c10d7d597258dcb02ded70d67fc34169c1e9d093"
+  }
+}

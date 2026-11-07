@@ -1,0 +1,29 @@
+{
+  "checked_on": "2026-11-07",
+  "packages": {
+    "node.zip": {
+      "bytes": 37748064,
+      "sha256": "d2046d28c2c3dcd211ac5145c0bf30e2047ef9dfb306693c8c6e2eccd8b95fa5"
+    },
+    "gtautil.zip": {
+      "bytes": 7417005,
+      "sha256": "99ee369c627f9f1d79ce976d3935bbc81fbac0fca2b50000afe3c6ce949a8863"
+    },
+    "vgmstream.zip": {
+      "bytes": 4574355,
+      "sha256": "692d45070852a35c1fa42726aa3c9de528e44eec925d37d99b1074256b99a229"
+    },
+    "ffdec.zip": {
+      "bytes": 21917740,
+      "sha256": "56ce960aeafc7caf034e2052ba49f878a883f7c7ca690da6eeffca9587b5e4b9"
+    },
+    "ysc-source.zip": {
+      "bytes": 2903792,
+      "sha256": "429fcb5fcd76eeed7e11140aa8c8f83917abe9e55fe5435d916865198ac2e835"
+    },
+    "ysc-modern.zip": {
+      "bytes": 17224610,
+      "sha256": "6c9fc59733fd49e104f11f741ecd3db9a8086df20687603d28104bc459befe78"
+    }
+  }
+}
