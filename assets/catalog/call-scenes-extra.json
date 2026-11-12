@@ -1,0 +1,5117 @@
+{
+  "source": "Original queued communication registration, text-block mapping, GXT audio labels and AWC hash matches",
+  "scenes": [
+    {
+      "id": "jhf_transm",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 12,
+      "message_id": 1595158098,
+      "text_block": "JHFAUD",
+      "conversation": "JHF_TRANSM",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_88, line 5184: func_95(1, 12, 1, 15000, 5000, 1595158098,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/jhfaud.gxt2",
+      "lines": [
+        {
+          "key": "JHF_TRANSM_1",
+          "sound_key": "JHF_TRANSM_1a",
+          "sound": "JHF_CRAA",
+          "subtitle": "~z~Lester, hey.",
+          "asset_id": "gta_story_jhf_craa_01",
+          "stream": 44,
+          "wave_name": "jhf_craa_01",
+          "wave_hash": "0c2d68bb",
+          "duration_ms": 732.844
+        },
+        {
+          "key": "JHF_TRANSM_2",
+          "sound_key": "JHF_TRANSM_2a",
+          "sound": "JHF_CRAB",
+          "subtitle": "~z~Mike, I'm transferring your cut of the jewel store take to your account.",
+          "asset_id": "gta_story_jhf_crab_01",
+          "stream": 13,
+          "wave_name": "jhf_crab_01",
+          "wave_hash": "03757cba",
+          "duration_ms": 3369.969
+        },
+        {
+          "key": "JHF_TRANSM_3",
+          "sound_key": "JHF_TRANSM_3a",
+          "sound": "JHF_CRAC",
+          "subtitle": "~z~Madrazo's already got the house money, so you can rest easy there.",
+          "asset_id": "gta_story_jhf_crac_01",
+          "stream": 45,
+          "wave_name": "jhf_crac_01",
+          "wave_hash": "0ca7f2c9",
+          "duration_ms": 3234.781
+        },
+        {
+          "key": "JHF_TRANSM_4",
+          "sound_key": "JHF_TRANSM_4a",
+          "sound": "JHF_CRAD",
+          "subtitle": "~z~Thank God for that.",
+          "asset_id": "gta_story_jhf_crad_01",
+          "stream": 60,
+          "wave_name": "jhf_crad_01",
+          "wave_hash": "1122dc19",
+          "duration_ms": 1486.969
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Lester",
+      "contact_label_key": "CELL_111",
+      "portrait_name": "char_lester",
+      "story_gating_required": true,
+      "duration_seconds": 8.825
+    },
+    {
+      "id": "jhf_transf",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 12,
+      "message_id": -420969532,
+      "text_block": "JHFAUD",
+      "conversation": "JHF_TRANSF",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_88, line 5185: func_95(2, 12, 1, 15000, 5000, -420969532,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/jhfaud.gxt2",
+      "lines": [
+        {
+          "key": "JHF_TRANSF_1",
+          "sound_key": "JHF_TRANSF_1a",
+          "sound": "JHF_CSAA",
+          "subtitle": "~z~Lester, uhh, what's up?",
+          "asset_id": "gta_story_jhf_csaa_01",
+          "stream": 18,
+          "wave_name": "jhf_csaa_01",
+          "wave_hash": "0579dcb8",
+          "duration_ms": 1242.875
+        },
+        {
+          "key": "JHF_TRANSF_2",
+          "sound_key": "JHF_TRANSF_2a",
+          "sound": "JHF_CSAB",
+          "subtitle": "~z~The jewels have been fenced and Michael's angry Mexican friend has been compensated for the house,",
+          "asset_id": "gta_story_jhf_csab_01",
+          "stream": 28,
+          "wave_name": "jhf_csab_01",
+          "wave_hash": "081b8692",
+          "duration_ms": 4543.0
+        },
+        {
+          "key": "JHF_TRANSF_3",
+          "sound_key": "JHF_TRANSF_3a",
+          "sound": "JHF_CSAC",
+          "subtitle": "~z~so I'm transferring your cut of the jewel store job. Good work.",
+          "asset_id": "gta_story_jhf_csac_01",
+          "stream": 103,
+          "wave_name": "jhf_csac_01",
+          "wave_hash": "1d2fc520",
+          "duration_ms": 2740.344
+        },
+        {
+          "key": "JHF_TRANSF_4",
+          "sound_key": "JHF_TRANSF_4a",
+          "sound": "JHF_CSAD",
+          "subtitle": "~z~A'ight. Cool man. Good working with you.",
+          "asset_id": "gta_story_jhf_csad_01",
+          "stream": 40,
+          "wave_name": "jhf_csad_01",
+          "wave_hash": "0add6dc3",
+          "duration_ms": 1927.625
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Lester",
+      "contact_label_key": "CELL_111",
+      "portrait_name": "char_lester",
+      "story_gating_required": true,
+      "duration_seconds": 10.454
+    },
+    {
+      "id": "exil_call1",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 1,
+      "message_id": -1451910289,
+      "text_block": "EXILAUD",
+      "conversation": "EXIL_CALL1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_144, line 6611: func_95(4, 1, 0, 6000, 6000, -1451910289,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/exilaud.gxt2",
+      "lines": [
+        {
+          "key": "EXIL_CALL1_1",
+          "sound_key": "EXIL_CALL1_1a",
+          "sound": "EXIL_AOAA",
+          "subtitle": "~z~Franklin, buddy. Wassup?",
+          "asset_id": "gta_story_exil_aoaa_01",
+          "stream": 36,
+          "wave_name": "exil_aoaa_01",
+          "wave_hash": "141f0d95",
+          "duration_ms": 2433.188
+        },
+        {
+          "key": "EXIL_CALL1_2",
+          "sound_key": "EXIL_CALL1_2a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "EXIL_CALL1_3",
+          "sound_key": "EXIL_CALL1_3a",
+          "sound": "EXIL_AOAB",
+          "subtitle": "~z~Hey look, there's these redneck dudes been looking for you, homie. Some angry motherfuckers.",
+          "asset_id": "gta_story_exil_aoab_01",
+          "stream": 17,
+          "wave_name": "exil_aoab_01",
+          "wave_hash": "094688a3",
+          "duration_ms": 4378.156
+        },
+        {
+          "key": "EXIL_CALL1_4",
+          "sound_key": "EXIL_CALL1_4a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "EXIL_CALL1_5",
+          "sound_key": "EXIL_CALL1_5a",
+          "sound": "EXIL_AOAC",
+          "subtitle": "~z~I found where they stay man, and I been following them...",
+          "asset_id": "gta_story_exil_aoac_01",
+          "stream": 4,
+          "wave_name": "exil_aoac_01",
+          "wave_hash": "01a31d17",
+          "duration_ms": 2144.125
+        },
+        {
+          "key": "EXIL_CALL1_6",
+          "sound_key": "EXIL_CALL1_6a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "EXIL_CALL1_7",
+          "sound_key": "EXIL_CALL1_7a",
+          "sound": "EXIL_AOAD",
+          "subtitle": "~z~Okay. That's got to be the O'Neil brothers - what's left of 'em.",
+          "asset_id": "gta_story_exil_aoad_01",
+          "stream": 24,
+          "wave_name": "exil_aoad_01",
+          "wave_hash": "0f79a90b",
+          "duration_ms": 3950.531
+        },
+        {
+          "key": "EXIL_CALL1_8",
+          "sound_key": "EXIL_CALL1_8a",
+          "sound": "SFX_PAUSE_350",
+          "subtitle": null,
+          "pause_ms": 350
+        },
+        {
+          "key": "EXIL_CALL1_9",
+          "sound_key": "EXIL_CALL1_9a",
+          "sound": "EXIL_AOAF",
+          "subtitle": "~z~I'll pick up Michael and we'll come to you.",
+          "asset_id": "gta_story_exil_aoaf_01",
+          "stream": 31,
+          "wave_name": "exil_aoaf_01",
+          "wave_hash": "12b137e2",
+          "duration_ms": 2269.469
+        },
+        {
+          "key": "EXIL_CALL1_10",
+          "sound_key": "EXIL_CALL1_10a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "EXIL_CALL1_11",
+          "sound_key": "EXIL_CALL1_11a",
+          "sound": "EXIL_AOAE",
+          "subtitle": "~z~T! Eh, man...",
+          "asset_id": "gta_story_exil_aoae_01",
+          "stream": 22,
+          "wave_name": "exil_aoae_01",
+          "wave_hash": "0ebecc7f",
+          "duration_ms": 1193.844
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Franklin",
+      "contact_label_key": "CELL_103",
+      "portrait_name": "char_franklin",
+      "story_gating_required": true,
+      "duration_seconds": 17.559
+    },
+    {
+      "id": "rhf_c3",
+      "role_mask": 7,
+      "roles": [
+        "Michael",
+        "Franklin",
+        "Trevor"
+      ],
+      "native_contact_id": 12,
+      "message_id": -1434698871,
+      "text_block": "RHFAUD",
+      "conversation": "RHF_C3",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_144, line 6631: func_95(7, 12, 0, 6000, 6000, -1434698871,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/rhfaud.gxt2",
+      "lines": [
+        {
+          "key": "RHF_C3_1",
+          "sound_key": "RHF_C3_1a",
+          "sound": "RHF_ASAA",
+          "subtitle": "~z~Alright. We might be ready to move on this thing. Meet me up in the lab.",
+          "asset_id": "gta_story_rhf_asaa_01",
+          "stream": 21,
+          "wave_name": "rhf_asaa_01",
+          "wave_hash": "145248ec",
+          "duration_ms": 3871.438
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Lester",
+      "contact_label_key": "CELL_111",
+      "portrait_name": "char_lester",
+      "story_gating_required": true,
+      "duration_seconds": 3.871
+    },
+    {
+      "id": "lsfl_eng03",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 46,
+      "message_id": 406771743,
+      "text_block": "LSFLAUD",
+      "conversation": "LSFL_ENG03",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_144, line 6644: func_95(1, 46, 6, 300000, 10000, 406771743,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/lsflaud.gxt2",
+      "lines": [
+        {
+          "key": "LSFL_ENG03_1",
+          "sound_key": "LSFL_ENG03_1a",
+          "sound": "LSFL_AEAA",
+          "subtitle": "~z~Hello.",
+          "asset_id": "gta_story_lsfl_aeaa_01",
+          "stream": 12,
+          "wave_name": "lsfl_aeaa_01",
+          "wave_hash": "0e7011f4",
+          "duration_ms": 509.328
+        },
+        {
+          "key": "LSFL_ENG03_2",
+          "sound_key": "LSFL_ENG03_2a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "LSFL_ENG03_3",
+          "sound_key": "LSFL_ENG03_3a",
+          "sound": "LSFL_AEAB",
+          "subtitle": "~z~IT guy, what's up, bro? Look, I know you aren't still fixing computers for a living.",
+          "asset_id": "gta_story_lsfl_aeab_01",
+          "stream": 22,
+          "wave_name": "lsfl_aeab_01",
+          "wave_hash": "171988fc",
+          "duration_ms": 4770.25
+        },
+        {
+          "key": "LSFL_ENG03_4",
+          "sound_key": "LSFL_ENG03_4a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "LSFL_ENG03_5",
+          "sound_key": "LSFL_ENG03_5a",
+          "sound": "LSFL_AEAC",
+          "subtitle": "~z~When you going to throw some work my way?",
+          "asset_id": "gta_story_lsfl_aeac_01",
+          "stream": 1,
+          "wave_name": "lsfl_aeac_01",
+          "wave_hash": "010aae2d",
+          "duration_ms": 2386.906
+        },
+        {
+          "key": "LSFL_ENG03_6",
+          "sound_key": "LSFL_ENG03_6a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "LSFL_ENG03_7",
+          "sound_key": "LSFL_ENG03_7a",
+          "sound": "LSFL_AEAD",
+          "subtitle": "~z~Hey, if you're right for a project, I'll be in touch, okay?",
+          "asset_id": "gta_story_lsfl_aead_01",
+          "stream": 2,
+          "wave_name": "lsfl_aead_01",
+          "wave_hash": "0157511a",
+          "duration_ms": 2998.594
+        },
+        {
+          "key": "LSFL_ENG03_8",
+          "sound_key": "LSFL_ENG03_8a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "LSFL_ENG03_9",
+          "sound_key": "LSFL_ENG03_9a",
+          "sound": "LSFL_AEAE",
+          "subtitle": "~z~Okay, but don't forget about me.",
+          "asset_id": "gta_story_lsfl_aeae_01",
+          "stream": 29,
+          "wave_name": "lsfl_aeae_01",
+          "wave_hash": "1d722b85",
+          "duration_ms": 1460.531
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Rickie",
+      "contact_label_key": "CELL_E_217",
+      "portrait_name": "char_rickie",
+      "story_gating_required": true,
+      "duration_seconds": 13.106
+    },
+    {
+      "id": "pafl_02",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 40,
+      "message_id": 1801771084,
+      "text_block": "PAFLAUD",
+      "conversation": "PAFL_02",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_159, line 7006: func_95(4, 40, 6, 120000, 80000, 1801771084,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/paflaud.gxt2",
+      "lines": [
+        {
+          "key": "PAFL_02_1",
+          "sound_key": "PAFL_02_1a",
+          "sound": "PAFL_ABAA",
+          "subtitle": "~z~Patricia. Mrs. Madrazo.",
+          "asset_id": "gta_story_pafl_abaa_01",
+          "stream": 1,
+          "wave_name": "pafl_abaa_01",
+          "wave_hash": "01fd949f",
+          "duration_ms": 2261.344
+        },
+        {
+          "key": "PAFL_02_2",
+          "sound_key": "PAFL_02_2a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "PAFL_02_3",
+          "sound_key": "PAFL_02_3a",
+          "sound": "PAFL_ABAB",
+          "subtitle": "~z~Trevor. I miss you. All you boys.",
+          "asset_id": "gta_story_pafl_abab_01",
+          "stream": 8,
+          "wave_name": "pafl_abab_01",
+          "wave_hash": "071ceb69",
+          "duration_ms": 4308.312
+        },
+        {
+          "key": "PAFL_02_4",
+          "sound_key": "PAFL_02_4a",
+          "sound": "SFX_PAUSE_240",
+          "subtitle": null,
+          "pause_ms": 240
+        },
+        {
+          "key": "PAFL_02_5",
+          "sound_key": "PAFL_02_5a",
+          "sound": "PAFL_ABAC",
+          "subtitle": "~z~I miss you, too. I can't speak for the other, \"boys.\"",
+          "asset_id": "gta_story_pafl_abac_01",
+          "stream": 13,
+          "wave_name": "pafl_abac_01",
+          "wave_hash": "0ae602b3",
+          "duration_ms": 3649.875
+        },
+        {
+          "key": "PAFL_02_6",
+          "sound_key": "PAFL_02_6a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "PAFL_02_7",
+          "sound_key": "PAFL_02_7a",
+          "sound": "PAFL_ABAD",
+          "subtitle": "~z~You're such good friends.",
+          "asset_id": "gta_story_pafl_abad_01",
+          "stream": 4,
+          "wave_name": "pafl_abad_01",
+          "wave_hash": "042020f0",
+          "duration_ms": 1602.656
+        },
+        {
+          "key": "PAFL_02_8",
+          "sound_key": "PAFL_02_8a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "PAFL_02_9",
+          "sound_key": "PAFL_02_9a",
+          "sound": "PAFL_ABAE",
+          "subtitle": "~z~It's a bit more complicated than that. Actually, Michael and I are not speaking.",
+          "asset_id": "gta_story_pafl_abae_01",
+          "stream": 15,
+          "wave_name": "pafl_abae_01",
+          "wave_hash": "0be60408",
+          "duration_ms": 5492.562
+        },
+        {
+          "key": "PAFL_02_10",
+          "sound_key": "PAFL_02_10a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "PAFL_02_11",
+          "sound_key": "PAFL_02_11a",
+          "sound": "PAFL_ABAF",
+          "subtitle": "~z~Old friendships cannot be replaced.",
+          "asset_id": "gta_story_pafl_abaf_01",
+          "stream": 5,
+          "wave_name": "pafl_abaf_01",
+          "wave_hash": "04e3f10f",
+          "duration_ms": 2408.0
+        },
+        {
+          "key": "PAFL_02_12",
+          "sound_key": "PAFL_02_12a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "PAFL_02_13",
+          "sound_key": "PAFL_02_13a",
+          "sound": "PAFL_ABAG",
+          "subtitle": "~z~Hey, how are you? Is Martin looking after you?",
+          "asset_id": "gta_story_pafl_abag_01",
+          "stream": 9,
+          "wave_name": "pafl_abag_01",
+          "wave_hash": "07b86668",
+          "duration_ms": 2528.562
+        },
+        {
+          "key": "PAFL_02_14",
+          "sound_key": "PAFL_02_14a",
+          "sound": "SFX_PAUSE_320",
+          "subtitle": null,
+          "pause_ms": 320
+        },
+        {
+          "key": "PAFL_02_15",
+          "sound_key": "PAFL_02_15a",
+          "sound": "PAFL_ABAH",
+          "subtitle": "~z~He's here. I've got to go.",
+          "asset_id": "gta_story_pafl_abah_01",
+          "stream": 16,
+          "wave_name": "pafl_abah_01",
+          "wave_hash": "0cb5d3a3",
+          "duration_ms": 1718.562
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Patricia",
+      "contact_label_key": "CELL_E_210",
+      "portrait_name": "char_patricia",
+      "story_gating_required": true,
+      "duration_seconds": 25.35
+    },
+    {
+      "id": "mifl_prem",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 14,
+      "message_id": -375893868,
+      "text_block": "MIFLAUD",
+      "conversation": "MIFL_PREM",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_159, line 7036: func_95(1, 14, 0, 6000, 5000, -375893868,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/miflaud.gxt2",
+      "lines": [
+        {
+          "key": "MIFL_PREM_1",
+          "sound_key": "MIFL_PREM_1a",
+          "sound": "MIFL_ALAA",
+          "subtitle": "~z~Hey Jim.",
+          "asset_id": "gta_story_mifl_alaa_01",
+          "stream": 14,
+          "wave_name": "mifl_alaa_01",
+          "wave_hash": "08a1a3c9",
+          "duration_ms": 699.688
+        },
+        {
+          "key": "MIFL_PREM_2",
+          "sound_key": "MIFL_PREM_2a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "MIFL_PREM_3",
+          "sound_key": "MIFL_PREM_3a",
+          "sound": "MIFL_ALAB",
+          "subtitle": "~z~Dad, why didn't you tell us about the premier? Mom and Tracey are like freaking out, trying to get ready for the red carpet.",
+          "asset_id": "gta_story_mifl_alab_01",
+          "stream": 31,
+          "wave_name": "mifl_alab_01",
+          "wave_hash": "1032996e",
+          "duration_ms": 5943.469
+        },
+        {
+          "key": "MIFL_PREM_4",
+          "sound_key": "MIFL_PREM_4a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "MIFL_PREM_5",
+          "sound_key": "MIFL_PREM_5a",
+          "sound": "MIFL_ALAC",
+          "subtitle": "~z~Yeah, shit, sorry. I should have given you more warning. It kind of crept up on me.",
+          "asset_id": "gta_story_mifl_alac_01",
+          "stream": 7,
+          "wave_name": "mifl_alac_01",
+          "wave_hash": "04ef9cee",
+          "duration_ms": 5010.281
+        },
+        {
+          "key": "MIFL_PREM_6",
+          "sound_key": "MIFL_PREM_6a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "MIFL_PREM_7",
+          "sound_key": "MIFL_PREM_7a",
+          "sound": "MIFL_ALAD",
+          "subtitle": "~z~Have you actually got a tux?",
+          "asset_id": "gta_story_mifl_alad_01",
+          "stream": 34,
+          "wave_name": "mifl_alad_01",
+          "wave_hash": "11c9ddc0",
+          "duration_ms": 1438.156
+        },
+        {
+          "key": "MIFL_PREM_8",
+          "sound_key": "MIFL_PREM_8a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "MIFL_PREM_9",
+          "sound_key": "MIFL_PREM_9a",
+          "sound": "MIFL_ALAE",
+          "subtitle": "~z~Nah, I got to pick one up at Ponsonbys. Meet me there, and we'll go together.",
+          "asset_id": "gta_story_mifl_alae_01",
+          "stream": 47,
+          "wave_name": "mifl_alae_01",
+          "wave_hash": "1a8243c1",
+          "duration_ms": 4298.656
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Jimmy",
+      "contact_label_key": "CELL_124",
+      "portrait_name": "char_jimmy",
+      "story_gating_required": true,
+      "duration_seconds": 18.22
+    },
+    {
+      "id": "mifl_tr1",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 15,
+      "message_id": 153235461,
+      "text_block": "MIFLAUD",
+      "conversation": "MIFL_TR1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_159, line 7056: func_95(1, 15, 6, 160000, 25000, 153235461,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/miflaud.gxt2",
+      "lines": [
+        {
+          "key": "MIFL_TR1_1",
+          "sound_key": "MIFL_TR1_1a",
+          "sound": "MIFL_AFAA",
+          "subtitle": "~z~Trace?",
+          "asset_id": "gta_story_mifl_afaa_01",
+          "stream": 40,
+          "wave_name": "mifl_afaa_01",
+          "wave_hash": "1660db1b",
+          "duration_ms": 679.656
+        },
+        {
+          "key": "MIFL_TR1_2",
+          "sound_key": "MIFL_TR1_2a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "MIFL_TR1_3",
+          "sound_key": "MIFL_TR1_3a",
+          "sound": "MIFL_AFAB",
+          "subtitle": "~z~Daddy. Are you okay?",
+          "asset_id": "gta_story_mifl_afab_01",
+          "stream": 24,
+          "wave_name": "mifl_afab_01",
+          "wave_hash": "0cdfcebb",
+          "duration_ms": 1712.0
+        },
+        {
+          "key": "MIFL_TR1_4",
+          "sound_key": "MIFL_TR1_4a",
+          "sound": "SFX_PAUSE_080",
+          "subtitle": null,
+          "pause_ms": 80
+        },
+        {
+          "key": "MIFL_TR1_5",
+          "sound_key": "MIFL_TR1_5a",
+          "sound": "MIFL_AFAC",
+          "subtitle": "~z~Yeah. Sure. Why not?",
+          "asset_id": "gta_story_mifl_afac_01",
+          "stream": 17,
+          "wave_name": "mifl_afac_01",
+          "wave_hash": "09ed9414",
+          "duration_ms": 1834.438
+        },
+        {
+          "key": "MIFL_TR1_6",
+          "sound_key": "MIFL_TR1_6a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "MIFL_TR1_7",
+          "sound_key": "MIFL_TR1_7a",
+          "sound": "MIFL_AFAD",
+          "subtitle": "~z~Because some guys came to our house with automatic weapons, maybe?",
+          "asset_id": "gta_story_mifl_afad_01",
+          "stream": 26,
+          "wave_name": "mifl_afad_01",
+          "wave_hash": "0d313e72",
+          "duration_ms": 3616.0
+        },
+        {
+          "key": "MIFL_TR1_8",
+          "sound_key": "MIFL_TR1_8a",
+          "sound": "SFX_PAUSE_360",
+          "subtitle": null,
+          "pause_ms": 360
+        },
+        {
+          "key": "MIFL_TR1_9",
+          "sound_key": "MIFL_TR1_9a",
+          "sound": "MIFL_AFAE",
+          "subtitle": "~z~I'm dealing with that, honey. You don't need to worry.",
+          "asset_id": "gta_story_mifl_afae_01",
+          "stream": 45,
+          "wave_name": "mifl_afae_01",
+          "wave_hash": "19461e52",
+          "duration_ms": 2560.969
+        },
+        {
+          "key": "MIFL_TR1_10",
+          "sound_key": "MIFL_TR1_10a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "MIFL_TR1_11",
+          "sound_key": "MIFL_TR1_11a",
+          "sound": "MIFL_AFAF",
+          "subtitle": "~z~Money doesn't matter when you're dead, Daddy.",
+          "asset_id": "gta_story_mifl_afaf_01",
+          "stream": 33,
+          "wave_name": "mifl_afaf_01",
+          "wave_hash": "11801a7c",
+          "duration_ms": 2629.344
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Tracey",
+      "contact_label_key": "CELL_125",
+      "portrait_name": "char_tracey",
+      "story_gating_required": true,
+      "duration_seconds": 14.112
+    },
+    {
+      "id": "mifl_am1",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 17,
+      "message_id": -67922520,
+      "text_block": "MIFLAUD",
+      "conversation": "MIFL_AM1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_159, line 7057: func_95(1, 17, 6, 60000, 20000, -67922520,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/miflaud.gxt2",
+      "lines": [
+        {
+          "key": "MIFL_AM1_1",
+          "sound_key": "MIFL_AM1_1a",
+          "sound": "MIFL_AEAA",
+          "subtitle": "~z~Michael. Did you find them?",
+          "asset_id": "gta_story_mifl_aeaa_01",
+          "stream": 15,
+          "wave_name": "mifl_aeaa_01",
+          "wave_hash": "0998dd35",
+          "duration_ms": 1640.406
+        },
+        {
+          "key": "MIFL_AM1_2",
+          "sound_key": "MIFL_AM1_2a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "MIFL_AM1_3",
+          "sound_key": "MIFL_AM1_3a",
+          "sound": "MIFL_AEAB",
+          "subtitle": "~z~Who?",
+          "asset_id": "gta_story_mifl_aeab_01",
+          "stream": 13,
+          "wave_name": "mifl_aeab_01",
+          "wave_hash": "089f5406",
+          "duration_ms": 354.656
+        },
+        {
+          "key": "MIFL_AM1_4",
+          "sound_key": "MIFL_AM1_4a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "MIFL_AM1_5",
+          "sound_key": "MIFL_AM1_5a",
+          "sound": "MIFL_AEAC",
+          "subtitle": "~z~The person who sent the mercenaries to our house.",
+          "asset_id": "gta_story_mifl_aeac_01",
+          "stream": 48,
+          "wave_name": "mifl_aeac_01",
+          "wave_hash": "1c9fc04d",
+          "duration_ms": 2582.906
+        },
+        {
+          "key": "MIFL_AM1_6",
+          "sound_key": "MIFL_AM1_6a",
+          "sound": "SFX_PAUSE_240",
+          "subtitle": null,
+          "pause_ms": 240
+        },
+        {
+          "key": "MIFL_AM1_7",
+          "sound_key": "MIFL_AM1_7a",
+          "sound": "MIFL_AEAD",
+          "subtitle": "~z~I'm working on it.",
+          "asset_id": "gta_story_mifl_aead_01",
+          "stream": 42,
+          "wave_name": "mifl_aead_01",
+          "wave_hash": "166f8a96",
+          "duration_ms": 981.625
+        },
+        {
+          "key": "MIFL_AM1_8",
+          "sound_key": "MIFL_AM1_8a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "MIFL_AM1_9",
+          "sound_key": "MIFL_AM1_9a",
+          "sound": "MIFL_AEAE",
+          "subtitle": "~z~Are we safe? You said we would be safe.",
+          "asset_id": "gta_story_mifl_aeae_01",
+          "stream": 28,
+          "wave_name": "mifl_aeae_01",
+          "wave_hash": "0ed76648",
+          "duration_ms": 2784.594
+        },
+        {
+          "key": "MIFL_AM1_10",
+          "sound_key": "MIFL_AM1_10a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "MIFL_AM1_11",
+          "sound_key": "MIFL_AM1_11a",
+          "sound": "MIFL_AEAF",
+          "subtitle": "~z~He's not going to try that again. I'm on top of this, Amanda. Trust me.",
+          "asset_id": "gta_story_mifl_aeaf_01",
+          "stream": 4,
+          "wave_name": "mifl_aeaf_01",
+          "wave_hash": "023dddad",
+          "duration_ms": 4587.219
+        },
+        {
+          "key": "MIFL_AM1_12",
+          "sound_key": "MIFL_AM1_12a",
+          "sound": "SFX_PAUSE_300",
+          "subtitle": null,
+          "pause_ms": 300
+        },
+        {
+          "key": "MIFL_AM1_13",
+          "sound_key": "MIFL_AM1_13a",
+          "sound": "MIFL_AEAG",
+          "subtitle": "~z~Really? You're sure?",
+          "asset_id": "gta_story_mifl_aeag_01",
+          "stream": 46,
+          "wave_name": "mifl_aeag_01",
+          "wave_hash": "19a47cb4",
+          "duration_ms": 1661.281
+        },
+        {
+          "key": "MIFL_AM1_14",
+          "sound_key": "MIFL_AM1_14a",
+          "sound": "SFX_PAUSE_360",
+          "subtitle": null,
+          "pause_ms": 360
+        },
+        {
+          "key": "MIFL_AM1_15",
+          "sound_key": "MIFL_AM1_15a",
+          "sound": "MIFL_AEAH",
+          "subtitle": "~z~I'm positive. Look, I love you, baby. I'm going to take care of this.",
+          "asset_id": "gta_story_mifl_aeah_01",
+          "stream": 1,
+          "wave_name": "mifl_aeah_01",
+          "wave_hash": "00b4f3d7",
+          "duration_ms": 5788.125
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Amanda",
+      "contact_label_key": "CELL_126",
+      "portrait_name": "char_amanda",
+      "story_gating_required": true,
+      "duration_seconds": 22.241
+    },
+    {
+      "id": "lsfl_eng02",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 46,
+      "message_id": -1366489923,
+      "text_block": "LSFLAUD",
+      "conversation": "LSFL_ENG02",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_163, line 7180: func_95(1, 46, 6, 500000, 30000, -1366489923,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/lsflaud.gxt2",
+      "lines": [
+        {
+          "key": "LSFL_ENG02_1",
+          "sound_key": "LSFL_ENG02_1a",
+          "sound": "LSFL_ADAA",
+          "subtitle": "~z~Yeah, who's this?",
+          "asset_id": "gta_story_lsfl_adaa_01",
+          "stream": 23,
+          "wave_name": "lsfl_adaa_01",
+          "wave_hash": "17b08d59",
+          "duration_ms": 1135.375
+        },
+        {
+          "key": "LSFL_ENG02_2",
+          "sound_key": "LSFL_ENG02_2a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "LSFL_ENG02_3",
+          "sound_key": "LSFL_ENG02_3a",
+          "sound": "LSFL_ADAB",
+          "subtitle": "~z~It's Rickie from Lifeinvader. I know you're the bro who deactivated Jay, bro.",
+          "asset_id": "gta_story_lsfl_adab_01",
+          "stream": 27,
+          "wave_name": "lsfl_adab_01",
+          "wave_hash": "1abaeb4f",
+          "duration_ms": 4784.125
+        },
+        {
+          "key": "LSFL_ENG02_4",
+          "sound_key": "LSFL_ENG02_4a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "LSFL_ENG02_5",
+          "sound_key": "LSFL_ENG02_5a",
+          "sound": "LSFL_ADAC",
+          "subtitle": "~z~I have no idea what you're talking about, pal.",
+          "asset_id": "gta_story_lsfl_adac_01",
+          "stream": 11,
+          "wave_name": "lsfl_adac_01",
+          "wave_hash": "0e26d178",
+          "duration_ms": 3370.719
+        },
+        {
+          "key": "LSFL_ENG02_6",
+          "sound_key": "LSFL_ENG02_6a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "LSFL_ENG02_7",
+          "sound_key": "LSFL_ENG02_7a",
+          "sound": "LSFL_ADAD",
+          "subtitle": "~z~What you do's your business, bro.",
+          "asset_id": "gta_story_lsfl_adad_01",
+          "stream": 25,
+          "wave_name": "lsfl_adad_01",
+          "wave_hash": "1a0425d6",
+          "duration_ms": 2668.375
+        },
+        {
+          "key": "LSFL_ENG02_8",
+          "sound_key": "LSFL_ENG02_8a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "LSFL_ENG02_9",
+          "sound_key": "LSFL_ENG02_9a",
+          "sound": "LSFL_ADAE",
+          "subtitle": "~z~Anyway, Jay really got a big head once people started calling him a god...",
+          "asset_id": "gta_story_lsfl_adae_01",
+          "stream": 8,
+          "wave_name": "lsfl_adae_01",
+          "wave_hash": "078c11bf",
+          "duration_ms": 4390.594
+        },
+        {
+          "key": "LSFL_ENG02_10",
+          "sound_key": "LSFL_ENG02_10a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "LSFL_ENG02_11",
+          "sound_key": "LSFL_ENG02_11a",
+          "sound": "LSFL_ADAJ",
+          "subtitle": "~z~guess you proved he wasn't one.",
+          "asset_id": "gta_story_lsfl_adaj_01",
+          "stream": 19,
+          "wave_name": "lsfl_adaj_01",
+          "wave_hash": "135410bc",
+          "duration_ms": 1676.156
+        },
+        {
+          "key": "LSFL_ENG02_12",
+          "sound_key": "LSFL_ENG02_12a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "LSFL_ENG02_13",
+          "sound_key": "LSFL_ENG02_13a",
+          "sound": "LSFL_ADAF",
+          "subtitle": "~z~They reintegrated my team in Burundi after the design got signed off,",
+          "asset_id": "gta_story_lsfl_adaf_01",
+          "stream": 17,
+          "wave_name": "lsfl_adaf_01",
+          "wave_hash": "12897f7b",
+          "duration_ms": 3828.344
+        },
+        {
+          "key": "LSFL_ENG02_14",
+          "sound_key": "LSFL_ENG02_14a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "LSFL_ENG02_15",
+          "sound_key": "LSFL_ENG02_15a",
+          "sound": "LSFL_ADAK",
+          "subtitle": "~z~and now my shares ain't worth dick.",
+          "asset_id": "gta_story_lsfl_adak_01",
+          "stream": 30,
+          "wave_name": "lsfl_adak_01",
+          "wave_hash": "1e7a2ade",
+          "duration_ms": 2814.125
+        },
+        {
+          "key": "LSFL_ENG02_16",
+          "sound_key": "LSFL_ENG02_16a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "LSFL_ENG02_17",
+          "sound_key": "LSFL_ENG02_17a",
+          "sound": "LSFL_ADAG",
+          "subtitle": "~z~Sorry about that.",
+          "asset_id": "gta_story_lsfl_adag_01",
+          "stream": 18,
+          "wave_name": "lsfl_adag_01",
+          "wave_hash": "12d4f8ea",
+          "duration_ms": 992.0
+        },
+        {
+          "key": "LSFL_ENG02_18",
+          "sound_key": "LSFL_ENG02_18a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "LSFL_ENG02_19",
+          "sound_key": "LSFL_ENG02_19a",
+          "sound": "LSFL_ADAH",
+          "subtitle": "~z~I need work,",
+          "asset_id": "gta_story_lsfl_adah_01",
+          "stream": 4,
+          "wave_name": "lsfl_adah_01",
+          "wave_hash": "03d57380",
+          "duration_ms": 922.719
+        },
+        {
+          "key": "LSFL_ENG02_20",
+          "sound_key": "LSFL_ENG02_20a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "LSFL_ENG02_21",
+          "sound_key": "LSFL_ENG02_21a",
+          "sound": "LSFL_ADAL",
+          "subtitle": "~z~and I thought maybe you could provide. I mean, I'm smart enough to track you down, aren't I?",
+          "asset_id": "gta_story_lsfl_adal_01",
+          "stream": 20,
+          "wave_name": "lsfl_adal_01",
+          "wave_hash": "1355ba17",
+          "duration_ms": 5558.594
+        },
+        {
+          "key": "LSFL_ENG02_22",
+          "sound_key": "LSFL_ENG02_22a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "LSFL_ENG02_23",
+          "sound_key": "LSFL_ENG02_23a",
+          "sound": "LSFL_ADAI",
+          "subtitle": "~z~I guess you are. Hey, I'll be in touch if anything comes up.",
+          "asset_id": "gta_story_lsfl_adai_01",
+          "stream": 16,
+          "wave_name": "lsfl_adai_01",
+          "wave_hash": "11ab1088",
+          "duration_ms": 3941.438
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Rickie",
+      "contact_label_key": "CELL_E_217",
+      "portrait_name": "char_rickie",
+      "story_gating_required": true,
+      "duration_seconds": 37.443
+    },
+    {
+      "id": "frfl_1lc",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 19,
+      "message_id": 546458037,
+      "text_block": "FRFLAUD",
+      "conversation": "FRFL_1LC",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_172, line 7482: func_95(2, 19, 1, 180000, 30000, 546458037,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/frflaud.gxt2",
+      "lines": [
+        {
+          "key": "FRFL_1LC_1",
+          "sound_key": "FRFL_1LC_1a",
+          "sound": "FRFL_AFAA",
+          "subtitle": "~z~Wassup, homie.",
+          "asset_id": "gta_story_frfl_afaa_01",
+          "stream": 3,
+          "wave_name": "frfl_afaa_01",
+          "wave_hash": "145d6f73",
+          "duration_ms": 707.5
+        },
+        {
+          "key": "FRFL_1LC_2",
+          "sound_key": "FRFL_1LC_2a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "FRFL_1LC_3",
+          "sound_key": "FRFL_1LC_3a",
+          "sound": "FRFL_AFAB",
+          "subtitle": "~z~Eh, look. Chop got to stay round your crib for a while, homie. That's cool?",
+          "asset_id": "gta_story_frfl_afab_01",
+          "stream": 2,
+          "wave_name": "frfl_afab_01",
+          "wave_hash": "10c8b9d1",
+          "duration_ms": 3509.531
+        },
+        {
+          "key": "FRFL_1LC_4",
+          "sound_key": "FRFL_1LC_4a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FRFL_1LC_5",
+          "sound_key": "FRFL_1LC_5a",
+          "sound": "FRFL_AFAC",
+          "subtitle": "~z~Yeah, man, it's cool. It's the best place for him, anyway.",
+          "asset_id": "gta_story_frfl_afac_01",
+          "stream": 4,
+          "wave_name": "frfl_afac_01",
+          "wave_hash": "1ca5c457",
+          "duration_ms": 2811.938
+        },
+        {
+          "key": "FRFL_1LC_6",
+          "sound_key": "FRFL_1LC_6a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "FRFL_1LC_7",
+          "sound_key": "FRFL_1LC_7a",
+          "sound": "FRFL_AFAD",
+          "subtitle": "~z~Like it ain't nobody out there gunning for your black ass. Bullshit, nigga.",
+          "asset_id": "gta_story_frfl_afad_01",
+          "stream": 1,
+          "wave_name": "frfl_afad_01",
+          "wave_hash": "0a861bda",
+          "duration_ms": 4596.656
+        },
+        {
+          "key": "FRFL_1LC_8",
+          "sound_key": "FRFL_1LC_8a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "FRFL_1LC_9",
+          "sound_key": "FRFL_1LC_9a",
+          "sound": "FRFL_AFAE",
+          "subtitle": "~z~Just take care of him, man, alright?",
+          "asset_id": "gta_story_frfl_afae_01",
+          "stream": 5,
+          "wave_name": "frfl_afae_01",
+          "wave_hash": "1d09409f",
+          "duration_ms": 1389.938
+        },
+        {
+          "key": "FRFL_1LC_10",
+          "sound_key": "FRFL_1LC_10a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FRFL_1LC_11",
+          "sound_key": "FRFL_1LC_11a",
+          "sound": "FRFL_AFAF",
+          "subtitle": "~z~Alright, I got you, dog.",
+          "asset_id": "gta_story_frfl_afaf_01",
+          "stream": 6,
+          "wave_name": "frfl_afaf_01",
+          "wave_hash": "1def5533",
+          "duration_ms": 1056.5
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Lamar",
+      "contact_label_key": "CELL_128",
+      "portrait_name": "char_lamar",
+      "story_gating_required": true,
+      "duration_seconds": 14.952
+    },
+    {
+      "id": "pafl_03",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 40,
+      "message_id": -1716308760,
+      "text_block": "PAFLAUD",
+      "conversation": "PAFL_03",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_172, line 7521: func_95(4, 40, 6, 80000, 80000, -1716308760,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/paflaud.gxt2",
+      "lines": [
+        {
+          "key": "PAFL_03_1",
+          "sound_key": "PAFL_03_1a",
+          "sound": "PAFL_ACAA",
+          "subtitle": "~z~Patricia.",
+          "asset_id": "gta_story_pafl_acaa_01",
+          "stream": 25,
+          "wave_name": "pafl_acaa_01",
+          "wave_hash": "1f67e3fd",
+          "duration_ms": 561.188
+        },
+        {
+          "key": "PAFL_03_2",
+          "sound_key": "PAFL_03_2a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "PAFL_03_3",
+          "sound_key": "PAFL_03_3a",
+          "sound": "PAFL_ACAB",
+          "subtitle": "~z~Trevor.",
+          "asset_id": "gta_story_pafl_acab_01",
+          "stream": 10,
+          "wave_name": "pafl_acab_01",
+          "wave_hash": "07c0760b",
+          "duration_ms": 939.719
+        },
+        {
+          "key": "PAFL_03_4",
+          "sound_key": "PAFL_03_4a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "PAFL_03_5",
+          "sound_key": "PAFL_03_5a",
+          "sound": "PAFL_ACAC",
+          "subtitle": "~z~It's good to speak to you.",
+          "asset_id": "gta_story_pafl_acac_01",
+          "stream": 7,
+          "wave_name": "pafl_acac_01",
+          "wave_hash": "064b8743",
+          "duration_ms": 2225.0
+        },
+        {
+          "key": "PAFL_03_6",
+          "sound_key": "PAFL_03_6a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "PAFL_03_7",
+          "sound_key": "PAFL_03_7a",
+          "sound": "PAFL_ACAD",
+          "subtitle": "~z~My thoughts are with you.",
+          "asset_id": "gta_story_pafl_acad_01",
+          "stream": 6,
+          "wave_name": "pafl_acad_01",
+          "wave_hash": "06312b3c",
+          "duration_ms": 1927.469
+        },
+        {
+          "key": "PAFL_03_8",
+          "sound_key": "PAFL_03_8a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "PAFL_03_9",
+          "sound_key": "PAFL_03_9a",
+          "sound": "PAFL_ACAE",
+          "subtitle": "~z~Is he, ahh, Martin, is he treating you well? If you ever...",
+          "asset_id": "gta_story_pafl_acae_01",
+          "stream": 17,
+          "wave_name": "pafl_acae_01",
+          "wave_hash": "0f5d03f9",
+          "duration_ms": 4272.625
+        },
+        {
+          "key": "PAFL_03_10",
+          "sound_key": "PAFL_03_10a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "PAFL_03_11",
+          "sound_key": "PAFL_03_11a",
+          "sound": "PAFL_ACAF",
+          "subtitle": "~z~You're a sweet boy, Trevor. A sweet man.",
+          "asset_id": "gta_story_pafl_acaf_01",
+          "stream": 21,
+          "wave_name": "pafl_acaf_01",
+          "wave_hash": "1595e537",
+          "duration_ms": 5091.656
+        },
+        {
+          "key": "PAFL_03_12",
+          "sound_key": "PAFL_03_12a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "PAFL_03_13",
+          "sound_key": "PAFL_03_13a",
+          "sound": "PAFL_ACAG",
+          "subtitle": "~z~Patricia. I really miss...",
+          "asset_id": "gta_story_pafl_acag_01",
+          "stream": 23,
+          "wave_name": "pafl_acag_01",
+          "wave_hash": "1cd194cd",
+          "duration_ms": 2790.156
+        },
+        {
+          "key": "PAFL_03_14",
+          "sound_key": "PAFL_03_14a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "PAFL_03_15",
+          "sound_key": "PAFL_03_15a",
+          "sound": "PAFL_ACAH",
+          "subtitle": "~z~I have to go.",
+          "asset_id": "gta_story_pafl_acah_01",
+          "stream": 18,
+          "wave_name": "pafl_acah_01",
+          "wave_hash": "1108713c",
+          "duration_ms": 1116.531
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Patricia",
+      "contact_label_key": "CELL_E_210",
+      "portrait_name": "char_patricia",
+      "story_gating_required": true,
+      "duration_seconds": 20.084
+    },
+    {
+      "id": "fnfl_dave",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 30,
+      "message_id": -1468151569,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_DAVE",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7764: func_95(1, 30, 1, 700000, 180000, -1468151569,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_DAVE_1",
+          "sound_key": "FNFL_DAVE_1a",
+          "sound": "FNFL_AGAA",
+          "subtitle": "~z~Michael.",
+          "asset_id": "gta_story_fnfl_agaa_01",
+          "stream": 83,
+          "wave_name": "fnfl_agaa_01",
+          "wave_hash": "12a9870e",
+          "duration_ms": 729.258
+        },
+        {
+          "key": "FNFL_DAVE_2",
+          "sound_key": "FNFL_DAVE_2a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "FNFL_DAVE_3",
+          "sound_key": "FNFL_DAVE_3a",
+          "sound": "FNFL_AGAB",
+          "subtitle": "~z~Davey.",
+          "asset_id": "gta_story_fnfl_agab_01",
+          "stream": 74,
+          "wave_name": "fnfl_agab_01",
+          "wave_hash": "10a8a773",
+          "duration_ms": 703.188
+        },
+        {
+          "key": "FNFL_DAVE_4",
+          "sound_key": "FNFL_DAVE_4a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "FNFL_DAVE_5",
+          "sound_key": "FNFL_DAVE_5a",
+          "sound": "FNFL_AGAC",
+          "subtitle": "~z~Are you behaving yourself?",
+          "asset_id": "gta_story_fnfl_agac_01",
+          "stream": 47,
+          "wave_name": "fnfl_agac_01",
+          "wave_hash": "0b12c740",
+          "duration_ms": 1400.812
+        },
+        {
+          "key": "FNFL_DAVE_6",
+          "sound_key": "FNFL_DAVE_6a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FNFL_DAVE_7",
+          "sound_key": "FNFL_DAVE_7a",
+          "sound": "FNFL_AGAD",
+          "subtitle": "~z~Oh, but of course.",
+          "asset_id": "gta_story_fnfl_agad_01",
+          "stream": 16,
+          "wave_name": "fnfl_agad_01",
+          "wave_hash": "052cdebb",
+          "duration_ms": 1355.469
+        },
+        {
+          "key": "FNFL_DAVE_8",
+          "sound_key": "FNFL_DAVE_8a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FNFL_DAVE_9",
+          "sound_key": "FNFL_DAVE_9a",
+          "sound": "FNFL_AGAE",
+          "subtitle": "~z~And how are the kids?",
+          "asset_id": "gta_story_fnfl_agae_01",
+          "stream": 14,
+          "wave_name": "fnfl_agae_01",
+          "wave_hash": "048f5200",
+          "duration_ms": 1153.156
+        },
+        {
+          "key": "FNFL_DAVE_10",
+          "sound_key": "FNFL_DAVE_10a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "FNFL_DAVE_11",
+          "sound_key": "FNFL_DAVE_11a",
+          "sound": "FNFL_AGAF",
+          "subtitle": "~z~They're good. I actually mean that. Amanda too. How's work?",
+          "asset_id": "gta_story_fnfl_agaf_01",
+          "stream": 3,
+          "wave_name": "fnfl_agaf_01",
+          "wave_hash": "008f5fb0",
+          "duration_ms": 4336.219
+        },
+        {
+          "key": "FNFL_DAVE_12",
+          "sound_key": "FNFL_DAVE_12a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "FNFL_DAVE_13",
+          "sound_key": "FNFL_DAVE_13a",
+          "sound": "FNFL_AGAG",
+          "subtitle": "~z~Work. It's fine. Better than fine. It's good. Had a few lucky breaks.",
+          "asset_id": "gta_story_fnfl_agag_01",
+          "stream": 82,
+          "wave_name": "fnfl_agag_01",
+          "wave_hash": "12988c70",
+          "duration_ms": 5852.281
+        },
+        {
+          "key": "FNFL_DAVE_14",
+          "sound_key": "FNFL_DAVE_14a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "FNFL_DAVE_15",
+          "sound_key": "FNFL_DAVE_15a",
+          "sound": "FNFL_AGAI",
+          "subtitle": "~z~Look after yourself, Mike.",
+          "asset_id": "gta_story_fnfl_agai_01",
+          "stream": 90,
+          "wave_name": "fnfl_agai_01",
+          "wave_hash": "1519d0c4",
+          "duration_ms": 1271.406
+        },
+        {
+          "key": "FNFL_DAVE_16",
+          "sound_key": "FNFL_DAVE_16a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FNFL_DAVE_17",
+          "sound_key": "FNFL_DAVE_17a",
+          "sound": "FNFL_AGAH",
+          "subtitle": "~z~You too, Davey. You too.",
+          "asset_id": "gta_story_fnfl_agah_01",
+          "stream": 24,
+          "wave_name": "fnfl_agah_01",
+          "wave_hash": "06b84864",
+          "duration_ms": 2180.375
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Dave",
+      "contact_label_key": "CELL_143",
+      "portrait_name": "char_dave",
+      "story_gating_required": true,
+      "duration_seconds": 20.522
+    },
+    {
+      "id": "fnfl_tanisha",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 43,
+      "message_id": 1080702705,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_TANISHA",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7776: func_95(2, 43, 1, 3600000, 180000, 1080702705,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_TANISHA_1",
+          "sound_key": "FNFL_TANISHA_1a",
+          "sound": "FNFL_AEAA",
+          "subtitle": "~z~Eh, boo. Was'appening?",
+          "asset_id": "gta_story_fnfl_aeaa_01",
+          "stream": 111,
+          "wave_name": "fnfl_aeaa_01",
+          "wave_hash": "1a23e205",
+          "duration_ms": 1069.344
+        },
+        {
+          "key": "FNFL_TANISHA_2",
+          "sound_key": "FNFL_TANISHA_2a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "FNFL_TANISHA_3",
+          "sound_key": "FNFL_TANISHA_3a",
+          "sound": "FNFL_AEAB",
+          "subtitle": "~z~Hi, Franklin. I'm calling to tell you, I'm getting married.",
+          "asset_id": "gta_story_fnfl_aeab_01",
+          "stream": 76,
+          "wave_name": "fnfl_aeab_01",
+          "wave_hash": "113479e5",
+          "duration_ms": 4084.594
+        },
+        {
+          "key": "FNFL_TANISHA_4",
+          "sound_key": "FNFL_TANISHA_4a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "FNFL_TANISHA_5",
+          "sound_key": "FNFL_TANISHA_5a",
+          "sound": "FNFL_AEAC",
+          "subtitle": "~z~Shit, I knew that.",
+          "asset_id": "gta_story_fnfl_aeac_01",
+          "stream": 101,
+          "wave_name": "fnfl_aeac_01",
+          "wave_hash": "1847bd3d",
+          "duration_ms": 1065.156
+        },
+        {
+          "key": "FNFL_TANISHA_6",
+          "sound_key": "FNFL_TANISHA_6a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FNFL_TANISHA_7",
+          "sound_key": "FNFL_TANISHA_7a",
+          "sound": "FNFL_AEAD",
+          "subtitle": "~z~I mean like tomorrow.",
+          "asset_id": "gta_story_fnfl_aead_01",
+          "stream": 67,
+          "wave_name": "fnfl_aead_01",
+          "wave_hash": "0f63ad94",
+          "duration_ms": 1741.562
+        },
+        {
+          "key": "FNFL_TANISHA_8",
+          "sound_key": "FNFL_TANISHA_8a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "FNFL_TANISHA_9",
+          "sound_key": "FNFL_TANISHA_9a",
+          "sound": "FNFL_AEAE",
+          "subtitle": "~z~Oh, shit, okay.",
+          "asset_id": "gta_story_fnfl_aeae_01",
+          "stream": 22,
+          "wave_name": "fnfl_aeae_01",
+          "wave_hash": "065ace13",
+          "duration_ms": 1767.625
+        },
+        {
+          "key": "FNFL_TANISHA_10",
+          "sound_key": "FNFL_TANISHA_10a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "FNFL_TANISHA_11",
+          "sound_key": "FNFL_TANISHA_11a",
+          "sound": "FNFL_AEAF",
+          "subtitle": "~z~You know, you will find someone, Franklin.",
+          "asset_id": "gta_story_fnfl_aeaf_01",
+          "stream": 39,
+          "wave_name": "fnfl_aeaf_01",
+          "wave_hash": "095746c4",
+          "duration_ms": 2815.0
+        },
+        {
+          "key": "FNFL_TANISHA_12",
+          "sound_key": "FNFL_TANISHA_12a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FNFL_TANISHA_13",
+          "sound_key": "FNFL_TANISHA_13a",
+          "sound": "FNFL_AEAI",
+          "subtitle": "~z~But before that... You gotta grow up... I mean... seriously.",
+          "asset_id": "gta_story_fnfl_aeai_01",
+          "stream": 104,
+          "wave_name": "fnfl_aeai_01",
+          "wave_hash": "189ba86f",
+          "duration_ms": 3680.0
+        },
+        {
+          "key": "FNFL_TANISHA_14",
+          "sound_key": "FNFL_TANISHA_14a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FNFL_TANISHA_15",
+          "sound_key": "FNFL_TANISHA_15a",
+          "sound": "FNFL_AEAJ",
+          "subtitle": "~z~You didn't want to hang out with Lamar because he was too crazy. But...",
+          "asset_id": "gta_story_fnfl_aeaj_01",
+          "stream": 77,
+          "wave_name": "fnfl_aeaj_01",
+          "wave_hash": "11c1e2cd",
+          "duration_ms": 2933.344
+        },
+        {
+          "key": "FNFL_TANISHA_16",
+          "sound_key": "FNFL_TANISHA_16a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FNFL_TANISHA_17",
+          "sound_key": "FNFL_TANISHA_17a",
+          "sound": "FNFL_AEAK",
+          "subtitle": "~z~well, do you really think you moved on from craziness?",
+          "asset_id": "gta_story_fnfl_aeak_01",
+          "stream": 125,
+          "wave_name": "fnfl_aeak_01",
+          "wave_hash": "1ddb4bac",
+          "duration_ms": 2788.344
+        },
+        {
+          "key": "FNFL_TANISHA_18",
+          "sound_key": "FNFL_TANISHA_18a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "FNFL_TANISHA_19",
+          "sound_key": "FNFL_TANISHA_19a",
+          "sound": "FNFL_AEAG",
+          "subtitle": "~z~Look, thanks for the lecture, alright. But listen, I'm happy for you. Honestly, I am, man.",
+          "asset_id": "gta_story_fnfl_aeag_01",
+          "stream": 69,
+          "wave_name": "fnfl_aeag_01",
+          "wave_hash": "0fc4f68b",
+          "duration_ms": 5239.531
+        },
+        {
+          "key": "FNFL_TANISHA_20",
+          "sound_key": "FNFL_TANISHA_20a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FNFL_TANISHA_21",
+          "sound_key": "FNFL_TANISHA_21a",
+          "sound": "FNFL_AEAL",
+          "subtitle": "~z~Man, I'll see you around, alright?",
+          "asset_id": "gta_story_fnfl_aeal_01",
+          "stream": 27,
+          "wave_name": "fnfl_aeal_01",
+          "wave_hash": "06e72154",
+          "duration_ms": 1322.656
+        },
+        {
+          "key": "FNFL_TANISHA_22",
+          "sound_key": "FNFL_TANISHA_22a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "FNFL_TANISHA_23",
+          "sound_key": "FNFL_TANISHA_23a",
+          "sound": "FNFL_AEAH",
+          "subtitle": "~z~Take care of yourself.",
+          "asset_id": "gta_story_fnfl_aeah_01",
+          "stream": 112,
+          "wave_name": "fnfl_aeah_01",
+          "wave_hash": "1a3f708c",
+          "duration_ms": 1352.344
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Tanisha",
+      "contact_label_key": "CELL_E_218",
+      "portrait_name": "char_tanisha",
+      "story_gating_required": true,
+      "duration_seconds": 31.48
+    },
+    {
+      "id": "fnfl_mdead1",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 14,
+      "message_id": -1398697867,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_MDEAD1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7785: func_95(2, 14, 1, 250000, 180000, -1398697867,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_MDEAD1_1",
+          "sound_key": "FNFL_MDEAD1_1a",
+          "sound": "FNFL_AIAA",
+          "subtitle": "~z~Hello?",
+          "asset_id": "gta_story_fnfl_aiaa_01",
+          "stream": 122,
+          "wave_name": "fnfl_aiaa_01",
+          "wave_hash": "1da443b9",
+          "duration_ms": 650.656
+        },
+        {
+          "key": "FNFL_MDEAD1_2",
+          "sound_key": "FNFL_MDEAD1_2a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "FNFL_MDEAD1_3",
+          "sound_key": "FNFL_MDEAD1_3a",
+          "sound": "FNFL_AIAB",
+          "subtitle": "~z~Yo, F, you seen my dad? We ain't seen him for a while.",
+          "asset_id": "gta_story_fnfl_aiab_01",
+          "stream": 17,
+          "wave_name": "fnfl_aiab_01",
+          "wave_hash": "052dd9af",
+          "duration_ms": 4100.875
+        },
+        {
+          "key": "FNFL_MDEAD1_4",
+          "sound_key": "FNFL_MDEAD1_4a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FNFL_MDEAD1_5",
+          "sound_key": "FNFL_MDEAD1_5a",
+          "sound": "FNFL_AIAC",
+          "subtitle": "~z~Err... no... no I haven't, man.",
+          "asset_id": "gta_story_fnfl_aiac_01",
+          "stream": 36,
+          "wave_name": "fnfl_aiac_01",
+          "wave_hash": "08bbd251",
+          "duration_ms": 2986.656
+        },
+        {
+          "key": "FNFL_MDEAD1_6",
+          "sound_key": "FNFL_MDEAD1_6a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "FNFL_MDEAD1_7",
+          "sound_key": "FNFL_MDEAD1_7a",
+          "sound": "FNFL_AIAD",
+          "subtitle": "~z~Oh great, because my mom is majorly freaking out.",
+          "asset_id": "gta_story_fnfl_aiad_01",
+          "stream": 48,
+          "wave_name": "fnfl_aiad_01",
+          "wave_hash": "0b400dd5",
+          "duration_ms": 2906.344
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Jimmy",
+      "contact_label_key": "CELL_124",
+      "portrait_name": "char_jimmy",
+      "story_gating_required": true,
+      "exclusive_ending": "Michael dead",
+      "duration_seconds": 11.405
+    },
+    {
+      "id": "fnfl_tdead1",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 14,
+      "message_id": -288258721,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_TDEAD1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7796: func_95(1, 14, 1, 250000, 180000, -288258721,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_TDEAD1_1",
+          "sound_key": "FNFL_TDEAD1_1a",
+          "sound": "FNFL_ALAA",
+          "subtitle": "~z~Hello?",
+          "asset_id": "gta_story_fnfl_alaa_01",
+          "stream": 7,
+          "wave_name": "fnfl_alaa_01",
+          "wave_hash": "01cff370",
+          "duration_ms": 577.326
+        },
+        {
+          "key": "FNFL_TDEAD1_2",
+          "sound_key": "FNFL_TDEAD1_2a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "FNFL_TDEAD1_3",
+          "sound_key": "FNFL_TDEAD1_3a",
+          "sound": "FNFL_ALAB",
+          "subtitle": "~z~Uncle T, Dad - I just heard... he's... he's...",
+          "asset_id": "gta_story_fnfl_alab_01",
+          "stream": 66,
+          "wave_name": "fnfl_alab_01",
+          "wave_hash": "0f5c8207",
+          "duration_ms": 3290.031
+        },
+        {
+          "key": "FNFL_TDEAD1_4",
+          "sound_key": "FNFL_TDEAD1_4a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FNFL_TDEAD1_5",
+          "sound_key": "FNFL_TDEAD1_5a",
+          "sound": "FNFL_ALAC",
+          "subtitle": "~z~He's not going to bother us anymore... we're safe.",
+          "asset_id": "gta_story_fnfl_alac_01",
+          "stream": 26,
+          "wave_name": "fnfl_alac_01",
+          "wave_hash": "06d7b346",
+          "duration_ms": 2905.344
+        },
+        {
+          "key": "FNFL_TDEAD1_6",
+          "sound_key": "FNFL_TDEAD1_6a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "FNFL_TDEAD1_7",
+          "sound_key": "FNFL_TDEAD1_7a",
+          "sound": "FNFL_ALAD",
+          "subtitle": "~z~Uncle T - he was a good guy!",
+          "asset_id": "gta_story_fnfl_alad_01",
+          "stream": 51,
+          "wave_name": "fnfl_alad_01",
+          "wave_hash": "0b6c2309",
+          "duration_ms": 2499.406
+        },
+        {
+          "key": "FNFL_TDEAD1_8",
+          "sound_key": "FNFL_TDEAD1_8a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FNFL_TDEAD1_9",
+          "sound_key": "FNFL_TDEAD1_9a",
+          "sound": "FNFL_ALAE",
+          "subtitle": "~z~No he wasn't. He was dangerous.",
+          "asset_id": "gta_story_fnfl_alae_01",
+          "stream": 79,
+          "wave_name": "fnfl_alae_01",
+          "wave_hash": "122fcdbd",
+          "duration_ms": 2640.344
+        },
+        {
+          "key": "FNFL_TDEAD1_10",
+          "sound_key": "FNFL_TDEAD1_10a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FNFL_TDEAD1_11",
+          "sound_key": "FNFL_TDEAD1_11a",
+          "sound": "FNFL_ALAF",
+          "subtitle": "~z~Uncle T - did you do it? Did you, Dad?",
+          "asset_id": "gta_story_fnfl_alaf_01",
+          "stream": 75,
+          "wave_name": "fnfl_alaf_01",
+          "wave_hash": "1130586b",
+          "duration_ms": 3499.031
+        },
+        {
+          "key": "FNFL_TDEAD1_12",
+          "sound_key": "FNFL_TDEAD1_12a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FNFL_TDEAD1_13",
+          "sound_key": "FNFL_TDEAD1_13a",
+          "sound": "FNFL_ALAG",
+          "subtitle": "~z~Uncle T wanted to kill all of us, Jim... he wasn't well...",
+          "asset_id": "gta_story_fnfl_alag_01",
+          "stream": 2,
+          "wave_name": "fnfl_alag_01",
+          "wave_hash": "005fe6c5",
+          "duration_ms": 4807.188
+        },
+        {
+          "key": "FNFL_TDEAD1_14",
+          "sound_key": "FNFL_TDEAD1_14a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "FNFL_TDEAD1_15",
+          "sound_key": "FNFL_TDEAD1_15a",
+          "sound": "FNFL_ALAH",
+          "subtitle": "~z~Uncle T - man... fuck.",
+          "asset_id": "gta_story_fnfl_alah_01",
+          "stream": 32,
+          "wave_name": "fnfl_alah_01",
+          "wave_hash": "081f7f7f",
+          "duration_ms": 2571.0
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Jimmy",
+      "contact_label_key": "CELL_124",
+      "portrait_name": "char_jimmy",
+      "story_gating_required": true,
+      "exclusive_ending": "Trevor dead",
+      "duration_seconds": 24.25
+    },
+    {
+      "id": "fnfl_tdead2",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 14,
+      "message_id": -47439340,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_TDEAD2",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7797: func_95(2, 14, 1, 480000, 180000, -47439340,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_TDEAD2_1",
+          "sound_key": "FNFL_TDEAD2_1a",
+          "sound": "FNFL_AMAA",
+          "subtitle": "~z~Hey.",
+          "asset_id": "gta_story_fnfl_amaa_01",
+          "stream": 71,
+          "wave_name": "fnfl_amaa_01",
+          "wave_hash": "101a1434",
+          "duration_ms": 353.801
+        },
+        {
+          "key": "FNFL_TDEAD2_2",
+          "sound_key": "FNFL_TDEAD2_2a",
+          "sound": "SFX_PAUSE_290",
+          "subtitle": null,
+          "pause_ms": 290
+        },
+        {
+          "key": "FNFL_TDEAD2_3",
+          "sound_key": "FNFL_TDEAD2_3a",
+          "sound": "FNFL_AMAB",
+          "subtitle": "~z~Trevor - apparently he's... he's dead.",
+          "asset_id": "gta_story_fnfl_amab_01",
+          "stream": 89,
+          "wave_name": "fnfl_amab_01",
+          "wave_hash": "1475fc4f",
+          "duration_ms": 3334.531
+        },
+        {
+          "key": "FNFL_TDEAD2_4",
+          "sound_key": "FNFL_TDEAD2_4a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FNFL_TDEAD2_5",
+          "sound_key": "FNFL_TDEAD2_5a",
+          "sound": "FNFL_AMAC",
+          "subtitle": "~z~Yeah... I, errr, I heard.",
+          "asset_id": "gta_story_fnfl_amac_01",
+          "stream": 108,
+          "wave_name": "fnfl_amac_01",
+          "wave_hash": "190a05a9",
+          "duration_ms": 2886.25
+        },
+        {
+          "key": "FNFL_TDEAD2_6",
+          "sound_key": "FNFL_TDEAD2_6a",
+          "sound": "SFX_PAUSE_260",
+          "subtitle": null,
+          "pause_ms": 260
+        },
+        {
+          "key": "FNFL_TDEAD2_7",
+          "sound_key": "FNFL_TDEAD2_7a",
+          "sound": "FNFL_AMAD",
+          "subtitle": "~z~Fuck... he was like my uncle.",
+          "asset_id": "gta_story_fnfl_amad_01",
+          "stream": 15,
+          "wave_name": "fnfl_amad_01",
+          "wave_hash": "04ac1888",
+          "duration_ms": 2498.281
+        },
+        {
+          "key": "FNFL_TDEAD2_8",
+          "sound_key": "FNFL_TDEAD2_8a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FNFL_TDEAD2_9",
+          "sound_key": "FNFL_TDEAD2_9a",
+          "sound": "FNFL_AMAE",
+          "subtitle": "~z~Shit, man, he was kind of crazy, dog. I mean,",
+          "asset_id": "gta_story_fnfl_amae_01",
+          "stream": 64,
+          "wave_name": "fnfl_amae_01",
+          "wave_hash": "0eed9f97",
+          "duration_ms": 3192.375
+        },
+        {
+          "key": "FNFL_TDEAD2_10",
+          "sound_key": "FNFL_TDEAD2_10a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "FNFL_TDEAD2_11",
+          "sound_key": "FNFL_TDEAD2_11a",
+          "sound": "FNFL_AMAH",
+          "subtitle": "~z~we all a little crazy but he was a lotta crazy, homie.",
+          "asset_id": "gta_story_fnfl_amah_01",
+          "stream": 30,
+          "wave_name": "fnfl_amah_01",
+          "wave_hash": "075128b0",
+          "duration_ms": 3194.031
+        },
+        {
+          "key": "FNFL_TDEAD2_12",
+          "sound_key": "FNFL_TDEAD2_12a",
+          "sound": "SFX_PAUSE_300",
+          "subtitle": null,
+          "pause_ms": 300
+        },
+        {
+          "key": "FNFL_TDEAD2_13",
+          "sound_key": "FNFL_TDEAD2_13a",
+          "sound": "FNFL_AMAF",
+          "subtitle": "~z~Uncle T, man, I can't believe it.",
+          "asset_id": "gta_story_fnfl_amaf_01",
+          "stream": 109,
+          "wave_name": "fnfl_amaf_01",
+          "wave_hash": "19ea3e00",
+          "duration_ms": 2706.656
+        },
+        {
+          "key": "FNFL_TDEAD2_14",
+          "sound_key": "FNFL_TDEAD2_14a",
+          "sound": "SFX_PAUSE_280",
+          "subtitle": null,
+          "pause_ms": 280
+        },
+        {
+          "key": "FNFL_TDEAD2_15",
+          "sound_key": "FNFL_TDEAD2_15a",
+          "sound": "FNFL_AMAG",
+          "subtitle": "~z~Yeah... bad business, but this life is bad business sometimes, homie.",
+          "asset_id": "gta_story_fnfl_amag_01",
+          "stream": 54,
+          "wave_name": "fnfl_amag_01",
+          "wave_hash": "0bcda1b0",
+          "duration_ms": 4752.906
+        },
+        {
+          "key": "FNFL_TDEAD2_16",
+          "sound_key": "FNFL_TDEAD2_16a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "FNFL_TDEAD2_17",
+          "sound_key": "FNFL_TDEAD2_17a",
+          "sound": "FNFL_AMAI",
+          "subtitle": "~z~Shit, I'll see you, dog.",
+          "asset_id": "gta_story_fnfl_amai_01",
+          "stream": 23,
+          "wave_name": "fnfl_amai_01",
+          "wave_hash": "067bb54b",
+          "duration_ms": 1444.719
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Jimmy",
+      "contact_label_key": "CELL_124",
+      "portrait_name": "char_jimmy",
+      "story_gating_required": true,
+      "exclusive_ending": "Trevor dead",
+      "duration_seconds": 26.364
+    },
+    {
+      "id": "fnfl_ste01",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 23,
+      "message_id": 1972824823,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_STE01",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7798: func_95(2, 23, 1, 120000, 180000, 1972824823,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_STE01_1",
+          "sound_key": "FNFL_STE01_1a",
+          "sound": "FNFL_AVAA",
+          "subtitle": "~z~Okay, I did it, alright?",
+          "asset_id": "gta_story_fnfl_avaa_01",
+          "stream": 114,
+          "wave_name": "fnfl_avaa_01",
+          "wave_hash": "1a5ccab9",
+          "duration_ms": 1613.344
+        },
+        {
+          "key": "FNFL_STE01_2",
+          "sound_key": "FNFL_STE01_2a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FNFL_STE01_3",
+          "sound_key": "FNFL_STE01_3a",
+          "sound": "FNFL_AVAB",
+          "subtitle": "~z~I know. Good dog.",
+          "asset_id": "gta_story_fnfl_avab_01",
+          "stream": 56,
+          "wave_name": "fnfl_avab_01",
+          "wave_hash": "0c38a816",
+          "duration_ms": 1746.844
+        },
+        {
+          "key": "FNFL_STE01_4",
+          "sound_key": "FNFL_STE01_4a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FNFL_STE01_5",
+          "sound_key": "FNFL_STE01_5a",
+          "sound": "FNFL_AVAC",
+          "subtitle": "~z~Look, man, Devin Weston came to talk to me. He wanted me to clap Michael and let Trevor go.",
+          "asset_id": "gta_story_fnfl_avac_01",
+          "stream": 10,
+          "wave_name": "fnfl_avac_01",
+          "wave_hash": "033ed4fc",
+          "duration_ms": 5301.781
+        },
+        {
+          "key": "FNFL_STE01_6",
+          "sound_key": "FNFL_STE01_6a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FNFL_STE01_7",
+          "sound_key": "FNFL_STE01_7a",
+          "sound": "FNFL_AVAD",
+          "subtitle": "~z~Then you should've clapped both of them.",
+          "asset_id": "gta_story_fnfl_avad_01",
+          "stream": 57,
+          "wave_name": "fnfl_avad_01",
+          "wave_hash": "0ce7c7bb",
+          "duration_ms": 2262.062
+        },
+        {
+          "key": "FNFL_STE01_8",
+          "sound_key": "FNFL_STE01_8a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FNFL_STE01_9",
+          "sound_key": "FNFL_STE01_9a",
+          "sound": "FNFL_AVAE",
+          "subtitle": "~z~Man, isn't there something you and Dave can do? Cause he might be pissed, man.",
+          "asset_id": "gta_story_fnfl_avae_01",
+          "stream": 86,
+          "wave_name": "fnfl_avae_01",
+          "wave_hash": "131265b7",
+          "duration_ms": 3284.719
+        },
+        {
+          "key": "FNFL_STE01_10",
+          "sound_key": "FNFL_STE01_10a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FNFL_STE01_11",
+          "sound_key": "FNFL_STE01_11a",
+          "sound": "FNFL_AVAF",
+          "subtitle": "~z~Dave can't do anything. Dave's lucky I let him do my paperwork,",
+          "asset_id": "gta_story_fnfl_avaf_01",
+          "stream": 72,
+          "wave_name": "fnfl_avaf_01",
+          "wave_hash": "1073eef3",
+          "duration_ms": 3714.406
+        },
+        {
+          "key": "FNFL_STE01_12",
+          "sound_key": "FNFL_STE01_12a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FNFL_STE01_13",
+          "sound_key": "FNFL_STE01_13a",
+          "sound": "FNFL_AVAL",
+          "subtitle": "~z~he's this close to discharge with no pension.",
+          "asset_id": "gta_story_fnfl_aval_01",
+          "stream": 107,
+          "wave_name": "fnfl_aval_01",
+          "wave_hash": "190836bb",
+          "duration_ms": 2626.406
+        },
+        {
+          "key": "FNFL_STE01_14",
+          "sound_key": "FNFL_STE01_14a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FNFL_STE01_15",
+          "sound_key": "FNFL_STE01_15a",
+          "sound": "FNFL_AVAG",
+          "subtitle": "~z~Well shit, is there something you can do?",
+          "asset_id": "gta_story_fnfl_avag_01",
+          "stream": 120,
+          "wave_name": "fnfl_avag_01",
+          "wave_hash": "1d1b273a",
+          "duration_ms": 1430.719
+        },
+        {
+          "key": "FNFL_STE01_16",
+          "sound_key": "FNFL_STE01_16a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "FNFL_STE01_17",
+          "sound_key": "FNFL_STE01_17a",
+          "sound": "FNFL_AVAH",
+          "subtitle": "~z~Sure, I can talk to Devin.",
+          "asset_id": "gta_story_fnfl_avah_01",
+          "stream": 128,
+          "wave_name": "fnfl_avah_01",
+          "wave_hash": "1f06097b",
+          "duration_ms": 1658.375
+        },
+        {
+          "key": "FNFL_STE01_18",
+          "sound_key": "FNFL_STE01_18a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FNFL_STE01_19",
+          "sound_key": "FNFL_STE01_19a",
+          "sound": "FNFL_AVAI",
+          "subtitle": "~z~He's licking his wounds after Merryweather lost their licence to operate in the state. He might need a friend.",
+          "asset_id": "gta_story_fnfl_avai_01",
+          "stream": 35,
+          "wave_name": "fnfl_avai_01",
+          "wave_hash": "08566e78",
+          "duration_ms": 5318.656
+        },
+        {
+          "key": "FNFL_STE01_20",
+          "sound_key": "FNFL_STE01_20a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FNFL_STE01_21",
+          "sound_key": "FNFL_STE01_21a",
+          "sound": "FNFL_AVAJ",
+          "subtitle": "~z~Oh yeah, okay, shit. I hear it could be real useful having an FIB agent looking out for you.",
+          "asset_id": "gta_story_fnfl_avaj_01",
+          "stream": 55,
+          "wave_name": "fnfl_avaj_01",
+          "wave_hash": "0be38ddb",
+          "duration_ms": 5986.844
+        },
+        {
+          "key": "FNFL_STE01_22",
+          "sound_key": "FNFL_STE01_22a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FNFL_STE01_23",
+          "sound_key": "FNFL_STE01_23a",
+          "sound": "FNFL_AVAK",
+          "subtitle": "~z~Hey, your chips are cashed, pal. Don't contact me again.",
+          "asset_id": "gta_story_fnfl_avak_01",
+          "stream": 44,
+          "wave_name": "fnfl_avak_01",
+          "wave_hash": "0a62fcb2",
+          "duration_ms": 3472.344
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Steve",
+      "contact_label_key": "CELL_134",
+      "portrait_name": "char_steve",
+      "story_gating_required": true,
+      "duration_seconds": 40.127
+    },
+    {
+      "id": "fnfl_lam22",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 19,
+      "message_id": -579786137,
+      "text_block": "FNFLAUD",
+      "conversation": "FNFL_LAM22",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_177, line 7803: func_95(2, 19, 1, 600000, 180000, -579786137,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fnflaud.gxt2",
+      "lines": [
+        {
+          "key": "FNFL_LAM22_1",
+          "sound_key": "FNFL_LAM22_1a",
+          "sound": "FNFL_AWAA",
+          "subtitle": "~z~Eh, what's happening, homie?",
+          "asset_id": "gta_story_fnfl_awaa_01",
+          "stream": 78,
+          "wave_name": "fnfl_awaa_01",
+          "wave_hash": "11cd7340",
+          "duration_ms": 1095.438
+        },
+        {
+          "key": "FNFL_LAM22_2",
+          "sound_key": "FNFL_LAM22_2a",
+          "sound": "SFX_PAUSE_420",
+          "subtitle": null,
+          "pause_ms": 420
+        },
+        {
+          "key": "FNFL_LAM22_3",
+          "sound_key": "FNFL_LAM22_3a",
+          "sound": "FNFL_AWAB",
+          "subtitle": "~z~You were right about Stretch, dog. Dude janky as fuck!",
+          "asset_id": "gta_story_fnfl_awab_01",
+          "stream": 6,
+          "wave_name": "fnfl_awab_01",
+          "wave_hash": "01604438",
+          "duration_ms": 3595.812
+        },
+        {
+          "key": "FNFL_LAM22_4",
+          "sound_key": "FNFL_LAM22_4a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "FNFL_LAM22_5",
+          "sound_key": "FNFL_LAM22_5a",
+          "sound": "FNFL_AWAC",
+          "subtitle": "~z~After all the scams and attempted homicides, huh, now you say he janky?",
+          "asset_id": "gta_story_fnfl_awac_01",
+          "stream": 87,
+          "wave_name": "fnfl_awac_01",
+          "wave_hash": "145722ef",
+          "duration_ms": 4098.656
+        },
+        {
+          "key": "FNFL_LAM22_6",
+          "sound_key": "FNFL_LAM22_6a",
+          "sound": "SFX_PAUSE_350",
+          "subtitle": null,
+          "pause_ms": 350
+        },
+        {
+          "key": "FNFL_LAM22_7",
+          "sound_key": "FNFL_LAM22_7a",
+          "sound": "FNFL_AWAD",
+          "subtitle": "~z~Well, excuse me if I wanna see the best in people, nigga? But this serious, homie. I gotta stay low key.",
+          "asset_id": "gta_story_fnfl_awad_01",
+          "stream": 91,
+          "wave_name": "fnfl_awad_01",
+          "wave_hash": "15b3c848",
+          "duration_ms": 5205.156
+        },
+        {
+          "key": "FNFL_LAM22_8",
+          "sound_key": "FNFL_LAM22_8a",
+          "sound": "SFX_PAUSE_340",
+          "subtitle": null,
+          "pause_ms": 340
+        },
+        {
+          "key": "FNFL_LAM22_9",
+          "sound_key": "FNFL_LAM22_9a",
+          "sound": "FNFL_AWAE",
+          "subtitle": "~z~Yeah, you do that. And keep breathing, dog.",
+          "asset_id": "gta_story_fnfl_awae_01",
+          "stream": 50,
+          "wave_name": "fnfl_awae_01",
+          "wave_hash": "0b5ffda5",
+          "duration_ms": 3544.094
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Lamar",
+      "contact_label_key": "CELL_128",
+      "portrait_name": "char_lamar",
+      "story_gating_required": true,
+      "duration_seconds": 18.979
+    },
+    {
+      "id": "fofl_call1a",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 23,
+      "message_id": -444489072,
+      "text_block": "FOFLAUD",
+      "conversation": "FOFL_CALL1A",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_185, line 7969: func_95(1, 23, 1, 60000, 27500, -444489072,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/foflaud.gxt2",
+      "lines": [
+        {
+          "key": "FOFL_CALL1A_1",
+          "sound_key": "FOFL_CALL1A_1a",
+          "sound": "FOFL_AAAA",
+          "subtitle": "~z~De Santa.",
+          "asset_id": "gta_story_fofl_aaaa_01",
+          "stream": 5,
+          "wave_name": "fofl_aaaa_01",
+          "wave_hash": "0282d52f",
+          "duration_ms": 854.656
+        },
+        {
+          "key": "FOFL_CALL1A_2",
+          "sound_key": "FOFL_CALL1A_2a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "FOFL_CALL1A_3",
+          "sound_key": "FOFL_CALL1A_3a",
+          "sound": "FOFL_AAAB",
+          "subtitle": "~z~That's not the name in your file, Michael. Steve Haines here.",
+          "asset_id": "gta_story_fofl_aaab_01",
+          "stream": 23,
+          "wave_name": "fofl_aaab_01",
+          "wave_hash": "0afb1587",
+          "duration_ms": 3083.062
+        },
+        {
+          "key": "FOFL_CALL1A_4",
+          "sound_key": "FOFL_CALL1A_4a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FOFL_CALL1A_5",
+          "sound_key": "FOFL_CALL1A_5a",
+          "sound": "FOFL_AAAC",
+          "subtitle": "~z~Yeah, Agent Douchebag. Hey, that poor son of a bitch we grabbed for you still breathing?",
+          "asset_id": "gta_story_fofl_aaac_01",
+          "stream": 15,
+          "wave_name": "fofl_aaac_01",
+          "wave_hash": "07d785cd",
+          "duration_ms": 5250.375
+        },
+        {
+          "key": "FOFL_CALL1A_6",
+          "sound_key": "FOFL_CALL1A_6a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FOFL_CALL1A_7",
+          "sound_key": "FOFL_CALL1A_7a",
+          "sound": "FOFL_AAAD",
+          "subtitle": "~z~See for yourself. Right now. Trevor Philips is on his way to help with the debrief.",
+          "asset_id": "gta_story_fofl_aaad_01",
+          "stream": 9,
+          "wave_name": "fofl_aaad_01",
+          "wave_hash": "03702782",
+          "duration_ms": 4025.219
+        },
+        {
+          "key": "FOFL_CALL1A_8",
+          "sound_key": "FOFL_CALL1A_8a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FOFL_CALL1A_9",
+          "sound_key": "FOFL_CALL1A_9a",
+          "sound": "FOFL_AAAF",
+          "subtitle": "~z~Warehouse off Dutch London in Banning.",
+          "asset_id": "gta_story_fofl_aaaf_01",
+          "stream": 8,
+          "wave_name": "fofl_aaaf_01",
+          "wave_hash": "033f4b5e",
+          "duration_ms": 2379.406
+        },
+        {
+          "key": "FOFL_CALL1A_10",
+          "sound_key": "FOFL_CALL1A_10a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "FOFL_CALL1A_11",
+          "sound_key": "FOFL_CALL1A_11a",
+          "sound": "FOFL_AAAE",
+          "subtitle": "~z~Great. Sounds just like my kinda party.",
+          "asset_id": "gta_story_fofl_aaae_01",
+          "stream": 49,
+          "wave_name": "fofl_aaae_01",
+          "wave_hash": "1bb34264",
+          "duration_ms": 2852.0
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Steve",
+      "contact_label_key": "CELL_134",
+      "portrait_name": "char_steve",
+      "story_gating_required": true,
+      "duration_seconds": 19.175
+    },
+    {
+      "id": "fofl_call1a2",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 23,
+      "message_id": -444489072,
+      "text_block": "FOFLAUD",
+      "conversation": "FOFL_CALL1A2",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_185, line 7969: func_95(1, 23, 1, 60000, 27500, -444489072,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/foflaud.gxt2",
+      "lines": [
+        {
+          "key": "FOFL_CALL1A2_1",
+          "sound_key": "FOFL_CALL1A2_1a",
+          "sound": "FOFL_APAA",
+          "subtitle": "~z~Ah. Townley.",
+          "asset_id": "gta_story_fofl_apaa_01",
+          "stream": 19,
+          "wave_name": "fofl_apaa_01",
+          "wave_hash": "096767ee",
+          "duration_ms": 1525.344
+        },
+        {
+          "key": "FOFL_CALL1A2_2",
+          "sound_key": "FOFL_CALL1A2_2a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FOFL_CALL1A2_3",
+          "sound_key": "FOFL_CALL1A2_3a",
+          "sound": "FOFL_APAB",
+          "subtitle": "~z~Ah, it's De Santa now. Your department set me up with the cover. Remember dipshit?",
+          "asset_id": "gta_story_fofl_apab_01",
+          "stream": 29,
+          "wave_name": "fofl_apab_01",
+          "wave_hash": "0ed34604",
+          "duration_ms": 5506.031
+        },
+        {
+          "key": "FOFL_CALL1A2_4",
+          "sound_key": "FOFL_CALL1A2_4a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FOFL_CALL1A2_5",
+          "sound_key": "FOFL_CALL1A2_5a",
+          "sound": "FOFL_APAC",
+          "subtitle": "~z~And we can burn you just as easily.",
+          "asset_id": "gta_story_fofl_apac_01",
+          "stream": 50,
+          "wave_name": "fofl_apac_01",
+          "wave_hash": "1c6b1de9",
+          "duration_ms": 1733.781
+        },
+        {
+          "key": "FOFL_CALL1A2_6",
+          "sound_key": "FOFL_CALL1A2_6a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "FOFL_CALL1A2_7",
+          "sound_key": "FOFL_CALL1A2_7a",
+          "sound": "FOFL_APAD",
+          "subtitle": "~z~Look, I don't know why you're calling, but I need your help with Mr. K. Trevor's on his way.",
+          "asset_id": "gta_story_fofl_apad_01",
+          "stream": 46,
+          "wave_name": "fofl_apad_01",
+          "wave_hash": "1a3be108",
+          "duration_ms": 5161.719
+        },
+        {
+          "key": "FOFL_CALL1A2_8",
+          "sound_key": "FOFL_CALL1A2_8a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "FOFL_CALL1A2_9",
+          "sound_key": "FOFL_CALL1A2_9a",
+          "sound": "FOFL_APAE",
+          "subtitle": "~z~Warehouse off Dutch London in Banning.",
+          "asset_id": "gta_story_fofl_apae_01",
+          "stream": 26,
+          "wave_name": "fofl_apae_01",
+          "wave_hash": "0cb799c5",
+          "duration_ms": 2079.969
+        },
+        {
+          "key": "FOFL_CALL1A2_10",
+          "sound_key": "FOFL_CALL1A2_10a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "FOFL_CALL1A2_11",
+          "sound_key": "FOFL_CALL1A2_11a",
+          "sound": "FOFL_APAF",
+          "subtitle": "~z~This I gotta see.",
+          "asset_id": "gta_story_fofl_apaf_01",
+          "stream": 10,
+          "wave_name": "fofl_apaf_01",
+          "wave_hash": "0410d753",
+          "duration_ms": 1883.469
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Steve",
+      "contact_label_key": "CELL_134",
+      "portrait_name": "char_steve",
+      "story_gating_required": true,
+      "duration_seconds": 18.68
+    },
+    {
+      "id": "fofl_call1b",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 23,
+      "message_id": 154402960,
+      "text_block": "FOFLAUD",
+      "conversation": "FOFL_CALL1B",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_185, line 7970: func_95(4, 23, 1, 60000, 27500, 154402960,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/foflaud.gxt2",
+      "lines": [
+        {
+          "key": "FOFL_CALL1B_1",
+          "sound_key": "FOFL_CALL1B_1a",
+          "sound": "FOFL_ABAA",
+          "subtitle": "~z~Who the fuck is this?",
+          "asset_id": "gta_story_fofl_abaa_01",
+          "stream": 34,
+          "wave_name": "fofl_abaa_01",
+          "wave_hash": "1328c287",
+          "duration_ms": 1239.719
+        },
+        {
+          "key": "FOFL_CALL1B_2",
+          "sound_key": "FOFL_CALL1B_2a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FOFL_CALL1B_3",
+          "sound_key": "FOFL_CALL1B_3a",
+          "sound": "FOFL_ABAB",
+          "subtitle": "~z~The guy keeping you out of the gas chamber. Townley's on his way. We need to talk face to face.",
+          "asset_id": "gta_story_fofl_abab_01",
+          "stream": 55,
+          "wave_name": "fofl_abab_01",
+          "wave_hash": "1e8242c2",
+          "duration_ms": 5347.0
+        },
+        {
+          "key": "FOFL_CALL1B_4",
+          "sound_key": "FOFL_CALL1B_4a",
+          "sound": "SFX_PAUSE_240",
+          "subtitle": null,
+          "pause_ms": 240
+        },
+        {
+          "key": "FOFL_CALL1B_5",
+          "sound_key": "FOFL_CALL1B_5a",
+          "sound": "FOFL_ABAD",
+          "subtitle": "~z~Warehouse off Dutch London in Banning.",
+          "asset_id": "gta_story_fofl_abad_01",
+          "stream": 12,
+          "wave_name": "fofl_abad_01",
+          "wave_hash": "05015a39",
+          "duration_ms": 2250.625
+        },
+        {
+          "key": "FOFL_CALL1B_6",
+          "sound_key": "FOFL_CALL1B_6a",
+          "sound": "SFX_PAUSE_240",
+          "subtitle": null,
+          "pause_ms": 240
+        },
+        {
+          "key": "FOFL_CALL1B_7",
+          "sound_key": "FOFL_CALL1B_7a",
+          "sound": "FOFL_ABAC",
+          "subtitle": "~z~Oh, we can do more than talk, my friend.",
+          "asset_id": "gta_story_fofl_abac_01",
+          "stream": 47,
+          "wave_name": "fofl_abac_01",
+          "wave_hash": "1af46a9e",
+          "duration_ms": 2863.594
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Steve",
+      "contact_label_key": "CELL_134",
+      "portrait_name": "char_steve",
+      "story_gating_required": true,
+      "duration_seconds": 12.381
+    },
+    {
+      "id": "fofl_call4",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 8,
+      "message_id": 795730787,
+      "text_block": "FOFLAUD",
+      "conversation": "FOFL_CALL4",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_185, line 7988: func_95(4, 8, 0, 6000, 6000, 795730787,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/foflaud.gxt2",
+      "lines": [
+        {
+          "key": "FOFL_CALL4_1",
+          "sound_key": "FOFL_CALL4_1a",
+          "sound": "FOFL_AOAA",
+          "subtitle": "~z~Alright, guys, a few more details. We'll need boiler suits and masks for this job.",
+          "asset_id": "gta_story_fofl_aoaa_01",
+          "stream": 40,
+          "wave_name": "fofl_aoaa_01",
+          "wave_hash": "164f36c2",
+          "duration_ms": 4535.281
+        },
+        {
+          "key": "FOFL_CALL4_2",
+          "sound_key": "FOFL_CALL4_2a",
+          "sound": "SFX_PAUSE_280",
+          "subtitle": null,
+          "pause_ms": 280
+        },
+        {
+          "key": "FOFL_CALL4_3",
+          "sound_key": "FOFL_CALL4_3a",
+          "sound": "FOFL_AOAB",
+          "subtitle": "~z~The garbage truck - let's get one from Mirror Park, bring it back to the lot.",
+          "asset_id": "gta_story_fofl_aoab_01",
+          "stream": 2,
+          "wave_name": "fofl_aoab_01",
+          "wave_hash": "01e2bab3",
+          "duration_ms": 3350.344
+        },
+        {
+          "key": "FOFL_CALL4_4",
+          "sound_key": "FOFL_CALL4_4a",
+          "sound": "SFX_PAUSE_420",
+          "subtitle": null,
+          "pause_ms": 420
+        },
+        {
+          "key": "FOFL_CALL4_5",
+          "sound_key": "FOFL_CALL4_5a",
+          "sound": "FOFL_AOAC",
+          "subtitle": "~z~And there's an auto repair place by the airport where we can get a tow truck. What else? Oh yeah, yeah, yeah, a getaway.",
+          "asset_id": "gta_story_fofl_aoac_01",
+          "stream": 3,
+          "wave_name": "fofl_aoac_01",
+          "wave_hash": "0224f8fc",
+          "duration_ms": 5993.656
+        },
+        {
+          "key": "FOFL_CALL4_6",
+          "sound_key": "FOFL_CALL4_6a",
+          "sound": "SFX_PAUSE_260",
+          "subtitle": null,
+          "pause_ms": 260
+        },
+        {
+          "key": "FOFL_CALL4_7",
+          "sound_key": "FOFL_CALL4_7a",
+          "sound": "FOFL_AOAD",
+          "subtitle": "~z~That would be nice. Get something fast and discreet, we park it off the road, a good distance from the lot.",
+          "asset_id": "gta_story_fofl_aoad_01",
+          "stream": 42,
+          "wave_name": "fofl_aoad_01",
+          "wave_hash": "1767c44b",
+          "duration_ms": 5892.5
+        },
+        {
+          "key": "FOFL_CALL4_8",
+          "sound_key": "FOFL_CALL4_8a",
+          "sound": "SFX_PAUSE_350",
+          "subtitle": null,
+          "pause_ms": 350
+        },
+        {
+          "key": "FOFL_CALL4_9",
+          "sound_key": "FOFL_CALL4_9a",
+          "sound": "FOFL_AOAE",
+          "subtitle": "~z~And make sure it ain't near something we'll crash into driving off. That's it.",
+          "asset_id": "gta_story_fofl_aoae_01",
+          "stream": 25,
+          "wave_name": "fofl_aoae_01",
+          "wave_hash": "0c57e242",
+          "duration_ms": 3840.531
+        },
+        {
+          "key": "FOFL_CALL4_10",
+          "sound_key": "FOFL_CALL4_10a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "FOFL_CALL4_11",
+          "sound_key": "FOFL_CALL4_11a",
+          "sound": "FOFL_AOAG",
+          "subtitle": "~z~A'ight, man. I got you, dog.",
+          "asset_id": "gta_story_fofl_aoag_01",
+          "stream": 32,
+          "wave_name": "fofl_aoag_01",
+          "wave_hash": "116bafc0",
+          "duration_ms": 1315.438
+        },
+        {
+          "key": "FOFL_CALL4_12",
+          "sound_key": "FOFL_CALL4_12a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "FOFL_CALL4_13",
+          "sound_key": "FOFL_CALL4_13a",
+          "sound": "FOFL_AOAH",
+          "subtitle": "~z~What? Huh? I missed that. Maybe shout a little louder?",
+          "asset_id": "gta_story_fofl_aoah_01",
+          "stream": 54,
+          "wave_name": "fofl_aoah_01",
+          "wave_hash": "1e6d070b",
+          "duration_ms": 3740.406
+        },
+        {
+          "key": "FOFL_CALL4_14",
+          "sound_key": "FOFL_CALL4_14a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "FOFL_CALL4_15",
+          "sound_key": "FOFL_CALL4_15a",
+          "sound": "FOFL_AOAI",
+          "subtitle": "~z~Bite me.",
+          "asset_id": "gta_story_fofl_aoai_01",
+          "stream": 57,
+          "wave_name": "fofl_aoai_01",
+          "wave_hash": "1fe465ba",
+          "duration_ms": 808.656
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Conference",
+      "contact_label_key": "CELL_192",
+      "portrait_name": "char_mike_frank_conf",
+      "story_gating_required": true,
+      "duration_seconds": 31.517
+    },
+    {
+      "id": "pafl_01",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 40,
+      "message_id": 2033185762,
+      "text_block": "PAFLAUD",
+      "conversation": "PAFL_01",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_185, line 8056: func_95(4, 40, 6, 480000, 60000, 2033185762,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/paflaud.gxt2",
+      "lines": [
+        {
+          "key": "PAFL_01_1",
+          "sound_key": "PAFL_01_1a",
+          "sound": "PAFL_AAAA",
+          "subtitle": "~z~Yellow.",
+          "asset_id": "gta_story_pafl_aaaa_01",
+          "stream": 12,
+          "wave_name": "pafl_aaaa_01",
+          "wave_hash": "0905bcc8",
+          "duration_ms": 1110.531
+        },
+        {
+          "key": "PAFL_01_2",
+          "sound_key": "PAFL_01_2a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "PAFL_01_3",
+          "sound_key": "PAFL_01_3a",
+          "sound": "PAFL_AAAB",
+          "subtitle": "~z~",
+          "asset_id": "gta_story_pafl_aaab_01",
+          "stream": 22,
+          "wave_name": "pafl_aaab_01",
+          "wave_hash": "1625a58a",
+          "duration_ms": 2387.344
+        },
+        {
+          "key": "PAFL_01_4",
+          "sound_key": "PAFL_01_4a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "PAFL_01_5",
+          "sound_key": "PAFL_01_5a",
+          "sound": "PAFL_AAAC",
+          "subtitle": "~z~Who is this?",
+          "asset_id": "gta_story_pafl_aaac_01",
+          "stream": 14,
+          "wave_name": "pafl_aaac_01",
+          "wave_hash": "0b622db2",
+          "duration_ms": 621.531
+        },
+        {
+          "key": "PAFL_01_6",
+          "sound_key": "PAFL_01_6a",
+          "sound": "SFX_PAUSE_120",
+          "subtitle": null,
+          "pause_ms": 120
+        },
+        {
+          "key": "PAFL_01_7",
+          "sound_key": "PAFL_01_7a",
+          "sound": "PAFL_AAAD",
+          "subtitle": "~z~It's me. I shouldn't have called.",
+          "asset_id": "gta_story_pafl_aaad_01",
+          "stream": 19,
+          "wave_name": "pafl_aaad_01",
+          "wave_hash": "11cec320",
+          "duration_ms": 2846.0
+        },
+        {
+          "key": "PAFL_01_8",
+          "sound_key": "PAFL_01_8a",
+          "sound": "SFX_PAUSE_110",
+          "subtitle": null,
+          "pause_ms": 110
+        },
+        {
+          "key": "PAFL_01_9",
+          "sound_key": "PAFL_01_9a",
+          "sound": "PAFL_AAAE",
+          "subtitle": "~z~Patricia. Mrs. Madrazo. Hey.",
+          "asset_id": "gta_story_pafl_aaae_01",
+          "stream": 11,
+          "wave_name": "pafl_aaae_01",
+          "wave_hash": "08e5ebef",
+          "duration_ms": 3842.156
+        },
+        {
+          "key": "PAFL_01_10",
+          "sound_key": "PAFL_01_10a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "PAFL_01_11",
+          "sound_key": "PAFL_01_11a",
+          "sound": "PAFL_AAAF",
+          "subtitle": "~z~Are you behaving, Trevor?",
+          "asset_id": "gta_story_pafl_aaaf_01",
+          "stream": 3,
+          "wave_name": "pafl_aaaf_01",
+          "wave_hash": "030f8c18",
+          "duration_ms": 1597.344
+        },
+        {
+          "key": "PAFL_01_12",
+          "sound_key": "PAFL_01_12a",
+          "sound": "SFX_PAUSE_100",
+          "subtitle": null,
+          "pause_ms": 100
+        },
+        {
+          "key": "PAFL_01_13",
+          "sound_key": "PAFL_01_13a",
+          "sound": "PAFL_AAAG",
+          "subtitle": "~z~Yeah. Yeah. Sure. Patricia, I really miss you.",
+          "asset_id": "gta_story_pafl_aaag_01",
+          "stream": 24,
+          "wave_name": "pafl_aaag_01",
+          "wave_hash": "1d353536",
+          "duration_ms": 5666.156
+        },
+        {
+          "key": "PAFL_01_14",
+          "sound_key": "PAFL_01_14a",
+          "sound": "SFX_PAUSE_280",
+          "subtitle": null,
+          "pause_ms": 280
+        },
+        {
+          "key": "PAFL_01_15",
+          "sound_key": "PAFL_01_15a",
+          "sound": "PAFL_AAAI",
+          "subtitle": "~z~That time together was... very important... I...",
+          "asset_id": "gta_story_pafl_aaai_01",
+          "stream": 2,
+          "wave_name": "pafl_aaai_01",
+          "wave_hash": "0267127d",
+          "duration_ms": 4346.5
+        },
+        {
+          "key": "PAFL_01_16",
+          "sound_key": "PAFL_01_16a",
+          "sound": "SFX_PAUSE_410",
+          "subtitle": null,
+          "pause_ms": 410
+        },
+        {
+          "key": "PAFL_01_17",
+          "sound_key": "PAFL_01_17a",
+          "sound": "PAFL_AAAH",
+          "subtitle": "~z~I have to go.",
+          "asset_id": "gta_story_pafl_aaah_01",
+          "stream": 20,
+          "wave_name": "pafl_aaah_01",
+          "wave_hash": "15191d56",
+          "duration_ms": 936.656
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Patricia",
+      "contact_label_key": "CELL_E_210",
+      "portrait_name": "char_patricia",
+      "story_gating_required": true,
+      "duration_seconds": 24.784
+    },
+    {
+      "id": "fmfl_trfam4",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 15,
+      "message_id": 1995383583,
+      "text_block": "FMFLAUD",
+      "conversation": "FMFL_TRFAM4",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_187, line 8225: func_95(1, 15, 1, 500000, 60000, 1995383583,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fmflaud.gxt2",
+      "lines": [
+        {
+          "key": "FMFL_TRFAM4_1",
+          "sound_key": "FMFL_TRFAM4_1a",
+          "sound": "FMFL_ARAA",
+          "subtitle": "~z~Hey, Trace. What's up?",
+          "asset_id": "gta_story_fmfl_araa_01",
+          "stream": 41,
+          "wave_name": "fmfl_araa_01",
+          "wave_hash": "10d61cde",
+          "duration_ms": 1218.062
+        },
+        {
+          "key": "FMFL_TRFAM4_2",
+          "sound_key": "FMFL_TRFAM4_2a",
+          "sound": "SFX_PAUSE_320",
+          "subtitle": null,
+          "pause_ms": 320
+        },
+        {
+          "key": "FMFL_TRFAM4_3",
+          "sound_key": "FMFL_TRFAM4_3a",
+          "sound": "FMFL_ARAB",
+          "subtitle": "~z~What's up? Are you joking!? You ruined my life!",
+          "asset_id": "gta_story_fmfl_arab_01",
+          "stream": 20,
+          "wave_name": "fmfl_arab_01",
+          "wave_hash": "077f6a8c",
+          "duration_ms": 3520.0
+        },
+        {
+          "key": "FMFL_TRFAM4_4",
+          "sound_key": "FMFL_TRFAM4_4a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "FMFL_TRFAM4_5",
+          "sound_key": "FMFL_TRFAM4_5a",
+          "sound": "FMFL_ARAC",
+          "subtitle": "~z~I did? I thought I'd already ruined your life. Remember, after that boat thing.",
+          "asset_id": "gta_story_fmfl_arac_01",
+          "stream": 33,
+          "wave_name": "fmfl_arac_01",
+          "wave_hash": "0db5bf2c",
+          "duration_ms": 4217.094
+        },
+        {
+          "key": "FMFL_TRFAM4_6",
+          "sound_key": "FMFL_TRFAM4_6a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FMFL_TRFAM4_7",
+          "sound_key": "FMFL_TRFAM4_7a",
+          "sound": "FMFL_ARAD",
+          "subtitle": "~z~Take this seriously! Do you know how bad I wanted that? Fame or Shame is like",
+          "asset_id": "gta_story_fmfl_arad_01",
+          "stream": 31,
+          "wave_name": "fmfl_arad_01",
+          "wave_hash": "0cf06c0c",
+          "duration_ms": 5785.656
+        },
+        {
+          "key": "FMFL_TRFAM4_8",
+          "sound_key": "FMFL_TRFAM4_8a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "FMFL_TRFAM4_9",
+          "sound_key": "FMFL_TRFAM4_9a",
+          "sound": "FMFL_ARAE",
+          "subtitle": "~z~an amazing opportunity! You're such a fucking fuck, you really are.",
+          "asset_id": "gta_story_fmfl_arae_01",
+          "stream": 19,
+          "wave_name": "fmfl_arae_01",
+          "wave_hash": "06f9f7f7",
+          "duration_ms": 5034.656
+        },
+        {
+          "key": "FMFL_TRFAM4_10",
+          "sound_key": "FMFL_TRFAM4_10a",
+          "sound": "SFX_PAUSE_320",
+          "subtitle": null,
+          "pause_ms": 320
+        },
+        {
+          "key": "FMFL_TRFAM4_11",
+          "sound_key": "FMFL_TRFAM4_11a",
+          "sound": "FMFL_ARAF",
+          "subtitle": "~z~You'll get over it. You'll see. I did you a favor.",
+          "asset_id": "gta_story_fmfl_araf_01",
+          "stream": 56,
+          "wave_name": "fmfl_araf_01",
+          "wave_hash": "18206812",
+          "duration_ms": 4087.375
+        },
+        {
+          "key": "FMFL_TRFAM4_12",
+          "sound_key": "FMFL_TRFAM4_12a",
+          "sound": "SFX_PAUSE_320",
+          "subtitle": null,
+          "pause_ms": 320
+        },
+        {
+          "key": "FMFL_TRFAM4_13",
+          "sound_key": "FMFL_TRFAM4_13a",
+          "sound": "FMFL_ARAG",
+          "subtitle": "~z~Never! I hate you!",
+          "asset_id": "gta_story_fmfl_arag_01",
+          "stream": 63,
+          "wave_name": "fmfl_arag_01",
+          "wave_hash": "1df145aa",
+          "duration_ms": 1673.656
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Tracey",
+      "contact_label_key": "CELL_125",
+      "portrait_name": "char_tracey",
+      "story_gating_required": true,
+      "duration_seconds": 27.016
+    },
+    {
+      "id": "fmfl_trchill",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 15,
+      "message_id": -881570909,
+      "text_block": "FMFLAUD",
+      "conversation": "FMFL_TRCHILL",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_187, line 8257: func_95(1, 15, 1, 100000, 120000, -881570909,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fmflaud.gxt2",
+      "lines": [
+        {
+          "key": "FMFL_TRCHILL_1",
+          "sound_key": "FMFL_TRCHILL_1a",
+          "sound": "FMFL_ASAA",
+          "subtitle": "~z~Tracey. Baby. You called.",
+          "asset_id": "gta_story_fmfl_asaa_01",
+          "stream": 24,
+          "wave_name": "fmfl_asaa_01",
+          "wave_hash": "09842bb1",
+          "duration_ms": 2406.625
+        },
+        {
+          "key": "FMFL_TRCHILL_2",
+          "sound_key": "FMFL_TRCHILL_2a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "FMFL_TRCHILL_3",
+          "sound_key": "FMFL_TRCHILL_3a",
+          "sound": "FMFL_ASAB",
+          "subtitle": "~z~Yeah. Look, Dad. We're worried.",
+          "asset_id": "gta_story_fmfl_asab_01",
+          "stream": 22,
+          "wave_name": "fmfl_asab_01",
+          "wave_hash": "08ec620d",
+          "duration_ms": 2057.656
+        },
+        {
+          "key": "FMFL_TRCHILL_4",
+          "sound_key": "FMFL_TRCHILL_4a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "FMFL_TRCHILL_5",
+          "sound_key": "FMFL_TRCHILL_5a",
+          "sound": "FMFL_ASAC",
+          "subtitle": "~z~I'm worried, too. I really want to see you.",
+          "asset_id": "gta_story_fmfl_asac_01",
+          "stream": 30,
+          "wave_name": "fmfl_asac_01",
+          "wave_hash": "0cef9fe1",
+          "duration_ms": 2505.781
+        },
+        {
+          "key": "FMFL_TRCHILL_6",
+          "sound_key": "FMFL_TRCHILL_6a",
+          "sound": "SFX_PAUSE_320",
+          "subtitle": null,
+          "pause_ms": 320
+        },
+        {
+          "key": "FMFL_TRCHILL_7",
+          "sound_key": "FMFL_TRCHILL_7a",
+          "sound": "FMFL_ASAD",
+          "subtitle": "~z~Well, I don't want to see you. You need help. Like serious, serious help.",
+          "asset_id": "gta_story_fmfl_asad_01",
+          "stream": 6,
+          "wave_name": "fmfl_asad_01",
+          "wave_hash": "0232faea",
+          "duration_ms": 6429.781
+        },
+        {
+          "key": "FMFL_TRCHILL_8",
+          "sound_key": "FMFL_TRCHILL_8a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "FMFL_TRCHILL_9",
+          "sound_key": "FMFL_TRCHILL_9a",
+          "sound": "FMFL_ASAE",
+          "subtitle": "~z~And if you don't get it, you're gonna be killed.",
+          "asset_id": "gta_story_fmfl_asae_01",
+          "stream": 3,
+          "wave_name": "fmfl_asae_01",
+          "wave_hash": "00dcea4e",
+          "duration_ms": 2956.344
+        },
+        {
+          "key": "FMFL_TRCHILL_10",
+          "sound_key": "FMFL_TRCHILL_10a",
+          "sound": "SFX_PAUSE_260",
+          "subtitle": null,
+          "pause_ms": 260
+        },
+        {
+          "key": "FMFL_TRCHILL_11",
+          "sound_key": "FMFL_TRCHILL_11a",
+          "sound": "FMFL_ASAF",
+          "subtitle": "~z~Tracey, I love you, but you don't know what the fuck you're talking about.",
+          "asset_id": "gta_story_fmfl_asaf_01",
+          "stream": 11,
+          "wave_name": "fmfl_asaf_01",
+          "wave_hash": "0366d6a1",
+          "duration_ms": 5841.594
+        },
+        {
+          "key": "FMFL_TRCHILL_12",
+          "sound_key": "FMFL_TRCHILL_12a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "FMFL_TRCHILL_13",
+          "sound_key": "FMFL_TRCHILL_13a",
+          "sound": "FMFL_ASAG",
+          "subtitle": "~z~I tried, Daddy. That's all I could do.",
+          "asset_id": "gta_story_fmfl_asag_01",
+          "stream": 36,
+          "wave_name": "fmfl_asag_01",
+          "wave_hash": "0f52dacd",
+          "duration_ms": 2442.312
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Tracey",
+      "contact_label_key": "CELL_125",
+      "portrait_name": "char_tracey",
+      "story_gating_required": true,
+      "duration_seconds": 25.96
+    },
+    {
+      "id": "fmfl_am4",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 17,
+      "message_id": 1645231,
+      "text_block": "FMFLAUD",
+      "conversation": "FMFL_AM4",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_190, line 8383: func_95(2, 17, 6, 200000, 100000, 1645231,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/fmflaud.gxt2",
+      "lines": [
+        {
+          "key": "FMFL_AM4_1",
+          "sound_key": "FMFL_AM4_1a",
+          "sound": "FMFL_AQAA",
+          "subtitle": "~z~Hello? Who this?",
+          "asset_id": "gta_story_fmfl_aqaa_01",
+          "stream": 2,
+          "wave_name": "fmfl_aqaa_01",
+          "wave_hash": "00cd8c60",
+          "duration_ms": 845.094
+        },
+        {
+          "key": "FMFL_AM4_2",
+          "sound_key": "FMFL_AM4_2a",
+          "sound": "SFX_PAUSE_460",
+          "subtitle": null,
+          "pause_ms": 460
+        },
+        {
+          "key": "FMFL_AM4_3",
+          "sound_key": "FMFL_AM4_3a",
+          "sound": "FMFL_AQAB",
+          "subtitle": "~z~It's Amanda, Amanda De Santa. We met at my house.",
+          "asset_id": "gta_story_fmfl_aqab_01",
+          "stream": 49,
+          "wave_name": "fmfl_aqab_01",
+          "wave_hash": "159d6332",
+          "duration_ms": 4666.969
+        },
+        {
+          "key": "FMFL_AM4_4",
+          "sound_key": "FMFL_AM4_4a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "FMFL_AM4_5",
+          "sound_key": "FMFL_AM4_5a",
+          "sound": "FMFL_AQAC",
+          "subtitle": "~z~Oh yeah. Uhh, shit. Where you at?",
+          "asset_id": "gta_story_fmfl_aqac_01",
+          "stream": 45,
+          "wave_name": "fmfl_aqac_01",
+          "wave_hash": "13d7effa",
+          "duration_ms": 2318.344
+        },
+        {
+          "key": "FMFL_AM4_6",
+          "sound_key": "FMFL_AM4_6a",
+          "sound": "SFX_PAUSE_400",
+          "subtitle": null,
+          "pause_ms": 400
+        },
+        {
+          "key": "FMFL_AM4_7",
+          "sound_key": "FMFL_AM4_7a",
+          "sound": "FMFL_AQAD",
+          "subtitle": "~z~Look, I know that you and my husband, and Trevor Philips...",
+          "asset_id": "gta_story_fmfl_aqad_01",
+          "stream": 50,
+          "wave_name": "fmfl_aqad_01",
+          "wave_hash": "1601dd49",
+          "duration_ms": 4225.156
+        },
+        {
+          "key": "FMFL_AM4_8",
+          "sound_key": "FMFL_AM4_8a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "FMFL_AM4_9",
+          "sound_key": "FMFL_AM4_9a",
+          "sound": "FMFL_AQAE",
+          "subtitle": "~z~I don't know what the fuck you're up to, but I can make a pretty good guess.",
+          "asset_id": "gta_story_fmfl_aqae_01",
+          "stream": 29,
+          "wave_name": "fmfl_aqae_01",
+          "wave_hash": "0b960d9c",
+          "duration_ms": 3101.844
+        },
+        {
+          "key": "FMFL_AM4_10",
+          "sound_key": "FMFL_AM4_10a",
+          "sound": "SFX_PAUSE_360",
+          "subtitle": null,
+          "pause_ms": 360
+        },
+        {
+          "key": "FMFL_AM4_11",
+          "sound_key": "FMFL_AM4_11a",
+          "sound": "FMFL_AQAF",
+          "subtitle": "~z~There's some weird things going on. Is he okay?",
+          "asset_id": "gta_story_fmfl_aqaf_01",
+          "stream": 12,
+          "wave_name": "fmfl_aqaf_01",
+          "wave_hash": "03bc0b73",
+          "duration_ms": 3083.5
+        },
+        {
+          "key": "FMFL_AM4_12",
+          "sound_key": "FMFL_AM4_12a",
+          "sound": "SFX_PAUSE_300",
+          "subtitle": null,
+          "pause_ms": 300
+        },
+        {
+          "key": "FMFL_AM4_13",
+          "sound_key": "FMFL_AM4_13a",
+          "sound": "FMFL_AQAG",
+          "subtitle": "~z~I don't think okay is the right word, but he's alive. You should call him. He'll appreciate that.",
+          "asset_id": "gta_story_fmfl_aqag_01",
+          "stream": 59,
+          "wave_name": "fmfl_aqag_01",
+          "wave_hash": "1b27f508",
+          "duration_ms": 5442.656
+        },
+        {
+          "key": "FMFL_AM4_14",
+          "sound_key": "FMFL_AM4_14a",
+          "sound": "SFX_PAUSE_300",
+          "subtitle": null,
+          "pause_ms": 300
+        },
+        {
+          "key": "FMFL_AM4_15",
+          "sound_key": "FMFL_AM4_15a",
+          "sound": "FMFL_AQAH",
+          "subtitle": "~z~I don't want to speak to him. I just wanted to know he wasn't dead somewhere.",
+          "asset_id": "gta_story_fmfl_aqah_01",
+          "stream": 46,
+          "wave_name": "fmfl_aqah_01",
+          "wave_hash": "143a9fc8",
+          "duration_ms": 3781.406
+        },
+        {
+          "key": "FMFL_AM4_16",
+          "sound_key": "FMFL_AM4_16a",
+          "sound": "SFX_PAUSE_350",
+          "subtitle": null,
+          "pause_ms": 350
+        },
+        {
+          "key": "FMFL_AM4_17",
+          "sound_key": "FMFL_AM4_17a",
+          "sound": "FMFL_AQAI",
+          "subtitle": "~z~Thanks. Don't tell him I called.",
+          "asset_id": "gta_story_fmfl_aqai_01",
+          "stream": 15,
+          "wave_name": "fmfl_aqai_01",
+          "wave_hash": "05484757",
+          "duration_ms": 2803.531
+        },
+        {
+          "key": "FMFL_AM4_18",
+          "sound_key": "FMFL_AM4_18a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "FMFL_AM4_19",
+          "sound_key": "FMFL_AM4_19a",
+          "sound": "FMFL_AQAJ",
+          "subtitle": "~z~Alright. But look, he ain't doing too good without his family.",
+          "asset_id": "gta_story_fmfl_aqaj_01",
+          "stream": 16,
+          "wave_name": "fmfl_aqaj_01",
+          "wave_hash": "05eb1dad",
+          "duration_ms": 3308.062
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Amanda",
+      "contact_label_key": "CELL_126",
+      "portrait_name": "char_amanda",
+      "story_gating_required": true,
+      "duration_seconds": 36.567
+    },
+    {
+      "id": "exil_mar07",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 31,
+      "message_id": 520422857,
+      "text_block": "EXILAUD",
+      "conversation": "EXIL_MAR07",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_190, line 8384: func_95(4, 31, 6, 240000, 60000, 520422857,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/exilaud.gxt2",
+      "lines": [
+        {
+          "key": "EXIL_MAR07_1",
+          "sound_key": "EXIL_MAR07_1a",
+          "sound": "EXIL_AGAA",
+          "subtitle": "~z~Trevor!!!",
+          "asset_id": "gta_story_exil_agaa_01",
+          "stream": 12,
+          "wave_name": "exil_agaa_01",
+          "wave_hash": "0691525e",
+          "duration_ms": 644.574
+        },
+        {
+          "key": "EXIL_MAR07_2",
+          "sound_key": "EXIL_MAR07_2a",
+          "sound": "SFX_PAUSE_150",
+          "subtitle": null,
+          "pause_ms": 150
+        },
+        {
+          "key": "EXIL_MAR07_3",
+          "sound_key": "EXIL_MAR07_3a",
+          "sound": "EXIL_AGAB",
+          "subtitle": "~z~Martin. You know, I've been thinking about it, and I'm not quite sure if I'm ready to accept an apology.",
+          "asset_id": "gta_story_exil_agab_01",
+          "stream": 1,
+          "wave_name": "exil_agab_01",
+          "wave_hash": "004984eb",
+          "duration_ms": 5547.25
+        },
+        {
+          "key": "EXIL_MAR07_4",
+          "sound_key": "EXIL_MAR07_4a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "EXIL_MAR07_5",
+          "sound_key": "EXIL_MAR07_5a",
+          "sound": "EXIL_AGAC",
+          "subtitle": "~z~Where is my wife?!?",
+          "asset_id": "gta_story_exil_agac_01",
+          "stream": 25,
+          "wave_name": "exil_agac_01",
+          "wave_hash": "0fd67abd",
+          "duration_ms": 1783.0
+        },
+        {
+          "key": "EXIL_MAR07_6",
+          "sound_key": "EXIL_MAR07_6a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "EXIL_MAR07_7",
+          "sound_key": "EXIL_MAR07_7a",
+          "sound": "EXIL_AGAD",
+          "subtitle": "~z~Patricia doesn't want to speak to you, and, frankly, neither do I.",
+          "asset_id": "gta_story_exil_agad_01",
+          "stream": 32,
+          "wave_name": "exil_agad_01",
+          "wave_hash": "13013e0a",
+          "duration_ms": 4370.844
+        },
+        {
+          "key": "EXIL_MAR07_8",
+          "sound_key": "EXIL_MAR07_8a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "EXIL_MAR07_9",
+          "sound_key": "EXIL_MAR07_9a",
+          "sound": "EXIL_AGAE",
+          "subtitle": "~z~I will find you!",
+          "asset_id": "gta_story_exil_agae_01",
+          "stream": 48,
+          "wave_name": "exil_agae_01",
+          "wave_hash": "1a912ecf",
+          "duration_ms": 1600.656
+        },
+        {
+          "key": "EXIL_MAR07_10",
+          "sound_key": "EXIL_MAR07_10a",
+          "sound": "SFX_PAUSE_300",
+          "subtitle": null,
+          "pause_ms": 300
+        },
+        {
+          "key": "EXIL_MAR07_11",
+          "sound_key": "EXIL_MAR07_11a",
+          "sound": "EXIL_AGAF",
+          "subtitle": "~z~M'kay, well, I'll put some coffee on then. I'll see you soon.",
+          "asset_id": "gta_story_exil_agaf_01",
+          "stream": 35,
+          "wave_name": "exil_agaf_01",
+          "wave_hash": "13b5c82b",
+          "duration_ms": 5392.5
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Martin",
+      "contact_label_key": "CELL_144",
+      "portrait_name": "char_martin",
+      "story_gating_required": true,
+      "duration_seconds": 20.409
+    },
+    {
+      "id": "exil_mar05",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 31,
+      "message_id": -1141042322,
+      "text_block": "EXILAUD",
+      "conversation": "EXIL_MAR05",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_190, line 8385: func_95(1, 31, 6, 480000, 60000, -1141042322,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/exilaud.gxt2",
+      "lines": [
+        {
+          "key": "EXIL_MAR05_1",
+          "sound_key": "EXIL_MAR05_1a",
+          "sound": "EXIL_AEAA",
+          "subtitle": "~z~Martin... hey... look...",
+          "asset_id": "gta_story_exil_aeaa_01",
+          "stream": 45,
+          "wave_name": "exil_aeaa_01",
+          "wave_hash": "198e6982",
+          "duration_ms": 1812.125
+        },
+        {
+          "key": "EXIL_MAR05_2",
+          "sound_key": "EXIL_MAR05_2a",
+          "sound": "SFX_PAUSE_140",
+          "subtitle": null,
+          "pause_ms": 140
+        },
+        {
+          "key": "EXIL_MAR05_3",
+          "sound_key": "EXIL_MAR05_3a",
+          "sound": "EXIL_AEAB",
+          "subtitle": "~z~What have you done?! What have you done?!? Where is she?!?",
+          "asset_id": "gta_story_exil_aeab_01",
+          "stream": 44,
+          "wave_name": "exil_aeab_01",
+          "wave_hash": "195dcdb5",
+          "duration_ms": 3840.969
+        },
+        {
+          "key": "EXIL_MAR05_4",
+          "sound_key": "EXIL_MAR05_4a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "EXIL_MAR05_5",
+          "sound_key": "EXIL_MAR05_5a",
+          "sound": "EXIL_AEAC",
+          "subtitle": "~z~She's safe, look, I'm going to find a way to make this right with you...",
+          "asset_id": "gta_story_exil_aeac_01",
+          "stream": 49,
+          "wave_name": "exil_aeac_01",
+          "wave_hash": "1cfb9b23",
+          "duration_ms": 4777.094
+        },
+        {
+          "key": "EXIL_MAR05_6",
+          "sound_key": "EXIL_MAR05_6a",
+          "sound": "SFX_PAUSE_200",
+          "subtitle": null,
+          "pause_ms": 200
+        },
+        {
+          "key": "EXIL_MAR05_7",
+          "sound_key": "EXIL_MAR05_7a",
+          "sound": "EXIL_AEAD",
+          "subtitle": "~z~That will take some doing!!!",
+          "asset_id": "gta_story_exil_aead_01",
+          "stream": 40,
+          "wave_name": "exil_aead_01",
+          "wave_hash": "16ffbf08",
+          "duration_ms": 1306.219
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Martin",
+      "contact_label_key": "CELL_144",
+      "portrait_name": "char_martin",
+      "story_gating_required": true,
+      "duration_seconds": 12.296
+    },
+    {
+      "id": "exl3_steve",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 10,
+      "message_id": -769656371,
+      "text_block": "EXL3AUD",
+      "conversation": "EXL3_STEVE",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_190, line 8413: func_95(4, 10, 0, 6000, 5000, -769656371,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/exl3aud.gxt2",
+      "lines": [
+        {
+          "key": "EXL3_STEVE_1",
+          "sound_key": "EXL3_STEVE_1a",
+          "sound": "EXL3_FCAA",
+          "subtitle": "~z~Hello.",
+          "asset_id": "gta_story_exl3_fcaa_01",
+          "stream": 2,
+          "wave_name": "exl3_fcaa_01",
+          "wave_hash": "0040b07a",
+          "duration_ms": 556.031
+        },
+        {
+          "key": "EXL3_STEVE_2",
+          "sound_key": "EXL3_STEVE_2a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "EXL3_STEVE_3",
+          "sound_key": "EXL3_STEVE_3a",
+          "sound": "EXL3_FCAB",
+          "subtitle": "~z~Townley's on the line, too.",
+          "asset_id": "gta_story_exl3_fcab_01",
+          "stream": 183,
+          "wave_name": "exl3_fcab_01",
+          "wave_hash": "16bcd400",
+          "duration_ms": 1281.969
+        },
+        {
+          "key": "EXL3_STEVE_4",
+          "sound_key": "EXL3_STEVE_4a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "EXL3_STEVE_5",
+          "sound_key": "EXL3_STEVE_5a",
+          "sound": "EXL3_FCAC",
+          "subtitle": "~z~Hey, Trev.",
+          "asset_id": "gta_story_exl3_fcac_01",
+          "stream": 18,
+          "wave_name": "exl3_fcac_01",
+          "wave_hash": "018b7dd6",
+          "duration_ms": 659.406
+        },
+        {
+          "key": "EXL3_STEVE_6",
+          "sound_key": "EXL3_STEVE_6a",
+          "sound": "SFX_PAUSE_240",
+          "subtitle": null,
+          "pause_ms": 240
+        },
+        {
+          "key": "EXL3_STEVE_7",
+          "sound_key": "EXL3_STEVE_7a",
+          "sound": "EXL3_FCAD",
+          "subtitle": "~z~Alright, I need your whole crew over at Cape Catfish, we're moving on the chemical weapons plant.",
+          "asset_id": "gta_story_exl3_fcad_01",
+          "stream": 104,
+          "wave_name": "exl3_fcad_01",
+          "wave_hash": "0cfb20d1",
+          "duration_ms": 5498.906
+        },
+        {
+          "key": "EXL3_STEVE_8",
+          "sound_key": "EXL3_STEVE_8a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "EXL3_STEVE_9",
+          "sound_key": "EXL3_STEVE_9a",
+          "sound": "EXL3_FCAE",
+          "subtitle": "~z~Nah, nah-nah-nah-nah... I just gave something to Lester.",
+          "asset_id": "gta_story_exl3_fcae_01",
+          "stream": 132,
+          "wave_name": "exl3_fcae_01",
+          "wave_hash": "10d2c164",
+          "duration_ms": 3011.656
+        },
+        {
+          "key": "EXL3_STEVE_10",
+          "sound_key": "EXL3_STEVE_10a",
+          "sound": "EXL3_FCAF",
+          "subtitle": "~z~I need to deal with some stuff, get back to Los Santos... just, uh, give me a week.",
+          "asset_id": "gta_story_exl3_fcaf_01",
+          "stream": 65,
+          "wave_name": "exl3_fcaf_01",
+          "wave_hash": "086a4761",
+          "duration_ms": 5236.156
+        },
+        {
+          "key": "EXL3_STEVE_11",
+          "sound_key": "EXL3_STEVE_11a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "EXL3_STEVE_12",
+          "sound_key": "EXL3_STEVE_12a",
+          "sound": "EXL3_FCAG",
+          "subtitle": "~z~We got the equipment with your Paleto money. The gangbanger's already on the way.",
+          "asset_id": "gta_story_exl3_fcag_01",
+          "stream": 73,
+          "wave_name": "exl3_fcag_01",
+          "wave_hash": "09c41ee9",
+          "duration_ms": 4363.969
+        },
+        {
+          "key": "EXL3_STEVE_13",
+          "sound_key": "EXL3_STEVE_13a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "EXL3_STEVE_14",
+          "sound_key": "EXL3_STEVE_14a",
+          "sound": "EXL3_FCAH",
+          "subtitle": "~z~The window is open, my friend, and you are jumping out of it.",
+          "asset_id": "gta_story_exl3_fcah_01",
+          "stream": 31,
+          "wave_name": "exl3_fcah_01",
+          "wave_hash": "030b418f",
+          "duration_ms": 2925.938
+        },
+        {
+          "key": "EXL3_STEVE_15",
+          "sound_key": "EXL3_STEVE_15a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "EXL3_STEVE_16",
+          "sound_key": "EXL3_STEVE_16a",
+          "sound": "EXL3_FCAI",
+          "subtitle": "~z~Shit. Shit!",
+          "asset_id": "gta_story_exl3_fcai_01",
+          "stream": 29,
+          "wave_name": "exl3_fcai_01",
+          "wave_hash": "029ba309",
+          "duration_ms": 1642.938
+        },
+        {
+          "key": "EXL3_STEVE_17",
+          "sound_key": "EXL3_STEVE_17a",
+          "sound": "SFX_OVERLAP_1350",
+          "subtitle": null,
+          "overlap_cue": "SFX_OVERLAP_1350",
+          "timing_unresolved": true
+        },
+        {
+          "key": "EXL3_STEVE_18",
+          "sound_key": "EXL3_STEVE_18a",
+          "sound": "EXL3_FCAJ",
+          "subtitle": "~z~Los Santos ain't going anywhere, bud.",
+          "asset_id": "gta_story_exl3_fcaj_01",
+          "stream": 115,
+          "wave_name": "exl3_fcaj_01",
+          "wave_hash": "0e715c37",
+          "duration_ms": 2363.438
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Conference",
+      "contact_label_key": "CELL_189",
+      "portrait_name": "char_steve_mike_conf",
+      "story_gating_required": true,
+      "duration_seconds": 29.35
+    },
+    {
+      "id": "dhf_c2a",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 24,
+      "message_id": -749738207,
+      "text_block": "DHFAUD",
+      "conversation": "DHF_C2A",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_192, line 8507: func_95(4, 24, 2, 60000, 10000, -749738207,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/dhfaud.gxt2",
+      "lines": [
+        {
+          "key": "DHF_C2A_1",
+          "sound_key": "DHF_C2A_1a",
+          "sound": "DHF_AVAA",
+          "subtitle": "~z~Wade.",
+          "asset_id": "gta_story_dhf_avaa_01",
+          "stream": 21,
+          "wave_name": "dhf_avaa_01",
+          "wave_hash": "0490e06a",
+          "duration_ms": 379.562
+        },
+        {
+          "key": "DHF_C2A_2",
+          "sound_key": "DHF_C2A_2a",
+          "sound": "SFX_PAUSE_290",
+          "subtitle": null,
+          "pause_ms": 290
+        },
+        {
+          "key": "DHF_C2A_3",
+          "sound_key": "DHF_C2A_3a",
+          "sound": "DHF_AVAB",
+          "subtitle": "~z~So, it looks like we're ready to go with everything.",
+          "asset_id": "gta_story_dhf_avab_01",
+          "stream": 77,
+          "wave_name": "dhf_avab_01",
+          "wave_hash": "1cebd59d",
+          "duration_ms": 2816.0
+        },
+        {
+          "key": "DHF_C2A_4",
+          "sound_key": "DHF_C2A_4a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "DHF_C2A_5",
+          "sound_key": "DHF_C2A_5a",
+          "sound": "DHF_AVAC",
+          "subtitle": "~z~Floyd don't think it's a good idea for us to meet at the condo, so maybe we should...",
+          "asset_id": "gta_story_dhf_avac_01",
+          "stream": 28,
+          "wave_name": "dhf_avac_01",
+          "wave_hash": "07078327",
+          "duration_ms": 5226.656
+        },
+        {
+          "key": "DHF_C2A_6",
+          "sound_key": "DHF_C2A_6a",
+          "sound": "DHF_AVAD",
+          "subtitle": "~z~Tell Floyd it is a good idea to meet at the condo. It's a great",
+          "asset_id": "gta_story_dhf_avad_01",
+          "stream": 42,
+          "wave_name": "dhf_avad_01",
+          "wave_hash": "0d959783",
+          "duration_ms": 4563.281
+        },
+        {
+          "key": "DHF_C2A_7",
+          "sound_key": "DHF_C2A_7a",
+          "sound": "SFX_PAUSE_250",
+          "subtitle": null,
+          "pause_ms": 250
+        },
+        {
+          "key": "DHF_C2A_8",
+          "sound_key": "DHF_C2A_8a",
+          "sound": "DHF_AVAE",
+          "subtitle": "~z~idea. And tell him we need chips and dip and prostitutes.",
+          "asset_id": "gta_story_dhf_avae_01",
+          "stream": 30,
+          "wave_name": "dhf_avae_01",
+          "wave_hash": "078c6f0a",
+          "duration_ms": 3658.125
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Wade",
+      "contact_label_key": "CELL_135",
+      "portrait_name": "char_wade",
+      "story_gating_required": true,
+      "duration_seconds": 17.374
+    },
+    {
+      "id": "exil_call2",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 39,
+      "message_id": -1151582404,
+      "text_block": "EXILAUD",
+      "conversation": "EXIL_CALL2",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_192, line 8527: func_95(4, 39, 1, 60000, 60000, -1151582404,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/exilaud.gxt2",
+      "lines": [
+        {
+          "key": "EXIL_CALL2_1",
+          "sound_key": "EXIL_CALL2_1a",
+          "sound": "EXIL_ABAA",
+          "subtitle": "~z~Ah. Brother O'Neil.",
+          "asset_id": "gta_story_exil_abaa_01",
+          "stream": 14,
+          "wave_name": "exil_abaa_01",
+          "wave_hash": "081b67e3",
+          "duration_ms": 2747.031
+        },
+        {
+          "key": "EXIL_CALL2_2",
+          "sound_key": "EXIL_CALL2_2a",
+          "sound": "EXIL_ABAB",
+          "subtitle": "~z~Fuck you, man.",
+          "asset_id": "gta_story_exil_abab_01",
+          "stream": 6,
+          "wave_name": "exil_abab_01",
+          "wave_hash": "023f74d2",
+          "duration_ms": 1182.375
+        },
+        {
+          "key": "EXIL_CALL2_3",
+          "sound_key": "EXIL_CALL2_3a",
+          "sound": "SFX_PAUSE_030",
+          "subtitle": null,
+          "pause_ms": 30
+        },
+        {
+          "key": "EXIL_CALL2_4",
+          "sound_key": "EXIL_CALL2_4a",
+          "sound": "EXIL_ABAC",
+          "subtitle": "~z~Whoa. Whoa. Whoa. You're the guy stealing contracts.",
+          "asset_id": "gta_story_exil_abac_01",
+          "stream": 10,
+          "wave_name": "exil_abac_01",
+          "wave_hash": "053c9d1c",
+          "duration_ms": 4018.812
+        },
+        {
+          "key": "EXIL_CALL2_5",
+          "sound_key": "EXIL_CALL2_5a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "EXIL_CALL2_6",
+          "sound_key": "EXIL_CALL2_6a",
+          "sound": "EXIL_ABAD",
+          "subtitle": "~z~You burned the farm, killed my brothers.",
+          "asset_id": "gta_story_exil_abad_01",
+          "stream": 33,
+          "wave_name": "exil_abad_01",
+          "wave_hash": "130d181f",
+          "duration_ms": 2401.688
+        },
+        {
+          "key": "EXIL_CALL2_7",
+          "sound_key": "EXIL_CALL2_7a",
+          "sound": "SFX_PAUSE_160",
+          "subtitle": null,
+          "pause_ms": 160
+        },
+        {
+          "key": "EXIL_CALL2_8",
+          "sound_key": "EXIL_CALL2_8a",
+          "sound": "EXIL_ABAE",
+          "subtitle": "~z~You had too many brothers. They needed culling.",
+          "asset_id": "gta_story_exil_abae_01",
+          "stream": 19,
+          "wave_name": "exil_abae_01",
+          "wave_hash": "0c90b041",
+          "duration_ms": 3658.625
+        },
+        {
+          "key": "EXIL_CALL2_9",
+          "sound_key": "EXIL_CALL2_9a",
+          "sound": "SFX_PAUSE_170",
+          "subtitle": null,
+          "pause_ms": 170
+        },
+        {
+          "key": "EXIL_CALL2_10",
+          "sound_key": "EXIL_CALL2_10a",
+          "sound": "EXIL_ABAF",
+          "subtitle": "~z~You're fucking dead.",
+          "asset_id": "gta_story_exil_abaf_01",
+          "stream": 38,
+          "wave_name": "exil_abaf_01",
+          "wave_hash": "16671436",
+          "duration_ms": 1717.844
+        },
+        {
+          "key": "EXIL_CALL2_11",
+          "sound_key": "EXIL_CALL2_11a",
+          "sound": "SFX_PAUSE_020",
+          "subtitle": null,
+          "pause_ms": 20
+        },
+        {
+          "key": "EXIL_CALL2_12",
+          "sound_key": "EXIL_CALL2_12a",
+          "sound": "EXIL_ABAG",
+          "subtitle": "~z~Aren't we all? We live and we die, that's our curse.",
+          "asset_id": "gta_story_exil_abag_01",
+          "stream": 42,
+          "wave_name": "exil_abag_01",
+          "wave_hash": "177aea97",
+          "duration_ms": 4810.094
+        },
+        {
+          "key": "EXIL_CALL2_13",
+          "sound_key": "EXIL_CALL2_13a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "EXIL_CALL2_14",
+          "sound_key": "EXIL_CALL2_14a",
+          "sound": "EXIL_ABAH",
+          "subtitle": "~z~Hey, you want to expedite the situation, come fucking find me.",
+          "asset_id": "gta_story_exil_abah_01",
+          "stream": 21,
+          "wave_name": "exil_abah_01",
+          "wave_hash": "0e554919",
+          "duration_ms": 4810.656
+        },
+        {
+          "key": "EXIL_CALL2_15",
+          "sound_key": "EXIL_CALL2_15a",
+          "sound": "SFX_PAUSE_330",
+          "subtitle": null,
+          "pause_ms": 330
+        },
+        {
+          "key": "EXIL_CALL2_16",
+          "sound_key": "EXIL_CALL2_16a",
+          "sound": "EXIL_ABAJ",
+          "subtitle": "~z~Vespucci Beach, Los Santos, you inbred hillbilly fuck.",
+          "asset_id": "gta_story_exil_abaj_01",
+          "stream": 9,
+          "wave_name": "exil_abaj_01",
+          "wave_hash": "034a8af1",
+          "duration_ms": 5973.344
+        },
+        {
+          "key": "EXIL_CALL2_17",
+          "sound_key": "EXIL_CALL2_17a",
+          "sound": "SFX_PAUSE_210",
+          "subtitle": null,
+          "pause_ms": 210
+        },
+        {
+          "key": "EXIL_CALL2_18",
+          "sound_key": "EXIL_CALL2_18a",
+          "sound": "EXIL_ABAI",
+          "subtitle": "~z~I'll be there, man. I don't know when, but I'll be there.",
+          "asset_id": "gta_story_exil_abai_01",
+          "stream": 39,
+          "wave_name": "exil_abai_01",
+          "wave_hash": "16bfb6a4",
+          "duration_ms": 3550.031
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "O'Neil",
+      "contact_label_key": "CELL_E_208",
+      "portrait_name": "char_oneil",
+      "story_gating_required": true,
+      "duration_seconds": 36.16
+    },
+    {
+      "id": "chfl_call1",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 20,
+      "message_id": -1155501333,
+      "text_block": "CHFLAUD",
+      "conversation": "CHFL_CALL1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_193, line 8537: func_95(4, 20, 0, 6000, 30000, -1155501333,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/chflaud.gxt2",
+      "lines": [
+        {
+          "key": "CHFL_CALL1_1",
+          "sound_key": "CHFL_CALL1_1a",
+          "sound": "CHFL_AAAA",
+          "subtitle": "~z~Speak.",
+          "asset_id": "gta_story_chfl_aaaa_01",
+          "stream": 8,
+          "wave_name": "chfl_aaaa_01",
+          "wave_hash": "0e467050",
+          "duration_ms": 422.594
+        },
+        {
+          "key": "CHFL_CALL1_2",
+          "sound_key": "CHFL_CALL1_2a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "CHFL_CALL1_3",
+          "sound_key": "CHFL_CALL1_3a",
+          "sound": "CHFL_AAAB",
+          "subtitle": "~z~You know I don't like using these things. They're listening.",
+          "asset_id": "gta_story_chfl_aaab_01",
+          "stream": 7,
+          "wave_name": "chfl_aaab_01",
+          "wave_hash": "0daa940d",
+          "duration_ms": 3216.438
+        },
+        {
+          "key": "CHFL_CALL1_4",
+          "sound_key": "CHFL_CALL1_4a",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310
+        },
+        {
+          "key": "CHFL_CALL1_5",
+          "sound_key": "CHFL_CALL1_5a",
+          "sound": "CHFL_AAAC",
+          "subtitle": "~z~Then make it quick.",
+          "asset_id": "gta_story_chfl_aaac_01",
+          "stream": 2,
+          "wave_name": "chfl_aaac_01",
+          "wave_hash": "07b7d4cd",
+          "duration_ms": 1304.969
+        },
+        {
+          "key": "CHFL_CALL1_6",
+          "sound_key": "CHFL_CALL1_6a",
+          "sound": "SFX_PAUSE_380",
+          "subtitle": null,
+          "pause_ms": 380
+        },
+        {
+          "key": "CHFL_CALL1_7",
+          "sound_key": "CHFL_CALL1_7a",
+          "sound": "CHFL_AAAD",
+          "subtitle": "~z~That business thing's been set up. The Chinese guy, Mr. Cheng is at the inn.",
+          "asset_id": "gta_story_chfl_aaad_01",
+          "stream": 5,
+          "wave_name": "chfl_aaad_01",
+          "wave_hash": "091caad0",
+          "duration_ms": 5180.469
+        },
+        {
+          "key": "CHFL_CALL1_8",
+          "sound_key": "CHFL_CALL1_8a",
+          "sound": "SFX_PAUSE_290",
+          "subtitle": null,
+          "pause_ms": 290
+        },
+        {
+          "key": "CHFL_CALL1_9",
+          "sound_key": "CHFL_CALL1_9a",
+          "sound": "CHFL_AAAE",
+          "subtitle": "~z~You said that on the phone? What the fuck is wrong with you?!? Damnit, Ron!!!",
+          "asset_id": "gta_story_chfl_aaae_01",
+          "stream": 1,
+          "wave_name": "chfl_aaae_01",
+          "wave_hash": "07b5aa16",
+          "duration_ms": 5505.062
+        },
+        {
+          "key": "CHFL_CALL1_10",
+          "sound_key": "CHFL_CALL1_10a",
+          "sound": "SFX_PAUSE_130",
+          "subtitle": null,
+          "pause_ms": 130
+        },
+        {
+          "key": "CHFL_CALL1_11",
+          "sound_key": "CHFL_CALL1_11a",
+          "sound": "CHFL_AAAF",
+          "subtitle": "~z~Now I'm going to have to discipline you, and you know how I feel about that!!!",
+          "asset_id": "gta_story_chfl_aaaf_01",
+          "stream": 3,
+          "wave_name": "chfl_aaaf_01",
+          "wave_hash": "08a97ace",
+          "duration_ms": 3086.344
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Ron",
+      "contact_label_key": "CELL_129",
+      "portrait_name": "char_ron",
+      "story_gating_required": true,
+      "duration_seconds": 20.136
+    },
+    {
+      "id": "chfl_call2",
+      "role_mask": 4,
+      "roles": [
+        "Trevor"
+      ],
+      "native_contact_id": 20,
+      "message_id": -1155501333,
+      "text_block": "CHFLAUD",
+      "conversation": "CHFL_CALL2",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_193, line 8537: func_95(4, 20, 0, 6000, 30000, -1155501333,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/chflaud.gxt2",
+      "lines": [
+        {
+          "key": "CHFL_CALL2_1",
+          "sound_key": "CHFL_CALL2_1a",
+          "sound": "CHFL_ABAA",
+          "subtitle": "~z~Trevor... hi.",
+          "asset_id": "gta_story_chfl_abaa_01",
+          "stream": 11,
+          "wave_name": "chfl_abaa_01",
+          "wave_hash": "1acc41e4",
+          "duration_ms": 1490.094
+        },
+        {
+          "key": "CHFL_CALL2_2",
+          "sound_key": "CHFL_CALL2_2a",
+          "sound": "SFX_PAUSE_280",
+          "subtitle": null,
+          "pause_ms": 280
+        },
+        {
+          "key": "CHFL_CALL2_3",
+          "sound_key": "CHFL_CALL2_3a",
+          "sound": "CHFL_ABAB",
+          "subtitle": "~z~Why haven't you called about that new opportunity? If you've fucked things up for TP Industries...",
+          "asset_id": "gta_story_chfl_abab_01",
+          "stream": 6,
+          "wave_name": "chfl_abab_01",
+          "wave_hash": "0bc25e1e",
+          "duration_ms": 5870.094
+        },
+        {
+          "key": "CHFL_CALL2_4",
+          "sound_key": "CHFL_CALL2_4a",
+          "sound": "SFX_PAUSE_180",
+          "subtitle": null,
+          "pause_ms": 180
+        },
+        {
+          "key": "CHFL_CALL2_5",
+          "sound_key": "CHFL_CALL2_5a",
+          "sound": "CHFL_ABAC",
+          "subtitle": "~z~No, no. I just thought with everything that's happening... just say the word...",
+          "asset_id": "gta_story_chfl_abac_01",
+          "stream": 10,
+          "wave_name": "chfl_abac_01",
+          "wave_hash": "1a382678",
+          "duration_ms": 5237.438
+        },
+        {
+          "key": "CHFL_CALL2_6",
+          "sound_key": "CHFL_CALL2_6a",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220
+        },
+        {
+          "key": "CHFL_CALL2_7",
+          "sound_key": "CHFL_CALL2_7a",
+          "sound": "CHFL_ABAE",
+          "subtitle": "~z~Mr. Cheng's ready to...",
+          "asset_id": "gta_story_chfl_abae_01",
+          "stream": 9,
+          "wave_name": "chfl_abae_01",
+          "wave_hash": "0fa017d2",
+          "duration_ms": 1805.906
+        },
+        {
+          "key": "CHFL_CALL2_8",
+          "sound_key": "CHFL_CALL2_8a",
+          "sound": "SFX_OVERLAP_040",
+          "subtitle": null,
+          "overlap_cue": "SFX_OVERLAP_040",
+          "timing_unresolved": true
+        },
+        {
+          "key": "CHFL_CALL2_9",
+          "sound_key": "CHFL_CALL2_9a",
+          "sound": "CHFL_ABAD",
+          "subtitle": "~z~The word. I've said it. I'm on my way.",
+          "asset_id": "gta_story_chfl_abad_01",
+          "stream": 4,
+          "wave_name": "chfl_abad_01",
+          "wave_hash": "08f3195b",
+          "duration_ms": 3254.719
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Ron",
+      "contact_label_key": "CELL_129",
+      "portrait_name": "char_ron",
+      "story_gating_required": true,
+      "duration_seconds": 18.338
+    },
+    {
+      "id": "arfl_call_ct",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 18,
+      "message_id": 742578279,
+      "text_block": "ARFLAUD",
+      "conversation": "ARFL_CALL_CT",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_197, line 8739: func_95(2, 18, 1, 4000, 15000, 742578279,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/arflaud.gxt2",
+      "lines": [
+        {
+          "key": "ARFL_CALL_CT_1",
+          "sound_key": "ARFL_CALL_CT_1a",
+          "sound": "ARFL_ACAA",
+          "subtitle": "~z~What's going down?",
+          "asset_id": "gta_story_arfl_acaa_01",
+          "stream": 15,
+          "wave_name": "arfl_acaa_01",
+          "wave_hash": "1a883edf",
+          "duration_ms": 1452.281
+        },
+        {
+          "key": "ARFL_CALL_CT_2",
+          "sound_key": "ARFL_CALL_CT_2a",
+          "sound": "ARFL_ACAB",
+          "subtitle": "~z~Franklin, I must ask you, the last car you reposessed, it was in a terrible state. Was that how you found it?",
+          "asset_id": "gta_story_arfl_acab_01",
+          "stream": 10,
+          "wave_name": "arfl_acab_01",
+          "wave_hash": "0fdea1f9",
+          "duration_ms": 5887.0
+        },
+        {
+          "key": "ARFL_CALL_CT_3",
+          "sound_key": "ARFL_CALL_CT_3a",
+          "sound": "ARFL_ACAC",
+          "subtitle": "~z~Uhh, yeah, man. The dude wrecked it.",
+          "asset_id": "gta_story_arfl_acac_01",
+          "stream": 16,
+          "wave_name": "arfl_acac_01",
+          "wave_hash": "1beb1932",
+          "duration_ms": 2326.156
+        },
+        {
+          "key": "ARFL_CALL_CT_4",
+          "sound_key": "ARFL_CALL_CT_4a",
+          "sound": "ARFL_ACAD",
+          "subtitle": "~z~That's all I need to know for the insurance men. Come to the dealership, I have something to show you.",
+          "asset_id": "gta_story_arfl_acad_01",
+          "stream": 4,
+          "wave_name": "arfl_acad_01",
+          "wave_hash": "07917198",
+          "duration_ms": 4907.844
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Simeon",
+      "contact_label_key": "CELL_127",
+      "portrait_name": "char_simeon",
+      "story_gating_required": true,
+      "duration_seconds": 14.573
+    },
+    {
+      "id": "arfl_call1",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 18,
+      "message_id": 1611093726,
+      "text_block": "ARFLAUD",
+      "conversation": "ARFL_CALL1",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_197, line 8742: func_95(2, 18, 1, 4000, 15000, 1611093726,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/arflaud.gxt2",
+      "lines": [
+        {
+          "key": "ARFL_CALL1_1",
+          "sound_key": "ARFL_CALL1_1a",
+          "sound": "ARFL_AAAD",
+          "subtitle": "~z~Franklin!",
+          "asset_id": "gta_story_arfl_aaad_01",
+          "stream": 5,
+          "wave_name": "arfl_aaad_01",
+          "wave_hash": "09a19d6b",
+          "duration_ms": 1141.344
+        },
+        {
+          "key": "ARFL_CALL1_2",
+          "sound_key": "ARFL_CALL1_2a",
+          "sound": "ARFL_AAAA",
+          "subtitle": "~z~Eh, what's going down, homie?",
+          "asset_id": "gta_story_arfl_aaaa_01",
+          "stream": 17,
+          "wave_name": "arfl_aaaa_01",
+          "wave_hash": "1e4d5b32",
+          "duration_ms": 1220.25
+        },
+        {
+          "key": "ARFL_CALL1_3",
+          "sound_key": "ARFL_CALL1_3a",
+          "sound": "ARFL_AAAB",
+          "subtitle": "~z~The market, my boy. Liquidity's a bitch. Get over here so I can give you the new repo list.",
+          "asset_id": "gta_story_arfl_aaab_01",
+          "stream": 3,
+          "wave_name": "arfl_aaab_01",
+          "wave_hash": "06ddd12a",
+          "duration_ms": 5675.062
+        },
+        {
+          "key": "ARFL_CALL1_4",
+          "sound_key": "ARFL_CALL1_4a",
+          "sound": "ARFL_AAAC",
+          "subtitle": "~z~Alright, dog. I'll be around when I get a chance.",
+          "asset_id": "gta_story_arfl_aaac_01",
+          "stream": 7,
+          "wave_name": "arfl_aaac_01",
+          "wave_hash": "0bfdd168",
+          "duration_ms": 2714.906
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Simeon",
+      "contact_label_key": "CELL_127",
+      "portrait_name": "char_simeon",
+      "story_gating_required": true,
+      "duration_seconds": 10.752
+    },
+    {
+      "id": "arfl_call2",
+      "role_mask": 2,
+      "roles": [
+        "Franklin"
+      ],
+      "native_contact_id": 18,
+      "message_id": -1753640864,
+      "text_block": "ARFLAUD",
+      "conversation": "ARFL_CALL2",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_197, line 8787: func_95(2, 18, 1, 200000, 60000, -1753640864,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/arflaud.gxt2",
+      "lines": [
+        {
+          "key": "ARFL_CALL2_1",
+          "sound_key": "ARFL_CALL2_1a",
+          "sound": "ARFL_ABAA",
+          "subtitle": "~z~Eh, look, man...",
+          "asset_id": "gta_story_arfl_abaa_01",
+          "stream": 11,
+          "wave_name": "arfl_abaa_01",
+          "wave_hash": "1069cd8b",
+          "duration_ms": 913.219
+        },
+        {
+          "key": "ARFL_CALL2_2",
+          "sound_key": "ARFL_CALL2_2a",
+          "sound": "ARFL_ABAB",
+          "subtitle": "~z~\"Look\"? You were like a son to me. Employee of the Month! Does that mean nothing to you?",
+          "asset_id": "gta_story_arfl_abab_01",
+          "stream": 12,
+          "wave_name": "arfl_abab_01",
+          "wave_hash": "165c43d9",
+          "duration_ms": 5800.656
+        },
+        {
+          "key": "ARFL_CALL2_3",
+          "sound_key": "ARFL_CALL2_3a",
+          "sound": "ARFL_ABAC",
+          "subtitle": "~z~Man, the dude had a gun to my head.",
+          "asset_id": "gta_story_arfl_abac_01",
+          "stream": 14,
+          "wave_name": "arfl_abac_01",
+          "wave_hash": "1a753ef2",
+          "duration_ms": 1839.0
+        },
+        {
+          "key": "ARFL_CALL2_4",
+          "sound_key": "ARFL_CALL2_4a",
+          "sound": "ARFL_ABAD",
+          "subtitle": "~z~No loyalty! No integrity! You should have taken the bullet!",
+          "asset_id": "gta_story_arfl_abad_01",
+          "stream": 8,
+          "wave_name": "arfl_abad_01",
+          "wave_hash": "0ccfe31d",
+          "duration_ms": 4100.906
+        },
+        {
+          "key": "ARFL_CALL2_5",
+          "sound_key": "ARFL_CALL2_5a",
+          "sound": "ARFL_ABAE",
+          "subtitle": "~z~My business. My totally legitimate business. You are fucked, my boy. Fucked!",
+          "asset_id": "gta_story_arfl_abae_01",
+          "stream": 1,
+          "wave_name": "arfl_abae_01",
+          "wave_hash": "006bf30f",
+          "duration_ms": 5815.125
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Simeon",
+      "contact_label_key": "CELL_127",
+      "portrait_name": "char_simeon",
+      "story_gating_required": true,
+      "duration_seconds": 18.469
+    },
+    {
+      "id": "lsfl_eng04",
+      "role_mask": 1,
+      "roles": [
+        "Michael"
+      ],
+      "native_contact_id": 46,
+      "message_id": -837794877,
+      "text_block": "LSFLAUD",
+      "conversation": "LSFL_ENG04",
+      "direction": "script-registered phone event",
+      "source_registration": "initial.ysc func_201, line 8996: func_95(1, 46, 6, 300000, 120000, -837794877,...",
+      "source_mapping": "comms_controller.ysc func_87; func_73 message type 0 (phone)",
+      "source_gxt": "x64b.rpf/data/lang/american_rel.rpf/lsflaud.gxt2",
+      "lines": [
+        {
+          "key": "LSFL_ENG04_1",
+          "sound_key": "LSFL_ENG04_1a",
+          "sound": "LSFL_AFAA",
+          "subtitle": "~z~Rickie, from Lifeinvader.",
+          "asset_id": "gta_story_lsfl_afaa_01",
+          "stream": 26,
+          "wave_name": "lsfl_afaa_01",
+          "wave_hash": "1a7eb5ae",
+          "duration_ms": 1694.062
+        },
+        {
+          "key": "LSFL_ENG04_2",
+          "sound_key": "LSFL_ENG04_2a",
+          "sound": "SFX_PAUSE_280",
+          "subtitle": null,
+          "pause_ms": 280
+        },
+        {
+          "key": "LSFL_ENG04_3",
+          "sound_key": "LSFL_ENG04_3a",
+          "sound": "LSFL_AFAB",
+          "subtitle": "~z~Bro, I know you'll find this hard to believe,",
+          "asset_id": "gta_story_lsfl_afab_01",
+          "stream": 28,
+          "wave_name": "lsfl_afab_01",
+          "wave_hash": "1b44b1df",
+          "duration_ms": 2893.406
+        },
+        {
+          "key": "LSFL_ENG04_4",
+          "sound_key": "LSFL_ENG04_4a",
+          "sound": "SFX_PAUSE_230",
+          "subtitle": null,
+          "pause_ms": 230
+        },
+        {
+          "key": "LSFL_ENG04_5",
+          "sound_key": "LSFL_ENG04_5a",
+          "sound": "LSFL_AFAC",
+          "subtitle": "~z~but it's kind of difficult for someone with a middling GPA and bad references to get a job in this climate.",
+          "asset_id": "gta_story_lsfl_afac_01",
+          "stream": 6,
+          "wave_name": "lsfl_afac_01",
+          "wave_hash": "05fb45ab",
+          "duration_ms": 5365.344
+        },
+        {
+          "key": "LSFL_ENG04_6",
+          "sound_key": "LSFL_ENG04_6a",
+          "sound": "SFX_PAUSE_270",
+          "subtitle": null,
+          "pause_ms": 270
+        },
+        {
+          "key": "LSFL_ENG04_7",
+          "sound_key": "LSFL_ENG04_7a",
+          "sound": "LSFL_AFAE",
+          "subtitle": "~z~You gotta help me.",
+          "asset_id": "gta_story_lsfl_afae_01",
+          "stream": 14,
+          "wave_name": "lsfl_afae_01",
+          "wave_hash": "0f4e08d0",
+          "duration_ms": 1205.0
+        },
+        {
+          "key": "LSFL_ENG04_8",
+          "sound_key": "LSFL_ENG04_8a",
+          "sound": "SFX_PAUSE_190",
+          "subtitle": null,
+          "pause_ms": 190
+        },
+        {
+          "key": "LSFL_ENG04_9",
+          "sound_key": "LSFL_ENG04_9a",
+          "sound": "LSFL_AFAD",
+          "subtitle": "~z~Hey, if there's something, I'll call you. That's all I can say. Good luck out there.",
+          "asset_id": "gta_story_lsfl_afad_01",
+          "stream": 5,
+          "wave_name": "lsfl_afad_01",
+          "wave_hash": "04145f21",
+          "duration_ms": 4478.844
+        }
+      ],
+      "complete_speech": true,
+      "unresolved_audio": [],
+      "timing_policy": "Original line order and explicit pauses retained. Overlap cues preserved, not reinterpreted. Needs branch-specific story conditions before random activation.",
+      "contact_name": "Rickie",
+      "contact_label_key": "CELL_E_217",
+      "portrait_name": "char_rickie",
+      "story_gating_required": true,
+      "duration_seconds": 16.607
+    }
+  ]
+}

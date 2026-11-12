@@ -1,0 +1,48 @@
+{
+  "source": "Native GFX iconIndicator / menuIconInfo; no generic drawn red badge",
+  "ifruit": {
+    "atlas": "icons/icons_spritesheet_ifruit.png",
+    "crop": [
+      230,
+      229,
+      255,
+      255
+    ],
+    "output": [
+      26,
+      27
+    ],
+    "shape": 117,
+    "indicator_sprite": 118,
+    "position": "top left of icon, relative to icon center (-36.75,-34.7) native pixels",
+    "number_font_native_px": 17
+  },
+  "badger": {
+    "atlas": "icons/badger_icons_spritesheet_badger.png",
+    "crop": [
+      237,
+      182,
+      253,
+      198
+    ],
+    "output": [
+      16,
+      16
+    ],
+    "shape": 58,
+    "indicator_sprite": 59,
+    "position": "upper right inside icon",
+    "number_on_app_icon": false,
+    "remaining": "Separate native header notification bar implemented"
+  },
+  "facade": {
+    "background_badge": false,
+    "number_font_native_px": 22,
+    "alignment": "right",
+    "glyph_shift_native_px": [
+      -4,
+      7
+    ],
+    "number_position": "upper right of tile; native menuIconInfo is part of homeMenuIcons"
+  }
+}

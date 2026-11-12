@@ -1,0 +1,10 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:ns2="http://www.w3.org/1999/xlink" ns1:objectType="frame" height="15.1px" width="17.0px">
+  <ns0:g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 15.1)">
+    <ns0:use ns1:characterId="203" height="15.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="17.0" ns2:href="#shape0" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:g id="shape0">
+      <ns0:path d="M0.0 -5.9 L4.0 -5.9 4.0 0.0 0.0 0.0 0.0 -5.9 M6.5 -10.0 L10.5 -10.0 10.5 0.0 6.5 0.0 6.5 -10.0 M13.0 -15.1 L17.0 -15.1 17.0 0.0 13.0 0.0 13.0 -15.1" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </ns0:g>
+  </ns0:defs>
+</ns0:svg>

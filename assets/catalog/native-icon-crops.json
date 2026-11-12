@@ -1,0 +1,389 @@
+{
+  "source": "Native GFX shapes and bitmap matrices; Check List uses SIDE_TASKS home glyph, not the CHECKLIST delete-state glyph",
+  "roles": {
+    "ifruit": {
+      "camera": {
+        "bounds": [
+          1,
+          1,
+          51,
+          51
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "115",
+        "frame": "CAMERA"
+      },
+      "texts": {
+        "bounds": [
+          51,
+          1,
+          101,
+          51
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "120",
+        "frame": "TEXT_MESSAGE"
+      },
+      "email": {
+        "bounds": [
+          151,
+          1,
+          201,
+          51
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "124",
+        "frame": "EMAIL"
+      },
+      "contacts": {
+        "bounds": [
+          201,
+          1,
+          251,
+          51
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "126",
+        "frame": "CALL"
+      },
+      "internet": {
+        "bounds": [
+          1,
+          51,
+          51,
+          101
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "128",
+        "frame": "EYEFIND"
+      },
+      "checklist": {
+        "bounds": [
+          201,
+          51,
+          251,
+          101
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "132",
+        "frame": "SIDE_TASKS"
+      },
+      "settings": {
+        "bounds": [
+          151,
+          51,
+          201,
+          101
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "136",
+        "frame": "SETTINGS_2"
+      },
+      "story_calls": {
+        "bounds": [
+          197,
+          211,
+          229,
+          256
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "138",
+        "frame": "MISSED_CALL"
+      },
+      "trackify": {
+        "bounds": [
+          101,
+          1,
+          151,
+          51
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "148",
+        "frame": "TRACKIFY"
+      },
+      "save": {
+        "bounds": [
+          1,
+          150,
+          51,
+          200
+        ],
+        "atlas": "icons/icons_spritesheet_ifruit.png",
+        "shape": "150",
+        "frame": "SAVE"
+      }
+    },
+    "badger": {
+      "camera": {
+        "bounds": [
+          101,
+          91,
+          150,
+          141
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "54",
+        "frame": "CAMERA"
+      },
+      "texts": {
+        "bounds": [
+          52,
+          2,
+          98,
+          40
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "56",
+        "frame": "TEXT_MESSAGE"
+      },
+      "email": {
+        "bounds": [
+          143,
+          5,
+          187,
+          42
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "61",
+        "frame": "EMAIL"
+      },
+      "contacts": {
+        "bounds": [
+          184,
+          1,
+          224,
+          44
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "64",
+        "frame": "CALL",
+        "exclude_polygons": [
+          [
+            [
+              0,
+              0
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              2,
+              42
+            ],
+            [
+              0,
+              42
+            ]
+          ]
+        ]
+      },
+      "internet": {
+        "bounds": [
+          2,
+          42,
+          51,
+          90
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "66",
+        "frame": "EYEFIND"
+      },
+      "checklist": {
+        "bounds": [
+          217,
+          44,
+          254,
+          82
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "74",
+        "frame": "SIDE_TASKS"
+      },
+      "settings": {
+        "bounds": [
+          1,
+          182,
+          48,
+          229
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "83",
+        "frame": "SETTINGS_2",
+        "exclude_polygons": [
+          [
+            [
+              46,
+              41
+            ],
+            [
+              46,
+              46
+            ],
+            [
+              39,
+              46
+            ],
+            [
+              40,
+              45
+            ],
+            [
+              42,
+              44
+            ],
+            [
+              44,
+              42
+            ]
+          ]
+        ]
+      },
+      "story_calls": {
+        "bounds": [
+          162,
+          141,
+          196,
+          188
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "87",
+        "frame": "MISSED_CALL"
+      },
+      "trackify": {
+        "bounds": [
+          104,
+          0,
+          136,
+          44
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "97",
+        "frame": "TRACKIFY"
+      },
+      "save": {
+        "bounds": [
+          52,
+          140,
+          100,
+          174
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png",
+        "shape": "99",
+        "frame": "SAVE"
+      }
+    },
+    "facade": {
+      "camera": {
+        "bounds": [
+          3,
+          4,
+          48,
+          48
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "52",
+        "frame": "CAMERA"
+      },
+      "texts": {
+        "bounds": [
+          57,
+          9,
+          99,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "55",
+        "frame": "TEXT_MESSAGE"
+      },
+      "email": {
+        "bounds": [
+          158,
+          9,
+          201,
+          44
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "57",
+        "frame": "EMAIL"
+      },
+      "contacts": {
+        "bounds": [
+          208,
+          6,
+          248,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "59",
+        "frame": "CALL"
+      },
+      "internet": {
+        "bounds": [
+          5,
+          56,
+          48,
+          97
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "61",
+        "frame": "EYEFIND"
+      },
+      "checklist": {
+        "bounds": [
+          208,
+          54,
+          251,
+          98
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "69",
+        "frame": "SIDE_TASKS"
+      },
+      "settings": {
+        "bounds": [
+          158,
+          52,
+          202,
+          98
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "77",
+        "frame": "SETTINGS_2"
+      },
+      "story_calls": {
+        "bounds": [
+          165,
+          159,
+          191,
+          198
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "79",
+        "frame": "MISSED_CALL"
+      },
+      "trackify": {
+        "bounds": [
+          114,
+          10,
+          140,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "89",
+        "frame": "TRACKIFY"
+      },
+      "save": {
+        "bounds": [
+          3,
+          158,
+          50,
+          195
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png",
+        "shape": "91",
+        "frame": "SAVE"
+      }
+    }
+  }
+}

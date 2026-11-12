@@ -1,0 +1,176 @@
+{
+  "badger": {
+    "atlas": "icons/badger_icons_spritesheet_badger.png",
+    "icon_crops": {
+      "camera": {
+        "bounds": [
+          101,
+          91,
+          150,
+          141
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "texts": {
+        "bounds": [
+          52,
+          2,
+          98,
+          40
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "email": {
+        "bounds": [
+          143,
+          5,
+          187,
+          42
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "contacts": {
+        "bounds": [
+          184,
+          1,
+          224,
+          44
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "internet": {
+        "bounds": [
+          2,
+          42,
+          51,
+          90
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "settings": {
+        "bounds": [
+          1,
+          182,
+          48,
+          229
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "checklist": {
+        "bounds": [
+          6,
+          93,
+          42,
+          134
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "trackify": {
+        "bounds": [
+          104,
+          0,
+          136,
+          44
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      },
+      "save": {
+        "bounds": [
+          52,
+          140,
+          100,
+          174
+        ],
+        "atlas": "icons/badger_icons_spritesheet_badger.png"
+      }
+    },
+    "source": "Native GFX frame labels, shape bounds and bitmap matrices; no guessed atlas grid"
+  },
+  "facade": {
+    "atlas": "icons/facade_icons_spritesheet_facade.png",
+    "icon_crops": {
+      "camera": {
+        "bounds": [
+          3,
+          4,
+          48,
+          48
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "texts": {
+        "bounds": [
+          57,
+          9,
+          99,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "email": {
+        "bounds": [
+          158,
+          9,
+          201,
+          44
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "contacts": {
+        "bounds": [
+          208,
+          6,
+          248,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "internet": {
+        "bounds": [
+          5,
+          56,
+          48,
+          97
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "settings": {
+        "bounds": [
+          158,
+          52,
+          202,
+          98
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "checklist": {
+        "bounds": [
+          58,
+          105,
+          97,
+          146
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "trackify": {
+        "bounds": [
+          114,
+          10,
+          140,
+          46
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      },
+      "save": {
+        "bounds": [
+          3,
+          158,
+          50,
+          195
+        ],
+        "atlas": "icons/facade_icons_spritesheet_facade.png"
+      }
+    },
+    "source": "Native GFX frame labels, shape bounds and bitmap matrices; no guessed atlas grid"
+  }
+}

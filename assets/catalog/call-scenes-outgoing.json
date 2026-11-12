@@ -1,0 +1,592 @@
+{
+  "scenes": [
+    {
+      "id": "out_fpmf",
+      "role_mask": 1,
+      "native_contact_id": 1,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Michael",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpMF_G1",
+          "asset_id": "gta_outgoing_fpmf_aaaa_01",
+          "sound": "FpMF_AAAA",
+          "subtitles": [
+            "~z~Hey Frank."
+          ],
+          "duration_seconds": 0.66540625
+        },
+        {
+          "key": "FpMF_G2",
+          "asset_id": "gta_outgoing_fpmf_abaa_01",
+          "sound": "FpMF_ABAA",
+          "subtitles": [
+            "~z~So, you wanna keep an old man company?"
+          ],
+          "duration_seconds": 1.75684375
+        },
+        {
+          "key": "FpMF_Y1_ok",
+          "asset_id": "gta_outgoing_fpmf_ahaa_01",
+          "sound": "FpMF_AHAA",
+          "subtitles": [
+            "~z~A'ight, man. Let's do it."
+          ],
+          "duration_seconds": 1.27478125
+        },
+        {
+          "key": "FpMF_Y2_ok",
+          "asset_id": "gta_outgoing_fpmf_anaa_01",
+          "sound": "FpMF_ANAA",
+          "subtitles": [
+            "~z~Alright, I'll be there soon."
+          ],
+          "duration_seconds": 1.25940625
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpmt",
+      "role_mask": 1,
+      "native_contact_id": 2,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Michael",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpMT_G1",
+          "asset_id": "gta_outgoing_fpmt_aaaa_01",
+          "sound": "FpMT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.885316083872379
+        },
+        {
+          "key": "FpMT_G2",
+          "asset_id": "gta_outgoing_fpmt_abaa_01",
+          "sound": "FpMT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna do something, hang out?"
+          ],
+          "duration_seconds": 1.8895625
+        },
+        {
+          "key": "FpMT_Y1_ok",
+          "asset_id": "gta_outgoing_fpmt_ahaa_01",
+          "sound": "FpMT_AHAA",
+          "subtitles": [
+            "~z~Absolutely - love to."
+          ],
+          "duration_seconds": 2.292
+        },
+        {
+          "key": "FpMT_Y2_ok",
+          "asset_id": "gta_outgoing_fpmt_anaa_01",
+          "sound": "FpMT_ANAA",
+          "subtitles": [
+            "~z~Cool - I'll swing by."
+          ],
+          "duration_seconds": 1.2441875
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpmj",
+      "role_mask": 1,
+      "native_contact_id": 14,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Michael",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpMJ_G1",
+          "asset_id": "gta_outgoing_fpmj_bfaa_01",
+          "sound": "FpMJ_BFAA",
+          "subtitles": [
+            "~z~Jim, it's your dad."
+          ],
+          "duration_seconds": 1.2670625
+        },
+        {
+          "key": "FpMJ_G2",
+          "asset_id": "gta_outgoing_fpmj_bgaa_01",
+          "sound": "FpMJ_BGAA",
+          "subtitles": [
+            "~z~I thought we could do something."
+          ],
+          "duration_seconds": 1.19446875
+        },
+        {
+          "key": "FpMJ_Y1_ok",
+          "asset_id": "gta_outgoing_fpmj_bhaa_01",
+          "sound": "FpMJ_BHAA",
+          "subtitles": [
+            "~z~Umm, okay, Dad. I guess I could do that."
+          ],
+          "duration_seconds": 3.774625
+        },
+        {
+          "key": "FpMJ_Y2_ok",
+          "asset_id": "gta_outgoing_fpmj_biaa_01",
+          "sound": "FpMJ_BIAA",
+          "subtitles": [
+            "~z~Great. I'll come by and get ya."
+          ],
+          "duration_seconds": 1.75365625
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpma",
+      "role_mask": 1,
+      "native_contact_id": 17,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Michael",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpMA_G1",
+          "asset_id": "gta_outgoing_fpma_bdaa_01",
+          "sound": "FpMA_BDAA",
+          "subtitles": [
+            "~z~Amanda, it's me."
+          ],
+          "duration_seconds": 1.14196875
+        },
+        {
+          "key": "FpMA_G2",
+          "asset_id": "gta_outgoing_fpma_beaa_01",
+          "sound": "FpMA_BEAA",
+          "subtitles": [
+            "~z~What you up to? Want to hang out?"
+          ],
+          "duration_seconds": 1.48359375
+        },
+        {
+          "key": "FpMA_Y1_ok",
+          "asset_id": "gta_outgoing_fpma_bfaa_01",
+          "sound": "FpMA_BFAA",
+          "subtitles": [
+            "~z~Sure why not?"
+          ],
+          "duration_seconds": 1.09915625
+        },
+        {
+          "key": "FpMA_Y2_ok",
+          "asset_id": "gta_outgoing_fpma_anaa_01",
+          "sound": "FpMA_ANAA",
+          "subtitles": [
+            "~z~I'm on my way."
+          ],
+          "duration_seconds": 0.750007812255867
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpfm",
+      "role_mask": 2,
+      "native_contact_id": 0,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Franklin",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpFM_G1",
+          "asset_id": "gta_outgoing_fpfm_aaaa_01",
+          "sound": "FpFM_AAAA",
+          "subtitles": [
+            "~z~Hey, Mike it's me."
+          ],
+          "duration_seconds": 1.08640625
+        },
+        {
+          "key": "FpFM_G2",
+          "asset_id": "gta_outgoing_fpfm_abaa_01",
+          "sound": "FpFM_ABAA",
+          "subtitles": [
+            "~z~You doing anything? You want to hang out?"
+          ],
+          "duration_seconds": 1.74975
+        },
+        {
+          "key": "FpFM_Y1_ok",
+          "asset_id": "gta_outgoing_fpfm_acaa_01",
+          "sound": "FpFM_ACAA",
+          "subtitles": [
+            "~z~Sure."
+          ],
+          "duration_seconds": 0.36815625
+        },
+        {
+          "key": "FpFM_Y2_ok",
+          "asset_id": "gta_outgoing_fpfm_anaa_01",
+          "sound": "FpFM_ANAA",
+          "subtitles": [
+            "~z~Good. I'll see you soon, man."
+          ],
+          "duration_seconds": 1.55071875
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpft",
+      "role_mask": 2,
+      "native_contact_id": 2,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Franklin",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpFT_G1",
+          "asset_id": "gta_outgoing_fpft_aaaa_01",
+          "sound": "FpFT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.758625
+        },
+        {
+          "key": "FpFT_G2",
+          "asset_id": "gta_outgoing_fpft_abaa_01",
+          "sound": "FpFT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna hang out?"
+          ],
+          "duration_seconds": 1.22828125
+        },
+        {
+          "key": "FpFT_Y1_ok",
+          "asset_id": "gta_outgoing_fpft_ahaa_01",
+          "sound": "FpFT_AHAA",
+          "subtitles": [
+            "~z~Oh, absolutely, my young chum - love to."
+          ],
+          "duration_seconds": 3.062125
+        },
+        {
+          "key": "FpFT_Y2_ok",
+          "asset_id": "gta_outgoing_fpft_anaa_01",
+          "sound": "FpFT_ANAA",
+          "subtitles": [
+            "~z~Err... great, I'll be there soon."
+          ],
+          "duration_seconds": 1.86878125
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpfl",
+      "role_mask": 2,
+      "native_contact_id": 19,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Franklin",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpFL_G1",
+          "asset_id": "gta_outgoing_frlfa_aaaa_01",
+          "sound": "FRLFa_AAAA",
+          "subtitles": [
+            "~z~Eh, homie."
+          ],
+          "duration_seconds": 0.616
+        },
+        {
+          "key": "FpFL_G2",
+          "asset_id": "gta_outgoing_frlfa_abaa_01",
+          "sound": "FRLFa_ABAA",
+          "subtitles": [
+            "~z~Eh, how bout we kick it?"
+          ],
+          "duration_seconds": 1.13334375
+        },
+        {
+          "key": "FpFL_Y1_ok",
+          "asset_id": "gta_outgoing_frlfa_acaa_01",
+          "sound": "FRLFa_ACAA",
+          "subtitles": [
+            "~z~Eh, homie. For sure. Well, just come through in a little while."
+          ],
+          "duration_seconds": 2.39728125
+        },
+        {
+          "key": "FpFL_Y2_ok",
+          "asset_id": "gta_outgoing_frlfa_adaa_01",
+          "sound": "FRLFa_ADAA",
+          "subtitles": [
+            "~z~I won't be long."
+          ],
+          "duration_seconds": 0.83740625
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fpfj",
+      "role_mask": 2,
+      "native_contact_id": 14,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Franklin",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpFJ_G1",
+          "asset_id": "gta_outgoing_fpfj_bfaa_01",
+          "sound": "FpFJ_BFAA",
+          "subtitles": [
+            "~z~Jimmy, what's up, man? It's Franklin."
+          ],
+          "duration_seconds": 1.97334375
+        },
+        {
+          "key": "FpFJ_G2",
+          "asset_id": "gta_outgoing_fpfj_bgaa_01",
+          "sound": "FpFJ_BGAA",
+          "subtitles": [
+            "~z~I thought we should do something, dog."
+          ],
+          "duration_seconds": 1.61525
+        },
+        {
+          "key": "FpFJ_Y1_ok",
+          "asset_id": "gta_outgoing_fpfj_bhaa_01",
+          "sound": "FpFJ_BHAA",
+          "subtitles": [
+            "~z~Yes. Awesome! I mean, cool. Pick me up."
+          ],
+          "duration_seconds": 3.8141875
+        },
+        {
+          "key": "FpFJ_Y2_ok",
+          "asset_id": "gta_outgoing_fpfj_biaa_01",
+          "sound": "FpFJ_BIAA",
+          "subtitles": [
+            "~z~A'ight, I'll be there soon."
+          ],
+          "duration_seconds": 1.30253125
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fptm",
+      "role_mask": 4,
+      "native_contact_id": 0,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Trevor",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpTM_G1",
+          "asset_id": "gta_outgoing_fptm_aaaa_01",
+          "sound": "FpTM_AAAA",
+          "subtitles": [
+            "~z~This is a voice from your past."
+          ],
+          "duration_seconds": 2.39765625
+        },
+        {
+          "key": "FpTM_G2",
+          "asset_id": "gta_outgoing_fptm_abaa_01",
+          "sound": "FpTM_ABAA",
+          "subtitles": [
+            "~z~I want to spend some quality time with you."
+          ],
+          "duration_seconds": 2.40284375
+        },
+        {
+          "key": "FpTM_Y1_ok",
+          "asset_id": "gta_outgoing_fptm_ahaa_01",
+          "sound": "FpTM_AHAA",
+          "subtitles": [
+            "~z~Hey Trevor, ahh, yeah, sure."
+          ],
+          "duration_seconds": 2.78434375
+        },
+        {
+          "key": "FpTM_Y2_ok",
+          "asset_id": "gta_outgoing_fptm_anaa_01",
+          "sound": "FpTM_ANAA",
+          "subtitles": [
+            "~z~I'm coming to get you, Michael."
+          ],
+          "duration_seconds": 2.3226875
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fptf",
+      "role_mask": 4,
+      "native_contact_id": 1,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Trevor",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpTF_G1",
+          "asset_id": "gta_outgoing_fptf_aaaa_01",
+          "sound": "FpTF_AAAA",
+          "subtitles": [
+            "~z~Frank, you there?"
+          ],
+          "duration_seconds": 1.110125
+        },
+        {
+          "key": "FpTF_G2",
+          "asset_id": "gta_outgoing_fptf_abaa_01",
+          "sound": "FpTF_ABAA",
+          "subtitles": [
+            "~z~I wanna get close to you, man. Bond."
+          ],
+          "duration_seconds": 2.572
+        },
+        {
+          "key": "FpTF_Y1_ok",
+          "asset_id": "gta_outgoing_fptf_ahaa_01",
+          "sound": "FpTF_AHAA",
+          "subtitles": [
+            "~z~Eh, ahh, a'ight. I'll hang with you."
+          ],
+          "duration_seconds": 2.3923125
+        },
+        {
+          "key": "FpTF_Y2_ok",
+          "asset_id": "gta_outgoing_fptf_anaa_01",
+          "sound": "FpTF_ANAA",
+          "subtitles": [
+            "~z~Fantastic. I'll be there soon."
+          ],
+          "duration_seconds": 1.8363125
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fptl",
+      "role_mask": 4,
+      "native_contact_id": 19,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Trevor",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpTL_G1",
+          "asset_id": "gta_outgoing_fptl_bdaa_01",
+          "sound": "FpTL_BDAA",
+          "subtitles": [
+            "~z~Hey. Lamar."
+          ],
+          "duration_seconds": 0.91784375
+        },
+        {
+          "key": "FpTL_G2",
+          "asset_id": "gta_outgoing_fptl_beaa_01",
+          "sound": "FpTL_BEAA",
+          "subtitles": [
+            "~z~You wanna do something?"
+          ],
+          "duration_seconds": 1.01453125
+        },
+        {
+          "key": "FpTL_Y1_ok",
+          "asset_id": "gta_outgoing_fptl_bfaa_01",
+          "sound": "FpTL_BFAA",
+          "subtitles": [
+            "~z~Okay. Let's do it."
+          ],
+          "duration_seconds": 0.95640625
+        },
+        {
+          "key": "FpTL_Y2_ok",
+          "asset_id": "gta_outgoing_fptl_bgaa_01",
+          "sound": "FpTL_BGAA",
+          "subtitles": [
+            "~z~Stay there. I'm coming."
+          ],
+          "duration_seconds": 1.18378125
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    },
+    {
+      "id": "out_fptj",
+      "role_mask": 4,
+      "native_contact_id": 14,
+      "direction": "outgoing",
+      "incoming": false,
+      "role": "Trevor",
+      "conversation": "Hang Out accepted",
+      "lines": [
+        {
+          "key": "FpTJ_G1",
+          "asset_id": "gta_outgoing_fptj_auaa_01",
+          "sound": "FpTJ_AUAA",
+          "subtitles": [
+            "~z~Jimmy, it's Uncle T."
+          ],
+          "duration_seconds": 2.0253125
+        },
+        {
+          "key": "FpTJ_G2",
+          "asset_id": "gta_outgoing_fptj_avaa_01",
+          "sound": "FpTJ_AVAA",
+          "subtitles": [
+            "~z~I'd like to see you."
+          ],
+          "duration_seconds": 1.0035
+        },
+        {
+          "key": "FpTJ_Y1_ok",
+          "asset_id": "gta_outgoing_fptj_awaa_01",
+          "sound": "FpTJ_AWAA",
+          "subtitles": [
+            "~z~Uhh, okay, Trevor. That sounds good..."
+          ],
+          "duration_seconds": 3.02734375
+        },
+        {
+          "key": "FpTJ_Y2_ok",
+          "asset_id": "gta_outgoing_fptj_axaa_01",
+          "sound": "FpTJ_AXAA",
+          "subtitles": [
+            "~z~Great. I'll be there soon."
+          ],
+          "duration_seconds": 1.78765625
+        }
+      ],
+      "source": "appcontacts CELL_209 Hang Out; friends_controller func_422 -> func_432; func_89 Fp+caller+callee, func_443 G1/G2/Y1_ok/Y2_ok; func_444 accepted default 6/13",
+      "conditions": "Native positive invitation branch with both friends available and normal greeting; local snapshot selects that verified branch. Not all original rejection/activity branches."
+    }
+  ]
+}

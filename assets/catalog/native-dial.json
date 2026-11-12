@@ -1,0 +1,12 @@
+{
+  "programs": [
+    "713b54cf",
+    "a9cb8bfc"
+  ],
+  "preset": "a8b09e12",
+  "dial_ms": 900,
+  "native_gap_ms": 200,
+  "remote_ring_ms": 1000,
+  "local_wait_ms": 3000,
+  "limitations": "Original programs and parameters rendered offline; remote audible branch selected for demo, native random silence branch not replayed; proprietary DSP/envelope equivalence not asserted."
+}

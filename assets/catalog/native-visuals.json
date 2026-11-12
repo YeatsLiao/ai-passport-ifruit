@@ -1,0 +1,461 @@
+{
+  "canvas": [
+    256,
+    344
+  ],
+  "roles": {
+    "ifruit": {
+      "cells": [
+        [
+          18.9,
+          80.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          80.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          80.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          18.9,
+          152.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          152.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          152.0,
+          1.0900116,
+          1.0
+        ],
+        [
+          18.9,
+          224.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          224.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          224.0,
+          1.0899963,
+          1.0
+        ]
+      ],
+      "cell_size": [
+        64,
+        64
+      ],
+      "glyph_origin": [
+        32,
+        32
+      ],
+      "source": "cellphone_ifruit.gfx#HOMEMENU",
+      "status": {
+        "signal": {
+          "path": "icons/native_ifruit_signal.png",
+          "bounds_offset": [
+            -0.0,
+            -15.1
+          ],
+          "size": [
+            16,
+            14
+          ],
+          "sprite": 207
+        },
+        "carrier": {
+          "path": "icons/native_ifruit_carrier.png",
+          "bounds_offset": [
+            -2.0,
+            -0.5
+          ],
+          "size": [
+            15,
+            13
+          ],
+          "sprite": 211
+        },
+        "sleep": {
+          "path": "icons/native_ifruit_sleep.png",
+          "bounds_offset": [
+            0.25,
+            1.2
+          ],
+          "size": [
+            13,
+            11
+          ],
+          "sprite": 213
+        },
+        "battery": {
+          "path": "icons/native_ifruit_battery.png",
+          "bounds_offset": [
+            -0.0,
+            -0.0
+          ],
+          "size": [
+            25,
+            12
+          ],
+          "sprite": 202
+        }
+      }
+    },
+    "badger": {
+      "cells": [
+        [
+          18.9,
+          94.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          94.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          94.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          18.9,
+          166.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          166.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          166.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          18.9,
+          238.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          238.0,
+          1.0899963,
+          1.0
+        ],
+        [
+          166.9,
+          238.0,
+          1.0899963,
+          1.0
+        ]
+      ],
+      "cell_size": [
+        64,
+        64
+      ],
+      "glyph_origin": [
+        32,
+        32
+      ],
+      "source": "cellphone_badger.gfx#HOMEMENU",
+      "status": {
+        "signal": {
+          "path": "icons/native_badger_signal.png",
+          "bounds_offset": [
+            -9.25,
+            -15.1
+          ],
+          "size": [
+            25,
+            14
+          ],
+          "sprite": 158
+        },
+        "carrier": {
+          "path": "icons/native_badger_carrier.png",
+          "bounds_offset": [
+            -2.0,
+            -0.5
+          ],
+          "size": [
+            15,
+            13
+          ],
+          "sprite": 150
+        },
+        "sleep": {
+          "path": "icons/native_badger_sleep.png",
+          "bounds_offset": [
+            -0.0,
+            0.6
+          ],
+          "size": [
+            15,
+            12
+          ],
+          "sprite": 160
+        },
+        "battery": {
+          "path": "icons/native_badger_battery.png",
+          "bounds_offset": [
+            -0.0,
+            -0.0
+          ],
+          "size": [
+            25,
+            11
+          ],
+          "sprite": 152
+        },
+        "notifications": {
+          "path": "icons/native_badger_notifications.png",
+          "bounds_offset": [
+            -7.0,
+            2.0
+          ],
+          "size": [
+            99,
+            24
+          ],
+          "sprite": 133
+        }
+      }
+    },
+    "facade": {
+      "cells": [
+        [
+          14.9,
+          81.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          81.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          170.9,
+          81.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          14.9,
+          153.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          153.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          170.9,
+          153.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          14.9,
+          225.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          92.9,
+          225.5,
+          1.0899963,
+          1.0
+        ],
+        [
+          170.9,
+          225.5,
+          1.0899963,
+          1.0
+        ]
+      ],
+      "cell_size": [
+        64,
+        64
+      ],
+      "glyph_origin": [
+        32,
+        32
+      ],
+      "source": "cellphone_facade.gfx#HOMEMENU",
+      "status": {
+        "signal": {
+          "path": "icons/native_facade_signal.png",
+          "bounds_offset": [
+            -0.0,
+            -0.0
+          ],
+          "size": [
+            26,
+            15
+          ],
+          "sprite": 134
+        },
+        "carrier": {
+          "path": "icons/native_facade_carrier.png",
+          "bounds_offset": [
+            -2.0,
+            -0.5
+          ],
+          "size": [
+            15,
+            13
+          ],
+          "sprite": 138
+        },
+        "sleep": {
+          "path": "icons/native_facade_sleep.png",
+          "bounds_offset": [
+            -1.4,
+            -1.2
+          ],
+          "size": [
+            15,
+            13
+          ],
+          "sprite": 140
+        },
+        "battery": {
+          "path": "icons/native_facade_battery.png",
+          "bounds_offset": [
+            -0.0,
+            -0.0
+          ],
+          "size": [
+            25,
+            12
+          ],
+          "sprite": 127
+        }
+      }
+    }
+  },
+  "glyphs": {
+    "ifruit_sms_unread": {
+      "path": "icons/native_ifruit_sms_unread.png",
+      "shape": 75
+    },
+    "ifruit_sms_read": {
+      "path": "icons/native_ifruit_sms_read.png",
+      "blank": true
+    },
+    "ifruit_email_unread": {
+      "path": "icons/native_ifruit_email_unread.png",
+      "shape": 75
+    },
+    "ifruit_email_read": {
+      "path": "icons/native_ifruit_email_read.png",
+      "blank": true
+    },
+    "badger_sms_unread": {
+      "atlas": "icons/badger_icons_spritesheet_badger.png",
+      "crop": [
+        170,
+        223,
+        196,
+        242
+      ],
+      "shape": "46",
+      "output": [
+        18,
+        18
+      ]
+    },
+    "badger_sms_read": {
+      "atlas": "icons/badger_icons_spritesheet_badger.png",
+      "crop": [
+        114,
+        218,
+        140,
+        242
+      ],
+      "shape": "47",
+      "output": [
+        18,
+        18
+      ]
+    },
+    "badger_email_unread": {
+      "atlas": "icons/badger_icons_spritesheet_badger.png",
+      "crop": [
+        3,
+        229,
+        29,
+        248
+      ],
+      "shape": "113",
+      "output": [
+        18,
+        18
+      ]
+    },
+    "badger_email_read": {
+      "atlas": "icons/badger_icons_spritesheet_badger.png",
+      "crop": [
+        41,
+        220,
+        67,
+        246
+      ],
+      "shape": "114",
+      "output": [
+        18,
+        18
+      ]
+    },
+    "facade_sms_unread": {
+      "path": "icons/native_facade_sms_unread.png",
+      "shape": 12
+    },
+    "facade_sms_read": {
+      "path": "icons/native_facade_sms_read.png",
+      "blank": true
+    },
+    "facade_email_unread": {
+      "path": "icons/native_facade_email_unread.png",
+      "shape": 28
+    },
+    "facade_email_read": {
+      "path": "icons/native_facade_email_read.png",
+      "blank": true
+    }
+  }
+}

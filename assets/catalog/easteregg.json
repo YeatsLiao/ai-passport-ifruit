@@ -1,0 +1,14 @@
+{
+  "kind": "original fan easter egg",
+  "image": "icons/gta6_easteregg_user.png",
+  "entry": "Internet -> last item, Vice City Travel (press Up from first row)",
+  "trigger": "Open poster; confirm or back to return; receive one fictional SMS per role",
+  "message": {
+    "sender": "Unknown / VI",
+    "title": "Wrong city. Right number.",
+    "body": "Wrong city. Right number.\n\nNext stop: Vice City.\n\nChannel VI - Connection lost."
+  },
+  "persistence": "NVS egg_v1 bit mask, separate from state_v4; existing saves retained",
+  "audio": null,
+  "audio_status": "User has supplied image only. No speech file or official GTA6 dialogue is bundled."
+}

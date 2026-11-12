@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "source": "Local replay scheduling around verified original recordings; not live game progress",
+  "daily_scenes": {
+    "Michael": [
+      "mifl_prem",
+      "mifl_tr1"
+    ],
+    "Franklin": [
+      "frfl_1lc",
+      "arfl_call_ct"
+    ],
+    "Trevor": [
+      "pafl_02",
+      "chfl_call1"
+    ]
+  },
+  "daily_cooldown_ms": [
+    120000,
+    240000
+  ],
+  "daily_requires": "Home, normal profile; respects original archive role masks, not native story unlock conditions",
+  "followup_delay_ms": 4000,
+  "followup_text": "Original local linking text visibly marked [Local scene]; original Jimmy missed-call SMS remains its verified game text",
+  "recent_hangout_refusal_ms": 45000,
+  "hangout_branches": [
+    "G1/G2/Y1_ok/Y2_ok",
+    "G1/G2/N1_ok/N2",
+    "G1/G2/N1_ph/N2"
+  ],
+  "native_source": "friends_controller func_443 / func_433; original per-pair GXT2 speech keys and AWC stream hashes in call-scenes-branches.json",
+  "native_task_link": {
+    "fam1_jimmy_yacht": 1
+  },
+  "history_limit": 12,
+  "message_limit": 12,
+  "persistence": "comm_v1 alongside unchanged state_v4; notification delay queue and real-time cooldown reset on restart"
+}

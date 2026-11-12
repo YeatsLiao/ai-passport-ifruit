@@ -1,0 +1,3013 @@
+{
+  "schema": 1,
+  "contacts": [
+    {
+      "native_id": 16,
+      "name": "Abigail",
+      "name_key": "CELL_E_240",
+      "sort_key": 110,
+      "portrait_key": "char_abigail",
+      "portrait_path": "assets/Chars/char_abigail.png",
+      "portrait_status": "present",
+      "number": "3465550126",
+      "number_key": "CELL_MN_27",
+      "registered_answerphone": "ABI_APH1",
+      "answerphone_conversation": "ABI_APH1",
+      "answerphones": [
+        {
+          "conversation": "ABI_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "ABI_APH1_1",
+              "sound_key": "ABI_APH1_1a",
+              "sound": "ANSPH_CFAA",
+              "subtitle": "~z~You've reached Abigail Mathers.",
+              "stream": 101,
+              "wave_hash": "1acdb281",
+              "wave_name": "ansph_cfaa_01",
+              "asset_id": "gta_answerphone_stream_101"
+            },
+            {
+              "key": "ABI_APH1_2",
+              "sound_key": "ABI_APH1_2a",
+              "sound": "ANSPH_CFAB",
+              "subtitle": "~z~Please leave a message if you have any information relating to Frank's death, rather than going to the police.",
+              "stream": 89,
+              "wave_hash": "1859ec0c",
+              "wave_name": "ansph_cfab_01",
+              "asset_id": "gta_answerphone_stream_089"
+            },
+            {
+              "key": "ABI_APH1_3",
+              "sound_key": "ABI_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102279
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 17,
+      "name": "Amanda",
+      "name_key": "CELL_126",
+      "sort_key": 150,
+      "portrait_key": "char_amanda",
+      "portrait_path": "assets/Chars/char_amanda.png",
+      "portrait_status": "present",
+      "number": "3465550118",
+      "number_key": "CELL_1026",
+      "registered_answerphone": "AMA_APH1",
+      "answerphone_conversation": "AMA_APH1",
+      "answerphones": [
+        {
+          "conversation": "AMA_APH2",
+          "condition": "func_8(21) && !func_8(22)",
+          "sequence": [
+            {
+              "key": "AMA_APH2_1",
+              "sound_key": "AMA_APH2_1a",
+              "sound": "ANSPH_AUAA",
+              "subtitle": "~z~This is Amanda - unfortunately I am out of town for a few days, so leave me a message,",
+              "stream": 5,
+              "wave_hash": "0195799a",
+              "wave_name": "ansph_auaa_01",
+              "asset_id": "gta_answerphone_stream_005"
+            },
+            {
+              "key": "AMA_APH2_2",
+              "sound_key": "AMA_APH2_2a",
+              "sound": "SFX_PAUSE_380",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "AMA_APH2_3",
+              "sound_key": "AMA_APH2_3a",
+              "sound": "ANSPH_AUAB",
+              "subtitle": "~z~and if you're my soon to be ex-husband, go fuck yourself.",
+              "stream": 78,
+              "wave_hash": "16f363e5",
+              "wave_name": "ansph_auab_01",
+              "asset_id": "gta_answerphone_stream_078"
+            },
+            {
+              "key": "AMA_APH2_4",
+              "sound_key": "AMA_APH2_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_380",
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        },
+        {
+          "conversation": "AMA_APH1",
+          "condition": "otherwise",
+          "sequence": [
+            {
+              "key": "AMA_APH1_1",
+              "sound_key": "AMA_APH1_1a",
+              "sound": "ANSPH_AIAA",
+              "subtitle": "~z~This is Amanda. Unfortunately I can't come to the phone right now. Namaste.",
+              "stream": 95,
+              "wave_hash": "19a8447f",
+              "wave_name": "ansph_aiaa_01",
+              "asset_id": "gta_answerphone_stream_095"
+            },
+            {
+              "key": "AMA_APH1_2",
+              "sound_key": "AMA_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102280
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 66,
+      "name": "Ashley",
+      "name_key": "CELL_E_202",
+      "sort_key": 178,
+      "portrait_key": "char_ashley",
+      "portrait_path": "assets/Chars/char_ashley.png",
+      "portrait_status": "present",
+      "number": "3465550179",
+      "number_key": "CELL_1070",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102334
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 49,
+      "name": "Barry",
+      "name_key": "CELL_147",
+      "sort_key": 200,
+      "portrait_key": "char_barry",
+      "portrait_path": "assets/Chars/char_barry.png",
+      "portrait_status": "present",
+      "number": "3465550105",
+      "number_key": "CELL_1046",
+      "registered_answerphone": "BAR_APH1",
+      "answerphone_conversation": "BAR_APH1",
+      "answerphones": [
+        {
+          "conversation": "BAR_APH2",
+          "condition": "func_6(7)",
+          "sequence": [
+            {
+              "key": "BAR_APH2_1",
+              "sound_key": "BAR_APH2_1a",
+              "sound": "ANSPH_BLAA",
+              "subtitle": "~z~I am not taking calls right now. If you're that person who keeps withholding his number, and not leaving a message,",
+              "stream": 10,
+              "wave_hash": "03f3fa08",
+              "wave_name": "ansph_blaa_01",
+              "asset_id": "gta_answerphone_stream_010"
+            },
+            {
+              "key": "BAR_APH2_2",
+              "sound_key": "BAR_APH2_2a",
+              "sound": "SFX_PAUSE_160",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "BAR_APH2_3",
+              "sound_key": "BAR_APH2_3a",
+              "sound": "ANSPH_BLAB",
+              "subtitle": "~z~I know who you are.",
+              "stream": 36,
+              "wave_hash": "0bd4f3af",
+              "wave_name": "ansph_blab_01",
+              "asset_id": "gta_answerphone_stream_036"
+            },
+            {
+              "key": "BAR_APH2_4",
+              "sound_key": "BAR_APH2_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_160",
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        },
+        {
+          "conversation": "BAR_APH1",
+          "condition": "otherwise",
+          "sequence": [
+            {
+              "key": "BAR_APH1_1",
+              "sound_key": "BAR_APH1_1a",
+              "sound": "ANSPH_BKAA",
+              "subtitle": "~z~I'm taking a break from the oppression of technology. Leave a message or don't, it's cool,",
+              "stream": 45,
+              "wave_hash": "0d972f4e",
+              "wave_name": "ansph_bkaa_01",
+              "asset_id": "gta_answerphone_stream_045"
+            },
+            {
+              "key": "BAR_APH1_2",
+              "sound_key": "BAR_APH1_2a",
+              "sound": "SFX_PAUSE_150",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "BAR_APH1_3",
+              "sound_key": "BAR_APH1_3a",
+              "sound": "ANSPH_BKAB",
+              "subtitle": "~z~I'm sure it can wait.",
+              "stream": 19,
+              "wave_hash": "064529c9",
+              "wave_name": "ansph_bkab_01",
+              "asset_id": "gta_answerphone_stream_019"
+            },
+            {
+              "key": "BAR_APH1_4",
+              "sound_key": "BAR_APH1_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_150",
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102309
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 50,
+      "name": "Beverly",
+      "name_key": "CELL_148",
+      "sort_key": 220,
+      "portrait_key": "char_beverly",
+      "portrait_path": "assets/Chars/char_beverly.png",
+      "portrait_status": "present",
+      "number": "3285550139",
+      "number_key": "CELL_1047",
+      "registered_answerphone": "BEV_APH1",
+      "answerphone_conversation": "BEV_APH1",
+      "answerphones": [
+        {
+          "conversation": "BEV_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "BEV_APH1_1",
+              "sound_key": "BEV_APH1_1a",
+              "sound": "ANSPH_BHAA",
+              "subtitle": "~z~Hello. I am busy changing the world right now, so hit me up later. Here comes the beep.",
+              "stream": 4,
+              "wave_hash": "01690fdb",
+              "wave_name": "ansph_bhaa_01",
+              "asset_id": "gta_answerphone_stream_004"
+            },
+            {
+              "key": "BEV_APH1_2",
+              "sound_key": "BEV_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102310
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 47,
+      "name": "Chef",
+      "name_key": "CELL_E_224",
+      "sort_key": 330,
+      "portrait_key": "char_chef",
+      "portrait_path": "assets/Chars/char_chef.png",
+      "portrait_status": "present",
+      "number": "6115550111",
+      "number_key": "CELL_MN_28",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102308
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 35,
+      "name": "Cheng Sr.",
+      "name_key": "CELL_200",
+      "sort_key": 355,
+      "portrait_key": "char_chengsr",
+      "portrait_path": "assets/Chars/char_chengsr.png",
+      "portrait_status": "present",
+      "number": "3285550190",
+      "number_key": "CELL_1066",
+      "registered_answerphone": "CHE_APH1",
+      "answerphone_conversation": "CHE_APH1",
+      "answerphones": [
+        {
+          "conversation": "CHE_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "CHE_APH1_1",
+              "sound_key": "CHE_APH1_1a",
+              "sound": "ANSPH_CHAA",
+              "subtitle": "~z~This is the United States phone of Wei Cheng - leave me a message.",
+              "stream": 26,
+              "wave_hash": "07fc5930",
+              "wave_name": "ansph_chaa_01",
+              "asset_id": "gta_answerphone_stream_026"
+            },
+            {
+              "key": "CHE_APH1_2",
+              "sound_key": "CHE_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102298
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 54,
+      "name": "Cletus",
+      "name_key": "CELL_167",
+      "sort_key": 370,
+      "portrait_key": "char_hunter",
+      "portrait_path": "assets/Chars/char_hunter.png",
+      "portrait_status": "present",
+      "number": "3465550174",
+      "number_key": "CELL_1076",
+      "registered_answerphone": "CLE_APH1",
+      "answerphone_conversation": "CLE_APH1",
+      "answerphones": [
+        {
+          "conversation": "CLE_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "CLE_APH1_1",
+              "sound_key": "CLE_APH1_1a",
+              "sound": "ANSPH_CEAA",
+              "subtitle": "~z~This is Cletus. I got both hands on a gun right now, so leave a message.",
+              "stream": 39,
+              "wave_hash": "0beb10a4",
+              "wave_name": "ansph_ceaa_01",
+              "asset_id": "gta_answerphone_stream_039"
+            },
+            {
+              "key": "CLE_APH1_2",
+              "sound_key": "CLE_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102320
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 51,
+      "name": "Cris",
+      "name_key": "CELL_166",
+      "sort_key": 380,
+      "portrait_key": "char_cris",
+      "portrait_path": "assets/Chars/char_cris.png",
+      "portrait_status": "present",
+      "number": "3285550160",
+      "number_key": "CELL_1075",
+      "registered_answerphone": "CRI_APH1",
+      "answerphone_conversation": "CRI_APH1",
+      "answerphones": [
+        {
+          "conversation": "CRI_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "CRI_APH1_1",
+              "sound_key": "CRI_APH1_1a",
+              "sound": "ANSPH_BSAA",
+              "subtitle": "~z~Even though I am everywhere, all at once, I can't get to my phone right now.",
+              "stream": 58,
+              "wave_hash": "10eb7dbd",
+              "wave_name": "ansph_bsaa_01",
+              "asset_id": "gta_answerphone_stream_058"
+            },
+            {
+              "key": "CRI_APH1_2",
+              "sound_key": "CRI_APH1_2a",
+              "sound": "ANSPH_BSAB",
+              "subtitle": "~z~I'm not here, but I'm here. Just as you're not ready, but ready.",
+              "stream": 87,
+              "wave_hash": "182af9a1",
+              "wave_name": "ansph_bsab_01",
+              "asset_id": "gta_answerphone_stream_087"
+            },
+            {
+              "key": "CRI_APH1_3",
+              "sound_key": "CRI_APH1_3a",
+              "sound": "ANSPH_BSAC",
+              "subtitle": "~z~Take control of your existence at epsilonprogram.com. Kifflom.",
+              "stream": 46,
+              "wave_hash": "0dab142e",
+              "wave_name": "ansph_bsac_01",
+              "asset_id": "gta_answerphone_stream_046"
+            },
+            {
+              "key": "CRI_APH1_4",
+              "sound_key": "CRI_APH1_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102317
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 30,
+      "name": "Dave",
+      "name_key": "CELL_143",
+      "sort_key": 420,
+      "portrait_key": "char_dave",
+      "portrait_path": "assets/Chars/char_dave.png",
+      "portrait_status": "present",
+      "number": "2735550132",
+      "number_key": "CELL_1043",
+      "registered_answerphone": "DAV_APH1",
+      "answerphone_conversation": "DAV_APH1",
+      "answerphones": [
+        {
+          "conversation": "DAV_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "DAV_APH1_1",
+              "sound_key": "DAV_APH1_1a",
+              "sound": "ANSPH_BUAA",
+              "subtitle": "~z~Dave Norton. Leave a message.",
+              "stream": 37,
+              "wave_hash": "0bda6d22",
+              "wave_name": "ansph_buaa_01",
+              "asset_id": "gta_answerphone_stream_037"
+            },
+            {
+              "key": "DAV_APH1_2",
+              "sound_key": "DAV_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102293
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 44,
+      "name": "Denise",
+      "name_key": "CELL_E_226",
+      "sort_key": 440,
+      "portrait_key": "char_denise",
+      "portrait_path": "assets/Chars/char_denise.png",
+      "portrait_status": "present",
+      "number": "2735550164",
+      "number_key": "CELL_1074",
+      "registered_answerphone": "DEN_APH1",
+      "answerphone_conversation": "DEN_APH1",
+      "answerphones": [
+        {
+          "conversation": "DEN_APH3",
+          "condition": "func_7(126)",
+          "sequence": [
+            {
+              "key": "DEN_APH3_1",
+              "sound_key": "DEN_APH3_1a",
+              "sound": "ANSPH_CKAA",
+              "subtitle": "~z~This is the Center for the Arts and Feminine sexual energy and feminine sexual arts",
+              "stream": 44,
+              "wave_hash": "0d40e7e7",
+              "wave_name": "ansph_ckaa_01",
+              "asset_id": "gta_answerphone_stream_044"
+            },
+            {
+              "key": "DEN_APH3_2",
+              "sound_key": "DEN_APH3_2a",
+              "sound": "ANSPH_CKAB",
+              "subtitle": "~z~on Forum Drive. Leave us a message or stop by.",
+              "stream": 14,
+              "wave_hash": "05a1b4ec",
+              "wave_name": "ansph_ckab_01",
+              "asset_id": "gta_answerphone_stream_014"
+            },
+            {
+              "key": "DEN_APH3_3",
+              "sound_key": "DEN_APH3_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        },
+        {
+          "conversation": "DEN_APH1",
+          "condition": "otherwise registered default",
+          "sequence": [
+            {
+              "key": "DEN_APH1_1",
+              "sound_key": "DEN_APH1_1a",
+              "sound": "ANSPH_CIAA",
+              "subtitle": "~z~This Denise, I ain't here, so y'all just leave a message.",
+              "stream": 41,
+              "wave_hash": "0c9d156c",
+              "wave_name": "ansph_ciaa_01",
+              "asset_id": "gta_answerphone_stream_041"
+            },
+            {
+              "key": "DEN_APH1_2",
+              "sound_key": "DEN_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102305
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 29,
+      "name": "Devin",
+      "name_key": "CELL_142",
+      "sort_key": 450,
+      "portrait_key": "char_devin",
+      "portrait_path": "assets/Chars/char_devin.png",
+      "portrait_status": "present",
+      "number": "3285550182",
+      "number_key": "CELL_1042",
+      "registered_answerphone": "DEV_APH1",
+      "answerphone_conversation": "DEV_APH1",
+      "answerphones": [
+        {
+          "conversation": "DEV_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "DEV_APH1_1",
+              "sound_key": "DEV_APH1_1a",
+              "sound": "ANSPH_CZAA",
+              "subtitle": "~z~You are through to the exclusive personal line of Devin Weston.",
+              "stream": 107,
+              "wave_hash": "1e0556bc",
+              "wave_name": "ansph_czaa_01",
+              "asset_id": "gta_answerphone_stream_107"
+            },
+            {
+              "key": "DEV_APH1_2",
+              "sound_key": "DEV_APH1_2a",
+              "sound": "ANSPH_CZAB",
+              "subtitle": "~z~Mr. Weston checks this service twice a day, so leave your details, and wait for a response.",
+              "stream": 6,
+              "wave_hash": "019b24aa",
+              "wave_name": "ansph_czab_01",
+              "asset_id": "gta_answerphone_stream_006"
+            },
+            {
+              "key": "DEV_APH1_3",
+              "sound_key": "DEV_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102292
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 52,
+      "name": "Dom",
+      "name_key": "CELL_150",
+      "sort_key": 450,
+      "portrait_key": "char_dom",
+      "portrait_path": "assets/Chars/char_dom.png",
+      "portrait_status": "present",
+      "number": "6115550107",
+      "number_key": "CELL_1049",
+      "registered_answerphone": "ANS_Dbusy",
+      "answerphone_conversation": "ANS_Dbusy",
+      "answerphones": [
+        {
+          "conversation": "ANS_Dbusy",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "ANS_Dbusy_1",
+              "sound_key": "ANS_Dbusy_1a",
+              "sound": "ANSPH_CNAA",
+              "subtitle": "~z~You've reached the Dominator. Call back when I'm not making history.",
+              "stream": 55,
+              "wave_hash": "0fd542b3",
+              "wave_name": "ansph_cnaa_01",
+              "asset_id": "gta_answerphone_stream_055"
+            },
+            {
+              "key": "ANS_Dbusy_2",
+              "sound_key": "ANS_Dbusy_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102318
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 131,
+      "name": "Downtown Cab Co.",
+      "name_key": "CELL_163",
+      "sort_key": 480,
+      "portrait_key": "char_taxi",
+      "portrait_path": "assets/Chars/char_taxi.png",
+      "portrait_status": "present",
+      "number": "3235555555",
+      "number_key": "CELL_1062",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102482
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 36,
+      "name": "Dr. Friedlander",
+      "name_key": "CELL_121",
+      "sort_key": 492,
+      "portrait_key": "char_dr_friedlander",
+      "portrait_path": "assets/Chars/char_dr_friedlander.png",
+      "portrait_status": "present",
+      "number": "3465550134",
+      "number_key": "CELL_1067",
+      "registered_answerphone": "SHR_APH1",
+      "answerphone_conversation": "SHR_APH1",
+      "answerphones": [
+        {
+          "conversation": "SHR_APH3",
+          "condition": "game clock hours >17 or <9",
+          "sequence": [
+            {
+              "key": "SHR_APH3_1",
+              "sound_key": "SHR_APH3_1a",
+              "sound": "ANSPH_BYAA",
+              "subtitle": "~z~This is Dr. Isiah Friedlander.",
+              "stream": 73,
+              "wave_hash": "151d2a02",
+              "wave_name": "ansph_byaa_01",
+              "asset_id": "gta_answerphone_stream_073"
+            },
+            {
+              "key": "SHR_APH3_2",
+              "sound_key": "SHR_APH3_2a",
+              "sound": "ANSPH_BYAB",
+              "subtitle": "~z~My practice is closed now, but you can tune into my new radio show for all your mental health needs.",
+              "stream": 112,
+              "wave_hash": "1f217ac5",
+              "wave_name": "ansph_byab_01",
+              "asset_id": "gta_answerphone_stream_112"
+            },
+            {
+              "key": "SHR_APH3_3",
+              "sound_key": "SHR_APH3_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_01",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_01"
+          ]
+        },
+        {
+          "conversation": "SHR_APH1",
+          "condition": "game clock hours >8 and <13",
+          "sequence": [
+            {
+              "key": "SHR_APH1_1",
+              "sound_key": "SHR_APH1_1a",
+              "sound": "ANSPH_BWAA",
+              "subtitle": "~z~This is Dr. Isiah Friedlander's office.",
+              "stream": 76,
+              "wave_hash": "16b363bb",
+              "wave_name": "ansph_bwaa_01",
+              "asset_id": "gta_answerphone_stream_076"
+            },
+            {
+              "key": "SHR_APH1_2",
+              "sound_key": "SHR_APH1_2a",
+              "sound": "ANSPH_BWAB",
+              "subtitle": "~z~There's no one here right now, leave a message, and we'll book you in as soon as we can. Be well.",
+              "stream": 28,
+              "wave_hash": "09348126",
+              "wave_name": "ansph_bwab_01",
+              "asset_id": "gta_answerphone_stream_028"
+            },
+            {
+              "key": "SHR_APH1_3",
+              "sound_key": "SHR_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_01",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_01"
+          ]
+        },
+        {
+          "conversation": "SHR_APH2",
+          "condition": "game clock hours >12 and <18",
+          "sequence": [
+            {
+              "key": "SHR_APH2_1",
+              "sound_key": "SHR_APH2_1a",
+              "sound": "ANSPH_BXAA",
+              "subtitle": "~z~This is Dr. Isiah Friedlander. I can't come to the phone right now.",
+              "stream": 70,
+              "wave_hash": "14a2c616",
+              "wave_name": "ansph_bxaa_01",
+              "asset_id": "gta_answerphone_stream_070"
+            },
+            {
+              "key": "SHR_APH2_2",
+              "sound_key": "SHR_APH2_2a",
+              "sound": "ANSPH_BXAB",
+              "subtitle": "~z~If you've been trusted with the premium rate emergency line, call it now.",
+              "stream": 84,
+              "wave_hash": "17beac7c",
+              "wave_name": "ansph_bxab_01",
+              "asset_id": "gta_answerphone_stream_084"
+            },
+            {
+              "key": "SHR_APH2_3",
+              "sound_key": "SHR_APH2_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_01",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_01"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102299
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 1,
+      "name": "Franklin",
+      "name_key": "CELL_103",
+      "sort_key": 670,
+      "portrait_key": "char_franklin",
+      "portrait_path": "assets/Chars/char_franklin.png",
+      "portrait_status": "present",
+      "number": "3285550156",
+      "number_key": "CELL_1003",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102237
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 53,
+      "name": "Hao",
+      "name_key": "CELL_E_246",
+      "sort_key": 900,
+      "portrait_key": "char_hao",
+      "portrait_path": "assets/Chars/char_hao.png",
+      "portrait_status": "present",
+      "number": "6115550107",
+      "number_key": "CELL_1049",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102319
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 14,
+      "name": "Jimmy",
+      "name_key": "CELL_124",
+      "sort_key": 1030,
+      "portrait_key": "char_jimmy",
+      "portrait_path": "assets/Chars/char_jimmy.png",
+      "portrait_status": "present",
+      "number": "2735550143",
+      "number_key": "CELL_1024",
+      "registered_answerphone": "JIM_APH1",
+      "answerphone_conversation": "JIM_APH1",
+      "answerphones": [
+        {
+          "conversation": "JIM_APH1",
+          "condition": "!func_8(19)",
+          "sequence": [
+            {
+              "key": "JIM_APH1_1",
+              "sound_key": "JIM_APH1_1a",
+              "sound": "ANSPH_BCAA",
+              "subtitle": "~z~This Big J, aka J Dog, aka Dangerous J...",
+              "stream": 108,
+              "wave_hash": "1e233084",
+              "wave_name": "ansph_bcaa_01",
+              "asset_id": "gta_answerphone_stream_108"
+            },
+            {
+              "key": "JIM_APH1_2",
+              "sound_key": "JIM_APH1_2a",
+              "sound": "SFX_PAUSE_240",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "JIM_APH1_3",
+              "sound_key": "JIM_APH1_3a",
+              "sound": "ANSPH_BCAB",
+              "subtitle": "~z~and I should probably say, like, Jimmy De Santa in case this is in relation to a doctor's appointment or a reservation.",
+              "stream": 31,
+              "wave_hash": "0a7e2a28",
+              "wave_name": "ansph_bcab_01",
+              "asset_id": "gta_answerphone_stream_031"
+            },
+            {
+              "key": "JIM_APH1_4",
+              "sound_key": "JIM_APH1_4a",
+              "sound": "SFX_PAUSE_210",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "JIM_APH1_5",
+              "sound_key": "JIM_APH1_5a",
+              "sound": "ANSPH_BCAC",
+              "subtitle": "~z~Spiz-eak.",
+              "stream": 77,
+              "wave_hash": "16f06a69",
+              "wave_name": "ansph_bcac_01",
+              "asset_id": "gta_answerphone_stream_077"
+            },
+            {
+              "key": "JIM_APH1_6",
+              "sound_key": "JIM_APH1_6a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_240",
+            "SFX_PAUSE_210",
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        },
+        {
+          "conversation": "JIM_APH3",
+          "condition": "func_8(19) && !func_8(21)",
+          "sequence": [
+            {
+              "key": "JIM_APH3_1",
+              "sound_key": "JIM_APH3_1a",
+              "sound": "ANSPH_BEAA",
+              "subtitle": "~z~Eh! This J to the D to the S. Holla at me!",
+              "stream": 57,
+              "wave_hash": "1094ee0c",
+              "wave_name": "ansph_beaa_01",
+              "asset_id": "gta_answerphone_stream_057"
+            },
+            {
+              "key": "JIM_APH3_2",
+              "sound_key": "JIM_APH3_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        },
+        {
+          "conversation": "JIM_APH2",
+          "condition": "func_8(19) && func_8(21) && !func_8(22)",
+          "sequence": [
+            {
+              "key": "JIM_APH2_1",
+              "sound_key": "JIM_APH2_1a",
+              "sound": "ANSPH_BDAA",
+              "subtitle": "~z~You're through to Big J. I'm kinda, like, couch surfing at the moment, so leave your deets.",
+              "stream": 81,
+              "wave_hash": "1743e9c6",
+              "wave_name": "ansph_bdaa_01",
+              "asset_id": "gta_answerphone_stream_081"
+            },
+            {
+              "key": "JIM_APH2_2",
+              "sound_key": "JIM_APH2_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        },
+        {
+          "conversation": "JIM_APH4",
+          "condition": "remaining story state",
+          "sequence": [
+            {
+              "key": "JIM_APH4_1",
+              "sound_key": "JIM_APH4_1a",
+              "sound": "ANSPH_BFAA",
+              "subtitle": "~z~This is James De Santa's personal line. If you've received my resume by email,",
+              "stream": 111,
+              "wave_hash": "1edb5e97",
+              "wave_name": "ansph_bfaa_01",
+              "asset_id": "gta_answerphone_stream_111"
+            },
+            {
+              "key": "JIM_APH4_2",
+              "sound_key": "JIM_APH4_2a",
+              "sound": "ANSPH_BFAB",
+              "subtitle": "~z~and would like to discuss how my combination of street smarts and book knowledge can improve your business,",
+              "stream": 99,
+              "wave_hash": "1a8b0a8c",
+              "wave_name": "ansph_bfab_01",
+              "asset_id": "gta_answerphone_stream_099"
+            },
+            {
+              "key": "JIM_APH4_3",
+              "sound_key": "JIM_APH4_3a",
+              "sound": "SFX_PAUSE_200",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "JIM_APH4_4",
+              "sound_key": "JIM_APH4_4a",
+              "sound": "ANSPH_BFAC",
+              "subtitle": "~z~please leave a message.",
+              "stream": 40,
+              "wave_hash": "0c72716c",
+              "wave_name": "ansph_bfac_01",
+              "asset_id": "gta_answerphone_stream_040"
+            },
+            {
+              "key": "JIM_APH4_5",
+              "sound_key": "JIM_APH4_5a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_200",
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102277
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 55,
+      "name": "Jimmy Boston",
+      "name_key": "CELL_151",
+      "sort_key": 1040,
+      "portrait_key": "char_jimmy_boston",
+      "portrait_path": "assets/Chars/char_jimmy_boston.png",
+      "portrait_status": "present",
+      "number": "3465550148",
+      "number_key": "CELL_1050",
+      "registered_answerphone": "JIB_APH1",
+      "answerphone_conversation": "JIB_APH1",
+      "answerphones": [
+        {
+          "conversation": "JIB_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "JIB_APH1_1",
+              "sound_key": "JIB_APH1_1a",
+              "sound": "ANSPH_BZAA",
+              "subtitle": "~z~This is Jimmy Boston, no point leaving a voicemail. I don't deal with messages - I have people for that.",
+              "stream": 59,
+              "wave_hash": "10fba796",
+              "wave_name": "ansph_bzaa_01",
+              "asset_id": "gta_answerphone_stream_059"
+            },
+            {
+              "key": "JIB_APH1_2",
+              "sound_key": "JIB_APH1_2a",
+              "sound": "ANSPH_BZAB",
+              "subtitle": "~z~Kifflom.",
+              "stream": 12,
+              "wave_hash": "04ee36b4",
+              "wave_name": "ansph_bzab_01",
+              "asset_id": "gta_answerphone_stream_012"
+            },
+            {
+              "key": "JIB_APH1_3",
+              "sound_key": "JIB_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102321
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 56,
+      "name": "Joe",
+      "name_key": "CELL_152",
+      "sort_key": 1060,
+      "portrait_key": "char_joe",
+      "portrait_path": "assets/Chars/char_joe.png",
+      "portrait_status": "present",
+      "number": "6115550128",
+      "number_key": "CELL_1051",
+      "registered_answerphone": "JOE_APH1",
+      "answerphone_conversation": "JOE_APH1",
+      "answerphones": [
+        {
+          "conversation": "JOE_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "JOE_APH1_1",
+              "sound_key": "JOE_APH1_1a",
+              "sound": "ANSPH_CBAA",
+              "subtitle": "~z~Hi, you've reached Joe. Please leave a message in American, i.e. English",
+              "stream": 109,
+              "wave_hash": "1e23cd1b",
+              "wave_name": "ansph_cbaa_01",
+              "asset_id": "gta_answerphone_stream_109"
+            },
+            {
+              "key": "JOE_APH1_2",
+              "sound_key": "JOE_APH1_2a",
+              "sound": "ANSPH_CBAB",
+              "subtitle": "~z~after the tone.",
+              "stream": 66,
+              "wave_hash": "145ef8d3",
+              "wave_name": "ansph_cbab_01",
+              "asset_id": "gta_answerphone_stream_066"
+            },
+            {
+              "key": "JOE_APH1_3",
+              "sound_key": "JOE_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102322
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 58,
+      "name": "Josh",
+      "name_key": "CELL_154",
+      "sort_key": 1080,
+      "portrait_key": "char_josh",
+      "portrait_path": "assets/Chars/char_josh.png",
+      "portrait_status": "present",
+      "number": "6115550169",
+      "number_key": "CELL_1053",
+      "registered_answerphone": "JOS_APH1",
+      "answerphone_conversation": "JOS_APH1",
+      "answerphones": [
+        {
+          "conversation": "JOS_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "JOS_APH1_1",
+              "sound_key": "JOS_APH1_1a",
+              "sound": "ANSPH_BTAA",
+              "subtitle": "~z~You reached Josh Bernstein Realty. I'm out making dreams come true right now.",
+              "stream": 38,
+              "wave_hash": "0bdb70b6",
+              "wave_name": "ansph_btaa_01",
+              "asset_id": "gta_answerphone_stream_038"
+            },
+            {
+              "key": "JOS_APH1_2",
+              "sound_key": "JOS_APH1_2a",
+              "sound": "ANSPH_BTAB",
+              "subtitle": "~z~Leave a message and you could be next!",
+              "stream": 105,
+              "wave_hash": "1cf1cba9",
+              "wave_name": "ansph_btab_01",
+              "asset_id": "gta_answerphone_stream_105"
+            },
+            {
+              "key": "JOS_APH1_3",
+              "sound_key": "JOS_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102324
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 19,
+      "name": "Lamar",
+      "name_key": "CELL_128",
+      "sort_key": 1210,
+      "portrait_key": "char_lamar",
+      "portrait_path": "assets/Chars/char_lamar.png",
+      "portrait_status": "present",
+      "number": "3465550141",
+      "number_key": "CELL_1028",
+      "registered_answerphone": "LAM_APH1",
+      "answerphone_conversation": "LAM_APH1",
+      "answerphones": [
+        {
+          "conversation": "LAM_APH1",
+          "condition": "!func_8(19)",
+          "sequence": [
+            {
+              "key": "LAM_APH1_1",
+              "sound_key": "LAM_APH1_1a",
+              "sound": "ANSPH_AZAA",
+              "subtitle": "~z~This ya boy, LD. Long dick. Holla at me.",
+              "stream": 11,
+              "wave_hash": "04e6901a",
+              "wave_name": "ansph_azaa_01",
+              "asset_id": "gta_answerphone_stream_011"
+            },
+            {
+              "key": "LAM_APH1_2",
+              "sound_key": "LAM_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        },
+        {
+          "conversation": "LAM_APH2",
+          "condition": "func_8(19) && !func_8(20)",
+          "sequence": [
+            {
+              "key": "LAM_APH2_1",
+              "sound_key": "LAM_APH2_1a",
+              "sound": "ANSPH_BAAA",
+              "subtitle": "~z~What's happening bitch? Sorry I can't come to the phone right now, I'm probably doing some gangster shit. Leave a message.",
+              "stream": 16,
+              "wave_hash": "06122725",
+              "wave_name": "ansph_baaa_01",
+              "asset_id": "gta_answerphone_stream_016"
+            },
+            {
+              "key": "LAM_APH2_2",
+              "sound_key": "LAM_APH2_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        },
+        {
+          "conversation": "LAM_APH3",
+          "condition": "otherwise",
+          "sequence": [
+            {
+              "key": "LAM_APH3_1",
+              "sound_key": "LAM_APH3_1a",
+              "sound": "ANSPH_BBAA",
+              "subtitle": "~z~What up, this LD. If you a dude, hang up my line right now. If you's a bitch, leave a message.",
+              "stream": 49,
+              "wave_hash": "0e859d85",
+              "wave_name": "ansph_bbaa_01",
+              "asset_id": "gta_answerphone_stream_049"
+            },
+            {
+              "key": "LAM_APH3_2",
+              "sound_key": "LAM_APH3_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102282
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 12,
+      "name": "Lester",
+      "name_key": "CELL_111",
+      "sort_key": 1240,
+      "portrait_key": "char_lester",
+      "portrait_path": "assets/Chars/char_lester.png",
+      "portrait_status": "original_generic_silhouette_confirmed",
+      "number": "3465550102",
+      "number_key": "CELL_1011",
+      "registered_answerphone": "LES_APH2",
+      "answerphone_conversation": "LES_APH2",
+      "answerphones": [
+        {
+          "conversation": "LES_APH2",
+          "condition": "default story answerphone",
+          "sequence": [
+            {
+              "key": "LES_APH2_1",
+              "sound_key": "LES_APH2_1a",
+              "sound": "ANSPH_BVAA",
+              "subtitle": "~z~Hey, it's Lester. I don't listen to my messages, but I probably listen to yours. Do with that as you will.",
+              "stream": 72,
+              "wave_hash": "14c63841",
+              "wave_name": "ansph_bvaa_01",
+              "asset_id": "gta_answerphone_stream_072"
+            },
+            {
+              "key": "LES_APH2_2",
+              "sound_key": "LES_APH2_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102271
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 60,
+      "name": "Marnie",
+      "name_key": "CELL_157",
+      "sort_key": 1320,
+      "portrait_key": "char_marnie",
+      "portrait_path": "assets/Chars/char_marnie.png",
+      "portrait_status": "present",
+      "number": "6115550181",
+      "number_key": "CELL_1056",
+      "registered_answerphone": "MAR_APH1",
+      "answerphone_conversation": "MAR_APH1",
+      "answerphones": [
+        {
+          "conversation": "MAR_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "MAR_APH1_1",
+              "sound_key": "MAR_APH1_1a",
+              "sound": "ANSPH_BPAA",
+              "subtitle": "~z~I am busy with Kraff's work.",
+              "stream": 23,
+              "wave_hash": "06f7aa57",
+              "wave_name": "ansph_bpaa_01",
+              "asset_id": "gta_answerphone_stream_023"
+            },
+            {
+              "key": "MAR_APH1_2",
+              "sound_key": "MAR_APH1_2a",
+              "sound": "SFX_PAUSE_170",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "MAR_APH1_3",
+              "sound_key": "MAR_APH1_3a",
+              "sound": "ANSPH_BPAB",
+              "subtitle": "~z~If you want to be rich in powerful tools for a very reasonable price,",
+              "stream": 1,
+              "wave_hash": "0012ab3d",
+              "wave_name": "ansph_bpab_01",
+              "asset_id": "gta_answerphone_stream_001"
+            },
+            {
+              "key": "MAR_APH1_4",
+              "sound_key": "MAR_APH1_4a",
+              "sound": "ANSPH_BPAC",
+              "subtitle": "~z~please visit www.epsilonprogram.com.",
+              "stream": 34,
+              "wave_hash": "0b15c159",
+              "wave_name": "ansph_bpac_01",
+              "asset_id": "gta_answerphone_stream_034"
+            },
+            {
+              "key": "MAR_APH1_5",
+              "sound_key": "MAR_APH1_5a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_01",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_170",
+            "SFX_Phone_Generic_Answerphone_Beep_01"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102326
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 31,
+      "name": "Martin",
+      "name_key": "CELL_144",
+      "sort_key": 1330,
+      "portrait_key": "char_martin",
+      "portrait_path": "assets/Chars/char_martin.png",
+      "portrait_status": "present",
+      "number": "3465550188",
+      "number_key": "CELL_1044",
+      "registered_answerphone": "ANS_MMbusy",
+      "answerphone_conversation": "ANS_MMbusy",
+      "answerphones": [
+        {
+          "conversation": "ANS_MMbusy",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "ANS_MMbusy_1",
+              "sound_key": "ANS_MMbusy_1a",
+              "sound": "ANSPH_CPAA",
+              "subtitle": "~z~I cannot come to the phone right now. Call back.",
+              "stream": 88,
+              "wave_hash": "18541b45",
+              "wave_name": "ansph_cpaa_01",
+              "asset_id": "gta_answerphone_stream_088"
+            },
+            {
+              "key": "ANS_MMbusy_2",
+              "sound_key": "ANS_MMbusy_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102294
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 62,
+      "name": "Maude",
+      "name_key": "CELL_E_244",
+      "sort_key": 1340,
+      "portrait_key": "char_maude",
+      "portrait_path": "assets/Chars/char_maude.png",
+      "portrait_status": "present",
+      "number": "3285550185",
+      "number_key": "CELL_1057",
+      "registered_answerphone": "MAU_APH1",
+      "answerphone_conversation": "MAU_APH1",
+      "answerphones": [
+        {
+          "conversation": "MAU_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "MAU_APH1_1",
+              "sound_key": "MAU_APH1_1a",
+              "sound": "ANSPH_CAAA",
+              "subtitle": "~z~This is Maude's of Grapeseed.",
+              "stream": 9,
+              "wave_hash": "03c22494",
+              "wave_name": "ansph_caaa_01",
+              "asset_id": "gta_answerphone_stream_009"
+            },
+            {
+              "key": "MAU_APH1_2",
+              "sound_key": "MAU_APH1_2a",
+              "sound": "ANSPH_CAAB",
+              "subtitle": "~z~Please leave a message if you have any information",
+              "stream": 102,
+              "wave_hash": "1b5417b9",
+              "wave_name": "ansph_caab_01",
+              "asset_id": "gta_answerphone_stream_102"
+            },
+            {
+              "key": "MAU_APH1_3",
+              "sound_key": "MAU_APH1_3a",
+              "sound": "ANSPH_CAAC",
+              "subtitle": "~z~relating to the whereabouts of unaccounted-for delinquents.",
+              "stream": 27,
+              "wave_hash": "080388ac",
+              "wave_name": "ansph_caac_01",
+              "asset_id": "gta_answerphone_stream_027"
+            },
+            {
+              "key": "MAU_APH1_4",
+              "sound_key": "MAU_APH1_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102329
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 0,
+      "name": "Michael",
+      "name_key": "CELL_101",
+      "sort_key": 1360,
+      "portrait_key": "char_michael",
+      "portrait_path": "assets/Chars/char_michael.png",
+      "portrait_status": "present",
+      "number": "3285550108",
+      "number_key": "CELL_1001",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102235
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 45,
+      "name": "Molly",
+      "name_key": "CELL_E_227",
+      "sort_key": 1360,
+      "portrait_key": "char_molly",
+      "portrait_path": "assets/Chars/char_molly.png",
+      "portrait_status": "present",
+      "number": "3465550174",
+      "number_key": "CELL_1076",
+      "registered_answerphone": "MOL_APH1",
+      "answerphone_conversation": "MOL_APH1",
+      "answerphones": [
+        {
+          "conversation": "MOL_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "MOL_APH1_1",
+              "sound_key": "MOL_APH1_1a",
+              "sound": "ANSPH_CYAA",
+              "subtitle": "~z~You have reached Molly Schultz's messaging service.",
+              "stream": 86,
+              "wave_hash": "1827b9fe",
+              "wave_name": "ansph_cyaa_01",
+              "asset_id": "gta_answerphone_stream_086"
+            },
+            {
+              "key": "MOL_APH1_2",
+              "sound_key": "MOL_APH1_2a",
+              "sound": "ANSPH_CYAB",
+              "subtitle": "~z~Leave your details, and a member of the team will endeavour to get back to you.",
+              "stream": 20,
+              "wave_hash": "069ce999",
+              "wave_name": "ansph_cyab_01",
+              "asset_id": "gta_answerphone_stream_020"
+            },
+            {
+              "key": "MOL_APH1_3",
+              "sound_key": "MOL_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102306
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 33,
+      "name": "Military Hitcher",
+      "name_key": "CELL_146",
+      "sort_key": 1380,
+      "portrait_key": "char_gaymilitary",
+      "portrait_path": "assets/Chars/char_gaymilitary.png",
+      "portrait_status": "present",
+      "number": "3285550145",
+      "number_key": "CELL_1045",
+      "registered_answerphone": "MIL_APH1",
+      "answerphone_conversation": "MIL_APH1",
+      "answerphones": [
+        {
+          "conversation": "MIL_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "MIL_APH1_1",
+              "sound_key": "MIL_APH1_1a",
+              "sound": "ANSPH_CGAA",
+              "subtitle": "~z~You've reached First Lieutenant Kyle P Slater. Leave the where, the when",
+              "stream": 35,
+              "wave_hash": "0bb849cb",
+              "wave_name": "ansph_cgaa_01",
+              "asset_id": "gta_answerphone_stream_035"
+            },
+            {
+              "key": "MIL_APH1_2",
+              "sound_key": "MIL_APH1_2a",
+              "sound": "ANSPH_CGAB",
+              "subtitle": "~z~and the how after the tone.",
+              "stream": 50,
+              "wave_hash": "0ea84518",
+              "wave_name": "ansph_cgab_01",
+              "asset_id": "gta_answerphone_stream_050"
+            },
+            {
+              "key": "MIL_APH1_3",
+              "sound_key": "MIL_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102296
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 64,
+      "name": "Nigel",
+      "name_key": "CELL_162",
+      "sort_key": 1430,
+      "portrait_key": "char_nigel",
+      "portrait_path": "assets/Chars/char_nigel.png",
+      "portrait_status": "present",
+      "number": "3465550111",
+      "number_key": "CELL_1061",
+      "registered_answerphone": "NIG_APH1",
+      "answerphone_conversation": "NIG_APH1",
+      "answerphones": [
+        {
+          "conversation": "NIG_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "NIG_APH1_1",
+              "sound_key": "NIG_APH1_1a",
+              "sound": "ANSPH_BIAA",
+              "subtitle": "~z~I am currently on holiday in the United States of America.",
+              "stream": 104,
+              "wave_hash": "1b5c1571",
+              "wave_name": "ansph_biaa_01",
+              "asset_id": "gta_answerphone_stream_104"
+            },
+            {
+              "key": "NIG_APH1_2",
+              "sound_key": "NIG_APH1_2a",
+              "sound": "SFX_PAUSE_190",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "NIG_APH1_3",
+              "sound_key": "NIG_APH1_3a",
+              "sound": "ANSPH_BIAB",
+              "subtitle": "~z~If you are telephoning from England, I will return your call",
+              "stream": 32,
+              "wave_hash": "0aa90be2",
+              "wave_name": "ansph_biab_01",
+              "asset_id": "gta_answerphone_stream_032"
+            },
+            {
+              "key": "NIG_APH1_4",
+              "sound_key": "NIG_APH1_4a",
+              "sound": "ANSPH_BIAC",
+              "subtitle": "~z~as soon as I fathom the plus sign on this mobile.",
+              "stream": 63,
+              "wave_hash": "13d1bf49",
+              "wave_name": "ansph_biac_01",
+              "asset_id": "gta_answerphone_stream_063"
+            },
+            {
+              "key": "NIG_APH1_5",
+              "sound_key": "NIG_APH1_5a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_01",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_190",
+            "SFX_Phone_Generic_Answerphone_Beep_01"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102332
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 69,
+      "name": "Omega",
+      "name_key": "CELL_E_207",
+      "sort_key": 1540,
+      "portrait_key": "char_omega",
+      "portrait_path": "assets/Chars/char_omega.png",
+      "portrait_status": "present",
+      "number": "3465550162",
+      "number_key": "CELL_1079",
+      "registered_answerphone": "OME_APH1",
+      "answerphone_conversation": "OME_APH1",
+      "answerphones": [
+        {
+          "conversation": "OME_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "OME_APH1_1",
+              "sound_key": "OME_APH1_1a",
+              "sound": "ANSPH_BOAA",
+              "subtitle": "~z~I am currently voyaging in the protogalaxy.",
+              "stream": 74,
+              "wave_hash": "154ce440",
+              "wave_name": "ansph_boaa_01",
+              "asset_id": "gta_answerphone_stream_074"
+            },
+            {
+              "key": "OME_APH1_2",
+              "sound_key": "OME_APH1_2a",
+              "sound": "SFX_PAUSE_210",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "OME_APH1_3",
+              "sound_key": "OME_APH1_3a",
+              "sound": "ANSPH_BOAB",
+              "subtitle": "~z~Please disclose your coordinates and I will attempt contact in the next meridian.",
+              "stream": 52,
+              "wave_hash": "0f226716",
+              "wave_name": "ansph_boab_01",
+              "asset_id": "gta_answerphone_stream_052"
+            },
+            {
+              "key": "OME_APH1_4",
+              "sound_key": "OME_APH1_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_210",
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102337
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 34,
+      "name": "Oscar",
+      "name_key": "CELL_164",
+      "sort_key": 1590,
+      "portrait_key": "char_oscar",
+      "portrait_path": "assets/Chars/char_oscar.png",
+      "portrait_status": "present",
+      "number": "2735550125",
+      "number_key": "CELL_1063",
+      "registered_answerphone": "OSC_APH1",
+      "answerphone_conversation": "OSC_APH1",
+      "answerphones": [
+        {
+          "conversation": "OSC_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "OSC_APH1_1",
+              "sound_key": "OSC_APH1_1a",
+              "sound": "ANSPH_BJAA",
+              "subtitle": "~z~This is Oscar, leave a message if it's urgent.",
+              "stream": 80,
+              "wave_hash": "17393d2f",
+              "wave_name": "ansph_bjaa_01",
+              "asset_id": "gta_answerphone_stream_080"
+            },
+            {
+              "key": "OSC_APH1_2",
+              "sound_key": "OSC_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102297
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 40,
+      "name": "Patricia",
+      "name_key": "CELL_E_210",
+      "sort_key": 1620,
+      "portrait_key": "char_patricia",
+      "portrait_path": "assets/Chars/char_patricia.png",
+      "portrait_status": "present",
+      "number": "3285550110",
+      "number_key": "CELL_1071",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102303
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 46,
+      "name": "Rickie",
+      "name_key": "CELL_E_217",
+      "sort_key": 1860,
+      "portrait_key": "char_rickie",
+      "portrait_path": "assets/Chars/char_rickie.png",
+      "portrait_status": "present",
+      "number": "6115550140",
+      "number_key": "CELL_1072",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102307
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 20,
+      "name": "Ron",
+      "name_key": "CELL_129",
+      "sort_key": 1880,
+      "portrait_key": "char_ron",
+      "portrait_path": "assets/Chars/char_ron.png",
+      "portrait_status": "present",
+      "number": "3285550198",
+      "number_key": "CELL_1029",
+      "registered_answerphone": "RON_APH1",
+      "answerphone_conversation": "RON_APH1",
+      "answerphones": [
+        {
+          "conversation": "RON_APH1",
+          "condition": "story mode; Online branch uses ANS_RBusy",
+          "sequence": [
+            {
+              "key": "RON_APH1_1",
+              "sound_key": "RON_APH1_1a",
+              "sound": "ANSPH_BMAA",
+              "subtitle": "~z~My answering machine is being monitored. Be careful what you say. They're listening.",
+              "stream": 48,
+              "wave_hash": "0dffee73",
+              "wave_name": "ansph_bmaa_01",
+              "asset_id": "gta_answerphone_stream_048"
+            },
+            {
+              "key": "RON_APH1_2",
+              "sound_key": "RON_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102283
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 18,
+      "name": "Simeon",
+      "name_key": "CELL_127",
+      "sort_key": 1930,
+      "portrait_key": "char_simeon",
+      "portrait_path": "assets/Chars/char_simeon.png",
+      "portrait_status": "present",
+      "number": "6115550120",
+      "number_key": "CELL_1027",
+      "registered_answerphone": "ANS_Sbusy",
+      "answerphone_conversation": "ANS_Sbusy",
+      "answerphones": [
+        {
+          "conversation": "ANS_Sbusy",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "ANS_Sbusy_1",
+              "sound_key": "ANS_Sbusy_1a",
+              "sound": "ANSPH_CQAA",
+              "subtitle": "~z~Hello friend, I cannot pick up the phone. I will call you back sometime, yes?",
+              "stream": 54,
+              "wave_hash": "0f80c855",
+              "wave_name": "ansph_cqaa_01",
+              "asset_id": "gta_answerphone_stream_054"
+            },
+            {
+              "key": "ANS_Sbusy_2",
+              "sound_key": "ANS_Sbusy_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102281
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 26,
+      "name": "Solomon",
+      "name_key": "CELL_137",
+      "sort_key": 1950,
+      "portrait_key": "char_solomon",
+      "portrait_path": "assets/Chars/char_solomon.png",
+      "portrait_status": "present",
+      "number": "3285550123",
+      "number_key": "CELL_1037",
+      "registered_answerphone": "SOL_APH1",
+      "answerphone_conversation": "SOL_APH1",
+      "answerphones": [
+        {
+          "conversation": "SOL_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "SOL_APH1_1",
+              "sound_key": "SOL_APH1_1a",
+              "sound": "ANSPH_CDAA",
+              "subtitle": "~z~I just speak into the thing? What? This is a humiliation too far.",
+              "stream": 30,
+              "wave_hash": "0950f6e0",
+              "wave_name": "ansph_cdaa_01",
+              "asset_id": "gta_answerphone_stream_030"
+            },
+            {
+              "key": "SOL_APH1_2",
+              "sound_key": "SOL_APH1_2a",
+              "sound": "ANSPH_CDAB",
+              "subtitle": "~z~No one in this town answers their own phone! And I'm supposed to be on my own answering machine?",
+              "stream": 25,
+              "wave_hash": "07ac772c",
+              "wave_name": "ansph_cdab_01",
+              "asset_id": "gta_answerphone_stream_025"
+            },
+            {
+              "key": "SOL_APH1_3",
+              "sound_key": "SOL_APH1_3a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102289
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 23,
+      "name": "Steve",
+      "name_key": "CELL_134",
+      "sort_key": 1970,
+      "portrait_key": "char_steve",
+      "portrait_path": "assets/Chars/char_steve.png",
+      "portrait_status": "present",
+      "number": "3285550150",
+      "number_key": "CELL_1034",
+      "registered_answerphone": "STE_APH1",
+      "answerphone_conversation": "STE_APH1",
+      "answerphones": [
+        {
+          "conversation": "STE_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "STE_APH1_1",
+              "sound_key": "STE_APH1_1a",
+              "sound": "ANSPH_BRAA",
+              "subtitle": "~z~Agent Steve Haines - FIB, Los Santos Division. Leave a message.",
+              "stream": 113,
+              "wave_hash": "1f2c8cc0",
+              "wave_name": "ansph_braa_01",
+              "asset_id": "gta_answerphone_stream_113"
+            },
+            {
+              "key": "STE_APH1_2",
+              "sound_key": "STE_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102286
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 37,
+      "name": "Stretch",
+      "name_key": "CELL_122",
+      "sort_key": 1977,
+      "portrait_key": "char_stretch",
+      "portrait_path": "assets/Chars/char_stretch.png",
+      "portrait_status": "present",
+      "number": "3465550122",
+      "number_key": "CELL_1068",
+      "registered_answerphone": "STR_APH1",
+      "answerphone_conversation": "STR_APH1",
+      "answerphones": [
+        {
+          "conversation": "STR_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "STR_APH1_1",
+              "sound_key": "STR_APH1_1a",
+              "sound": "ANSPH_BQAA",
+              "subtitle": "~z~Strizetch is out, y'all. Still on the same cell, so holla at me. Ya dig?",
+              "stream": 94,
+              "wave_hash": "19578242",
+              "wave_name": "ansph_bqaa_01",
+              "asset_id": "gta_answerphone_stream_094"
+            },
+            {
+              "key": "STR_APH1_2",
+              "sound_key": "STR_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_05",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_05"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102300
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 43,
+      "name": "Tanisha",
+      "name_key": "CELL_E_218",
+      "sort_key": 2010,
+      "portrait_key": "char_tanisha",
+      "portrait_path": "assets/Chars/char_tanisha.png",
+      "portrait_status": "present",
+      "number": "3285550180",
+      "number_key": "CELL_1073",
+      "registered_answerphone": "TAN_APH1",
+      "answerphone_conversation": "TAN_APH1",
+      "answerphones": [
+        {
+          "conversation": "TAN_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "TAN_APH1_1",
+              "sound_key": "TAN_APH1_1a",
+              "sound": "ANSPH_CMAA",
+              "subtitle": "~z~This is Tanisha Jackson. I guess I'm busy so you know what to do.",
+              "stream": 53,
+              "wave_hash": "0f45990e",
+              "wave_name": "ansph_cmaa_01",
+              "asset_id": "gta_answerphone_stream_053"
+            },
+            {
+              "key": "TAN_APH1_2",
+              "sound_key": "TAN_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102304
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 103,
+      "name": "Tonya",
+      "name_key": "CELL_E_223",
+      "sort_key": 2040,
+      "portrait_key": "char_tow_tonya",
+      "portrait_path": "assets/Chars/char_tow_tonya.png",
+      "portrait_status": "present",
+      "number": "6115550199",
+      "number_key": "CELL_1090",
+      "registered_answerphone": "TON_APH1",
+      "answerphone_conversation": "TON_APH1",
+      "answerphones": [
+        {
+          "conversation": "TON_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "TON_APH1_1",
+              "sound_key": "TON_APH1_1a",
+              "sound": "ANSPH_BGAA",
+              "subtitle": "~z~Tonya's busy with it. Holla at the beep.",
+              "stream": 64,
+              "wave_hash": "13e8081f",
+              "wave_name": "ansph_bgaa_01",
+              "asset_id": "gta_answerphone_stream_064"
+            },
+            {
+              "key": "TON_APH1_2",
+              "sound_key": "TON_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_03",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_03"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102369
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 15,
+      "name": "Tracey",
+      "name_key": "CELL_125",
+      "sort_key": 2050,
+      "portrait_key": "char_tracey",
+      "portrait_path": "assets/Chars/char_tracey.png",
+      "portrait_status": "present",
+      "number": "2735550168",
+      "number_key": "CELL_1025",
+      "registered_answerphone": "TRA_APH1",
+      "answerphone_conversation": "TRA_APH1",
+      "answerphones": [
+        {
+          "conversation": "TRA_APH1",
+          "condition": "!func_8(19)",
+          "sequence": [
+            {
+              "key": "TRA_APH1_1",
+              "sound_key": "TRA_APH1_1a",
+              "sound": "ANSPH_AHAA",
+              "subtitle": "~z~Hi, this is Tracey. Please leave a message.",
+              "stream": 24,
+              "wave_hash": "07426168",
+              "wave_name": "ansph_ahaa_01",
+              "asset_id": "gta_answerphone_stream_024"
+            },
+            {
+              "key": "TRA_APH1_2",
+              "sound_key": "TRA_APH1_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        },
+        {
+          "conversation": "TRA_APH2",
+          "condition": "func_8(19) && !func_8(20)",
+          "sequence": [
+            {
+              "key": "TRA_APH2_1",
+              "sound_key": "TRA_APH2_1a",
+              "sound": "ANSPH_AWAA",
+              "subtitle": "~z~You got Tracey D to the S. Leave it on the tone.",
+              "stream": 29,
+              "wave_hash": "09398f83",
+              "wave_name": "ansph_awaa_01",
+              "asset_id": "gta_answerphone_stream_029"
+            },
+            {
+              "key": "TRA_APH2_2",
+              "sound_key": "TRA_APH2_2a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        },
+        {
+          "conversation": "TRA_APH3",
+          "condition": "func_8(19) && func_8(20) && !func_8(22)",
+          "sequence": [
+            {
+              "key": "TRA_APH3_1",
+              "sound_key": "TRA_APH3_1a",
+              "sound": "ANSPH_AXAA",
+              "subtitle": "~z~You're through to Tracey Suxx. If you're horny, leave a message, and I'll listen to it live on cam.",
+              "stream": 61,
+              "wave_hash": "11625fa9",
+              "wave_name": "ansph_axaa_01",
+              "asset_id": "gta_answerphone_stream_061"
+            },
+            {
+              "key": "TRA_APH3_2",
+              "sound_key": "TRA_APH3_2a",
+              "sound": "SFX_PAUSE_280",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "TRA_APH3_3",
+              "sound_key": "TRA_APH3_3a",
+              "sound": "ANSPH_AXAB",
+              "subtitle": "~z~The hotter the better.",
+              "stream": 110,
+              "wave_hash": "1e2d4e99",
+              "wave_name": "ansph_axab_01",
+              "asset_id": "gta_answerphone_stream_110"
+            },
+            {
+              "key": "TRA_APH3_4",
+              "sound_key": "TRA_APH3_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_280",
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        },
+        {
+          "conversation": "TRA_APH4",
+          "condition": "remaining story state",
+          "sequence": [
+            {
+              "key": "TRA_APH4_1",
+              "sound_key": "TRA_APH4_1a",
+              "sound": "ANSPH_AYAA",
+              "subtitle": "~z~This is Tracey De Santa, I'm probably studying so... psych!",
+              "stream": 68,
+              "wave_hash": "148f0804",
+              "wave_name": "ansph_ayaa_01",
+              "asset_id": "gta_answerphone_stream_068"
+            },
+            {
+              "key": "TRA_APH4_2",
+              "sound_key": "TRA_APH4_2a",
+              "sound": "SFX_PAUSE_250",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "TRA_APH4_3",
+              "sound_key": "TRA_APH4_3a",
+              "sound": "ANSPH_AYAB",
+              "subtitle": "~z~Uh, leave a message and we'll hang.",
+              "stream": 91,
+              "wave_hash": "18dd86c8",
+              "wave_name": "ansph_ayab_01",
+              "asset_id": "gta_answerphone_stream_091"
+            },
+            {
+              "key": "TRA_APH4_4",
+              "sound_key": "TRA_APH4_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_02",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_250",
+            "SFX_Phone_Generic_Answerphone_Beep_02"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102278
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 2,
+      "name": "Trevor",
+      "name_key": "CELL_102",
+      "sort_key": 2070,
+      "portrait_key": "char_trevor",
+      "portrait_path": "assets/Chars/char_trevor.png",
+      "portrait_status": "present",
+      "number": "2735550136",
+      "number_key": "CELL_1002",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102236
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 93,
+      "name": "Ursula",
+      "name_key": "CELL_141",
+      "sort_key": 2170,
+      "portrait_key": "char_hitcher_girl",
+      "portrait_path": "assets/Chars/char_hitcher_girl.png",
+      "portrait_status": "present",
+      "number": "3285550103",
+      "number_key": "CELL_1041",
+      "registered_answerphone": "NO_ANSMSG",
+      "answerphone_conversation": null,
+      "answerphones": [],
+      "answerphone_status": "native_no_answerphone",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102339
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    },
+    {
+      "native_id": 24,
+      "name": "Wade",
+      "name_key": "CELL_135",
+      "sort_key": 2300,
+      "portrait_key": "char_wade",
+      "portrait_path": "assets/Chars/char_wade.png",
+      "portrait_status": "present",
+      "number": "3465550166",
+      "number_key": "CELL_1035",
+      "registered_answerphone": "WAD_APH1",
+      "answerphone_conversation": "WAD_APH1",
+      "answerphones": [
+        {
+          "conversation": "WAD_APH1",
+          "condition": "registered default; native story availability still required",
+          "sequence": [
+            {
+              "key": "WAD_APH1_1",
+              "sound_key": "WAD_APH1_1a",
+              "sound": "ANSPH_BNAA",
+              "subtitle": "~z~Wade. Wade. Wade.",
+              "stream": 96,
+              "wave_hash": "19bb88a5",
+              "wave_name": "ansph_bnaa_01",
+              "asset_id": "gta_answerphone_stream_096"
+            },
+            {
+              "key": "WAD_APH1_2",
+              "sound_key": "WAD_APH1_2a",
+              "sound": "SFX_PAUSE_430",
+              "subtitle": null,
+              "unresolved_audio": true
+            },
+            {
+              "key": "WAD_APH1_3",
+              "sound_key": "WAD_APH1_3a",
+              "sound": "ANSPH_BNAB",
+              "subtitle": "~z~Wade! It's Wade!!! Wade. I don't know how to work this.",
+              "stream": 103,
+              "wave_hash": "1b57c650",
+              "wave_name": "ansph_bnab_01",
+              "asset_id": "gta_answerphone_stream_103"
+            },
+            {
+              "key": "WAD_APH1_4",
+              "sound_key": "WAD_APH1_4a",
+              "sound": "SFX_Phone_Generic_Answerphone_Beep_04",
+              "subtitle": null,
+              "unresolved_audio": true
+            }
+          ],
+          "complete_recorded_speech": true,
+          "unresolved_sounds": [
+            "SFX_PAUSE_430",
+            "SFX_Phone_Generic_Answerphone_Beep_04"
+          ]
+        }
+      ],
+      "answerphone_status": "mapped",
+      "source": {
+        "archive": "update/update2.rpf/x64/levels/gta5/script/script_rel.rpf/standard_global_reg.ysc",
+        "function": "func_684 / func_691",
+        "decompiled_line": 102287
+      },
+      "role_unlock_status": "dynamic native f_24 changes by mission; registration is not proof of simultaneous availability"
+    }
+  ],
+  "roles": {
+    "Michael": [
+      17,
+      30,
+      131,
+      36,
+      1,
+      14,
+      12,
+      60,
+      31,
+      45,
+      20,
+      23,
+      15,
+      2
+    ],
+    "Franklin": [
+      17,
+      44,
+      131,
+      14,
+      19,
+      12,
+      0,
+      45,
+      23,
+      43,
+      2
+    ],
+    "Trevor": [
+      47,
+      54,
+      30,
+      131,
+      1,
+      14,
+      19,
+      12,
+      31,
+      62,
+      0,
+      45,
+      64,
+      40,
+      20,
+      23,
+      24
+    ]
+  },
+  "role_evidence": {
+    "Michael": {
+      "1": [
+        "AH_2_U",
+        "EMSTR_318",
+        "FB4_RM_M",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "2": [
+        "DCK2_U",
+        "DOCKS1_M_FLY",
+        "RBH_PAT",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "131": [
+        "Story mode taxi dispatch; registered for all three protagonists"
+      ],
+      "36": [
+        "DRF3_U",
+        "DRF4_U"
+      ],
+      "12": [
+        "AH3B_UNLK",
+        "AH_1_U",
+        "AH_GETA_R",
+        "AH_P_U",
+        "EMSTR_105",
+        "EMSTR_149",
+        "EMSTR_150",
+        "EMSTR_151",
+        "FAM3_INIT",
+        "FIH_GETA_R",
+        "FIH_KILLT",
+        "FIH_PA_U",
+        "FIH_PB_U",
+        "FIH_PD_U",
+        "JP1A_U",
+        "JP1B_U",
+        "JP2A_U",
+        "RBH_P_U"
+      ],
+      "17": [
+        "EMSTR_230",
+        "ME_A_FAIL",
+        "MGTNS_U",
+        "MGTNS_U2"
+      ],
+      "15": [
+        "EMSTR_210",
+        "EMSTR_214",
+        "EMSTR_218",
+        "ME_T_FAIL"
+      ],
+      "14": [
+        "EXL_JIM_MCAR",
+        "FAM5_END",
+        "ME_J_FAIL"
+      ],
+      "45": [
+        "CAR3_MT_REM"
+      ],
+      "23": [
+        "FBI4I_U"
+      ],
+      "31": [
+        "MAR_CASH1",
+        "MAR_CASH2"
+      ],
+      "60": [
+        "EMSTR_181",
+        "EMSTR_24",
+        "EMSTR_26",
+        "EMSTR_28",
+        "EMSTR_458",
+        "EMSTR_51"
+      ],
+      "30": [
+        "EMSTR_223",
+        "EMSTR_239"
+      ],
+      "20": [
+        "EMSTR_246"
+      ]
+    },
+    "Franklin": {
+      "0": [
+        "EMSTR_310",
+        "EMSTR_316",
+        "FB4_RM_FT",
+        "JH1A_FRNK",
+        "JH2_P",
+        "SHOOT_U",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "2": [
+        "DCK2_U",
+        "DOCKS1_F_SHT",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "131": [
+        "Story mode taxi dispatch; registered for all three protagonists"
+      ],
+      "14": [
+        "FAM1_END",
+        "MIC4_F"
+      ],
+      "19": [
+        "ARM2_END",
+        "EMSTR_273",
+        "EMSTR_279",
+        "EMSTR_284",
+        "EMSTR_288",
+        "FRAN0_END"
+      ],
+      "12": [
+        "AH3B_UNLK",
+        "AH_GETA_R",
+        "AH_P_U",
+        "ASS1_MIS",
+        "ASS_FINA",
+        "ASS_FINB",
+        "EMSTR_43",
+        "EMSTR_45",
+        "EMSTR_47",
+        "EMSTR_49",
+        "FIH_GETA_R",
+        "FIH_KILLM",
+        "FIH_KILLT",
+        "FIH_PA_U",
+        "FIH_PB_U",
+        "FIH_PD_U"
+      ],
+      "45": [
+        "CAR3_F_REM"
+      ],
+      "23": [
+        "FBI4I_U"
+      ],
+      "43": [
+        "EMSTR_253",
+        "EMSTR_257",
+        "EMSTR_261"
+      ],
+      "44": [
+        "EMSTR_266"
+      ],
+      "17": [
+        "EMSTR_296"
+      ]
+    },
+    "Trevor": {
+      "0": [
+        "FB4_RM_FT",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "1": [
+        "EMSTR_302",
+        "EMSTR_306",
+        "other playable protagonist; offline archive visibility policy"
+      ],
+      "131": [
+        "Story mode taxi dispatch; registered for all three protagonists"
+      ],
+      "20": [
+        "BLAZER3_U",
+        "CITY_RON",
+        "EMSTR_333",
+        "EMSTR_368",
+        "PLTSC_U",
+        "T_LOST_HANGER"
+      ],
+      "12": [
+        "FIH_GETA_R",
+        "FIH_KILLM",
+        "FIH_PA_U",
+        "FIH_PB_U",
+        "FIH_PD_U",
+        "RBH_P_U"
+      ],
+      "31": [
+        "MAR_TREV"
+      ],
+      "24": [
+        "DCKP1_U",
+        "DCKP2B_R",
+        "DCKP2B_U",
+        "EXIL_WAD"
+      ],
+      "19": [
+        "FRA1_END"
+      ],
+      "45": [
+        "CAR3_MT_REM"
+      ],
+      "23": [
+        "FBI4I_U"
+      ],
+      "47": [
+        "CHEF_U"
+      ],
+      "54": [
+        "EXL_HUNT_PIE"
+      ],
+      "62": [
+        "EMSTR_173",
+        "EMSTR_175",
+        "EMSTR_177",
+        "EMSTR_179"
+      ],
+      "14": [
+        "EMSTR_337"
+      ],
+      "40": [
+        "EMSTR_344"
+      ],
+      "30": [
+        "EMSTR_347"
+      ],
+      "64": [
+        "EMSTR_364"
+      ]
+    }
+  },
+  "archive_native_ids": [
+    16,
+    17,
+    66,
+    49,
+    50,
+    47,
+    35,
+    54,
+    51,
+    30,
+    44,
+    29,
+    52,
+    131,
+    36,
+    1,
+    53,
+    14,
+    55,
+    56,
+    58,
+    19,
+    12,
+    60,
+    31,
+    62,
+    0,
+    45,
+    33,
+    64,
+    69,
+    34,
+    40,
+    46,
+    20,
+    18,
+    26,
+    23,
+    37,
+    43,
+    103,
+    15,
+    2,
+    93,
+    24
+  ],
+  "limitations": [
+    "Role lists use observed original correspondence plus player-contact archive policy, not full native story unlock simulation.",
+    "Contacts without an original answerphone remain without one; NO_ANSMSG never receives an invented recording.",
+    "Original pause and synthesized beep labels are retained in sequence; unresolved beep is explicitly listed, not replaced.",
+    "Script conditions retain native function/flag notation rather than guessing unsupported story-state names."
+  ]
+}

@@ -1,0 +1,2371 @@
+{
+  "source": "User supplied local files; user identifies them as game avatars. Original archive paths and export tool not supplied.",
+  "files": [
+    {
+      "file": "Chars/char_abigail.png",
+      "bytes": 6874,
+      "sha256": "a62ed5df25b5de4d66cfb5d25e2048c4ea41ecf3381a4365fde1260f233df83f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_acting_up.png",
+      "bytes": 7471,
+      "sha256": "8371c369aebff4d2537852bed632d95a9b8bf179f87dff6e8cb93fecbeb2c590",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_airmech.png",
+      "bytes": 7957,
+      "sha256": "32a3b31711f47f0f1b085ca680b295d3c1257aae4de1638bbb0c4c8ca8e07597",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_all_players_conf.png",
+      "bytes": 7933,
+      "sha256": "5dce5b4547132b53ae4a9be99c4cad2aa3af15d13f2bfa88aeb795d795464858",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_alpha_mail_couriers.png",
+      "bytes": 2771,
+      "sha256": "335b7f2197af8807654ca25e374377ba4142c8b8ccb48d5a515251089fa58e25",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_amanda.png",
+      "bytes": 6651,
+      "sha256": "73f1715feb9576079e0402eaeaee57fa0d7d7cd04400e5b006b08abb54faf98b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ammunation.png",
+      "bytes": 1766,
+      "sha256": "a5cc0f9a46057f42bee9a47138455c7842a969ea48e229109145c9cdf38e999b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_andreas.png",
+      "bytes": 6996,
+      "sha256": "9f31a0e577604ec4c94b87f28eaa5d26ec369830471a90d3e7175fe95cd8b3a5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_antonia.png",
+      "bytes": 7282,
+      "sha256": "6850cdeb1dfe66a3306cad7980afcc89be7c288441b4f91c8d37f6e68ff5635f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_arthur.png",
+      "bytes": 3290,
+      "sha256": "ecf85b504725001fd8e67db829fc8fc4d1015af3ba96387dfa70700e745306a2",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ary.png",
+      "bytes": 7246,
+      "sha256": "90eee9f94361eb1048660054b5f8d7ea6e8c943600709759275ed8fc249226e3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_ashley.png",
+      "bytes": 7721,
+      "sha256": "f1ea52aaf1a48230a24c2a5466b7e921ef35b24e2106770e22c9e1fa3a06eff8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bank_bol.png",
+      "bytes": 2688,
+      "sha256": "c2c8cf71cf6dc457813c5699d5cbf01123926dac3c3ebc621b0f40208537077d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bank_fleeca.png",
+      "bytes": 1827,
+      "sha256": "6bffc9792d70fcaaf8feb58063d908353b50906996ef3e28e4854e2d235309dd",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bank_maze.png",
+      "bytes": 1706,
+      "sha256": "567deba965dc35d19aa1a80adf6d441b55de6b172ae24ca2fb9f2e4d91d31cd8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_barry.png",
+      "bytes": 6544,
+      "sha256": "53a5d965bb2a1b091895f503020770b3418f4d3d6e5cb0e43fbd7f64f8301c7a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_beverly.png",
+      "bytes": 6682,
+      "sha256": "680eb0d292a0ac029394e909d2285e6d6deb5ace019d0c4f76360c60ffc75800",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bikesite.png",
+      "bytes": 3033,
+      "sha256": "cc4b170be101b631a35d38eb543466aad1b2c291d4c85019b331be95948f09ca",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_blank_entry.png",
+      "bytes": 3290,
+      "sha256": "ecf85b504725001fd8e67db829fc8fc4d1015af3ba96387dfa70700e745306a2",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_blimp.png",
+      "bytes": 5869,
+      "sha256": "2da5a9ecf2ab09c6a1e86e9f87d41cbb000f3d458f375824164a8e25766dcfc6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_blimp2.png",
+      "bytes": 6163,
+      "sha256": "910dbfbb2a60b2bdb25ea88a74aef27565dbe185ce9f4538e7d5952b7b2ce0c4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_blocked.png",
+      "bytes": 3585,
+      "sha256": "f16bc4f745bf09de685c80a71444bd4c6485ceb1bfb308bf6f06c0e369d20bdc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_boatsite.png",
+      "bytes": 4857,
+      "sha256": "8eb6883a03cefb04705d298710de4537f2624744d72b8d1b4dd6ecd9e1f8b363",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_boatsite2.png",
+      "bytes": 6935,
+      "sha256": "ea8303d41a60d45c23873e0b37dc143fb7eda37496ddd5f1c870e45fd8f84efd",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bobcat_security.png",
+      "bytes": 2194,
+      "sha256": "cac318ff443987274c9417e0d106827c44d8f873b9a5cb7a4e19a5e95a04ce46",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_broken_down_girl.png",
+      "bytes": 6417,
+      "sha256": "a1648a04bbbe02d9f11645b01eacaabbdc4e81fdea30fa2478c9795d33576168",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bryony.png",
+      "bytes": 8197,
+      "sha256": "8ac2c8fe3e79e582f04920b875ffe2903416850cea4b3a9e1e2a850993ca54b4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_bugstars.png",
+      "bytes": 2311,
+      "sha256": "e4494fd55cf929d1be8d93e887ee81fc99a0c037a51f30d42c4168ad1cf842bb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_call911.png",
+      "bytes": 3799,
+      "sha256": "16222f9101b34c218d3d99269cc8c2fa21b1dcc08963d49a5404bd9e3d3df1d5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_carsite.png",
+      "bytes": 6750,
+      "sha256": "aefc6427b3c9daff4fb9dc133fefeb9663569a4b9b1c649b1b7bd4ea2acace96",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_carsite2.png",
+      "bytes": 6101,
+      "sha256": "8c1199d9db0be46ab9e58bc25d45e25863bef515f8a1901ccb22fd52f751ef5e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_carsite3.png",
+      "bytes": 6176,
+      "sha256": "1bece063b392821bd33cc89ae3ff529bf237482647c140916bfabb4e5285d60c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_carsite4.png",
+      "bytes": 3806,
+      "sha256": "f111254c7ff1432d7fca8675b3d90afc28916e7a763a29ffc15e52d64ae2ac3d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_casino.png",
+      "bytes": 3804,
+      "sha256": "5e2c9012b82d25562b7235d090cc50307b4ceef002ce708d55071c473ac55a2c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_casino_manager.png",
+      "bytes": 7009,
+      "sha256": "f6177857282e8636cbe5e9468b11e629e99c08f70e15aede3e8c8bf4343bb83a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_castro.png",
+      "bytes": 6926,
+      "sha256": "7e0a688cf626341cfb616c43513d01d47e379cf93473d13072c56b091ff71d04",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_chat_call.png",
+      "bytes": 4415,
+      "sha256": "91000141a19c71c3fed427d35e2a81cf739cd9ca03645600072d3baf28b60b5a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_chef.png",
+      "bytes": 7226,
+      "sha256": "604238c0781a6a3f5ff005a1f3126322953d90e12188e19a4222d47192e5d246",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_cheng.png",
+      "bytes": 6854,
+      "sha256": "01ac9e4c4626fe199bc015f30590a6745f5b562817d6d05395009b116d7ad2e4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_chengsr.png",
+      "bytes": 7539,
+      "sha256": "ff7a910a3af1f2e1b1deae0015cc9fcbfeb11d2a25e17382422e147c1d85525c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_chop.png",
+      "bytes": 7726,
+      "sha256": "3f363172ab9b35e7ff46dd49e1da168ec6ee681ccabdc15020fcca69621e846a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_comic_store.png",
+      "bytes": 7308,
+      "sha256": "20480494d568e66efc1fd2b79aba9ce27ad3710cc1aea180bdee9daeda840c8c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_cook.png",
+      "bytes": 7202,
+      "sha256": "5ac480765246cf5128adf87825e436e91d903b86b1395eb124ce2f56b7492f39",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_cris.png",
+      "bytes": 6652,
+      "sha256": "406a76f728b359900f2e44c6dcddacd1161a0021e2fa6f2d2f3ad9c70852b288",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dave.png",
+      "bytes": 7074,
+      "sha256": "f40e2963b2e61f4ada068fef028f81048086a5c783db55a6dace20321a64e94e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dax.png",
+      "bytes": 7814,
+      "sha256": "422f8e189dff1d0a38b1da5e586724cb8674e85a075e681ac38962bdbdd37fc5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_default.png",
+      "bytes": 3494,
+      "sha256": "e6c5a395827fd64a38002c5a96fd283ca567da9ca0eaaf827f53647078e98836",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_denise.png",
+      "bytes": 7260,
+      "sha256": "8fa4ab0ab87f2e60696101e6d83c2926314200149d58a3843b359107774f85e1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_detonatebomb.png",
+      "bytes": 4515,
+      "sha256": "c5286e4665783eb3bea3c1f8d070c16950ad9e4ede88de21b06b6ab26fb38928",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_detonatephone.png",
+      "bytes": 4408,
+      "sha256": "d39fcb14f7b35a7d3001a88b3d2357ad1db5a929e802aae6f60356a8017e9cfc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_devin.png",
+      "bytes": 6575,
+      "sha256": "cc3617eedd2c2199a2deb71f72f7af08982bb26bc32baf962eac3abbb6f77966",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dial_a_sub.png",
+      "bytes": 6727,
+      "sha256": "e9a9dc352b0612ddc33732623f85ea0071b263d22b9143d97e87b9404623ad2e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dom.png",
+      "bytes": 6105,
+      "sha256": "1ba79d6ee40076d79354f62a3a0e5841b77cdbbcda39454d0107cce439dcfcff",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_domestic_girl.png",
+      "bytes": 6891,
+      "sha256": "5242dcf654796b15f9713aeab5ccbb8ec317e6d0b78e415b8fca36330a71afd9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dreyfuss.png",
+      "bytes": 6964,
+      "sha256": "017329a1c339c829a13e1b7b0f356ac3ee845758f31d12d396a64ae96cdc850a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_dr_friedlander.png",
+      "bytes": 7168,
+      "sha256": "20be4b54dcfcc7e077196f8d16f6c6874c62af4ff78f3a470b83d3591f91f83a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_english_dave.png",
+      "bytes": 6865,
+      "sha256": "ae8ef99ffa480953f41d71138a72410c1981acabd5207c5fbac0403365b08db7",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_epsilon.png",
+      "bytes": 2324,
+      "sha256": "abcbb4463f8f4194d966e863c89a714c99933a7790f8e12e813c4bd795056cc4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_estate_agent.png",
+      "bytes": 6754,
+      "sha256": "e7cc2e09773f87a33fce442be43f08bd938c60d47f997e2a470ddc62ceb45497",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_facebook.png",
+      "bytes": 957,
+      "sha256": "74d422f4478392053055af404c70c832ed1099636a0d08d8f293a93e95bc92f5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_filmnoir.png",
+      "bytes": 1770,
+      "sha256": "f44d19a082a307ae0667d546bdcca02d18b70b7360098769dbb654e12ed186fc",
+      "width": 32,
+      "height": 32,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_fixfranklin.png",
+      "bytes": 8070,
+      "sha256": "23d72c01c917e1a8ebac30e79c9ec40da267f579ebd33cb5824b9eadd6ee0a9b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_fixlamar.png",
+      "bytes": 7209,
+      "sha256": "0abbe3f747034d210993560692ef8267e90268caa39169fef17283d6dce50212",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_floyd.png",
+      "bytes": 7525,
+      "sha256": "69897140f63882517bd3b3d707a0da73a6a043909dc20f0e6964dd39ab7425c9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_franklin.png",
+      "bytes": 6701,
+      "sha256": "439bb38670273d02df821d950d36df1f50523e54f49b16c4c31860606068bf25",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_frank_imani_conf.png",
+      "bytes": 8421,
+      "sha256": "1b76ea8cc84034a8064254a1f2cf9b2231ffdbdc796cd5587900a9b4ff1dddc6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_frank_trev_conf.png",
+      "bytes": 7677,
+      "sha256": "1da48d843482d03aa031ad1d6d4ab625865a15201d1a3d7e286f72635af036a1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_gangapp.png",
+      "bytes": 2229,
+      "sha256": "6dc28f6222ff4b1cc0a4fa7741a92ff7102b95af07da0f76ac869c58758c22c8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_gaymilitary.png",
+      "bytes": 6881,
+      "sha256": "74dc460442a479b0f4f391bb22ecd0e6ae8a5accebf9b8015e285a86e2c022a1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ghosts_exposed_paranormal_investigators.png",
+      "bytes": 4428,
+      "sha256": "4817abd22be071f017585cfbf11b87e746850293533b89fe986bf8b7352d5d67",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_gruppe_sechs_security.png",
+      "bytes": 4232,
+      "sha256": "9b11072165c6860297e2ae7ebfb55be670ebfb069ad0e1bb15bb0eb62b41c2c6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_gta_plus_garage.png",
+      "bytes": 3122,
+      "sha256": "97a92212ba02f622aea1819cbb358a07c408f9cf078a1d14d396684940d599f0",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_hands_on_car_wash.png",
+      "bytes": 3738,
+      "sha256": "ef587b88afc5b588ce1d69f99fbb884cbd73c1f93491a580489a41c660e3e7c3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_hao.png",
+      "bytes": 6843,
+      "sha256": "4dbb5c4fda744110af97a51c57eb471bf8fab48766b98e66044cc07f460ae0e9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_higgins_helitours.png",
+      "bytes": 4635,
+      "sha256": "63f9d3c2c588fe50c0588fc4fd8fda132db5a29c90df00e08dd41f27d94c2e05",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_hitcher_girl.png",
+      "bytes": 6038,
+      "sha256": "fc48a93afd228362411e9cda847fd3b3beb433a4180210ac35361dfa5a87df95",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_humandefault.png",
+      "bytes": 3494,
+      "sha256": "e6c5a395827fd64a38002c5a96fd283ca567da9ca0eaaf827f53647078e98836",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_hunter.png",
+      "bytes": 7200,
+      "sha256": "dba81eb1bb5605cfac77233f12097e02b4ed776567132de100b181857287a742",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_imani.png",
+      "bytes": 8217,
+      "sha256": "a56be6da64018650ed064a44c9dcb024b3468a948d43a7bf5d7870fd526990bc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_isldj4.png",
+      "bytes": 7114,
+      "sha256": "56e9f65b6f09b8fed7bbaedbfa1dfa8461dd5974b9f0a740621ca554196bd3db",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_jamal.png",
+      "bytes": 7310,
+      "sha256": "1feb9293c22896b8e464e3e565b2852f0454c8c6c5857f1b618a383fbf9ed165",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_jimmy.png",
+      "bytes": 6853,
+      "sha256": "7dfa674b82755bbd302653247c30cc7df8c324738e2000e7de41b4ef1fefd721",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_jimmy_boston.png",
+      "bytes": 7001,
+      "sha256": "f7df9234723b07e456eab72ee35bb2cf5c11efa30cc0cc7acddb2846e408eefa",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_jodi.png",
+      "bytes": 7268,
+      "sha256": "51b32d618c4993e97473bae85ab35dc8ad5b6e48ab6f16fc3cbd0020481fe30c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_joe.png",
+      "bytes": 6702,
+      "sha256": "a4bb83264452f86c0df5f5129d76cb78e82383e05fd8cdbc8f1e730b36566612",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_josef.png",
+      "bytes": 6869,
+      "sha256": "24f662489057fd44ebebe2d24efc4c36da8a8f610d65f1cc878eff768f6efdd9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_josh.png",
+      "bytes": 7329,
+      "sha256": "32188c1182328b5cfaebbcb0aa4cd711e3a012d929ed6500ac3ece0ee83b8457",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_junk_jump.png",
+      "bytes": 7046,
+      "sha256": "aa46fca308b42802f3405d034c2a494b5ea50ce81704544aa4476a911d67e75d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_kdj.png",
+      "bytes": 7456,
+      "sha256": "8615eec9d53750fb5dbeace17092f695392e83329c882253f411a0e3b3eb0ab5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_lamar.png",
+      "bytes": 8191,
+      "sha256": "3eff730fca4754311e81285d33f63d376e02dd2884ddb565bf5c374197588cc0",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lazlow.png",
+      "bytes": 7806,
+      "sha256": "452f20bd37a513c7b7f47e70e357a214b8b586c0d8b4d330b8c153b467a298f3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lazlow2.png",
+      "bytes": 7394,
+      "sha256": "0da2872d4294ad79422c13751e1bd0e3f421e16283bae608a0ae0baded16c49e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lester.png",
+      "bytes": 3361,
+      "sha256": "f5312a04f16ede8f1f10657a263d82795a45257672352679bcb96332af80e3e6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lester_deathwish.png",
+      "bytes": 3307,
+      "sha256": "f2dbd231633a7b97a8deedf9063e094f21edef960efaae0795dd261f8a70307a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lest_frank_conf.png",
+      "bytes": 5732,
+      "sha256": "b20311c7c32342a9ba01bdca1da9c977270dc3bb82a9b47a54864890fbca0c56",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lest_mike_conf.png",
+      "bytes": 5786,
+      "sha256": "a63d325bfccbd3a2e6cf2c0eea126fedad6c3cf1cbc024e2ccd1773314861d22",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_lifeinvader.png",
+      "bytes": 1309,
+      "sha256": "cf496bb68ad47214529f640c8dc7fb9a97d8c744b6e0a405a0003a811ea3cc10",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ljt.png",
+      "bytes": 5349,
+      "sha256": "6043c87aa7eb1d4f529587d2d54a958bd786241c9447093536104052a1ef4490",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_los_santos_fire.png",
+      "bytes": 6796,
+      "sha256": "e6e083b97add9c51269aa3a0b1ce1ebf2a7cb743ff2643ab8cbffada6d9fc203",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_los_santos_meteor.png",
+      "bytes": 2220,
+      "sha256": "e3b6d6dfb901c1d20b6f322f6a3776b9440df74bae982b287ab3ba1b46dce25d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_ls_car_meet.png",
+      "bytes": 2601,
+      "sha256": "2bebcdd226863e5f0df83ea05dc180e06d66615b815237b3ddb561cf8763323c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_ls_customs.png",
+      "bytes": 7103,
+      "sha256": "57757f50d4d9ede4785a5598d88898116e422503e4f75aefd73c22487a52549a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ls_tourist_board.png",
+      "bytes": 4202,
+      "sha256": "7f337d29fdba8c4cb80dabdd0078655543f3f9abba33337a43951801a5a58edb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_malc.png",
+      "bytes": 7039,
+      "sha256": "b83760afd9debdb80f4c81aeb501e219df3a0ba830af38cf4ad151e2431842af",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mansion_ai_f.png",
+      "bytes": 3513,
+      "sha256": "7b9216f67f2c838163a3dd033c45da236142cff1961907d991593d93453f4aad",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_mansion_ai_g.png",
+      "bytes": 3457,
+      "sha256": "c9e36d40b8fa995175848c8912763d17c11fef406b61e45c80dd5be644491e75",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_mansion_ai_m.png",
+      "bytes": 3559,
+      "sha256": "ad4e8469f53804704c7453fecb1be2e923926ce052791fee3933a2c4b4fa96fe",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_manuel.png",
+      "bytes": 7251,
+      "sha256": "5bfb149ed022cb093dbbf8dc6473058a2aea2bf10874697bff6cbe8da50fcdcb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_marcel.png",
+      "bytes": 6106,
+      "sha256": "50064653953c451b5957e336c3dd4e2553be65433ab4a4ab9f10c8fdf5448938",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_marnie.png",
+      "bytes": 7714,
+      "sha256": "df7c1335a5a2c077727ee43c166e36c6fdf82231c8bb3caeb8c9c7c40a88f736",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_martin.png",
+      "bytes": 7001,
+      "sha256": "87ab22b0b2fc3b0cfe979c742eb553957706033a9b337034fa6ffe0d042d67e6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mary_ann.png",
+      "bytes": 6871,
+      "sha256": "937c7b6671d771423fec10583053decff36698d2d9f60c46ee43f05a67223db1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_maude.png",
+      "bytes": 7658,
+      "sha256": "5a8cda262706db228cdbb20f0ac7721877b1be7658acb42413206ad2d9d89d33",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mechanic.png",
+      "bytes": 6435,
+      "sha256": "4185619d2a886db88b5bcbd252c8f0b515de9a3c118e95a295d06e388aad00e1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_medical_courier.png",
+      "bytes": 3878,
+      "sha256": "a124ba776814720e3cccada343e427ec12d4419c40cd8613f6319a606a6c6a5f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_michael.png",
+      "bytes": 7605,
+      "sha256": "95be1b1f3078fca269e23cb64e9b3bd186a01de24e9cca6b071b2fdf392e08f1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_miguel_madroza.png",
+      "bytes": 6385,
+      "sha256": "086db06423ff091244c9776071107d681c9002451347e3c44dd63794a3293cea",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mike_frank_conf.png",
+      "bytes": 7685,
+      "sha256": "50994a22c75639fb98ac3c04a967149d5797ed70ba1ae86483ead170014fd4e7",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mike_trev_conf.png",
+      "bytes": 7932,
+      "sha256": "1e28f0f3b3f2d6cc6e062223617ecb2c7290afa2f7f7a21b85e4ca90cb847f97",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_milsite.png",
+      "bytes": 5879,
+      "sha256": "d161ca96e0575755151df44a2b4d60100f2297533a05bd5ef5f94797713ac275",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_minotaur.png",
+      "bytes": 5671,
+      "sha256": "b90e66f85f88aa534befa3b49df9d8db1f37e4759dc0b891a51bce65d4a8f1ac",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_molly.png",
+      "bytes": 7443,
+      "sha256": "c1fde9e80bcc5d61fd6a14990d6886c9fd75ba582d2aa95d204951ed84219f52",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_army_contact.png",
+      "bytes": 7083,
+      "sha256": "cc7c5629a825ede667322c74d72eb9772c04bcc31ce01933b4df92d32aba0d98",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_biker_boss.png",
+      "bytes": 6969,
+      "sha256": "995be061c8b24e37fc3f78b8b208e840f6a4f87b31d10a41e630c0cbfa0264ef",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_biker_mechanic.png",
+      "bytes": 6969,
+      "sha256": "995be061c8b24e37fc3f78b8b208e840f6a4f87b31d10a41e630c0cbfa0264ef",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_brucie.png",
+      "bytes": 7079,
+      "sha256": "69314c39abdfb940a89ffef4e5c08e6d084c0a448912ab2c5f0d44dc08e5e4b8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_detonatephone.png",
+      "bytes": 4408,
+      "sha256": "d39fcb14f7b35a7d3001a88b3d2357ad1db5a929e802aae6f60356a8017e9cfc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_fam_boss.png",
+      "bytes": 6564,
+      "sha256": "fd8b034e9c728df32cb205c5256e62bd36b95488d42272f44ba4244e29fb99c4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_fib_contact.png",
+      "bytes": 6386,
+      "sha256": "77c4d6861c1af9decb81a7528cd9737c5cc678099300fbe2c487c6c7171a05d5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_fm_contact.png",
+      "bytes": 3183,
+      "sha256": "9d53102b30dbf97dc299aa0ab42a874aad232c14d3948c840205764e99372b68",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_gerald.png",
+      "bytes": 7510,
+      "sha256": "984f5de1fd36298e160a407f7d3eab62bddf15ab82fc123354d1f0cd992d8a70",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_julio.png",
+      "bytes": 7346,
+      "sha256": "9b5b73deb30370bb2e298b69891ad16dd94b4e7b618f1c8d4e90d13e89abb966",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_mechanic.png",
+      "bytes": 6768,
+      "sha256": "eea38fb73997e5b1ea986a5b87d25f1c51a2a437305c6065134bcb5c872a624e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_merryweather.png",
+      "bytes": 4647,
+      "sha256": "d0667fe0ba6029d94342ccc162cf996975b5e08716dafc5bfeef7786682ccb75",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_mex_boss.png",
+      "bytes": 6773,
+      "sha256": "f1735e4bf059b4e57a105214c48bd5afc6c15d561d97d5199b2e5baf47b18fec",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_mex_docks.png",
+      "bytes": 7281,
+      "sha256": "a991d40c204f4f735823567c9846f20fed33f59b449abe06689d910ab9b3d6fa",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_mex_lt.png",
+      "bytes": 6704,
+      "sha256": "04d63476043af8a821398f5a3d9ebb3b0ddecc52b0289e0c5a54334776a2db80",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_mors_mutual.png",
+      "bytes": 2420,
+      "sha256": "b2d7d9161eef8ec983fb0ad9638ea5bb51695beba60d1c7634024b8b9cfa5d77",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_prof_boss.png",
+      "bytes": 6687,
+      "sha256": "8c584c925879c68f5d41914c46a61cacc542c6553c2b6264704978f23cbfbd89",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_ray_lavoy.png",
+      "bytes": 6731,
+      "sha256": "baa9334dcea2241fbb019be16f42a4abe7548066240cd8d0b90358bb665c576a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_roberto.png",
+      "bytes": 6003,
+      "sha256": "2a075838725b0152e9ec192a99ac9ace9f9cc72805573efc92d99205ea6d15df",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_snitch.png",
+      "bytes": 5438,
+      "sha256": "44193c1e6a08b3ef6965c5ed0997d27704d960bec6530a2bbc8cb77560d9d6c3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_stretch.png",
+      "bytes": 6344,
+      "sha256": "51fa38e8a28e6e34539764d7dd856fd967216db47be6dc25f32679062766740f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mp_stripclub_pr.png",
+      "bytes": 3027,
+      "sha256": "2b84a23cc1afc1de836d0f0d25ab6b6c167eb854257393c0e2da43e97e13761e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_mrs_thornhill.png",
+      "bytes": 7391,
+      "sha256": "fb73eacd25ac85d7498b93a5c3ec6d87bc85f9b736c095f9c83cea91c99bb95f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_multiplayer.png",
+      "bytes": 3290,
+      "sha256": "ecf85b504725001fd8e67db829fc8fc4d1015af3ba96387dfa70700e745306a2",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_nigel.png",
+      "bytes": 6343,
+      "sha256": "3b8544f7da067718fdef31c559e86f6b80ad078757927bc1f5e200d731102d9f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_omega.png",
+      "bytes": 7149,
+      "sha256": "e142954d2cc94906e429f6ce8412242ed8690618e6ebaa6b26bd3faec4136724",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_oneil.png",
+      "bytes": 8074,
+      "sha256": "46b107e04ee9b35ac02f4a2f8cab3b66b30bfd22a1f58b9b7179b458f4f900b4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ortega.png",
+      "bytes": 7238,
+      "sha256": "0672e9a6225f781824be4b73c6406f2b8e5871cd63c42b43bfb0fda18a70dcbd",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_oscar.png",
+      "bytes": 7052,
+      "sha256": "a02c7223197c898723408e7b8dc0e3467d5590b94caad65bd585eb1a6076be2f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_oscar2.png",
+      "bytes": 7454,
+      "sha256": "c079300fb1229d0ad4ee3a0ee73075850ca96d43c68bff1148a63275ff96be86",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_paige.png",
+      "bytes": 6100,
+      "sha256": "9e192f5ec162bf23a634a512af0e6a4ef8fc23a5eee2687b8b4acf2a25c0d26d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_patricia.png",
+      "bytes": 8005,
+      "sha256": "f9be9d9a3c016a69fde7e99b93dc97ceab4e0c4d3fcd14c89d9754a3275f6582",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_pavel.png",
+      "bytes": 7528,
+      "sha256": "e42bfcc8c41f70a5680cf543ffe612d9e040f8ade246ee6b0fbbd9de622ddc34",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_pa_female.png",
+      "bytes": 7172,
+      "sha256": "230a125abf7a961bfa7569f1c2755de147f8f38db006a44f6f7adb430c9947bb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_pa_male.png",
+      "bytes": 7259,
+      "sha256": "f9c24f903b412faff1ffce9dce83c598fb215d1adddacd148b884cad9891c289",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_pegasus_delivery.png",
+      "bytes": 3196,
+      "sha256": "5afa34d8b5f87b365e93d3e7ccb0a395fcc8e7686060522df33e5f4e4e1e21c3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_pilotrooster.png",
+      "bytes": 7972,
+      "sha256": "b8756c6952436003b9604f2b89087f139b8e838bba6d9d37d870ffddbddc7eeb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_pizza_delivery.png",
+      "bytes": 4715,
+      "sha256": "64f77467e0674ac9b696d607b0063993cf9893c58a93e5ab6628a45786adf005",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_planesite.png",
+      "bytes": 3062,
+      "sha256": "8cb046d4fe05f432d0050b7e655ca0a5a99f8c1dfad36a7b203d1323dc0fc2a6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_prix_luxury.png",
+      "bytes": 2771,
+      "sha256": "e781c2087974aef5ee405cf650f93a1c210e0b78f7a5598cef9d16a116049b1b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_property_arms_trafficking.png",
+      "bytes": 7031,
+      "sha256": "824933d309dca999684ccdcd80051102215cd24262302db6dacca5dcd44bd488",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_airport.png",
+      "bytes": 7533,
+      "sha256": "d84c0a38654f1e165fbe1e754dc7cceb53f3d606dbe153aba62c5d4b8753934e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_bayview.png",
+      "bytes": 7780,
+      "sha256": "900739add3d2e713d0de29a1e074bdd9325db34224e4b9ab5b06090d370e0301",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_cafe_rojo.png",
+      "bytes": 7798,
+      "sha256": "88a6f03efc91a74ea749637640e6caeaefcd1181b2c8b9c4fca9d8902dbd0e27",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_cockotoos.png",
+      "bytes": 7553,
+      "sha256": "d16c876a5b2c403e1f0563e0e280ac667bb5e82ea4ac9e692dfbde66be9a123b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_eclipse.png",
+      "bytes": 7091,
+      "sha256": "f9ec0a27b51c9a1aef6548a05f0bb57bb6d8ed7efeaf7163323b624670bd3c43",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_fes.png",
+      "bytes": 6499,
+      "sha256": "18279504be7019805f90b18c2d8e1f4db3d0370d15ebaf1831cd1033c12757f9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_hen_house.png",
+      "bytes": 7156,
+      "sha256": "f8bf72adcf9472a39181450633b9f4b0322717e918b459e010c1c3041cff45bc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_hi_men.png",
+      "bytes": 6875,
+      "sha256": "592f69ad13e1c4e70940de66ea588c7f3711fcf6ab642f3bf89db089feb47087",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_hookies.png",
+      "bytes": 8238,
+      "sha256": "1f5ecdb5645bdad8347b680d35c3fb1afc1de85570dbe856f69f92ae0baa249c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_irish.png",
+      "bytes": 6961,
+      "sha256": "61030321ae048645fc22af09e13941b3a05f377430174205942bbc6db9830128",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_les_bianco.png",
+      "bytes": 6560,
+      "sha256": "f3fa5a3b99191c50f4266770c6832c797045af7a70f5b9f7237a2575dd977ea4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_mirror_park.png",
+      "bytes": 6956,
+      "sha256": "3247915d84107959deb416dc0923eb3b1464e22e3e0e731958bf8862cb5411dc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_pitchers.png",
+      "bytes": 6532,
+      "sha256": "7e7b44a5ac3fe07c9a72dff72691a5370c3971e6eabec9d561cba3f93b6b2590",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_singletons.png",
+      "bytes": 6775,
+      "sha256": "860dc11e8d8905dbc1ca0b2c4dcd90c5dd1d135e22566559a83b661ab01459eb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_tequilala.png",
+      "bytes": 7605,
+      "sha256": "da4d03449fb77570007ae961b3842e7078b7fb07db76a78186fb2a1a0625d08e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_bar_unbranded.png",
+      "bytes": 6407,
+      "sha256": "5f07eef3605931bc732d94aea774ac1316ebead7ffcb68f5885a6aea9ff1f50b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_car_mod_shop.png",
+      "bytes": 6915,
+      "sha256": "8059c77f035e4615be6dfb53304e4adfcdbfccd6053d3e95999ba6714dbe98a8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_car_scrap_yard.png",
+      "bytes": 7205,
+      "sha256": "29eb001174df1b24c55ca7d736e3c928480e930f5ca183359ef78fade6d5fcbe",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_cinema_downtown.png",
+      "bytes": 7444,
+      "sha256": "92233e53abd71fe7f2dabd6372fd8028f79c88c9ebba94ab842b1687a8becb5a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_cinema_morningwood.png",
+      "bytes": 6322,
+      "sha256": "e3a3c04a2b86a370f9e5b9df4a1dd8f118faf5b749f74c986cd1c3209ea2c1b3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_cinema_vinewood.png",
+      "bytes": 7085,
+      "sha256": "e41b81821f1f043bb12480039b5669faa6550b6a2761df11f10c50f5a93740c9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_golf_club.png",
+      "bytes": 7895,
+      "sha256": "90711fee7cc5958272fe956803e86a1bbdaed7c4e171aa600e18c192e1f6bbe9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_plane_scrap_yard.png",
+      "bytes": 5883,
+      "sha256": "29971f5fa480a4ad82c442c1e58613bbfadf7f765721e0c8ea68391b2dcc3da0",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_sonar_collections.png",
+      "bytes": 8326,
+      "sha256": "d10a443d49b26aacbea2ac8d2eec54b813f08782cc99be0b7537d31f28c0061d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_taxi_lot.png",
+      "bytes": 6870,
+      "sha256": "5337d6e057594d3c7f50a59ab86754a2c5e281b8e7e76b096e188ef99837613d",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_towing_impound.png",
+      "bytes": 7178,
+      "sha256": "90f4e78fba31dd40002fe4a7050957d45655e15d7807bd0e9461e6258dcaed14",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_property_weed_shop.png",
+      "bytes": 7042,
+      "sha256": "5b079647769039264f845ebbd4f23c011f6fafe2cf4a9aac75a7208e5c9d7d9c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_rickie.png",
+      "bytes": 6976,
+      "sha256": "44393f9936e67372d0edfa5f71b1441eee759d698a0ba4af4144c9235abc7817",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_rockstar.png",
+      "bytes": 2188,
+      "sha256": "b8cdc8cdddb5856c054fa647299e6c7613018a89c3886767cf073dd73d6a19cc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_ron.png",
+      "bytes": 8052,
+      "sha256": "49fc9066aa99b97b2784d56b1166f23d721311471cf19d03b8ef8a62827d9a37",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_s24_jenette.png",
+      "bytes": 7717,
+      "sha256": "2f5c1d1d8686872baf5670354e5d7928a212583cab5a1780f3c9dd158020bfcf",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_s24_maude.png",
+      "bytes": 7230,
+      "sha256": "cec54bbb71356bf6b33fd2487b607685c4d00428195ae8e5e12374c6becbb896",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_saeeda.png",
+      "bytes": 6569,
+      "sha256": "dc89f4ee23cb62428765999fa1a59b41d6fc261927aff541fc38b485f2d011f5",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_sasquatch.png",
+      "bytes": 8276,
+      "sha256": "f05b0b094d1c0dee0fa1794e39502bb957f9b4de4dd954b7dc809fbc337290dc",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_sessanta.png",
+      "bytes": 6618,
+      "sha256": "b1bcca105b7d62f9f26eeb468d0d867c4ee240412aeab96533db8343c5fb6792",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_simeon.png",
+      "bytes": 7404,
+      "sha256": "b6977f152ad03d6a36c67a16a8accc1654e9f0c7d1fed5999cea134e4630882b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_sindy.png",
+      "bytes": 8066,
+      "sha256": "7cc84a2448f839686e2f00ac50cd2b0798648384ce4a1f857965dedf2546b2ac",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_sm25_faber.png",
+      "bytes": 7505,
+      "sha256": "6d7771c0fd4bdd21c9ebbee5bdebdbe5c78fd8d2d234d6ec03639909d313a3ba",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_sm25_madrazo.png",
+      "bytes": 7400,
+      "sha256": "0be7e83ecc9bfd9ec70bf39efa5647c0efadec04b3fd317c3249d06ee923c5eb",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_sm25_raf.png",
+      "bytes": 7200,
+      "sha256": "1d48d5c7413d5f5e80de1788c340371591c21493754aab2e4a7f4a61c9c4133e",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_sm25_target3.png",
+      "bytes": 7091,
+      "sha256": "b0e1fc047246b8cae83b9dba9d451c12816df00fe18ddfc77545911ef88062b2",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_smoke_on_the_water.png",
+      "bytes": 5390,
+      "sha256": "cb3510ba33da490925b2258f873a11d4b694a66acaed91e9a78cb5c1dcb4b8c3",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_social_club.png",
+      "bytes": 2140,
+      "sha256": "2483ec0756f8876fcf0eb865e08d7140cfdda66528823024ce0d5fd7f28134f1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_solomon.png",
+      "bytes": 6632,
+      "sha256": "56cb97050ebdd9b917dd92b0e4524eec095b25a5302cad3bccceb043ae501e34",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_steve.png",
+      "bytes": 5837,
+      "sha256": "e0ba7748143d54e0f03aa9ddd0d957c7becc0e8921b54042e7e91c2e5900b972",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_steve_mike_conf.png",
+      "bytes": 7595,
+      "sha256": "f9c1f02717b6fb0db67f671f7271ec0f98760f31cef915ac3fd698e20f307c84",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_steve_trev_conf.png",
+      "bytes": 7695,
+      "sha256": "1a8b070973f05737f00113fa1988aecb6f4f48a0c71dc02d8db2e60b6927c2c8",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_still_slipping.png",
+      "bytes": 3414,
+      "sha256": "8988584dc2dd111fa0d697bdc57fa0283d67f3d9a9fac5c8e1ab2d157fa619ec",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_streetartist.png",
+      "bytes": 5041,
+      "sha256": "ebe0bed780b2c2121c0d52c4f9b6b0d6052e2205af74c09653c2042dda32d70f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_stretch.png",
+      "bytes": 6344,
+      "sha256": "51fa38e8a28e6e34539764d7dd856fd967216db47be6dc25f32679062766740f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_chastity.png",
+      "bytes": 6816,
+      "sha256": "ec96f85a42fd0d6ad242963b44ede0fa09b9434a3b5fb5e03b021a027a6b737a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_cheetah.png",
+      "bytes": 6497,
+      "sha256": "2d2a5578690b7c053529cadcdca4151e84913e7d47f0223fd67ea0cf9b35a8d0",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_fufu.png",
+      "bytes": 7357,
+      "sha256": "cfdad02cc86bc7faa39d4b9fc228bcb4a171dfdbcd713851441f503575a38083",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_infernus.png",
+      "bytes": 6468,
+      "sha256": "10d5cbec5d39216caa44b8875229ce1a7790180e4bfb320176bb4c165a1b6f95",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_juliet.png",
+      "bytes": 7617,
+      "sha256": "f79238f06c9a58e54156126db755c6cca1c7bfd246ce6ec6cf8205097339a128",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_nikki.png",
+      "bytes": 7025,
+      "sha256": "ef7fd8dc26f2c74b3ea04673ebc9efac5c423859eabacdde5a3472ca9fa89969",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_peach.png",
+      "bytes": 6921,
+      "sha256": "6557bea4f7d4317f8b20b54fde41799d2278ff452844aa9159abd09b32a9b4e1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_stripper_sapphire.png",
+      "bytes": 7868,
+      "sha256": "f5b9a423220ee10f1667955bedbb9efc9708437203faa63674b60da02a5cf17f",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_sum2_feed_luxury_autos.png",
+      "bytes": 1966,
+      "sha256": "2f0d2326524f20cd260a3dc7470b4d7bceab5c405822a2ca5516f09d0c628112",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_sum2_feed_premium_deluxe.png",
+      "bytes": 2286,
+      "sha256": "bbcf3118fb4c70a39c5556798a72e8f4e7952139a2bc52f7f927785901ab7a51",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_tanisha.png",
+      "bytes": 6784,
+      "sha256": "46d9cc2e79898c62d5877973b72c88bb24d7774bc4eed7ba073f4f4098bfd4c1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tanner.png",
+      "bytes": 5830,
+      "sha256": "a650075a152a3bff5376600793201448d1fa8aad4cd36b36424e480fe49ab004",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_taotranslator.png",
+      "bytes": 7332,
+      "sha256": "59eb4bf4ef399c46d6de5d79f9712a3612f3a70168810e74ba14bb72a18799c9",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_taxi.png",
+      "bytes": 3269,
+      "sha256": "c702e9ebde10654113bb566c730fac087608ff75ca91116787979965a28e5e02",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_taxi_liz.png",
+      "bytes": 6582,
+      "sha256": "2bc3672d9c340ffde384e50d88dd201a5a05ef45427077cdd50655db4b7fc045",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tennis_coach.png",
+      "bytes": 7960,
+      "sha256": "0a3b986f651484215e2825d0451b5fd585000e285aa8de76f05268f178311506",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tom.png",
+      "bytes": 7126,
+      "sha256": "6194515345e394f308eea4c50c651971316133687989a3f1a9c053a23740b9f7",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tony_prince.png",
+      "bytes": 7651,
+      "sha256": "a13b9172a70417062d476c63e29adc32ec0a22fc5e1f4571925fcb5738e2ac07",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tow_tonya.png",
+      "bytes": 7849,
+      "sha256": "f5dd1cdd65211d19c9c635ce3aeb144809560bfce284b8e530208073246f8b68",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tracey.png",
+      "bytes": 7525,
+      "sha256": "e23a42ff1e0205778fc6bb71a084f79547b79dd0e03997d2a42b67fc015cbf2a",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_trevor.png",
+      "bytes": 7501,
+      "sha256": "ee4982b550b6086575d40f44fbc1868c824b0d8128aa01b320e0e8649fddc8f4",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_tw.png",
+      "bytes": 7677,
+      "sha256": "43236c6b9d817dd503a922755400c614c4e1c1eeb0146efac4cc3160dc692c24",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_ulp.png",
+      "bytes": 7386,
+      "sha256": "779a444661695959c1b94e6984856c3bb7a8574c91ce556a8533cd1b349dc4e7",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_vincentxm4.png",
+      "bytes": 6494,
+      "sha256": "fa48b246a3cbef1805b9b0c404414b3f6dcf2f0071a5fb1bd8d3f3f51a10c782",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_wade.png",
+      "bytes": 8026,
+      "sha256": "f65f9072716a0eb09c057c285488de5036840ab461fc8d694730cf18f874d702",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_wboss1.png",
+      "bytes": 7275,
+      "sha256": "08528302ec681c95b57d6836c1b3d0efcb6f4e3730aa2d084019719baea135ce",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_wendy.png",
+      "bytes": 8027,
+      "sha256": "2a2a57830e0c88f0fcda4091fe76f7e93bd5cf12392280db8e4563d080c003b6",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_west_coast_classics.png",
+      "bytes": 4239,
+      "sha256": "8e0b78f2540e15b11d9572a895894ab65875c6f422e230f0ad9ba7e87382cd39",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_xm25_amanda.png",
+      "bytes": 7892,
+      "sha256": "457ca8e531d06d691760f07dfcd0f8e47ca04d9a62a9a8ec09144c5e5146e6a1",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_xm25_fakeavi.png",
+      "bytes": 7942,
+      "sha256": "b864b0c0642588a89bda89532af8955caf30f68cfbf5a38c7769ed2ca6aa8e8b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_xm25_kwmerc.png",
+      "bytes": 5936,
+      "sha256": "4ef828563dd1fca15fd73c3ecb9f6c4ba2e3f70bdcd17ad775ee63bd1c53ca0b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_xm25_michael.png",
+      "bytes": 7508,
+      "sha256": "cb35462b41cf259a81d6740cd5e8c85970d80d0cd1f2308f2d281cc201d40334",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_yohan.png",
+      "bytes": 6862,
+      "sha256": "143fddf9f0f3cbe2f394b56e68ef41eb076b4fab6489a2fdd131130d4ac1cb7b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    },
+    {
+      "file": "Chars/char_youtube.png",
+      "bytes": 1850,
+      "sha256": "7d62abe6bbaeafd7f7e5ba08fb8198bde4f0a87b3b9239e2a5740ff48013c86c",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA",
+      "existing_portrait_same_bytes": false,
+      "existing_portrait_same_pixels": false
+    },
+    {
+      "file": "Chars/char_yusuf.png",
+      "bytes": 7490,
+      "sha256": "ad38e9ac7d98cc58fa268e106eb85a3a9b423966c4eec75fc8b4899f34130c9b",
+      "width": 64,
+      "height": 64,
+      "mode": "RGBA"
+    }
+  ]
+}

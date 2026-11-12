@@ -1,0 +1,86 @@
+{
+  "source_script": "ui/gta_taxilauncher_ysc.ysc",
+  "source_gxt": "ui/gta_taxisau_gxt2.gxt2",
+  "source_bank": "x64/audio/sfx/SS_ST.rpf/taxis.awc",
+  "selection": "First original variant of each line in the scripted successful dispatch branch",
+  "roles": {
+    "Michael": [
+      {
+        "key": "TX_1M_01",
+        "sound_key": "TX_1MA",
+        "sound": "taxis_adaa_01",
+        "subtitle": "~z~Hey. I need a cab.",
+        "asset_id": "gta_taxi_taxis_adaa_01",
+        "stream": 25
+      },
+      {
+        "key": "TX_2_01",
+        "sound_key": "TX_2A",
+        "sound": "taxis_agaa_01",
+        "subtitle": "~z~Not a problem. A driver's on the way.",
+        "asset_id": "gta_taxi_taxis_agaa_01",
+        "stream": 23
+      },
+      {
+        "key": "TX_3M_01",
+        "sound_key": "TX_3MA",
+        "sound": "taxis_ahaa_01",
+        "subtitle": "~z~Thank you.",
+        "asset_id": "gta_taxi_taxis_ahaa_01",
+        "stream": 40
+      }
+    ],
+    "Franklin": [
+      {
+        "key": "TX_1F_01",
+        "sound_key": "TX_1FA",
+        "sound": "taxis_aeaa_01",
+        "subtitle": "~z~Hey. I need a cab.",
+        "asset_id": "gta_taxi_taxis_aeaa_01",
+        "stream": 18
+      },
+      {
+        "key": "TX_2_01",
+        "sound_key": "TX_2A",
+        "sound": "taxis_agaa_01",
+        "subtitle": "~z~Not a problem. A driver's on the way.",
+        "asset_id": "gta_taxi_taxis_agaa_01",
+        "stream": 23
+      },
+      {
+        "key": "TX_3F_01",
+        "sound_key": "TX_3FA",
+        "sound": "taxis_aiaa_01",
+        "subtitle": "~z~Thank you.",
+        "asset_id": "gta_taxi_taxis_aiaa_01",
+        "stream": 12
+      }
+    ],
+    "Trevor": [
+      {
+        "key": "TX_1T_01",
+        "sound_key": "TX_1TA",
+        "sound": "taxis_afaa_01",
+        "subtitle": "~z~Believe it or not, I need a cab.",
+        "asset_id": "gta_taxi_taxis_afaa_01",
+        "stream": 21
+      },
+      {
+        "key": "TX_2_01",
+        "sound_key": "TX_2A",
+        "sound": "taxis_agaa_01",
+        "subtitle": "~z~Not a problem. A driver's on the way.",
+        "asset_id": "gta_taxi_taxis_agaa_01",
+        "stream": 23
+      },
+      {
+        "key": "TX_3T_01",
+        "sound_key": "TX_3TA",
+        "sound": "taxis_ajaa_01",
+        "subtitle": "~z~Glad to hear it.",
+        "asset_id": "gta_taxi_taxis_ajaa_01",
+        "stream": 32
+      }
+    ]
+  }
+}

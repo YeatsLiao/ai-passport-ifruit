@@ -1,0 +1,79 @@
+{
+  "ringtone": null,
+  "contacts": [
+    null,
+    null,
+    "gta_answerphone_stream_072",
+    "gta_answerphone_stream_095",
+    null,
+    "gta_answerphone_stream_037"
+  ],
+  "effects": {
+    "menu_navigate": "gta_michael_menu_navigate",
+    "menu_accept": "gta_michael_menu_accept",
+    "menu_back": "gta_michael_menu_back",
+    "text_arrive_tone": "gta_michael_text_arrive_tone",
+    "camera_shoot": "gta_camera_shoot"
+  },
+  "ring_clips": [
+    "gta_ringtone_stream_01",
+    "gta_ringtone_stream_02",
+    "gta_ringtone_stream_03"
+  ],
+  "sequences": {
+    "event_fam1": [
+      {
+        "asset_id": "gta_fam1_phone_464"
+      },
+      {
+        "cue": "SFX_OVERLAP_2209"
+      },
+      {
+        "asset_id": "gta_fam1_phone_174"
+      },
+      {
+        "pause_ms": 220
+      },
+      {
+        "asset_id": "gta_fam1_phone_142"
+      },
+      {
+        "pause_ms": 310
+      },
+      {
+        "asset_id": "gta_fam1_phone_546"
+      },
+      {
+        "asset_id": "gta_fam1_phone_49"
+      },
+      {
+        "pause_ms": 260
+      },
+      {
+        "asset_id": "gta_fam1_phone_237"
+      }
+    ]
+  },
+  "native_rings": [
+    "gta_native_ring_1",
+    "gta_native_ring_2",
+    "gta_native_ring_3"
+  ],
+  "role_effects": {
+    "1": {
+      "menu_navigate": "gta_role_1_menu_navigate",
+      "menu_accept": "gta_role_1_menu_accept",
+      "menu_back": "gta_role_1_menu_back",
+      "camera_shoot": "gta_role_1_camera_shoot",
+      "text_arrive_tone": "gta_role_1_text_arrive_tone"
+    },
+    "2": {
+      "menu_navigate": "gta_role_2_menu_navigate",
+      "menu_accept": "gta_role_2_menu_accept",
+      "menu_back": "gta_role_2_menu_back",
+      "camera_shoot": "gta_role_2_camera_shoot",
+      "text_arrive_tone": "gta_role_2_text_arrive_tone"
+    }
+  },
+  "dial": "gta_native_dial"
+}

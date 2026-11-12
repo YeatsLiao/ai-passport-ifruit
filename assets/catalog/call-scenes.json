@@ -1,0 +1,126 @@
+{
+  "scenes": [
+    {
+      "id": "fam1_jimmy_yacht",
+      "role": "Michael",
+      "contact": "Jimmy",
+      "native_contact_id": 14,
+      "direction": "incoming mission call",
+      "mission": "M_FAM1",
+      "text_block": "FAM1AUD",
+      "conversation": "FAM1_PHONEX",
+      "source_script": "gta_family1_ysc",
+      "source_call": "family1.ysc func_500 state 2 / line 33355: func_521(...14,FAM1AUD,FAM1_PHONEX,9,1,0,0,true)",
+      "trigger_stage": "After opening cutscene, stage GET_INTO_AMANDAS_CAR, before player gets into vehicle; Jimmy reports yacht stolen",
+      "actor_evidence": "family1.ysc line33338 actor2=JIMMY; actor0 initialized MICHAEL in mission startup",
+      "timing_policy": "All six speech clips intact in original order and explicit pause durations. SFX_OVERLAP_2209 is retained as raw metadata; exact engine overlap interpretation is not yet implemented.",
+      "lines": [
+        {
+          "key": "FAM1_PHONEX_1",
+          "sound": "FAM1_FWAA",
+          "subtitle": "~z~Hey Jim, I'm going for a drink w...",
+          "asset_id": "gta_fam1_phone_464",
+          "stream": 464,
+          "speaker": "Michael",
+          "sequential_start_ms": 0,
+          "duration_ms": 2551.125,
+          "sequential_end_ms": 2551.125
+        },
+        {
+          "key": "FAM1_PHONEX_2",
+          "sound": "SFX_OVERLAP_2209",
+          "subtitle": null,
+          "sequential_start_ms": 2551.125,
+          "sequential_end_ms": 2551.125
+        },
+        {
+          "key": "FAM1_PHONEX_3",
+          "sound": "FAM1_FWAB",
+          "subtitle": "~z~Dad, shit! I'm in our boat going down the Western Highway. It's, it's been stolen.",
+          "asset_id": "gta_fam1_phone_174",
+          "stream": 174,
+          "speaker": "Jimmy",
+          "sequential_start_ms": 2551.125,
+          "duration_ms": 5644.406,
+          "sequential_end_ms": 8195.531
+        },
+        {
+          "key": "FAM1_PHONEX_4",
+          "sound": "SFX_PAUSE_220",
+          "subtitle": null,
+          "pause_ms": 220,
+          "sequential_start_ms": 8195.531,
+          "sequential_end_ms": 8415.531
+        },
+        {
+          "key": "FAM1_PHONEX_5",
+          "sound": "FAM1_FWAC",
+          "subtitle": "~z~What? The yacht's been stolen?",
+          "asset_id": "gta_fam1_phone_142",
+          "stream": 142,
+          "speaker": "Michael",
+          "sequential_start_ms": 8415.531,
+          "duration_ms": 2482.812,
+          "sequential_end_ms": 10898.344
+        },
+        {
+          "key": "FAM1_PHONEX_6",
+          "sound": "SFX_PAUSE_310",
+          "subtitle": null,
+          "pause_ms": 310,
+          "sequential_start_ms": 10898.344,
+          "sequential_end_ms": 11208.344
+        },
+        {
+          "key": "FAM1_PHONEX_7",
+          "sound": "FAM1_FWAD",
+          "subtitle": "~z~I was trying to sell it. I know you didn't want it sold, but I need money, and",
+          "asset_id": "gta_fam1_phone_546",
+          "stream": 546,
+          "speaker": "Jimmy",
+          "sequential_start_ms": 11208.344,
+          "duration_ms": 4969.656,
+          "sequential_end_ms": 16178.0
+        },
+        {
+          "key": "FAM1_PHONEX_8",
+          "sound": "FAM1_FWAE",
+          "subtitle": "~z~they don't want to buy it, they just want to take it. I'm hiding in the head.",
+          "asset_id": "gta_fam1_phone_49",
+          "stream": 49,
+          "speaker": "Jimmy",
+          "sequential_start_ms": 16178.0,
+          "duration_ms": 3267.656,
+          "sequential_end_ms": 19445.656
+        },
+        {
+          "key": "FAM1_PHONEX_9",
+          "sound": "SFX_PAUSE_260",
+          "subtitle": null,
+          "pause_ms": 260,
+          "sequential_start_ms": 19445.656,
+          "sequential_end_ms": 19705.656
+        },
+        {
+          "key": "FAM1_PHONEX_10",
+          "sound": "FAM1_FWAF",
+          "subtitle": "~z~You're insane! Alright, I'm coming for my boat!",
+          "asset_id": "gta_fam1_phone_237",
+          "stream": 237,
+          "speaker": "Michael",
+          "sequential_start_ms": 19705.656,
+          "duration_ms": 4796.656,
+          "sequential_end_ms": 24502.312
+        }
+      ],
+      "followup_sms": {
+        "key": "YB_JIMTXT",
+        "sender": "Jimmy",
+        "text": "Dad - Come quick! These guys are stealing ur yacht, we're headin down the freeway. Totes not my fault!",
+        "source": "family1.ysc line33378, fallback when phone is missed/declined; do not blindly send after successful call"
+      },
+      "device_file": "event_fam1.wav",
+      "sequential_duration_ms": 24502.312
+    }
+  ]
+}

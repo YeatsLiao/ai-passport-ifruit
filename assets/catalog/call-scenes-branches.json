@@ -1,0 +1,1156 @@
+{
+  "scenes": [
+    {
+      "id": "out_fpmf_n1_ok",
+      "role_mask": 1,
+      "native_contact_id": 1,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpMF_G1",
+          "asset_id": "gta_outgoing_fpmf_aaaa_01",
+          "sound": "FpMF_AAAA",
+          "subtitles": [
+            "~z~Hey Frank."
+          ],
+          "duration_seconds": 0.66540625
+        },
+        {
+          "key": "FpMF_G2",
+          "asset_id": "gta_outgoing_fpmf_abaa_01",
+          "sound": "FpMF_ABAA",
+          "subtitles": [
+            "~z~So, you wanna keep an old man company?"
+          ],
+          "duration_seconds": 1.75684375
+        },
+        {
+          "key": "FpMF_N1_ok",
+          "asset_id": "gta_outgoing_fpmf_aoaa_01",
+          "sound": "FpMF_AOAA",
+          "subtitles": [
+            "~z~Eh, uh, not right now, if that's cool."
+          ],
+          "duration_seconds": 2.27459375
+        },
+        {
+          "key": "FpMF_N2",
+          "asset_id": "gta_outgoing_fpmf_apaa_01",
+          "sound": "FpMF_APAA",
+          "subtitles": [
+            "~z~No worries man, I'll see you soon."
+          ],
+          "duration_seconds": 1.57534375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpmf_n1_ph",
+      "role_mask": 1,
+      "native_contact_id": 1,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpMF_G1",
+          "asset_id": "gta_outgoing_fpmf_aaaa_01",
+          "sound": "FpMF_AAAA",
+          "subtitles": [
+            "~z~Hey Frank."
+          ],
+          "duration_seconds": 0.66540625
+        },
+        {
+          "key": "FpMF_G2",
+          "asset_id": "gta_outgoing_fpmf_abaa_01",
+          "sound": "FpMF_ABAA",
+          "subtitles": [
+            "~z~So, you wanna keep an old man company?"
+          ],
+          "duration_seconds": 1.75684375
+        },
+        {
+          "key": "FpMF_N1_ph",
+          "asset_id": "gta_outgoing_fpmf_asaa_01",
+          "sound": "FpMF_ASAA",
+          "subtitles": [
+            "~z~Eh... can you call me back another time? We was just like speaking."
+          ],
+          "duration_seconds": 3.95225
+        },
+        {
+          "key": "FpMF_N2",
+          "asset_id": "gta_outgoing_fpmf_apaa_01",
+          "sound": "FpMF_APAA",
+          "subtitles": [
+            "~z~No worries man, I'll see you soon."
+          ],
+          "duration_seconds": 1.57534375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpmt_n1_ok",
+      "role_mask": 1,
+      "native_contact_id": 2,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpMT_G1",
+          "asset_id": "gta_outgoing_fpmt_aaaa_01",
+          "sound": "FpMT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.885316083872379
+        },
+        {
+          "key": "FpMT_G2",
+          "asset_id": "gta_outgoing_fpmt_abaa_01",
+          "sound": "FpMT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna do something, hang out?"
+          ],
+          "duration_seconds": 1.8895625
+        },
+        {
+          "key": "FpMT_N1_ok",
+          "asset_id": "gta_outgoing_fpmt_aoaa_01",
+          "sound": "FpMT_AOAA",
+          "subtitles": [
+            "~z~Hmm... can't right now - I'm hanging with actual friends. Maybe later."
+          ],
+          "duration_seconds": 3.99228125
+        },
+        {
+          "key": "FpMT_N2",
+          "asset_id": "gta_outgoing_fpmt_apaa_01",
+          "sound": "FpMT_APAA",
+          "subtitles": [
+            "~z~Whatever you say - sorry."
+          ],
+          "duration_seconds": 2.0826875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpmt_n1_ph",
+      "role_mask": 1,
+      "native_contact_id": 2,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpMT_G1",
+          "asset_id": "gta_outgoing_fpmt_aaaa_01",
+          "sound": "FpMT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.885316083872379
+        },
+        {
+          "key": "FpMT_G2",
+          "asset_id": "gta_outgoing_fpmt_abaa_01",
+          "sound": "FpMT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna do something, hang out?"
+          ],
+          "duration_seconds": 1.8895625
+        },
+        {
+          "key": "FpMT_N1_ph",
+          "asset_id": "gta_outgoing_fpmt_asaa_01",
+          "sound": "FpMT_ASAA",
+          "subtitles": [
+            "~z~Errr, Mr. Stalker - we only just spoke."
+          ],
+          "duration_seconds": 3.958625
+        },
+        {
+          "key": "FpMT_N2",
+          "asset_id": "gta_outgoing_fpmt_apaa_01",
+          "sound": "FpMT_APAA",
+          "subtitles": [
+            "~z~Whatever you say - sorry."
+          ],
+          "duration_seconds": 2.0826875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpmj_n1_ok",
+      "role_mask": 1,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpMJ_G1",
+          "asset_id": "gta_outgoing_fpmj_bfaa_01",
+          "sound": "FpMJ_BFAA",
+          "subtitles": [
+            "~z~Jim, it's your dad."
+          ],
+          "duration_seconds": 1.2670625
+        },
+        {
+          "key": "FpMJ_G2",
+          "asset_id": "gta_outgoing_fpmj_bgaa_01",
+          "sound": "FpMJ_BGAA",
+          "subtitles": [
+            "~z~I thought we could do something."
+          ],
+          "duration_seconds": 1.19446875
+        },
+        {
+          "key": "FpMJ_N1_ok",
+          "asset_id": "gta_outgoing_fpmj_bqaa_01",
+          "sound": "FpMJ_BQAA",
+          "subtitles": [
+            "~z~If you want me to be your alibi in some murder trial, how about I just lie about it instead."
+          ],
+          "duration_seconds": 4.5104375
+        },
+        {
+          "key": "FpMJ_N2",
+          "asset_id": "gta_outgoing_fpmj_braa_01",
+          "sound": "FpMJ_BRAA",
+          "subtitles": [
+            "~z~Okay, Jim. That's a rain check then."
+          ],
+          "duration_seconds": 2.10703125
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpmj_n1_ph",
+      "role_mask": 1,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpMJ_G1",
+          "asset_id": "gta_outgoing_fpmj_bfaa_01",
+          "sound": "FpMJ_BFAA",
+          "subtitles": [
+            "~z~Jim, it's your dad."
+          ],
+          "duration_seconds": 1.2670625
+        },
+        {
+          "key": "FpMJ_G2",
+          "asset_id": "gta_outgoing_fpmj_bgaa_01",
+          "sound": "FpMJ_BGAA",
+          "subtitles": [
+            "~z~I thought we could do something."
+          ],
+          "duration_seconds": 1.19446875
+        },
+        {
+          "key": "FpMJ_N1_ph",
+          "asset_id": "gta_outgoing_fpmj_buaa_01",
+          "sound": "FpMJ_BUAA",
+          "subtitles": [
+            "~z~Whoop! Early onset dementia alert, we were only just like speaking, old man."
+          ],
+          "duration_seconds": 5.59515625
+        },
+        {
+          "key": "FpMJ_N2",
+          "asset_id": "gta_outgoing_fpmj_braa_01",
+          "sound": "FpMJ_BRAA",
+          "subtitles": [
+            "~z~Okay, Jim. That's a rain check then."
+          ],
+          "duration_seconds": 2.10703125
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpma_n1_ok",
+      "role_mask": 1,
+      "native_contact_id": 17,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpMA_G1",
+          "asset_id": "gta_outgoing_fpma_bdaa_01",
+          "sound": "FpMA_BDAA",
+          "subtitles": [
+            "~z~Amanda, it's me."
+          ],
+          "duration_seconds": 1.14196875
+        },
+        {
+          "key": "FpMA_G2",
+          "asset_id": "gta_outgoing_fpma_beaa_01",
+          "sound": "FpMA_BEAA",
+          "subtitles": [
+            "~z~What you up to? Want to hang out?"
+          ],
+          "duration_seconds": 1.48359375
+        },
+        {
+          "key": "FpMA_N1_ok",
+          "asset_id": "gta_outgoing_fpma_bkaa_01",
+          "sound": "FpMA_BKAA",
+          "subtitles": [
+            "~z~Oh, I can't right now - maybe later?"
+          ],
+          "duration_seconds": 2.77528125
+        },
+        {
+          "key": "FpMA_N2",
+          "asset_id": "gta_outgoing_fpma_blaa_01",
+          "sound": "FpMA_BLAA",
+          "subtitles": [
+            "~z~Okay - some other time."
+          ],
+          "duration_seconds": 1.68725
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpma_n1_ph",
+      "role_mask": 1,
+      "native_contact_id": 17,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpMA_G1",
+          "asset_id": "gta_outgoing_fpma_bdaa_01",
+          "sound": "FpMA_BDAA",
+          "subtitles": [
+            "~z~Amanda, it's me."
+          ],
+          "duration_seconds": 1.14196875
+        },
+        {
+          "key": "FpMA_G2",
+          "asset_id": "gta_outgoing_fpma_beaa_01",
+          "sound": "FpMA_BEAA",
+          "subtitles": [
+            "~z~What you up to? Want to hang out?"
+          ],
+          "duration_seconds": 1.48359375
+        },
+        {
+          "key": "FpMA_N1_ph",
+          "asset_id": "gta_outgoing_fpma_bmaa_01",
+          "sound": "FpMA_BMAA",
+          "subtitles": [
+            "~z~Stop calling me and acting weird - it's creepy. You're my husband."
+          ],
+          "duration_seconds": 4.380875
+        },
+        {
+          "key": "FpMA_N2",
+          "asset_id": "gta_outgoing_fpma_blaa_01",
+          "sound": "FpMA_BLAA",
+          "subtitles": [
+            "~z~Okay - some other time."
+          ],
+          "duration_seconds": 1.68725
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfm_n1_ok",
+      "role_mask": 2,
+      "native_contact_id": 0,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpFM_G1",
+          "asset_id": "gta_outgoing_fpfm_aaaa_01",
+          "sound": "FpFM_AAAA",
+          "subtitles": [
+            "~z~Hey, Mike it's me."
+          ],
+          "duration_seconds": 1.08640625
+        },
+        {
+          "key": "FpFM_G2",
+          "asset_id": "gta_outgoing_fpfm_abaa_01",
+          "sound": "FpFM_ABAA",
+          "subtitles": [
+            "~z~You doing anything? You want to hang out?"
+          ],
+          "duration_seconds": 1.74975
+        },
+        {
+          "key": "FpFM_N1_ok",
+          "asset_id": "gta_outgoing_fpfm_aoaa_01",
+          "sound": "FpFM_AOAA",
+          "subtitles": [
+            "~z~I can't now, man - some other time."
+          ],
+          "duration_seconds": 2.22271875
+        },
+        {
+          "key": "FpFM_N2",
+          "asset_id": "gta_outgoing_fpfm_apaa_01",
+          "sound": "FpFM_APAA",
+          "subtitles": [
+            "~z~Okay."
+          ],
+          "duration_seconds": 0.508125
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfm_n1_ph",
+      "role_mask": 2,
+      "native_contact_id": 0,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpFM_G1",
+          "asset_id": "gta_outgoing_fpfm_aaaa_01",
+          "sound": "FpFM_AAAA",
+          "subtitles": [
+            "~z~Hey, Mike it's me."
+          ],
+          "duration_seconds": 1.08640625
+        },
+        {
+          "key": "FpFM_G2",
+          "asset_id": "gta_outgoing_fpfm_abaa_01",
+          "sound": "FpFM_ABAA",
+          "subtitles": [
+            "~z~You doing anything? You want to hang out?"
+          ],
+          "duration_seconds": 1.74975
+        },
+        {
+          "key": "FpFM_N1_ph",
+          "asset_id": "gta_outgoing_fpfm_asaa_01",
+          "sound": "FpFM_ASAA",
+          "subtitles": [
+            "~z~You again? Didn't we just talk? Some other time."
+          ],
+          "duration_seconds": 3.7999375
+        },
+        {
+          "key": "FpFM_N2",
+          "asset_id": "gta_outgoing_fpfm_apaa_01",
+          "sound": "FpFM_APAA",
+          "subtitles": [
+            "~z~Okay."
+          ],
+          "duration_seconds": 0.508125
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpft_n1_ok",
+      "role_mask": 2,
+      "native_contact_id": 2,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpFT_G1",
+          "asset_id": "gta_outgoing_fpft_aaaa_01",
+          "sound": "FpFT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.758625
+        },
+        {
+          "key": "FpFT_G2",
+          "asset_id": "gta_outgoing_fpft_abaa_01",
+          "sound": "FpFT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna hang out?"
+          ],
+          "duration_seconds": 1.22828125
+        },
+        {
+          "key": "FpFT_N1_ok",
+          "asset_id": "gta_outgoing_fpft_agaa_01",
+          "sound": "FpFT_AGAA",
+          "subtitles": [
+            "~z~I'd love to, but I can't right now."
+          ],
+          "duration_seconds": 2.35578125
+        },
+        {
+          "key": "FpFT_N2",
+          "asset_id": "gta_outgoing_fpft_ajaa_01",
+          "sound": "FpFT_AJAA",
+          "subtitles": [
+            "~z~Fair enough, man."
+          ],
+          "duration_seconds": 0.91921875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpft_n1_ph",
+      "role_mask": 2,
+      "native_contact_id": 2,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpFT_G1",
+          "asset_id": "gta_outgoing_fpft_aaaa_01",
+          "sound": "FpFT_AAAA",
+          "subtitles": [
+            "~z~T, it's me."
+          ],
+          "duration_seconds": 0.758625
+        },
+        {
+          "key": "FpFT_G2",
+          "asset_id": "gta_outgoing_fpft_abaa_01",
+          "sound": "FpFT_ABAA",
+          "subtitles": [
+            "~z~Listen, you wanna hang out?"
+          ],
+          "duration_seconds": 1.22828125
+        },
+        {
+          "key": "FpFT_N1_ph",
+          "asset_id": "gta_outgoing_fpft_aoaa_01",
+          "sound": "FpFT_AOAA",
+          "subtitles": [
+            "~z~You just called me... give me some space here. No one likes a clingy friend, man."
+          ],
+          "duration_seconds": 4.52028125
+        },
+        {
+          "key": "FpFT_N2",
+          "asset_id": "gta_outgoing_fpft_ajaa_01",
+          "sound": "FpFT_AJAA",
+          "subtitles": [
+            "~z~Fair enough, man."
+          ],
+          "duration_seconds": 0.91921875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfl_n1_ok",
+      "role_mask": 2,
+      "native_contact_id": 19,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpFL_G1",
+          "asset_id": "gta_outgoing_frlfa_aaaa_01",
+          "sound": "FRLFa_AAAA",
+          "subtitles": [
+            "~z~Eh, homie."
+          ],
+          "duration_seconds": 0.616
+        },
+        {
+          "key": "FpFL_G2",
+          "asset_id": "gta_outgoing_frlfa_abaa_01",
+          "sound": "FRLFa_ABAA",
+          "subtitles": [
+            "~z~Eh, how bout we kick it?"
+          ],
+          "duration_seconds": 1.13334375
+        },
+        {
+          "key": "FpFL_N1_ok",
+          "asset_id": "gta_outgoing_frlfa_ahaa_01",
+          "sound": "FRLFa_AHAA",
+          "subtitles": [
+            "~z~Eh, nigga. I can't. Shit's crackin' right now, man. You ain't the only nigga with prospects."
+          ],
+          "duration_seconds": 5.09515625
+        },
+        {
+          "key": "FpFL_N2",
+          "asset_id": "gta_outgoing_frlfa_aiaa_01",
+          "sound": "FRLFa_AIAA",
+          "subtitles": [
+            "~z~Eh, too bad, homie. I'll see you."
+          ],
+          "duration_seconds": 1.67259375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfl_n1_ph",
+      "role_mask": 2,
+      "native_contact_id": 19,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpFL_G1",
+          "asset_id": "gta_outgoing_frlfa_aaaa_01",
+          "sound": "FRLFa_AAAA",
+          "subtitles": [
+            "~z~Eh, homie."
+          ],
+          "duration_seconds": 0.616
+        },
+        {
+          "key": "FpFL_G2",
+          "asset_id": "gta_outgoing_frlfa_abaa_01",
+          "sound": "FRLFa_ABAA",
+          "subtitles": [
+            "~z~Eh, how bout we kick it?"
+          ],
+          "duration_seconds": 1.13334375
+        },
+        {
+          "key": "FpFL_N1_ph",
+          "asset_id": "gta_outgoing_frlfa_anaa_01",
+          "sound": "FRLFa_ANAA",
+          "subtitles": [
+            "~z~Eh, we was just talking, homie. You turning into one of the anterograde amnesiac niggas?"
+          ],
+          "duration_seconds": 4.64478125
+        },
+        {
+          "key": "FpFL_N2",
+          "asset_id": "gta_outgoing_frlfa_aiaa_01",
+          "sound": "FRLFa_AIAA",
+          "subtitles": [
+            "~z~Eh, too bad, homie. I'll see you."
+          ],
+          "duration_seconds": 1.67259375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfj_n1_ok",
+      "role_mask": 2,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpFJ_G1",
+          "asset_id": "gta_outgoing_fpfj_bfaa_01",
+          "sound": "FpFJ_BFAA",
+          "subtitles": [
+            "~z~Jimmy, what's up, man? It's Franklin."
+          ],
+          "duration_seconds": 1.97334375
+        },
+        {
+          "key": "FpFJ_G2",
+          "asset_id": "gta_outgoing_fpfj_bgaa_01",
+          "sound": "FpFJ_BGAA",
+          "subtitles": [
+            "~z~I thought we should do something, dog."
+          ],
+          "duration_seconds": 1.61525
+        },
+        {
+          "key": "FpFJ_N1_ok",
+          "asset_id": "gta_outgoing_fpfj_bpaa_01",
+          "sound": "FpFJ_BPAA",
+          "subtitles": [
+            "~z~Shit. Now? I've got this, like, thing with my clan that I can't bump. Maybe later?"
+          ],
+          "duration_seconds": 5.7826875
+        },
+        {
+          "key": "FpFJ_N2",
+          "asset_id": "gta_outgoing_fpfj_bqaa_01",
+          "sound": "FpFJ_BQAA",
+          "subtitles": [
+            "~z~Eh, that's cool, man. I'll call you back."
+          ],
+          "duration_seconds": 2.08371875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fpfj_n1_ph",
+      "role_mask": 2,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpFJ_G1",
+          "asset_id": "gta_outgoing_fpfj_bfaa_01",
+          "sound": "FpFJ_BFAA",
+          "subtitles": [
+            "~z~Jimmy, what's up, man? It's Franklin."
+          ],
+          "duration_seconds": 1.97334375
+        },
+        {
+          "key": "FpFJ_G2",
+          "asset_id": "gta_outgoing_fpfj_bgaa_01",
+          "sound": "FpFJ_BGAA",
+          "subtitles": [
+            "~z~I thought we should do something, dog."
+          ],
+          "duration_seconds": 1.61525
+        },
+        {
+          "key": "FpFJ_N1_ph",
+          "asset_id": "gta_outgoing_fpfj_btaa_01",
+          "sound": "FpFJ_BTAA",
+          "subtitles": [
+            "~z~Weren't we just speaking? I'm kinda high, so I might be paranoid."
+          ],
+          "duration_seconds": 4.43209375
+        },
+        {
+          "key": "FpFJ_N2",
+          "asset_id": "gta_outgoing_fpfj_bqaa_01",
+          "sound": "FpFJ_BQAA",
+          "subtitles": [
+            "~z~Eh, that's cool, man. I'll call you back."
+          ],
+          "duration_seconds": 2.08371875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptm_n1_ok",
+      "role_mask": 4,
+      "native_contact_id": 0,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpTM_G1",
+          "asset_id": "gta_outgoing_fptm_aaaa_01",
+          "sound": "FpTM_AAAA",
+          "subtitles": [
+            "~z~This is a voice from your past."
+          ],
+          "duration_seconds": 2.39765625
+        },
+        {
+          "key": "FpTM_G2",
+          "asset_id": "gta_outgoing_fptm_abaa_01",
+          "sound": "FpTM_ABAA",
+          "subtitles": [
+            "~z~I want to spend some quality time with you."
+          ],
+          "duration_seconds": 2.40284375
+        },
+        {
+          "key": "FpTM_N1_ok",
+          "asset_id": "gta_outgoing_fptm_aoaa_01",
+          "sound": "FpTM_AOAA",
+          "subtitles": [
+            "~z~I can't right now, T - maybe later?"
+          ],
+          "duration_seconds": 2.49271875
+        },
+        {
+          "key": "FpTM_N2",
+          "asset_id": "gta_outgoing_fptm_apaa_01",
+          "sound": "FpTM_APAA",
+          "subtitles": [
+            "~z~Okay, well I guess I'll just slash my wrists then."
+          ],
+          "duration_seconds": 3.57025
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptm_n1_ph",
+      "role_mask": 4,
+      "native_contact_id": 0,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpTM_G1",
+          "asset_id": "gta_outgoing_fptm_aaaa_01",
+          "sound": "FpTM_AAAA",
+          "subtitles": [
+            "~z~This is a voice from your past."
+          ],
+          "duration_seconds": 2.39765625
+        },
+        {
+          "key": "FpTM_G2",
+          "asset_id": "gta_outgoing_fptm_abaa_01",
+          "sound": "FpTM_ABAA",
+          "subtitles": [
+            "~z~I want to spend some quality time with you."
+          ],
+          "duration_seconds": 2.40284375
+        },
+        {
+          "key": "FpTM_N1_ph",
+          "asset_id": "gta_outgoing_fptm_asaa_01",
+          "sound": "FpTM_ASAA",
+          "subtitles": [
+            "~z~Dude you just called me five minutes ago... some other time."
+          ],
+          "duration_seconds": 3.9566875
+        },
+        {
+          "key": "FpTM_N2",
+          "asset_id": "gta_outgoing_fptm_apaa_01",
+          "sound": "FpTM_APAA",
+          "subtitles": [
+            "~z~Okay, well I guess I'll just slash my wrists then."
+          ],
+          "duration_seconds": 3.57025
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptf_n1_ok",
+      "role_mask": 4,
+      "native_contact_id": 1,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpTF_G1",
+          "asset_id": "gta_outgoing_fptf_aaaa_01",
+          "sound": "FpTF_AAAA",
+          "subtitles": [
+            "~z~Frank, you there?"
+          ],
+          "duration_seconds": 1.110125
+        },
+        {
+          "key": "FpTF_G2",
+          "asset_id": "gta_outgoing_fptf_abaa_01",
+          "sound": "FpTF_ABAA",
+          "subtitles": [
+            "~z~I wanna get close to you, man. Bond."
+          ],
+          "duration_seconds": 2.572
+        },
+        {
+          "key": "FpTF_N1_ok",
+          "asset_id": "gta_outgoing_fptf_aoaa_01",
+          "sound": "FpTF_AOAA",
+          "subtitles": [
+            "~z~I appreciate the call, and all.  But I ain't down for that right now."
+          ],
+          "duration_seconds": 3.91596875
+        },
+        {
+          "key": "FpTF_N2",
+          "asset_id": "gta_outgoing_fptf_apaa_01",
+          "sound": "FpTF_APAA",
+          "subtitles": [
+            "~z~Nobody loves me!"
+          ],
+          "duration_seconds": 2.03934375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptf_n1_ph",
+      "role_mask": 4,
+      "native_contact_id": 1,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpTF_G1",
+          "asset_id": "gta_outgoing_fptf_aaaa_01",
+          "sound": "FpTF_AAAA",
+          "subtitles": [
+            "~z~Frank, you there?"
+          ],
+          "duration_seconds": 1.110125
+        },
+        {
+          "key": "FpTF_G2",
+          "asset_id": "gta_outgoing_fptf_abaa_01",
+          "sound": "FpTF_ABAA",
+          "subtitles": [
+            "~z~I wanna get close to you, man. Bond."
+          ],
+          "duration_seconds": 2.572
+        },
+        {
+          "key": "FpTF_N1_ph",
+          "asset_id": "gta_outgoing_fptf_asaa_01",
+          "sound": "FpTF_ASAA",
+          "subtitles": [
+            "~z~Wasn't I just speaking to you? Call me later."
+          ],
+          "duration_seconds": 2.83971875
+        },
+        {
+          "key": "FpTF_N2",
+          "asset_id": "gta_outgoing_fptf_apaa_01",
+          "sound": "FpTF_APAA",
+          "subtitles": [
+            "~z~Nobody loves me!"
+          ],
+          "duration_seconds": 2.03934375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptl_n1_ok",
+      "role_mask": 4,
+      "native_contact_id": 19,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpTL_G1",
+          "asset_id": "gta_outgoing_fptl_bdaa_01",
+          "sound": "FpTL_BDAA",
+          "subtitles": [
+            "~z~Hey. Lamar."
+          ],
+          "duration_seconds": 0.91784375
+        },
+        {
+          "key": "FpTL_G2",
+          "asset_id": "gta_outgoing_fptl_beaa_01",
+          "sound": "FpTL_BEAA",
+          "subtitles": [
+            "~z~You wanna do something?"
+          ],
+          "duration_seconds": 1.01453125
+        },
+        {
+          "key": "FpTL_N1_ok",
+          "asset_id": "gta_outgoing_fptl_bmaa_01",
+          "sound": "FpTL_BMAA",
+          "subtitles": [
+            "~z~Eh man, I got some other shit popping. Just get at me later."
+          ],
+          "duration_seconds": 2.66515625
+        },
+        {
+          "key": "FpTL_N2",
+          "asset_id": "gta_outgoing_fptl_bnaa_01",
+          "sound": "FpTL_BNAA",
+          "subtitles": [
+            "~z~It's like that, is it? Okay."
+          ],
+          "duration_seconds": 2.88834375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptl_n1_ph",
+      "role_mask": 4,
+      "native_contact_id": 19,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpTL_G1",
+          "asset_id": "gta_outgoing_fptl_bdaa_01",
+          "sound": "FpTL_BDAA",
+          "subtitles": [
+            "~z~Hey. Lamar."
+          ],
+          "duration_seconds": 0.91784375
+        },
+        {
+          "key": "FpTL_G2",
+          "asset_id": "gta_outgoing_fptl_beaa_01",
+          "sound": "FpTL_BEAA",
+          "subtitles": [
+            "~z~You wanna do something?"
+          ],
+          "duration_seconds": 1.01453125
+        },
+        {
+          "key": "FpTL_N1_ph",
+          "asset_id": "gta_outgoing_fptl_bqaa_01",
+          "sound": "FpTL_BQAA",
+          "subtitles": [
+            "~z~You just hit me, homie. Chill out."
+          ],
+          "duration_seconds": 1.9
+        },
+        {
+          "key": "FpTL_N2",
+          "asset_id": "gta_outgoing_fptl_bnaa_01",
+          "sound": "FpTL_BNAA",
+          "subtitles": [
+            "~z~It's like that, is it? Okay."
+          ],
+          "duration_seconds": 2.88834375
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptj_n1_ok",
+      "role_mask": 4,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 1,
+      "conversation": "Declined invitation",
+      "lines": [
+        {
+          "key": "FpTJ_G1",
+          "asset_id": "gta_outgoing_fptj_auaa_01",
+          "sound": "FpTJ_AUAA",
+          "subtitles": [
+            "~z~Jimmy, it's Uncle T."
+          ],
+          "duration_seconds": 2.0253125
+        },
+        {
+          "key": "FpTJ_G2",
+          "asset_id": "gta_outgoing_fptj_avaa_01",
+          "sound": "FpTJ_AVAA",
+          "subtitles": [
+            "~z~I'd like to see you."
+          ],
+          "duration_seconds": 1.0035
+        },
+        {
+          "key": "FpTJ_N1_ok",
+          "asset_id": "gta_outgoing_fptj_beaa_01",
+          "sound": "FpTJ_BEAA",
+          "subtitles": [
+            "~z~Ah, T. I kinda, like, got some stuff going on right now. Maybe another time."
+          ],
+          "duration_seconds": 5.49134375
+        },
+        {
+          "key": "FpTJ_N2",
+          "asset_id": "gta_outgoing_fptj_bfaa_01",
+          "sound": "FpTJ_BFAA",
+          "subtitles": [
+            "~z~Sometimes, I worry for you, child."
+          ],
+          "duration_seconds": 2.41396875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    },
+    {
+      "id": "out_fptj_n1_ph",
+      "role_mask": 4,
+      "native_contact_id": 14,
+      "incoming": false,
+      "outcome": 2,
+      "conversation": "Recently called refusal",
+      "lines": [
+        {
+          "key": "FpTJ_G1",
+          "asset_id": "gta_outgoing_fptj_auaa_01",
+          "sound": "FpTJ_AUAA",
+          "subtitles": [
+            "~z~Jimmy, it's Uncle T."
+          ],
+          "duration_seconds": 2.0253125
+        },
+        {
+          "key": "FpTJ_G2",
+          "asset_id": "gta_outgoing_fptj_avaa_01",
+          "sound": "FpTJ_AVAA",
+          "subtitles": [
+            "~z~I'd like to see you."
+          ],
+          "duration_seconds": 1.0035
+        },
+        {
+          "key": "FpTJ_N1_ph",
+          "asset_id": "gta_outgoing_fptj_biaa_01",
+          "sound": "FpTJ_BIAA",
+          "subtitles": [
+            "~z~T, we were just, like, talking. Are you high?"
+          ],
+          "duration_seconds": 3.00346875
+        },
+        {
+          "key": "FpTJ_N2",
+          "asset_id": "gta_outgoing_fptj_bfaa_01",
+          "sound": "FpTJ_BFAA",
+          "subtitles": [
+            "~z~Sometimes, I worry for you, child."
+          ],
+          "duration_seconds": 2.41396875
+        }
+      ],
+      "source": "friends_controller func_443: G1/G2/N1_ok or N1_ph/N2; func_433 refusal selection",
+      "conditions": "Native spoken branch; local availability and recent-call timing are simulated."
+    }
+  ]
+}

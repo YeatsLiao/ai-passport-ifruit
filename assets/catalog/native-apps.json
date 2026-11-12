@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "photos": [
+    {
+      "name": "Michael",
+      "foreground": "icons/snapmatic_michael_foreground.png",
+      "background": "icons/snapmatic_michael_background.png",
+      "source": "Original loadingscreen5.ytd",
+      "kind": "Original loading artwork composed for device framing, not an in-game camera photo"
+    },
+    {
+      "name": "Franklin",
+      "foreground": "icons/snapmatic_franklin_foreground.png",
+      "background": "icons/snapmatic_franklin_background.png",
+      "source": "Original loadingscreen1.ytd",
+      "kind": "Original loading artwork composed for device framing, not an in-game camera photo"
+    },
+    {
+      "name": "Trevor",
+      "foreground": "icons/snapmatic_trevor_foreground.png",
+      "background": "icons/snapmatic_trevor_background.png",
+      "source": "Original loadingscreen9.ytd",
+      "kind": "Original loading artwork composed for device framing, not an in-game camera photo"
+    },
+    {
+      "name": "Los Santos",
+      "source": "icons/snapmatic_michael_background.png",
+      "kind": "Original loading background artwork"
+    }
+  ],
+  "photo_output": [
+    240,
+    216
+  ],
+  "snapshots": "snap_v1 separate from legacy wallpaper capture bits",
+  "trackify": {
+    "originals": [
+      "ui/app_trackify.gfx",
+      "ui/app_trackify.ytd",
+      "ui/APP_TRACKIFY.as"
+    ],
+    "native_player": [
+      128,
+      245
+    ],
+    "native_ring_radii": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "native_ring_rgba": [
+      47,
+      155,
+      245,
+      181
+    ],
+    "shapes": {
+      "ring": 14,
+      "player": 22,
+      "target": 24,
+      "target_arrow": 25,
+      "depth_arrow": 29,
+      "background": 32
+    },
+    "device": "Native assets and geometry adapted to 240x320 portrait; background/rings baked, no expensive runtime circle masks",
+    "parameters": "Original direction/distance/range/depth model; local keys simulate distance and example targets",
+    "differences": "No game-world tracking or continuous sweep. No four-second auto-completion, green lock or invented completion counters."
+  },
+  "wallpapers": {
+    "device_count": 10,
+    "removed_old_indices": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "migration": "Removed selection falls back to character default; original files retained"
+  }
+}

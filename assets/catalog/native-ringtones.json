@@ -1,0 +1,12 @@
+{
+  "source_sha256": "14fd861cce42053edd4ca48b617c5e714e8140407a95440efcb578f1cfca2d46",
+  "renderer_source": "https://github.com/dexyfex/CodeWalker/blob/master/CodeWalker/Utils/Synthesizer.cs",
+  "renderer_sha256": "528d84e4c19594dc74820f0d793a8fe4c4b6ed0c03c1e1da3d4a1c4ae6357e9e",
+  "programs": [
+    "e9e42095",
+    "df4f0b6b",
+    "54079c4c"
+  ],
+  "native_graph": "Phone Generic 01/02: one shot + 1500ms pre-delay; 03: two retriggers, 500ms, 450ms hold/50ms release, synth -12dB + frontend/152c8678, then 100ms pause",
+  "limitations": "CodeWalker offline DSP implementation is not the proprietary game engine; filter/envelope shapes require in-game listening comparison."
+}

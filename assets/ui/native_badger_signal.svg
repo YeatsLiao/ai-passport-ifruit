@@ -1,0 +1,14 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="https://www.free-decompiler.com/flash" xmlns:ns2="http://www.w3.org/1999/xlink" ns1:objectType="frame" height="15.1px" width="26.25px">
+  <ns0:g transform="matrix(1.0, 0.0, 0.0, 1.0, 9.25, 15.1)">
+    <ns0:use ns1:characterId="153" height="15.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="10.9" ns2:href="#shape0" />
+    <ns0:use ns1:characterId="154" height="15.1" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="17.0" ns2:href="#shape1" />
+  </ns0:g>
+  <ns0:defs>
+    <ns0:g id="shape0">
+      <ns0:path d="M0.25 -15.1 L1.65 -13.7 -2.6 -9.45 -2.6 0.0 -5.0 0.0 -5.0 -9.45 -9.25 -13.7 -7.85 -15.1 -5.0 -12.25 -5.0 -15.1 -2.6 -15.1 -2.6 -12.25 0.25 -15.1" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </ns0:g>
+    <ns0:g id="shape1">
+      <ns0:path d="M0.0 -5.9 L4.0 -5.9 4.0 0.0 0.0 0.0 0.0 -5.9 M6.5 -10.0 L10.5 -10.0 10.5 0.0 6.5 0.0 6.5 -10.0 M13.0 -15.1 L17.0 -15.1 17.0 0.0 13.0 0.0 13.0 -15.1" fill="#ffffff" fill-rule="evenodd" stroke="none" />
+    </ns0:g>
+  </ns0:defs>
+</ns0:svg>
