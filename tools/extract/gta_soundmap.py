@@ -1,7 +1,7 @@
 """Read-only focused DAT54 sound-set mapping, following CodeWalker RelFile.cs layout."""
 from pathlib import Path
 import struct,json
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parents[2]
 def joaat(s):
  h=0
  for b in s.lower().encode():
@@ -25,14 +25,20 @@ def load(p):
   nodes[key]={'type':chunk[0],'data':payload(chunk),'source':p.name,'offset':off}
  return nodes
 nodes={};
-for p in [ROOT/'build/reference/sounds.dat54.rel',ROOT/'build/reference/sp_sounds.dat54.rel']:nodes.update(load(p))
+for p in [ROOT/'.local/reference/sounds.dat54.rel',ROOT/'.local/reference/sp_sounds.dat54.rel']:nodes.update(load(p))
 def trace(key,depth=0):
  if depth>12 or key not in nodes:return {'hash':f'{key:08x}','unresolved':True}
  n=nodes[key];b=n['data'];result={'hash':f'{key:08x}','type':n['type'],'source':n['source'],'offset':n['offset']}
  if n['type']==12:
   container,wave=struct.unpack_from('<II',b);result.update(container=f'{container:08x}',wave=f'{wave:08x}',slot=b[8])
  elif n['type']==1:result['child']=trace(struct.unpack_from('<I',b,6)[0],depth+1)
- elif n['type']==6:result['child']=trace(struct.unpack_from('<I',b,0)[0],depth+1)
+ elif n['type']==6:
+  child,last,fallback,minimum=struct.unpack_from('<IiiH',b)
+  result.update(min_repeat_ms=minimum,last_play_time=last,child=trace(child,depth+1))
+ elif n['type']==9:
+  count,var,delay,delayvar,cv,dv,start,retrigger,stop=struct.unpack_from('<hHHHIIIII',b)
+  result.update(loop_count=count,delay_ms=delay,delay_variance=delayvar,
+                start=trace(start,depth+1),retrigger=trace(retrigger,depth+1),stop=trace(stop,depth+1))
  elif n['type']==2:
   # CodeWalker Dat54EnvelopeSound: fixed 0x4c-byte payload, child at 0x38.
   if len(b)<0x4c:raise ValueError('Truncated envelope')
@@ -52,10 +58,10 @@ for set_name in ['Phone_SoundSet_Michael','Phone_SoundSet_Default','Phone_SoundS
  if not node:result[set_name]={'unresolved':True,'hash':f'{key:08x}'};continue
  b=node['data'];assert node['type']==32;count=struct.unpack_from('<I',b)[0];mapping=dict(struct.unpack_from('<II',b,4+i*8) for i in range(count))
  result[set_name]={}
- for event in ['Ringtone','Menu_Navigate','Menu_Accept','Menu_Back','Text_Arrive_Tone','Dial_and_Remote_Ring','Remote_Ring','Hang_Up']:
+ for event in ['Ringtone','Menu_Navigate','Menu_Accept','Menu_Back','Camera_Shoot','Camera_Zoom','Text_Arrive_Tone','Dial_and_Remote_Ring','Remote_Ring','Hang_Up']:
   h=joaat(event)
   if h in mapping:result[set_name][event]=trace(mapping[h])
 result['Generic_Ringtones']={f'PHONE_GENERIC_RING_{i:02}':trace(joaat(f'PHONE_GENERIC_RING_{i:02}')) for i in range(1,4)}
 result['Answerphone_Beeps']={f'SFX_Phone_Generic_Answerphone_Beep_{i:02}':trace(joaat(f'Phone_Generic_Answerphone_Beep_{i:02}')) for i in range(1,6)}
-(ROOT/'build/reference/phone-soundmap.json').write_text(json.dumps(result,indent=2)+'\n')
+(ROOT/'.local/reference/phone-soundmap.json').write_text(json.dumps(result,indent=2)+'\n')
 print(json.dumps(result,indent=2)[:8500])

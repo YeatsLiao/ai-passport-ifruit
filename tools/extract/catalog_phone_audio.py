@@ -2,13 +2,13 @@
 import json
 from pathlib import Path
 import shutil
-import assets as a
+from tools.pack import assets as a
 
-ROOT = Path(__file__).resolve().parents[1]
-REF = ROOT / 'build/reference'
+ROOT = Path(__file__).resolve().parents[2]
+REF = ROOT / '.local/reference'
 
 def main():
-    index = ROOT / 'assets/manifest.json'
+    index = ROOT / 'assets/catalog/manifest.json'
     manifest = json.loads(index.read_text(encoding='utf-8'))
     a.validate(manifest)
     entries = {item['id']: item for item in manifest['assets']}

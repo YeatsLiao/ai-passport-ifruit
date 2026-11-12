@@ -7,7 +7,7 @@ import re
 import shutil
 import wave
 
-ROOT = Path(__file__).resolve().parents[1] / "assets"
+ROOT = Path(__file__).resolve().parents[2] / "assets"
 CATEGORIES = {"icons", "wallpapers", "portraits", "sounds", "voices", "fonts", "concepts", "ui"}
 def digest(path):
     with path.open("rb") as stream:
@@ -49,7 +49,7 @@ def main():
     for field in ("id","category","source","source-path","license"):
         imp.add_argument("--"+field,required=True,choices=sorted(CATEGORIES) if field=="category" else None)
     args=parser.parse_args()
-    index=ROOT/"manifest.json"; manifest=json.loads(index.read_text(encoding="utf-8"))
+    index=ROOT/"catalog/manifest.json"; manifest=json.loads(index.read_text(encoding="utf-8"))
     if manifest.get("schema")!=1: raise ValueError("Unsupported manifest schema")
     validate(manifest)
     if args.command=="check":

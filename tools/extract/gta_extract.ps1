@@ -8,7 +8,7 @@ try {
  if($Member) {
   if(-not $Output) {throw 'Output required'}
   $target=[IO.Path]::GetFullPath($Output)
-  $workspace=[IO.Path]::GetFullPath((Split-Path $PSScriptRoot -Parent))+[IO.Path]::DirectorySeparatorChar
+  $workspace=[IO.Path]::GetFullPath((Split-Path (Split-Path $PSScriptRoot -Parent) -Parent))+[IO.Path]::DirectorySeparatorChar
   if(-not $target.StartsWith($workspace,[StringComparison]::OrdinalIgnoreCase)) {throw 'Output must be within project'}
   if(Test-Path -LiteralPath $target) {throw 'Refusing overwrite'}
   $parts=$Member.Replace('\','/').Split('/'); $dir=$container.Root

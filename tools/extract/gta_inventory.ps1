@@ -1,6 +1,6 @@
 ﻿param([string]$Game = 'D:/1.Soft/Steam/steamapps/common/Grand Theft Auto V')
 $ErrorActionPreference='Stop'
-$toolDir=Join-Path (Split-Path $PSScriptRoot -Parent) 'build/tooling/gtautil'
+$toolDir=Join-Path (Split-Path (Split-Path $PSScriptRoot -Parent) -Parent) '.local/tooling/gtautil'
 Get-ChildItem $toolDir -Filter '*.dll' | ForEach-Object {try {[Reflection.Assembly]::LoadFrom($_.FullName) | Out-Null} catch {}}
 [Reflection.Assembly]::LoadFrom((Join-Path $toolDir 'ragelib.gta5.dll')) | Out-Null
 # Use the official resource tool's bundled format support in memory; never export key material.
@@ -25,6 +25,6 @@ foreach($path in Get-ChildItem $Game -Filter '*.rpf') {
   Write-Output ('Indexed '+$path.Name)
  } finally { $stream.Dispose() }
 }
-$output=Join-Path (Split-Path $PSScriptRoot -Parent) 'build/reference/gta-top-index.json'
+$output=Join-Path (Split-Path (Split-Path $PSScriptRoot -Parent) -Parent) '.local/reference/gta-top-index.json'
 $rows | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath $output -Encoding utf8
 $rows | Where-Object {$_.path -match 'scaleform|phone|cell|frontend'} | Format-Table -AutoSize

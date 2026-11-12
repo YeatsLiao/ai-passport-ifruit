@@ -3,9 +3,9 @@ from pathlib import Path
 import json
 import re
 import struct
-import assets as a
+from tools.pack import assets as a
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 
 def joaat(text):
     value = 0
@@ -45,11 +45,11 @@ def streams(path):
     return result
 
 def main():
-    index = ROOT/'assets/manifest.json'
+    index = ROOT/'assets/catalog/manifest.json'
     manifest = json.loads(index.read_text(encoding='utf-8')); a.validate(manifest)
     text = gxt(ROOT/'assets/ui/gta_anaud_gxt2.gxt2')
-    stream_ids = streams(ROOT/'build/reference/plain_ansph.awc')
-    source = '\n'.join((ROOT/'build/reference'/name).read_text() for name in
+    stream_ids = streams(ROOT/'.local/reference/plain_ansph.awc')
+    source = '\n'.join((ROOT/'.local/reference'/name).read_text() for name in
                         ['standard_global_reg.ysc.full.c', 'appcontacts.ysc.full.c'])
     labels = set(re.findall(r'"([A-Z][A-Z0-9_]*APH[A-Z0-9_]*|ANS_[A-Za-z0-9_]+)"', source))
     labels.update(['MIC_APH1', 'MIC_APH2', 'TRE_APH1', 'FRA_APH1'])
@@ -84,7 +84,7 @@ def main():
     report = dict(source_gxt='gta_anaud_gxt2', source_gxt_sha256=a.digest(ROOT/'assets/ui/gta_anaud_gxt2.gxt2'),
                   algorithm='joaat(lowercase(ANAUD audio name + _01)) & 0x1fffffff == AWC stream id',
                   sound_names=name_map, unresolved_names=sorted(set(unresolved_names)), conversations=catalog)
-    (ROOT/'assets/answerphone-map.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (ROOT/'assets/catalog/answerphone-map.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     for item in manifest['assets']:
         if not item['id'].startswith('gta_answerphone_stream_'):
             continue

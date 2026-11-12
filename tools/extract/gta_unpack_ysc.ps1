@@ -2,7 +2,7 @@ param([Parameter(Mandatory=$true)][string]$InputFile,[Parameter(Mandatory=$true)
 . "$PSScriptRoot/gta_support.ps1"
 $inputPath=(Resolve-Path -LiteralPath $InputFile).Path
 $target=[IO.Path]::GetFullPath($OutputFile)
-$workspace=[IO.Path]::GetFullPath((Split-Path $PSScriptRoot -Parent))+[IO.Path]::DirectorySeparatorChar
+$workspace=[IO.Path]::GetFullPath((Split-Path (Split-Path $PSScriptRoot -Parent) -Parent))+[IO.Path]::DirectorySeparatorChar
 if(-not $target.StartsWith($workspace,[StringComparison]::OrdinalIgnoreCase)){throw 'Output must be within project'}
 if(Test-Path -LiteralPath $target){throw 'Refusing overwrite'}
 $all=[IO.File]::ReadAllBytes($inputPath)

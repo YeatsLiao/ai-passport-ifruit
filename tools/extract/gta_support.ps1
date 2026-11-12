@@ -1,5 +1,5 @@
 ﻿$ErrorActionPreference='Stop'
-$toolDir=Join-Path (Split-Path $PSScriptRoot -Parent) 'build/tooling/gtautil'
+$toolDir=Join-Path (Split-Path (Split-Path $PSScriptRoot -Parent) -Parent) '.local/tooling/gtautil'
 Get-ChildItem $toolDir -Filter '*.dll' | ForEach-Object {try {[Reflection.Assembly]::LoadFrom($_.FullName) | Out-Null} catch {}}
 [Reflection.Assembly]::LoadFrom((Join-Path $toolDir 'ragelib.gta5.dll')) | Out-Null
 # Use the official resource tool's bundled format support in memory; never export key material.

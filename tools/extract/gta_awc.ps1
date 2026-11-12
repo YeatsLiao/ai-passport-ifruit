@@ -1,6 +1,6 @@
 ﻿param([Parameter(Mandatory=$true)][string]$InputAwc,[Parameter(Mandatory=$true)][string]$OutputAwc)
 $ErrorActionPreference='Stop'
-$root=Split-Path $PSScriptRoot -Parent
+$root=Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
 $target=[IO.Path]::GetFullPath($OutputAwc)
 if(-not $target.StartsWith(([IO.Path]::GetFullPath($root)+[IO.Path]::DirectorySeparatorChar),[StringComparison]::OrdinalIgnoreCase)){throw 'Output must be within project'}
 if(Test-Path -LiteralPath $target){throw 'Refusing overwrite'}
@@ -22,7 +22,7 @@ public static class LocalAwcDecoder {
 }
 "@
 $data=[IO.File]::ReadAllBytes((Resolve-Path -LiteralPath $InputAwc).Path)
-$key=[IO.File]::ReadAllBytes((Join-Path $root 'build/reference/.codewalker_awckey'))
+$key=[IO.File]::ReadAllBytes((Join-Path $root '.local/reference/.codewalker_awckey'))
 $wasWholeEncrypted=[Text.Encoding]::ASCII.GetString($data,0,4) -ne 'ADAT'
 if($wasWholeEncrypted){[LocalAwcDecoder]::Decode($data,$key)}
 if([Text.Encoding]::ASCII.GetString($data,0,4) -ne 'ADAT'){throw 'AWC decryption failed header validation'}
