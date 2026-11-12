@@ -19,6 +19,7 @@
 - **iFruit 网页模拟器**用于界面旁参考。来源记录标注素材未从该站导入。[网页模拟器](https://ifruit-sim.yifubei.top) · [参考记录](sources.json)
 - **AI Passport 希卡之石项目**提供截图工具入口及仓库文档结构的参考。[希卡之石项目](https://github.com/YeatsLiao/ai-passport-sheikah-slate)
 - **Vice City 彩蛋海报**由用户提供，作品及其中游戏元素的相关权利归各自权利人。[海报来源条目](../assets/catalog/easteregg.json)
+- **洛圣都来电封面**是为本项目生成的同人插画，描绘《GTA V》的三位主角和 iFruit 手机。相关游戏角色及标识的权利归各自权利人。[封面文件](../assets/concepts/los-santos-calling.png)
 
 ## 开发工具与技术参考
 

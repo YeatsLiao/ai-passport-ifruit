@@ -1,5 +1,9 @@
 # AI Passport iFruit
 
+<p align="center">
+  <img src="assets/concepts/los-santos-calling.png" alt="洛圣都来电同人封面：富兰克林、麦克、崔佛和 iFruit 手机" width="480">
+</p>
+
 把《GTA V》剧情模式里的手机带到 FoloToy AI Passport。选 Michael、Franklin 或 Trevor，用各自的皮肤收短信、查邮件、打电话或接听原版剧情来电。设备以 240×320 竖屏离线运行。
 
 [编译和烧录](#编译和烧录) · [三键操作](#三键操作) · [文档索引](docs/README.md) · [当前验证状态](docs/verification.md) · [素材来源](assets/README.md)
@@ -12,7 +16,7 @@
   <img src="assets/screenshots/home-facade-preview.png" alt="Trevor 的 Facade 桌面" width="160">
 </p>
 
-本文图片来自固件的主机 LVGL 预览，界面与预制内容以英文为主。
+下方的玩法截图和上方的三款手机界面来自固件的主机 LVGL 预览，界面与预制内容以英文为主。
 
 ## 玩法
 
