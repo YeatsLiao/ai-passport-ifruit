@@ -109,3 +109,11 @@ idf.py -C firmware -p COM5 flash monitor
 - [assets/](assets/README.md) 按图片、字体和声音分类，`catalog/` 放预制数据与素材索引。
 - [tools/](tools/README.md) 按设备、资源打包、原件提取和验证分目录。[tests/](tests) 放测试用例。
 - [docs/](docs/README.md) 放使用说明与历史记录。本机提取缓存、截图和旧构建放在 Git 忽略的 `.local/`。
+
+## 许可、来源与免责声明
+
+**项目原创代码采用 MIT 许可证。** 授权范围见 [LICENSE](LICENSE)。第三方组件沿用各自的许可证和版权声明，游戏素材、设备资源和完整固件镜像按各组成部分的权利声明处理。[第三方组件与完整署名](docs/credits.md)
+
+本项目是独立的同人固件，与 Rockstar Games、Take-Two Interactive 及 FoloToy 无官方隶属或背书关系。游戏界面、角色、美术、字体、对白、音效、商标及相关衍生素材的权利归各自权利人。来源见[素材清单](assets/catalog/manifest.json)，清单中多项游戏素材的再分发授权尚无记录。[Rockstar 游戏素材政策](https://support.rockstargames.com/articles/7bNaeoMFTV0iUDGhStTXvz/policy-on-posting-copyrighted-rockstar-games-material)
+
+固件按现状提供，不作明示或默示保证。完整 8 MB 烧录包会覆盖设备存档分区，刷写前请备份需要保留的数据。[烧录说明](docs/development.md)

@@ -12,6 +12,8 @@
 
 ## 素材与工具
 
+- [第三方署名与许可](credits.md)记录固件依赖、游戏素材、参考项目及开发工具。
+
 - [素材目录](../assets/README.md)说明原件、来源清单和设备转换。
 - [工具索引](../tools/README.md)按用途列出常用脚本。
 - [本地提取工具](tooling.md)和[游戏资源发现](game-findings.md)记录 Legacy 资料的定位与解码方法。
