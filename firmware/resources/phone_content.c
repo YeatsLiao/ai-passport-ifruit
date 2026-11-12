@@ -1,0 +1,9 @@
+#include "content.h"
+#include "world.h"
+const char *const mission_names[WORLD_TASKS] = {"Friend Request","Father/Son","Daddy's Little Girl","Marriage Counseling","Fame or Shame","Did Somebody Say Yoga?","Reuniting the Family","Mr. Richards","The Ballad of Rocco","Legal Trouble","Franklin and Lamar","Repossession","Complications","Chop","Hood Safari","The Long Stretch","I Fought the Law...","Eye in the Sky","Deep Inside","Pack Man","Mr. Philips","Nervous Ron","Friends Reunited","Hang Ten","Trevor Philips Industries","Crystal Maze","Scouting the Port","The Merryweather Heist","Minor Turbulence","The Paleto Score"};
+const char *const checklist_labels[7] = {"Open Missions","Progress","Missions","Hobbies and Pastimes","Strangers and Freaks","Random Events","Miscellaneous"};
+const char *const setting_names[SET_COUNT] = {"Background","Profile","Ringtone","Theme","Vibrate","Volume","Brightness"};
+const unsigned setting_counts[SET_COUNT] = {10,2,8,7,2,11,10};
+const char *const setting_options[SET_COUNT][15] = {{"Default","Purple Glow","Green Squares","Orange Herringbone","Orange Halftone","Green Triangles","Green Shards","Blue Angles","Blue Shards","Blue Circles"},{"Normal Mode","Sleep Mode"},{"Ringtone 1","Ringtone 2","Ringtone 3","Silent","Original clip 01","Original clip 02","Original clip 03","Character default"},{"Blue","Green","Red","Orange","Grey","Purple","Pink"},{"Off","On"},{"0%","10%","20%","30%","40%","50%","60%","70%","80%","90%","100%"},{"10%","20%","30%","40%","50%","60%","70%","80%","90%","100%"}};
+const uint32_t theme_colors[7][3] = {{0x98b6e6,0x5a97e8,0x202a3b},{0x208427,0x39a033,0x2700},{0xae2525,0x731010,0x540202},{0xe6712b,0xd5792f,0x5b2301},{0x7d7d7d,0x646464,0x131313},{0x560c7b,0x9f63bd,0x2a0041},{0xdb3892,0xd05fa1,0x5d0937}};
+const bool contact_has_voice[6] = {false,false,true,true,false,true};
