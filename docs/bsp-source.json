@@ -1,5 +1,6 @@
 {
   "source": "../ai-passport",
+  "local_path": "firmware/components/bsp",
   "files": {
     "components/bsp/CMakeLists.txt": "a9a845c158a5f60e106d08267926eff7510cc75ad377dad8eefef6ff21e1766b",
     "components/bsp/idf_component.yml": "1ad3f7c6ef54cb8b77de72c2faa203518b9bd9ba1629b0376446ea517efcfeaa",

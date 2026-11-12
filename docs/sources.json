@@ -1,5 +1,5 @@
 {
-  "checked_on": "2026-11-07",
+  "checked_on": "2026-11-09",
   "project": "D:\\2.Project\\01_hw\\ai-passport\\ai-passport-ifruit",
   "rea": {
     "path": "D:\\2.Project\\01_hw\\rea",
@@ -23,9 +23,9 @@
     "active_chat_mcp_connection": "not established; CLI used successfully",
     "native_analysis_engines": "not installed",
     "evidence": [
-      "build/reference/home-capture.json",
-      "build/reference/contacts-capture.json",
-      "build/reference/call-capture.json"
+      ".local/reference/home-capture.json",
+      ".local/reference/contacts-capture.json",
+      ".local/reference/call-capture.json"
     ]
   },
   "game": {
@@ -162,7 +162,7 @@
     "assets_imported": false
   },
   "asset_extraction": {
-    "manifest_entries": 635,
+    "manifest_entries": 654,
     "central_phone_resources": 213,
     "decoded_texture_images": 268,
     "ringtone_streams": 9,
@@ -194,7 +194,29 @@
       "random_voice_calls": false,
       "money_rewards": false,
       "original_character_phone_skins": false,
-      "source": "docs/world-events.md"
-    }
+      "source": "docs/history/world-events.md"
+    },
+    "story_presets": {
+      "Michael": {
+        "emails": 64,
+        "texts": 32,
+        "web": 26
+      },
+      "Franklin": {
+        "emails": 44,
+        "texts": 24,
+        "web": 26
+      },
+      "Trevor": {
+        "emails": 44,
+        "texts": 21,
+        "web": 26
+      }
+    },
+    "ringtone_recording_previews": 9,
+    "volume_control": "0..100 live preview; confirm/cancel",
+    "brightness_control": "10..100 live preview; confirm/cancel",
+    "source_verified_incoming_scenes": 1,
+    "device_tested_for_this_batch": false
   }
 }

@@ -1,16 +1,18 @@
 # 原版文件发现 · 2026-11-07
 
+这是提取阶段的资料定位记录。当前设备内容与容量见[项目 README](../README.md)和[验证状态](verification.md)。
+
 依据为本机 GTA V Legacy 1.0.3889.0，Steam build 24129523。所有游戏归档以只读方式打开，未改安装目录。
 
 ## 画面和脚本
 
-基础资源来自 `x64b.rpf/data/cdimages/scaleform_generic.rpf`，同名更新优先来自 `update/update.rpf/x64/data/cdimages/scaleform_generic.rpf`。213 个原始文件包括 cellphone_ifruit.gfx、提醒弹窗、手机图标纹理、壁纸和 char_* 联系人头像纹理；共解码 268 张 PNG。原始 YTD/GFX 和解码图均保留，具体归档路径及 SHA-256 见 assets/manifest.json。
+基础资源来自 `x64b.rpf/data/cdimages/scaleform_generic.rpf`，同名更新优先来自 `update/update.rpf/x64/data/cdimages/scaleform_generic.rpf`。213 个原始文件包括 cellphone_ifruit.gfx、提醒弹窗、手机图标纹理、壁纸和 char_* 联系人头像纹理；共解码 268 张 PNG。原始 YTD/GFX 和解码图均保留，具体归档路径及 SHA-256 见 assets/catalog/manifest.json。
 
 GFX 舞台为 256×344。HOMEMENU_IFRUIT.as 给出 3×3 网格、初始选择索引 4、选中图标 120% 与 250ms 过渡；CONTACTLIST.as 给出五行联系人列表和 48 单位行高。当前 LVGL 实现做了 240×320 适配，尚未完整复现过渡、字体和全部布局。
 
 原生脚本取自 `update/update2.rpf/x64/levels/gta5/script/script_rel.rpf`。cellphone_controller.ysc 反编译结果约第 7340 行起明确设置故事模式槽位：0 Email、1 Texts、2 Check List、3 Quick Save、4 Contacts、5 Settings、6 Snapmatic、7 Internet；Trackify 在对应剧情全局变量开启后占第 8 槽。应用 ID、图标帧 ID 与槽位不同，不混用。
 
-global_american.gxt2 保存原版英文文字；当前解析出的手机文字键在 build/reference/original-phone-text.json。尚未导出原版中文语言包或确认完整字体方案。不能将 Montserrat 近似字体标为原版字体。
+global_american.gxt2 保存原版英文文字；当前解析出的手机文字键在 .local/reference/original-phone-text.json。尚未导出原版中文语言包或确认完整字体方案。不能将 Montserrat 近似字体标为原版字体。
 
 ## 声音对应
 
@@ -21,19 +23,19 @@ global_american.gxt2 保存原版英文文字；当前解析出的手机文字�
 - Menu_Back：wave 31c3a2eb，流 63，偏移 910641。Hang_Up 包装节点指向同一声音。
 - Text_Arrive_Tone：wave 3107976b，流 58，偏移 910439。
 
-映射追踪结果在 build/reference/phone-soundmap.json。前三种音效已由按键状态事件触发；短信音尚未有到达事件。通话/来电状态忽略导航音，避免按键覆盖主音频。
+映射追踪结果在 .local/reference/phone-soundmap.json。前三种音效已由按键状态事件触发；短信音尚未有到达事件。通话/来电状态忽略导航音，避免按键覆盖主音频。
 
 `x64/audio/sfx/S_MISC.rpf/player_ringtones.awc` 解出 9 段铃声。这 9 段并未证实是角色默认铃声。standard_global_reg 的 func_689 明确麦克默认 PHONE_GENERIC_RING_01；REL 追踪显示其涉及 ModularSynthSound，不能拿导出 WAV 序号代替。当前不绑定默认来电铃声。
 
 `x64/audio/sfx/SS_AC.rpf/ansph.awc` 解出 115 段答录机录音。全部以流编号存入 voices。standard_global_init 将 Global_24046 设为 ANAUD，据此提取原版 anaud.gxt2。对话的 LABEL_1 是字幕，LABEL_1a 是音频名称；音频名称转小写加 _01 后做 JOAAT 并取低 29 位，与 AWC 流 ID 比对，115 个流全部获得名称对应。文字库另有 5 个 ANSPH 名称在本容器中无匹配，保留 unresolved。解析出 76 组对话标签，不等于全部剧情通话已提取。
 
-standard_global_reg / func_684 将 Lester 默认答录机设为 LES_APH2，Amanda 为 AMA_APH1，Dave 为 DAV_APH1。ANAUD 将其分别指向 ANSPH_BVAA / 流 72、ANSPH_AIAA / 流 95、ANSPH_BUAA / 流 37，原文与哈希链保存在 assets/answerphone-map.json，精选场景保存在 assets/phone-calls.json。三段原声已接入本地拨号演示；对白播放结束或失败后返回联系人。Jimmy 的三段对白与两个 pause 标签已解析，尚未接入。
+standard_global_reg / func_684 将 Lester 默认答录机设为 LES_APH2，Amanda 为 AMA_APH1，Dave 为 DAV_APH1。ANAUD 将其分别指向 ANSPH_BVAA / 流 72、ANSPH_AIAA / 流 95、ANSPH_BUAA / 流 37，原文与哈希链保存在 assets/catalog/answerphone-map.json，精选场景保存在 assets/catalog/phone-calls.json。三段原声已接入本地拨号演示；对白播放结束或失败后返回联系人。Jimmy 的三段对白与两个 pause 标签已解析，尚未接入。
 
 答录机尾音标签 SFX_Phone_Generic_Answerphone_Beep_04 去除 SFX_ 前缀后可在 REL 中定位 EnvelopeSound（650ms hold）→ ModularSynthSound。该合成器尚未移植，不用另一段录音替代结尾提示音。
 
 ## 解码修正和验收界限
 
-AWC 既有全文件加密，也有内部音频块加密。全文件解密后不能再次解密音频块；错误处理仍可能让解码器输出有时长的噪声 WAV。已按 CodeWalker 格式分别处理，并重新导出 9 段铃声及其哈希。原始 AWC 保持原字节；密钥材料仅留在忽略的本地 build/reference，不进入素材库和设备镜像。
+AWC 既有全文件加密，也有内部音频块加密。全文件解密后不能再次解密音频块；错误处理仍可能让解码器输出有时长的噪声 WAV。已按 CodeWalker 格式分别处理，并重新导出 9 段铃声及其哈希。原始 AWC 保持原字节；密钥材料仅留在忽略的本地 .local/reference，不进入素材库和设备镜像。
 
 当前校验包括来源映射、文件结构、PCM 参数、波形检查和哈希；这些不能替代实际试听。原件/设备版听感以及真机音频输出尚未验收。
 

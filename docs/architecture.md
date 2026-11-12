@@ -1,31 +1,32 @@
-# 架构与实施边界
-
-目标是固定 AiPassport 上的 GTA V 麦克 iFruit。游戏文件/脚本为依据；游戏世界相关行为由本地场景模拟。当前仅实现部分页面，不把原版入口等同于功能完成。
+# 源码架构
 
 ## 目录
 
-main：phone 纯 C 状态机、ui 渲染、main 按键入口、audio 工作任务、wav 严格 PCM 解析器。content.h 声明只读内容表；prepare_content.py 将平铺 JSON 与原版 GXT2 转成 build/generated/phone_content.c，不把文字和场景塞入 UI。
+| 位置 | 职责 |
+| --- | --- |
+| [固件构建配置](../firmware/CMakeLists.txt) | ESP-IDF 工程入口，默认将设备音频打包进 `assets.bin` |
+| [firmware/main](../firmware/main) | 应用源码 |
+| [firmware/components](../firmware/components) | AI Passport BSP 和 GSM 解码器 |
+| [firmware/resources](../firmware/resources) | 设备直接使用的图片、字体、内容、WAV 与哈希清单 |
+| [assets](../assets/README.md) | 原始素材、解码原件、来源和预制 JSON |
+| [tools](../tools/README.md)、[tests](../tests) | 资源加工、调试和主机检查 |
+| `firmware/build/`、`firmware/managed_components/` | 固件构建结果和 ESP-IDF 组件缓存 |
+| `.local/` | 本机截图、预览、提取缓存和历史产物 |
 
-components/bsp：复用 FoloToy 显示、三键、ES8311/I2C 驱动，携带原许可。assets 一层分类和唯一 manifest；tools 平铺辅助脚本；tests 主机验证；docs 平铺文档；所有生成结果放 build。
+`.local/archive/` 按旧音频包、日志、主机测试、提取中间文件和旧构建归档。实机截图集中在 `.local/screenshots/`。
 
-## 事件与线程
+## 应用模块
 
-按键回调只发无阻塞队列。主任务独占 phone_t，负责状态转换和每秒计时；LVGL 更新使用 BSP 锁。UI 对象只创建一次，后续更新文字、图片、可见性和位置。
+- `main.c` 管理按键队列、主循环、音频事件和存档触发。
+- `phone.c` 管理页面、按键、来电和拨号状态。`ui.c` 负责三种皮肤、LVGL 布局和阅读滚动。
+- `phonebook.c`、`story.c` 读取预制的联系人、对白、邮件和短信。`communications.c` 处理记录、回执和自动来电。
+- `world.c`、`simulation.c` 处理离线任务、账户和交易。
+- `audio.c`、`wav.c` 挂载音频分区并流式解码。 `storage.c` 保存设置和进度，`screenshot.c` 通过 USB Serial/JTAG 导出屏幕像素。
 
-phone 模块不引用 ESP-IDF/LVGL，返回 FX_NAV、FX_ACCEPT、FX_BACK、FX_RING、FX_VOICE、FX_STOP 等音频意图。导航/确认/返回映射原版麦克音效；通话/来电中无效导航不发音，避免打断主音频。双击 OK 来电入口仅为开发演示。
+按键回调将事件写入队列，主任务独占手机状态。音频工作任务通过单槽队列处理播放和停止请求，完成事件携带请求 ID。LVGL 更新受 BSP 锁保护，主机预览使用固定 32KB 内存池。
 
-audio 工作任务串行持有 codec；单槽覆盖队列接收最新播放/停止命令，512 字节分块读取。替换命令先关原文件，挂断播放原版返回/挂断音。音频缺失保持静音，不用其他录音替代；SPIFFS 挂载失败不格式化。初始化 codec 延迟到有效文件存在时。
+## 资源与分区
 
-播放状态可通过 phone_audio_status 读取，目前没有在最终 UI 展示错误提示；避免误称已有人机反馈。硬件 DMA 尾音和延迟待真机测量。音频命令携带递增请求 ID，工作任务通过独立完成队列报告结束/失败；主任务只接受当前通话的 ID，避免已取消的旧声音结束事件影响后续通话。Lester、Amanda、Dave 的答录机播完后返回联系人，缺失/损坏文件也退出，避免卡住；来电对白仍未绑定。
+原始素材由工具转换到 `.local/generated/` 和 `.local/audio/`，再由 `tools/pack/prepare_firmware.py` 校验后整理到 `firmware/resources/`。`firmware/dependencies.lock` 固定已解析组件版本，`firmware/sdkconfig.defaults` 保存目标硬件的默认配置。
 
-## 内容模拟设计
-
-待实现的本地内容事件应包含原版触发语义、发送者/联系人、文字键、音频 ID、时间顺序和状态变更；每项保留出处。邮件、短信、检查清单、存档、拍照、网页与 Trackify 分别模拟原版流程，渲染层只展示状态，不依赖实时 GTA 进程。
-
-故事模式与 Online 手机入口不同，本版本首先按故事模式；联系人名单与解锁进度后续按固定故事场景整理。当前六人名单为开发子集。
-
-## 内存与容量
-
-ESP32-C3、240×320、8MB Flash、无 PSRAM。BSP 20 行显示缓冲；不在设备分配完整帧缓冲。3MB 应用分区，0x4f0000 字节 SPIFFS，无 OTA。纹理离线转换成 Flash 内 LVGL 图片描述符；设备音频为 16kHz 单声道 PCM16，每秒约 32KB。
-
-完整电脑素材库与设备场景包分开管理。当前设备音频包有 4 个短音效和 3 段已确认答录机录音。背景使用不带透明通道的 RGB565 存放 Flash，避免 15 张原版背景挤占过多应用空间。运行时设置保存在 phone_t，确认后写入 NVS。加载时验证版本、长度及所有选项边界，无效配置整体回退默认值；初始化失败不擦除存储。相同配置不重复写入，写失败留日志并继续运行；断电恢复待真机验收。全部电话录音不能直接装入现有容量；后续按原版场景精选，或评估压缩解码。不能假设存在 SD 卡。
+应用分区从 `0x10000` 开始，大小 3MiB。音频分区从 `0x310000` 开始，大小 `0x4f0000`。设置和进度使用 NVS。普通更新沿分区地址写入，完整 8MB 镜像从 `0x0` 写入。
