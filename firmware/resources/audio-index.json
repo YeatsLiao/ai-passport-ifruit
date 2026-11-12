@@ -1,0 +1,3567 @@
+[
+  {
+    "file": "ring_clip_0.wav",
+    "source_id": "gta_ringtone_stream_01",
+    "source_sha256": "08746bb308c30a42028abf6dd2f028e4b46ed8afa311a39244329269b6738310",
+    "sha256": "a8ba632bd84bf7c69c97a9b6b25026f46cff55af560dcd990368194d2b24e501",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.0669375
+  },
+  {
+    "file": "ring_clip_1.wav",
+    "source_id": "gta_ringtone_stream_02",
+    "source_sha256": "5f87fa4a1c4431d2587b8a272400a37f3558061895b0f0934d6700ad0ff3f10c",
+    "sha256": "63b3b08a6aecb085a512a846c3031a6268673beedc5e5869560149e41faaad7c",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.290125
+  },
+  {
+    "file": "ring_clip_2.wav",
+    "source_id": "gta_ringtone_stream_03",
+    "source_sha256": "e0ac8bb93200a17dad90eb28d2bbdc235b093c71b89f852ee7d0965f44dc2570",
+    "sha256": "2968c2bea32701c892db157eb18062144d50306eada3d3894803aa489f7bb7da",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.7600625
+  },
+  {
+    "file": "native_ring_1.wav",
+    "source_id": "gta_native_ring_1",
+    "source_sha256": "e0c7e47de9fe33a893976c759eff306a671fd9c24178226e0a961002a1f81590",
+    "sha256": "e0c7e47de9fe33a893976c759eff306a671fd9c24178226e0a961002a1f81590",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 2.508
+  },
+  {
+    "file": "native_ring_2.wav",
+    "source_id": "gta_native_ring_2",
+    "source_sha256": "e210930cc137372bb45e32e9a1387effff7d043e08810bfcef49fe4684ce5acc",
+    "sha256": "e210930cc137372bb45e32e9a1387effff7d043e08810bfcef49fe4684ce5acc",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 2.5133125
+  },
+  {
+    "file": "native_ring_3.wav",
+    "source_id": "gta_native_ring_3",
+    "source_sha256": "c9f5377ce8a7df288d1da1142047b88dd588b9435d92a12969cae97a30312954",
+    "sha256": "c9f5377ce8a7df288d1da1142047b88dd588b9435d92a12969cae97a30312954",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 1.1
+  },
+  {
+    "file": "menu_navigate.wav",
+    "source_id": "gta_michael_menu_navigate",
+    "source_sha256": "f30da8cc069bd89a254729dfb32605081c2ee7436e7cd9153de94d83113ee60e",
+    "sha256": "c9e8f70ae4b7eaf2abbf0b4300982734f5202c42a5b24422390508b85d1a547a",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.146375
+  },
+  {
+    "file": "menu_accept.wav",
+    "source_id": "gta_michael_menu_accept",
+    "source_sha256": "6bd760259ce06f41adf430f96f511d2b9dff4c0fc6e016d56a9afb0718b56189",
+    "sha256": "800a8a71cc5be425d911be54f0779ee923b369e57d40f7a12a5fb9d4fcfbbdaa",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.1396875
+  },
+  {
+    "file": "menu_back.wav",
+    "source_id": "gta_michael_menu_back",
+    "source_sha256": "b02b955972f7da6720f2aae977fbfb657ff8360fa564cb3a25ab40c9e2376b1e",
+    "sha256": "7706f7a313c6aaad1ffe8eac5d0405e9370f07013a8fe1e3365a147c3a8d95ba",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.176125
+  },
+  {
+    "file": "text_arrive_tone.wav",
+    "source_id": "gta_michael_text_arrive_tone",
+    "source_sha256": "c1a3444e6ea917f385f42700983a45219c9a5a0d2fc4acc59769a8b13596c048",
+    "sha256": "d6c341e3910aa3ec7dce19f8b4a8e321e34a57a7830a2f392f6f41ca7b4982ad",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.802
+  },
+  {
+    "file": "camera_shoot.wav",
+    "source_id": "gta_camera_shoot",
+    "source_sha256": "79555f160abd181be493ab0f838b7be2a5811651188385d0416a73fdbfa2ba79",
+    "sha256": "8cc0691fa331b08f6b922afa35b4fc11042ee7d2924f6146d25446c1da796c71",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.244875
+  },
+  {
+    "file": "dial.wav",
+    "source_id": "gta_native_dial",
+    "source_sha256": "4ed7c181af4874894dd5557d89461758bfb2d09eb11cbd9bfe1a20d24b07d1f8",
+    "sha256": "4ed7c181af4874894dd5557d89461758bfb2d09eb11cbd9bfe1a20d24b07d1f8",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.0
+  },
+  {
+    "file": "role_1_menu_navigate.wav",
+    "source_id": "gta_role_1_menu_navigate",
+    "source_sha256": "12b7744552bfd302696ad9fa622429ec2afab514cf51a624d8b0a7a5b4012a0b",
+    "sha256": "5da00c3755acb6b1fd55eea6a567a5589e65bb91fdea9d8ac5bb6391b4642200",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.046125
+  },
+  {
+    "file": "role_1_menu_accept.wav",
+    "source_id": "gta_role_1_menu_accept",
+    "source_sha256": "a13f0c986cc109787c052824d5c8ebdc57c41abef661c4d5d6623f07a6da2b66",
+    "sha256": "72bdfdf57913918794e82b7245d692e0e5aa186c3637ef6a95330a40b16d4e84",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.1625625
+  },
+  {
+    "file": "role_1_menu_back.wav",
+    "source_id": "gta_role_1_menu_back",
+    "source_sha256": "3c7bae903b6307365af0f8680a1cb4b5ecf5396e56967b0f6dbe9edae8615565",
+    "sha256": "c96fbcafc53bf184cda46590a59014054abd5db0536b621e94b7a7d32bf38410",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.082375
+  },
+  {
+    "file": "role_1_camera_shoot.wav",
+    "source_id": "gta_role_1_camera_shoot",
+    "source_sha256": "28ec0b89ee72afba55a70c4357c17e33f2333bc68b30f04cfb38f47a5aa44fa8",
+    "sha256": "6b25d1ec2b5f5c9f3717880a374a7463bdbf30b49e004738cf734a6315b83c6c",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.222125
+  },
+  {
+    "file": "role_1_text_arrive_tone.wav",
+    "source_id": "gta_role_1_text_arrive_tone",
+    "source_sha256": "e00add30ad23f81f9a602a6f87e52db4b0088284dc862cf745b956d3d2e6583c",
+    "sha256": "6ba09dd95ec4e2acaac018ae7abf297a702919c2867d4af6a62685a122d4a6fe",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.9434375
+  },
+  {
+    "file": "role_2_menu_navigate.wav",
+    "source_id": "gta_role_2_menu_navigate",
+    "source_sha256": "669ad3d8c5c975c2d21e4da417642fb448444beeabf47a76534ed7cc6147d46f",
+    "sha256": "f4de6e38833223137fa7148ba96768f6235bad1a9f74d4ffc6c8093bf21013fa",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.09875
+  },
+  {
+    "file": "role_2_menu_accept.wav",
+    "source_id": "gta_role_2_menu_accept",
+    "source_sha256": "25eadf66ccfc4b506628cd36075f2d40c4f02201b23ca2d69934187fe7410777",
+    "sha256": "b0c838f176dd9f774a0d183be123fd0a006c3cdf538922d2e09efe282b0ddbb8",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.4669375
+  },
+  {
+    "file": "role_2_menu_back.wav",
+    "source_id": "gta_role_2_menu_back",
+    "source_sha256": "8b2d064fb811d566f3267d3dce1cd7ece8e77f23394e0a926139244d454c5cf3",
+    "sha256": "6ca024d5d611638d8eb8758f5c9344a3890ef59b6dd1cd757edffebb2e59105d",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.6383125
+  },
+  {
+    "file": "role_2_camera_shoot.wav",
+    "source_id": "gta_role_2_camera_shoot",
+    "source_sha256": "178912f61f2703dfad415683832152fea893489de88f37ad673b177ba0d79afa",
+    "sha256": "6a8c48babeaef091d44798ce816f1d9f6806ce74af3cd259b9c03483e9bdbda5",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.19725
+  },
+  {
+    "file": "role_2_text_arrive_tone.wav",
+    "source_id": "gta_role_2_text_arrive_tone",
+    "source_sha256": "7c7529e8010f73411544b7b955ce8860329a12f130f59e043326a13b4af03140",
+    "sha256": "c4a9a04c8af0ee7546a89d62949d8fdb91394e988baf15739ccf54bbfeb5e035",
+    "sample_rate": 16000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 0.7635625
+  },
+  {
+    "file": "ap_abi_aph1.wav",
+    "source_id": "sequence:ap_abi_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_101",
+        "sha256": "3b689af4345991144b4375a94faef79753e7b74c549f72908ec24b8bcb9fd39b"
+      },
+      {
+        "id": "gta_answerphone_stream_089",
+        "sha256": "268dca04bb3f190a06ab43711f3b363b2cc4ef8673b5a930bcec2655fcf3131a"
+      }
+    ],
+    "sha256": "b65b33ecc5182e985a1ee42d13340571d6d1bb57fd45a8d7f5d4d70aee3885f2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.7923125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ama_aph1.wav",
+    "source_id": "sequence:ap_ama_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_095",
+        "sha256": "cc6c745b48df0bacb36568995dada2c889bfbe5e39d3a047c3cdd597e80b15db"
+      }
+    ],
+    "sha256": "34b01e7bec88884cf921e719e0aab28918593a5094c722c60f944192d6e6dcee",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.401125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_bar_aph1.wav",
+    "source_id": "sequence:ap_bar_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_045",
+        "sha256": "0bb84814e03fbec7c4b449f4a26067c6dbca0956f45959a18d3e6e4df5ea8c1d"
+      },
+      {
+        "id": "gta_answerphone_stream_019",
+        "sha256": "72c34d7931f63347cfae43f5e241caae1a16389955c8f9688c20318075505333"
+      }
+    ],
+    "sha256": "366e792c670cb5a6741118ad44c72e8932bfa5ba2e07e96c907b5751931b7d11",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.0101875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_bev_aph1.wav",
+    "source_id": "sequence:ap_bev_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_004",
+        "sha256": "07ed12fcf03424c38e28a1fb25d843daab513a4a78c14ec797ec57729ace75c7"
+      }
+    ],
+    "sha256": "08cff504af4288a311134e242bf56d7caaa1233259c4e3c622b1f78ec262df46",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.236625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_che_aph1.wav",
+    "source_id": "sequence:ap_che_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_026",
+        "sha256": "2c04d04a1a2b12393a943d762c43261e6cafeee13438150aac6f09373500658f"
+      }
+    ],
+    "sha256": "46feda0c4221c45a84eeef136c2a6a4668d3cca485d20d375fae12a918024abb",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.486,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_cle_aph1.wav",
+    "source_id": "sequence:ap_cle_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_039",
+        "sha256": "c090349356b259361c477b62a97629a945e19e219afa9bc45079a5082edc12af"
+      }
+    ],
+    "sha256": "0a4c46612a4a3db0a734950833beceba6a4266d1dd82b439261dd0c872445990",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.835125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_cri_aph1.wav",
+    "source_id": "sequence:ap_cri_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_058",
+        "sha256": "fcc9fd9e6484d5b359f4d2b16fc8000e86d9e99bb0a95395079d92d2a2413cb3"
+      },
+      {
+        "id": "gta_answerphone_stream_087",
+        "sha256": "ec0822d9987b27e69b1a04a4078cb12973440acda60c5512b68f734cfb22e826"
+      },
+      {
+        "id": "gta_answerphone_stream_046",
+        "sha256": "3116da1a105df5fa792be418d24efe0b9626e4f78fb150e74bdcd898955e6cb2"
+      }
+    ],
+    "sha256": "b36d8b46fe0f5862ad29fab5bac083b31bf0fc120adaf656d992799bc6b35e1d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 13.4400625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_dav_aph1.wav",
+    "source_id": "sequence:ap_dav_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_037",
+        "sha256": "cde556ee991521f94f4df383edfb5261aeaf4c69a4d42259c033964982490002"
+      }
+    ],
+    "sha256": "301ec1e7e0f30063358838de9291964a73587b8ca689484a824c71ff61742402",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 1.96875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_den_aph1.wav",
+    "source_id": "sequence:ap_den_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_041",
+        "sha256": "56978acde3ea808700858eae014cab6fb60b98d3a8993634c9d9f4b0e4dd04e3"
+      }
+    ],
+    "sha256": "2cf0ca1ab0f1742521d57a8cfc290c2f5022e44bfabe84d62092eb843175ccaf",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.673375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_dev_aph1.wav",
+    "source_id": "sequence:ap_dev_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_107",
+        "sha256": "63186644afa52b6deaec36fb77152cc43bfe487a696f3d87108fb35de719e099"
+      },
+      {
+        "id": "gta_answerphone_stream_006",
+        "sha256": "8aa928c4009d98da4b9379e80bf705aae72d2db980679f16337804f6d8550d9a"
+      }
+    ],
+    "sha256": "d9e26ff216cc749ad54b4b1c2f13fbf346e9693522bebb0720d60fce03577fa4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.17725,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ans_dbusy.wav",
+    "source_id": "sequence:ap_ans_dbusy",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_055",
+        "sha256": "e5ffe338f9a45212d6a765e22c62c1a5a77668ce1e6df3b86127be2f1285fe1e"
+      }
+    ],
+    "sha256": "4ba2a6583eaeeb319d6d0667c5e0568ef1bc0a7146c3f73e1a9ef230f7a5b1d2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.134125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_shr_aph1.wav",
+    "source_id": "sequence:ap_shr_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_076",
+        "sha256": "9f5c415be7bad6de6ea43ba02fca39d7c97930f5d6543b05fca276e6a7d3e420"
+      },
+      {
+        "id": "gta_answerphone_stream_028",
+        "sha256": "888e86bc29a728d96064982149cb5398fd8ca0fcb3afea8507986e662a74c3dc"
+      }
+    ],
+    "sha256": "32eae06c2edfbd403af2d5ec6a34b288f9553913ae62d81e3b46cd4e5f279c45",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.2256875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_jim_aph1.wav",
+    "source_id": "sequence:ap_jim_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_108",
+        "sha256": "21fd0f5b09e017df32aaa25d63f06481956d12bcd9337d51ed1b472693e2e425"
+      },
+      {
+        "id": "gta_answerphone_stream_031",
+        "sha256": "eaacb810801eed0c9f02bcff2ba70993a0bdfd980ac6635215950aa136db7b4b"
+      },
+      {
+        "id": "gta_answerphone_stream_077",
+        "sha256": "89538320ab1330772a6b65d3e5289909a10d089fff851296efb3621ac07941bf"
+      }
+    ],
+    "sha256": "3eace8e2a24c56561e8ed565aff535839d3b9403d6f2199c1b9b6d1d36722ec5",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 11.6548125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_jib_aph1.wav",
+    "source_id": "sequence:ap_jib_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_059",
+        "sha256": "cbdf39943467526fa707f3436ee2da3aa834311f555b056de565427c1fda6b20"
+      },
+      {
+        "id": "gta_answerphone_stream_012",
+        "sha256": "33d13ecfd41ae77627396a555afb28932c3c61b14b0a282df329a42113ee584b"
+      }
+    ],
+    "sha256": "aae8bb0c08c50103997db669341b536bce7aec0c36fe5af9e4c7c72c697e142e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.1453125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_joe_aph1.wav",
+    "source_id": "sequence:ap_joe_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_109",
+        "sha256": "6c6cd5fbb862ffc67d2b9c8957c186535b69932c3b260929f72136136335d19c"
+      },
+      {
+        "id": "gta_answerphone_stream_066",
+        "sha256": "47714c9ee3bb74f8de215acb3198d2536fc58aa0bb66c7d616e2f5135cac33d0"
+      }
+    ],
+    "sha256": "25ddf0bbec3292fe5c7a30eeee435161a54295c639a4202e51da4e3bffa6372d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.2309375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_jos_aph1.wav",
+    "source_id": "sequence:ap_jos_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_038",
+        "sha256": "abc353d683a2a78ffbe04f44f76b3d86f564c26e6b588a96a78dd66ceba37032"
+      },
+      {
+        "id": "gta_answerphone_stream_105",
+        "sha256": "8cef4ae1b0b3c1bb502dfecdbdbc5de86eacd4491993bb49f892fdf5d2e3ceaf"
+      }
+    ],
+    "sha256": "bd1885657f8c0ad0e52206acf78d48007621473d8822202f9352e24c2d1ff653",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.4393125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_lam_aph1.wav",
+    "source_id": "sequence:ap_lam_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_011",
+        "sha256": "e2462b1ac25928b2818251e03b8cecadfbdc068f3a26be03955765ae83158c46"
+      }
+    ],
+    "sha256": "4c28906a6400b773319a5a7be63aa53e3599b1a786fb13c8ae6a10b6b959c945",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 2.788125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_les_aph2.wav",
+    "source_id": "sequence:ap_les_aph2",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_072",
+        "sha256": "5de62a62324f810acdc47d569727353b0a6925b41484009009b11872a5ae6d27"
+      }
+    ],
+    "sha256": "697c5581183e599bcbd1034c51f1a30a28f6eed3674855049475419a4a3a6cc9",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.9485,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_mar_aph1.wav",
+    "source_id": "sequence:ap_mar_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_023",
+        "sha256": "20cf6bbdd893af8c20f4d0c65c2b7524c945e22b6ca8ff9f36315ced53523274"
+      },
+      {
+        "id": "gta_answerphone_stream_001",
+        "sha256": "9d54436c2e36a3f9c34fffbd4752ace62ae7a4ce0694609e9a69d58e56cd7a3a"
+      },
+      {
+        "id": "gta_answerphone_stream_034",
+        "sha256": "670dee639047c49507d070241d50b11c67876e506daca39ec78e1d3a4da47250"
+      }
+    ],
+    "sha256": "219971755122fa6046395aeb3452295bb396fd865634e11ac4805bd272b37d52",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 9.8093125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ans_mmbusy.wav",
+    "source_id": "sequence:ap_ans_mmbusy",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_088",
+        "sha256": "c73e1b1ae9b647a95d43e1370276be6a5e8698eedae4407e495706dd06b5e245"
+      }
+    ],
+    "sha256": "f81d6ea24658dc8942fb8e5939b4b57848e657059984d01a0ff357789cc2a8d2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 2.7455,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_mau_aph1.wav",
+    "source_id": "sequence:ap_mau_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_009",
+        "sha256": "a862422af2425c7b6597d5362ee7881cf22900a2791e625503a41591336d8e5b"
+      },
+      {
+        "id": "gta_answerphone_stream_102",
+        "sha256": "6d31242ce34d11fec2f104f54a922240a4305bacf0f3b958cd63a131c6bc20c2"
+      },
+      {
+        "id": "gta_answerphone_stream_027",
+        "sha256": "1392ba8e8de32706d7147efa901e36cca34d5e7500999036da9bf80514c0914a"
+      }
+    ],
+    "sha256": "82446bbeb75b90466cd2ef4be919e94e901f9935217dad5f09ebd32894eb79f2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 9.109375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_mol_aph1.wav",
+    "source_id": "sequence:ap_mol_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_086",
+        "sha256": "63591c9f0ff1386a95643bcefd8569f33ebda955791b4cb8dc088635042c3276"
+      },
+      {
+        "id": "gta_answerphone_stream_020",
+        "sha256": "f3952ec56b753d37e3e34bbedbed53510c0308b12c1618c44c7da063bb47e6f4"
+      }
+    ],
+    "sha256": "fdf6ff864de384f2cbdcd6442b360048f3f4aa8af6081a7269aad44de213f93e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.20425,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_mil_aph1.wav",
+    "source_id": "sequence:ap_mil_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_035",
+        "sha256": "e5020dfbde30e535dbc0a8bf98b681149ee38a90e00fd7fd34007ed972a23f3b"
+      },
+      {
+        "id": "gta_answerphone_stream_050",
+        "sha256": "bfbe4a6a89116344ef62cf4bd608dc35cda72e1bbc442731db4df280450622b2"
+      }
+    ],
+    "sha256": "894b0f50d4bf6a41b99218f9e6e5b0acf0165f69e624ee18997993477089a159",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.2904375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_nig_aph1.wav",
+    "source_id": "sequence:ap_nig_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_104",
+        "sha256": "97f10924d98f1ca7242d1f8208527bb603292eb9d4ac9d7b577ca9477073cc09"
+      },
+      {
+        "id": "gta_answerphone_stream_032",
+        "sha256": "b75bacf36dfb9a6ab0467487543ccccc9345681c8ddd9c5fe781966f7d58f2be"
+      },
+      {
+        "id": "gta_answerphone_stream_063",
+        "sha256": "cceb761272852c281b73ba1939f10642da9187d5373df19d1dea6408ed9f4255"
+      }
+    ],
+    "sha256": "edc2a314c891d2e2777f354b75c6e1f05081c387af25bf9c4946417a10234482",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 12.1601875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ome_aph1.wav",
+    "source_id": "sequence:ap_ome_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_074",
+        "sha256": "411effa9993e1fe08b8ec532346acac866ca7a2df394777ab890bd7bb863f8c0"
+      },
+      {
+        "id": "gta_answerphone_stream_052",
+        "sha256": "f62740353667bf2949a673b95b146d45a0b0323190d6fe9a1d70e9c4fc39c43e"
+      }
+    ],
+    "sha256": "bc722a31e7cb5c198e96f49a0f75c5425ab207cde8a70bf70b965323ff949db9",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.599375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_osc_aph1.wav",
+    "source_id": "sequence:ap_osc_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_080",
+        "sha256": "671db37865441cbd96e4e1ee24f513bd12c09bfc4d8b603ee1464ba3a35f47dd"
+      }
+    ],
+    "sha256": "fdc77928354e092386eb5c0cef945d606b0fb620aec8d92507317d9a59a20d3d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.734125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ron_aph1.wav",
+    "source_id": "sequence:ap_ron_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_048",
+        "sha256": "04b039768cd60b31fedfe87ffedcf6bf69319197a1471f07b21472d7b3e33a93"
+      }
+    ],
+    "sha256": "bf9d7b930b8708ba650dea43b85d76ba3528785acc80a8149b077bd31dc26fbf",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.952,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ans_sbusy.wav",
+    "source_id": "sequence:ap_ans_sbusy",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_054",
+        "sha256": "d15964119a244eea625d90dc753ff5786686e38f65dcf57eaf0b03f047f2252f"
+      }
+    ],
+    "sha256": "922873de61722919bbf4da329ff01c447d3aebbd5c0dcd08abd8d4ac810f7be0",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.4106875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_sol_aph1.wav",
+    "source_id": "sequence:ap_sol_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_030",
+        "sha256": "83064d385166d5f50d82a7249d0ac79d88cdfa2edc62f335260359d69d2ee6cb"
+      },
+      {
+        "id": "gta_answerphone_stream_025",
+        "sha256": "e64d546a8ea61438efce091d49afcfbd851d5be5703adbe972df285939f0422f"
+      }
+    ],
+    "sha256": "1c8ee4c63ef4df1d67a806aa1ac665dda8c4a1b5987376c6efd2b4a6384032de",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.9674375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ste_aph1.wav",
+    "source_id": "sequence:ap_ste_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_113",
+        "sha256": "a18ab559b871e8641d607f9ac31bd4e53b4adb256808717f35132e2a2905d668"
+      }
+    ],
+    "sha256": "ff9db8b4f8981f706e012b08924b79b12778b7857ba99235cce54396a0555d8f",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.9648125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_str_aph1.wav",
+    "source_id": "sequence:ap_str_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_094",
+        "sha256": "6cdda82ff5862df6de6233f635bb5d3dbcae3c3453c1f0c1dd5656ce44563c02"
+      }
+    ],
+    "sha256": "9498a1a9ff78fbe131bc4eaec8405e9f261240e6358945e68abd055a0d690dc2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.63575,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_tan_aph1.wav",
+    "source_id": "sequence:ap_tan_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_053",
+        "sha256": "32adbe302d193179d4020241a5156ea243a5f038ae5c46d1af7c8a60d981ee70"
+      }
+    ],
+    "sha256": "3433ff8abe0180cfc763a6351374224a90becb8039a0c438292dd947cae20ca1",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.0100625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_ton_aph1.wav",
+    "source_id": "sequence:ap_ton_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_064",
+        "sha256": "14d1d9acaf384ba61b6cbf017be63c513775fc8d9f165f27dfa1bc2bc3eb5f64"
+      }
+    ],
+    "sha256": "133ec3a590576fc5af0baa3cbfe5753b406da4c837940f59f543f21bfd93dd32",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 2.29375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_tra_aph1.wav",
+    "source_id": "sequence:ap_tra_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_024",
+        "sha256": "08a639c27303374c8def4ffd511ecf8d4f04816752560261ce346d20fde79369"
+      }
+    ],
+    "sha256": "20c7511dfe1cdf92257ed7e73b18c1e4d3f851df38826cec01e2013a0d73a03c",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.3235,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "ap_wad_aph1.wav",
+    "source_id": "sequence:ap_wad_aph1",
+    "sources": [
+      {
+        "id": "gta_answerphone_stream_096",
+        "sha256": "c49703c502226420e8894ea29313245a6a3d7d6d8d62f1246352b16b01bbbdce"
+      },
+      {
+        "id": "gta_answerphone_stream_103",
+        "sha256": "896d64b69bd37cd90a4f48589ff765e2b92e34fdfb61b951f12ff4e73e1f4c1b"
+      }
+    ],
+    "sha256": "481f4401cc2574450763e1b3fdc8a7e484177f1fe5fb9bdf2818719ed3c4d9ae",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.550875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_0.wav",
+    "source_id": "sequence:call_0",
+    "sources": [
+      {
+        "id": "gta_fam1_phone_464",
+        "sha256": "32126724d8f55ba4a45e92b2f1565d7d189714b33c2a3453369e21f127373843"
+      },
+      {
+        "id": "gta_fam1_phone_174",
+        "sha256": "68e570c0d0fa5eff73bf700be621967a05503514a0fba7e13a29653025691d0c"
+      },
+      {
+        "id": "gta_fam1_phone_142",
+        "sha256": "42bb8d4cdf5f5d121b6b2fea22415def7ac6aac836c313c2405d2f9aa4284b77"
+      },
+      {
+        "id": "gta_fam1_phone_546",
+        "sha256": "4211279b0795f75f7752b71afab0706d01a843aaf2fe9e396a0052b4ed9c406c"
+      },
+      {
+        "id": "gta_fam1_phone_49",
+        "sha256": "71980f45330267bcb5ed6e36b3361c600ced8a25b62a3a8df552346657d902ed"
+      },
+      {
+        "id": "gta_fam1_phone_237",
+        "sha256": "0e2d53d6b72aeb7a4aebdb3bfbaa881484cf13353a7717f5ec8fe0ccfff39deb"
+      }
+    ],
+    "sha256": "574a383a1bcc5160d69349ef78b20a5ea6e25229faba2a9ede4419927b515a34",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 24.5024375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_1.wav",
+    "source_id": "sequence:call_1",
+    "sources": [
+      {
+        "id": "gta_story_jhf_craa_01",
+        "sha256": "2812f09f690c55f28c6427da84e54294da0a716cf6970ae949d6de10b6b44e5f"
+      },
+      {
+        "id": "gta_story_jhf_crab_01",
+        "sha256": "2df7bc57c80ee88b4111013b92417f98db857b4635a29396b1876da41bc9aaca"
+      },
+      {
+        "id": "gta_story_jhf_crac_01",
+        "sha256": "0937b134988affda4cc05de3d1c31b85a8533ccafe4968cee3d4124c49c7de5f"
+      },
+      {
+        "id": "gta_story_jhf_crad_01",
+        "sha256": "3dd9dee209fd6526eb022f384fe3751da1880a5903b441775ff0c95087a60e75"
+      }
+    ],
+    "sha256": "45f8c3a63e77143de7b562cbf7f724a50ab1d0567c05de252b056551ea1d7b6c",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.8246875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_2.wav",
+    "source_id": "sequence:call_2",
+    "sources": [
+      {
+        "id": "gta_story_jhf_csaa_01",
+        "sha256": "536977d61aca82b50d85815ee87f009422ea7a32f37a749abbd458e78b58eb46"
+      },
+      {
+        "id": "gta_story_jhf_csab_01",
+        "sha256": "b53a7fe23ea06eb5ce80904a6c19370d4841034006e340bd6bf5fa33bf3d94ce"
+      },
+      {
+        "id": "gta_story_jhf_csac_01",
+        "sha256": "f6dbfd723ea1e1429d3bc465871d29a21affcbb8fe9b0d1b7190b6cd2f0edd5c"
+      },
+      {
+        "id": "gta_story_jhf_csad_01",
+        "sha256": "b773637028a6f2486b6392d1332844e4fafd5d90e1f9d3e33a00d34c042a36c2"
+      }
+    ],
+    "sha256": "b8d5b60c0c790994699804c374e21188c2d6a58741f2d9da91573b2ba505bba9",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.453875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_3.wav",
+    "source_id": "sequence:call_3",
+    "sources": [
+      {
+        "id": "gta_story_exil_aoaa_01",
+        "sha256": "84e76fe22614cdc19f2ec59035f6bf2e28adecb15271d8e3b667861cd0c67499"
+      },
+      {
+        "id": "gta_story_exil_aoab_01",
+        "sha256": "ce757c27a047c494a7e96e7de2335202612d94c6f37dd12ce032c58e5d9efaf0"
+      },
+      {
+        "id": "gta_story_exil_aoac_01",
+        "sha256": "c6bc2dfb9047acf1d1632664a104350e8bec120019758e508203d35dd2ea590c"
+      },
+      {
+        "id": "gta_story_exil_aoad_01",
+        "sha256": "3eb28e831de26aff8181bd6c264c55dd56e6f5aff8d16224e402a91aca16e755"
+      },
+      {
+        "id": "gta_story_exil_aoaf_01",
+        "sha256": "8c2efb67e4d093d40515cb72770aca79d05ce171f292287347d21d5a170a80d1"
+      },
+      {
+        "id": "gta_story_exil_aoae_01",
+        "sha256": "39c2a6367dab33d82d971d291816ed17362cf243fa4bf207bee57ad7613280bd"
+      }
+    ],
+    "sha256": "d47fb8cb0bb255fc5f30307f2df78b89154902ed1381dc11aff6fc3b5e27dcb4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 17.5594375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_4.wav",
+    "source_id": "sequence:call_4",
+    "sources": [
+      {
+        "id": "gta_story_rhf_asaa_01",
+        "sha256": "ceafe872ff0c4f2c035b84bb890e69b48dac1a7da86ec151df9c35a286ece1e6"
+      }
+    ],
+    "sha256": "4e52e73259ae9404592d346d5e2dc2a70a73302bbcec95cc3708d57e6a0aaca2",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.8714375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_5.wav",
+    "source_id": "sequence:call_5",
+    "sources": [
+      {
+        "id": "gta_story_lsfl_aeaa_01",
+        "sha256": "f746def86258cb00b79a16862fd160f6932311accc7e358de9bdfecb15637115"
+      },
+      {
+        "id": "gta_story_lsfl_aeab_01",
+        "sha256": "61768a476891b97f302dbe6efa1c3fffb35fed9ef9edebc71df606eebe4099f2"
+      },
+      {
+        "id": "gta_story_lsfl_aeac_01",
+        "sha256": "159df81401ee86c17cd5ae853a408487aaa6e8ba671973c3f1c9d57c02de656e"
+      },
+      {
+        "id": "gta_story_lsfl_aead_01",
+        "sha256": "e1a2377e7593a391cabd7fa2f33a61ad3b424f01e6a60cf02e9217930e35d7bf"
+      },
+      {
+        "id": "gta_story_lsfl_aeae_01",
+        "sha256": "c8c7af90b3b63a3f45faf789a7c785d7a92dace5aa7b88ab0d99ecbd7fc95b6f"
+      }
+    ],
+    "sha256": "2f61e21268307e2b8c52e4881eec489f598716b9a7f8b1f14d18e2a35b3cc9f7",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 13.10575,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_6.wav",
+    "source_id": "sequence:call_6",
+    "sources": [
+      {
+        "id": "gta_story_pafl_abaa_01",
+        "sha256": "a30680143dc0c8fb7b542fc119ac32980afa6d578262502a2e92c389c259c1a1"
+      },
+      {
+        "id": "gta_story_pafl_abab_01",
+        "sha256": "ec83e87cbb10650c2b9f3975c17c89ab82e5a51da00166da5c69c347888786a4"
+      },
+      {
+        "id": "gta_story_pafl_abac_01",
+        "sha256": "3f75c922b6a272d7a2e94d32fe9e5db4a490b460e4bfe1a4ff36c070804ff5b8"
+      },
+      {
+        "id": "gta_story_pafl_abad_01",
+        "sha256": "ec2a795e8802821c0ffdabcd4164030add3e12c5ae28da8f9b61e9fa22ab1edb"
+      },
+      {
+        "id": "gta_story_pafl_abae_01",
+        "sha256": "d23f5f8d97daeb81729ef713533be5acb9b85e6760222ad559b211aa60845b59"
+      },
+      {
+        "id": "gta_story_pafl_abaf_01",
+        "sha256": "3ef5dff68c7b9c52cc14283c9fa5bed88c47008cdba6469f674f2324ad7a3128"
+      },
+      {
+        "id": "gta_story_pafl_abag_01",
+        "sha256": "b22d00c59ec55102c2225ac4d41a2999038c1b5f3d683290cb77d9112d85755a"
+      },
+      {
+        "id": "gta_story_pafl_abah_01",
+        "sha256": "9f5b39177750d91cbee27fc278ce5c1af5af08aa4298f5e9cfc1693efee11485"
+      }
+    ],
+    "sha256": "5e8c17deb00c691eb1f1a204e77a64cf81e12c32fe71a9e06722d34ef0f93fc0",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 25.3499375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_7.wav",
+    "source_id": "sequence:call_7",
+    "sources": [
+      {
+        "id": "gta_story_mifl_alaa_01",
+        "sha256": "3ba5444fa21bcc69a35506dea675386c166247af5ba619a57f54bb16cebae827"
+      },
+      {
+        "id": "gta_story_mifl_alab_01",
+        "sha256": "19a7477575dfef4bc81515531732bda5bd5de234dc9879ba8772404395aca9ab"
+      },
+      {
+        "id": "gta_story_mifl_alac_01",
+        "sha256": "fb29a3f10f2d9b36e47a5ce342c247210c5100c8dd2171708d3889b2468592de"
+      },
+      {
+        "id": "gta_story_mifl_alad_01",
+        "sha256": "4f209d209bf699ce4c5b990826cda48fd6cadb7de6f6ec5283ac44bb13ad20e5"
+      },
+      {
+        "id": "gta_story_mifl_alae_01",
+        "sha256": "61abf610bee197626928290e999f1a13e88b09b0262edf9d7a9139ebbcf3f44e"
+      }
+    ],
+    "sha256": "c82c3252c456bfac00e5db156ed1bca266e4093e3e6a93f113f60bbc378df2bb",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 18.220375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_8.wav",
+    "source_id": "sequence:call_8",
+    "sources": [
+      {
+        "id": "gta_story_mifl_afaa_01",
+        "sha256": "9773962de8adfafc59dfe4c56cf14920eddf022dff697973f8b97e8ac69a22e4"
+      },
+      {
+        "id": "gta_story_mifl_afab_01",
+        "sha256": "317d9997db7af216f4747d0705c8298f1c4b4e8ed9be21e92320bb889f8c8cfb"
+      },
+      {
+        "id": "gta_story_mifl_afac_01",
+        "sha256": "366706bbfca2606379f8ffcf69d4a57bc4c19963db785a17b01f69e5589b7162"
+      },
+      {
+        "id": "gta_story_mifl_afad_01",
+        "sha256": "2920a15d61b1c79665ae740a7043a8c0be1cd5e92290c81944af2b9dec38e105"
+      },
+      {
+        "id": "gta_story_mifl_afae_01",
+        "sha256": "16f61bd133d188c310fb9de791a6e17624309ce6e0753c35f3666b8ce0929e1a"
+      },
+      {
+        "id": "gta_story_mifl_afaf_01",
+        "sha256": "1fc5041aaaf8795eed0f1c33f97d57197f12f806e108c8f04d6f8b568b3669e1"
+      }
+    ],
+    "sha256": "dd0a3c84ac4c50a70a6ef7cadbea028d8101cc619ba0eaece8b7398e4e11b3bf",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 14.1125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_9.wav",
+    "source_id": "sequence:call_9",
+    "sources": [
+      {
+        "id": "gta_story_mifl_aeaa_01",
+        "sha256": "cc6994878ad528872233acb88fdff496a75c29f707a20a0c73fe11395e6aaeb6"
+      },
+      {
+        "id": "gta_story_mifl_aeab_01",
+        "sha256": "dfd7b55e33eaef630eec4b44832021417c75981ecaf2dcebb21fa84d3de2c3ec"
+      },
+      {
+        "id": "gta_story_mifl_aeac_01",
+        "sha256": "9d2a129cbf81a228fee4363e95370f453b7c43b7bc9b5922723b0ff22662857d"
+      },
+      {
+        "id": "gta_story_mifl_aead_01",
+        "sha256": "840d6b50ce3ea7ae0c0e38f0b796b95b59c1055844ba6e6f2ad234b2ae31f19f"
+      },
+      {
+        "id": "gta_story_mifl_aeae_01",
+        "sha256": "6d42ed5780c8b0a0f2504545d48da9b7aaf91627a4b4dab2ddf8b43c52c7765d"
+      },
+      {
+        "id": "gta_story_mifl_aeaf_01",
+        "sha256": "584d555c8c910b2588b67ada322328fc8828a124dc9f4bba916bd0a6f708ae58"
+      },
+      {
+        "id": "gta_story_mifl_aeag_01",
+        "sha256": "81c35c5b87edf4e0bcd9d2a5aa53e01921653416ecb5e7115ecfae4b962d69b6"
+      },
+      {
+        "id": "gta_story_mifl_aeah_01",
+        "sha256": "94052deb47afa8812988674595d2fb0990301ef2f97c4d2cd470f566540fbcd6"
+      }
+    ],
+    "sha256": "18a9dfbfe5f1943ac3cebddaebd19250649d65ff8b59c0566db1db9560d05b98",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 22.241,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_10.wav",
+    "source_id": "sequence:call_10",
+    "sources": [
+      {
+        "id": "gta_story_lsfl_adaa_01",
+        "sha256": "a3f8829be7457ffe4fc9bdcdf5d601d90e85d11044461dd52b943db286755868"
+      },
+      {
+        "id": "gta_story_lsfl_adab_01",
+        "sha256": "86248cc14da0ad6035e835996a4d89cc935a93d2b6be21862b0ec47bd7eedf27"
+      },
+      {
+        "id": "gta_story_lsfl_adac_01",
+        "sha256": "77ec723be74e92f86c81bef115b760f3e5d363c7543fc16876c251f4901dd46a"
+      },
+      {
+        "id": "gta_story_lsfl_adad_01",
+        "sha256": "8509c3c984aa9042b99957f5bf7b1636a174829075f9aa4b30779f62acfdf9ad"
+      },
+      {
+        "id": "gta_story_lsfl_adae_01",
+        "sha256": "30abd2e8871273f48e191b5e3eb51070173d58c056b0a6d4ad794931fceea9d6"
+      },
+      {
+        "id": "gta_story_lsfl_adaj_01",
+        "sha256": "fc7f5f4e32e5650bbefa8cd44f0b428a2206a768af21919fb9f01224721478d1"
+      },
+      {
+        "id": "gta_story_lsfl_adaf_01",
+        "sha256": "3e9e79addb9e2799c71b985887c484cb05e7c91de196ea47dea6ecac9ea05959"
+      },
+      {
+        "id": "gta_story_lsfl_adak_01",
+        "sha256": "2d2aff36383b0077dae7a4de16a58b2b12c12d4cef6027de67b8fa3a0c17603e"
+      },
+      {
+        "id": "gta_story_lsfl_adag_01",
+        "sha256": "5d3de3ef39a934c67b71b84ff0ef23c9cd0ed5321e6e71eb645eee6235bea821"
+      },
+      {
+        "id": "gta_story_lsfl_adah_01",
+        "sha256": "9188317fe56eea779524455351ce76c3787cfe6184257459fc3f5570390a5d8e"
+      },
+      {
+        "id": "gta_story_lsfl_adal_01",
+        "sha256": "9f61e6e50c9a695992f793bcc2e254c41647642a555a50110adc3c245e943824"
+      },
+      {
+        "id": "gta_story_lsfl_adai_01",
+        "sha256": "ff2a8af4396352fe2b2e0e70d3d2ba90495410d2416c2b6a1ee1cc4bb55457a8"
+      }
+    ],
+    "sha256": "814a247d766c9bcbcc4884cd1f4d4e3aba4997b2b28b266a4ce24f2f35968405",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 37.44275,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_11.wav",
+    "source_id": "sequence:call_11",
+    "sources": [
+      {
+        "id": "gta_story_frfl_afaa_01",
+        "sha256": "ee2fcd6629fd2a76f992278881646cd59af7c6ed37d7ea71f2982650e8cafa32"
+      },
+      {
+        "id": "gta_story_frfl_afab_01",
+        "sha256": "87837287223704cbeec493e3813c5802802128e38e7149b639ee13476c36e375"
+      },
+      {
+        "id": "gta_story_frfl_afac_01",
+        "sha256": "eec9bb4319ad8c0977a47e6d7d3364cd87bf4c98f74a74d882baadcad81cbe12"
+      },
+      {
+        "id": "gta_story_frfl_afad_01",
+        "sha256": "3a8a0435be38d38f3a63f4163ae3ad05fe0ee6354b5e4ec4ab37f63a54432d31"
+      },
+      {
+        "id": "gta_story_frfl_afae_01",
+        "sha256": "57068491721929aa9cc7e771315074132bafd948b0008f4ce4608277efd819eb"
+      },
+      {
+        "id": "gta_story_frfl_afaf_01",
+        "sha256": "6de90df235d7daba31a978e3ee68602d0db8cdbc0d621b9b66e5f4c976697b49"
+      }
+    ],
+    "sha256": "5037b526ad24f5e91f8dd00fe4f0da7106b1858376447327f9b55115ed3471f9",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 14.952125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_12.wav",
+    "source_id": "sequence:call_12",
+    "sources": [
+      {
+        "id": "gta_story_pafl_acaa_01",
+        "sha256": "3c80ab1f94a4b6ebcee9f0725aec3164c638a89557af9db792ba7fcfc41bfe57"
+      },
+      {
+        "id": "gta_story_pafl_acab_01",
+        "sha256": "34105366ec6b385e6769dc16d7e6ae4d202366353a4b07e8dd4c03db9a1feeed"
+      },
+      {
+        "id": "gta_story_pafl_acac_01",
+        "sha256": "cf24c2bdc2404f8eeeaacc03fc6c6ed8b6a64842768cd1cb813664f96629fd32"
+      },
+      {
+        "id": "gta_story_pafl_acad_01",
+        "sha256": "d5cd353118071fab95f587bdfeaa447b91ebad0440d54175aecba25e103c7f13"
+      },
+      {
+        "id": "gta_story_pafl_acae_01",
+        "sha256": "dd52f0502febae924cb742136534d1180808cfaa1faf37b2ab4500144e4ee74c"
+      },
+      {
+        "id": "gta_story_pafl_acaf_01",
+        "sha256": "91bf8deccf93d7be83abe03176fa091b391033f3226fb164e03652375662573a"
+      },
+      {
+        "id": "gta_story_pafl_acag_01",
+        "sha256": "e7c93b8a5945c48b92d2664bd49c60e7239200c9ddae6cf70575cf07ab614dd5"
+      },
+      {
+        "id": "gta_story_pafl_acah_01",
+        "sha256": "c1b8b3e51bf679eb2c3372d1212c1d4532368d5616180554c9ec9987ae2deb95"
+      }
+    ],
+    "sha256": "ac7630b516330db1e30aecdd60df994182660a96b0fcc5cc1bcf208e3d975977",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 20.0845,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_13.wav",
+    "source_id": "sequence:call_13",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_agaa_01",
+        "sha256": "4be417d0323f461c153d9222f512353365c57822bb96d8870d752b26766508ac"
+      },
+      {
+        "id": "gta_story_fnfl_agab_01",
+        "sha256": "f6d135b8bff54ce89c95caca3d108c5c2e1babd9bed093cba9708cb5ee3def93"
+      },
+      {
+        "id": "gta_story_fnfl_agac_01",
+        "sha256": "57c25e405ff0570066bf9ee84e51772aaa3ebf2c846efc7a0489dd187dce543d"
+      },
+      {
+        "id": "gta_story_fnfl_agad_01",
+        "sha256": "b45ad4c190e59df417a3895e5de34df89d3796a7e861300ca2a6d3b32b032c6b"
+      },
+      {
+        "id": "gta_story_fnfl_agae_01",
+        "sha256": "8752e6ed0f085edc020c2af525be5f1c55ea1c1668527f5443334bea40769997"
+      },
+      {
+        "id": "gta_story_fnfl_agaf_01",
+        "sha256": "ad3d6315a47e284209f4c101bf2b60c22c40f4a73727b6231eb9c8dc608a968a"
+      },
+      {
+        "id": "gta_story_fnfl_agag_01",
+        "sha256": "e135cdcb4e78e9802954a2d26a9d46903accedd6b18109be2d3cc8fcc83ac972"
+      },
+      {
+        "id": "gta_story_fnfl_agai_01",
+        "sha256": "ec33dfbc06daabf817275ff36b7c550038f2887b100b3c07b55b094822f1829d"
+      },
+      {
+        "id": "gta_story_fnfl_agah_01",
+        "sha256": "773d937b28be628aee81599a201a96f77dba0d7af7443eae5c3afd30d0214ea3"
+      }
+    ],
+    "sha256": "fc3dfeda0ba56993e745d4e3bc7966c00a72a7a7dce08b05a6dc6055cbca8278",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 20.522375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_14.wav",
+    "source_id": "sequence:call_14",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_aeaa_01",
+        "sha256": "38b8326229aa8164143b5b34112302c04b1161a1ddf79843e1e80f7610c25b13"
+      },
+      {
+        "id": "gta_story_fnfl_aeab_01",
+        "sha256": "406053b2d7c2d5dfddf944520478b263872e90f40bf056998498202bace3d43d"
+      },
+      {
+        "id": "gta_story_fnfl_aeac_01",
+        "sha256": "e189d1f0e8a21ecb8ecc70ef0d53367dccca7f5aee7cbc53af96d73626fd7da5"
+      },
+      {
+        "id": "gta_story_fnfl_aead_01",
+        "sha256": "ff7ea705b414278fc4ecbb1cdbf29b959b4ea01f5a8346c49d3241ae677c3283"
+      },
+      {
+        "id": "gta_story_fnfl_aeae_01",
+        "sha256": "30b496d1fbeda4e0c4b612b69e57c053b3d325bcb90e784b5761f60c212060ca"
+      },
+      {
+        "id": "gta_story_fnfl_aeaf_01",
+        "sha256": "ed1679752c92584fcb8ad16eac597821d5d8bb2f5a610d4905bdffeaa1a791fa"
+      },
+      {
+        "id": "gta_story_fnfl_aeai_01",
+        "sha256": "5e7dd1842dead0602adca3aa34f8e48c3f444317724b4e0a6cd9d5d73b399220"
+      },
+      {
+        "id": "gta_story_fnfl_aeaj_01",
+        "sha256": "5667f67e259efd3bdf0fc51966e2be11e7ddbb9f3fd06b6ce489d37c0918832a"
+      },
+      {
+        "id": "gta_story_fnfl_aeak_01",
+        "sha256": "448279d74233569ee695db77170ace3c9be9163181c11df22908b0af4034e469"
+      },
+      {
+        "id": "gta_story_fnfl_aeag_01",
+        "sha256": "d90957cafb8fb31094ef44cae02f821a529482245730d2e3044eb7fec1682f7c"
+      },
+      {
+        "id": "gta_story_fnfl_aeal_01",
+        "sha256": "93b11576b0111714eaa11abbc9f0bc11a3824d7380638c436d5aa84625c0695a"
+      },
+      {
+        "id": "gta_story_fnfl_aeah_01",
+        "sha256": "4ababf4e327ed14aa53b4dcead449ff4d6eb65f6a91f1575dd8c806dd2e7a359"
+      }
+    ],
+    "sha256": "e9437ee5c7ef4de3cc0731588ff8140ee9f7927180a4553014a9fdcd1f30013f",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 31.47975,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_15.wav",
+    "source_id": "sequence:call_15",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_aiaa_01",
+        "sha256": "b2cb99862358aa484fe17af090e4845a645f053b4fcdde8c23ca35d20198024c"
+      },
+      {
+        "id": "gta_story_fnfl_aiab_01",
+        "sha256": "dd7866f3d104da084d13c15fd0078136beb6832b6255f55b88a40c4130eb6d60"
+      },
+      {
+        "id": "gta_story_fnfl_aiac_01",
+        "sha256": "a1f170c9fea09b882244f9572e0ef19beb36d2054a0275bacbf1473ca6859bd5"
+      },
+      {
+        "id": "gta_story_fnfl_aiad_01",
+        "sha256": "1d71252b49d44b50744e770f39d78a992436b4cc4919bd7d1237c4e97c0183e1"
+      }
+    ],
+    "sha256": "cc835bf68a4903ab1801688bc950941bde8e3d183c3a81a33c0f6edf0903f7cb",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 11.404625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_16.wav",
+    "source_id": "sequence:call_16",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_alaa_01",
+        "sha256": "93e2955cd88a2988e427dddd676d3176b6ec09bbff0b6b84e1f6a5ebf573e33a"
+      },
+      {
+        "id": "gta_story_fnfl_alab_01",
+        "sha256": "d0b6ef61436ce21a539a802c39686b7f2ad2ec132aadebf8c5cddcdeb9e8b4c7"
+      },
+      {
+        "id": "gta_story_fnfl_alac_01",
+        "sha256": "86b1963c4e881ef33c5ae8f071672dc3595d055220b5487373aaf660d81793a8"
+      },
+      {
+        "id": "gta_story_fnfl_alad_01",
+        "sha256": "f2961f53588c782a74eec6e5085b967833e5de7f71bef98b3c1d904ab581ea6b"
+      },
+      {
+        "id": "gta_story_fnfl_alae_01",
+        "sha256": "2ffd031fb08ed08ff6e477189aedef161522f9e68537ae4e98ca11aecbba1e31"
+      },
+      {
+        "id": "gta_story_fnfl_alaf_01",
+        "sha256": "901d9b7a45953b7ea7658705de4ebe41bfd1fb1b4ac2035d9d000c4aee08f8cb"
+      },
+      {
+        "id": "gta_story_fnfl_alag_01",
+        "sha256": "26a19fce0e3d440e669fb9332f8fd23f720c8feeec945af21b07f256983fb276"
+      },
+      {
+        "id": "gta_story_fnfl_alah_01",
+        "sha256": "26bf550345d0bde5fd66aa2b9176a9f31bcb0ed97dc1d41cfcfc8c2384462cae"
+      }
+    ],
+    "sha256": "4f37da69a358230430a601bcdb4b19207f47f88f590064439605f7dbefca3aa3",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 24.249875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_17.wav",
+    "source_id": "sequence:call_17",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_amaa_01",
+        "sha256": "a6fd1cbceb962d8653ad0b7ba38a8f5db189a8bb3bafca4800651412adeca22d"
+      },
+      {
+        "id": "gta_story_fnfl_amab_01",
+        "sha256": "37577406181c50833ae89d22197403b90af67f6569102208a1c577b0b6658b63"
+      },
+      {
+        "id": "gta_story_fnfl_amac_01",
+        "sha256": "c30384fd5f0af4f7d8b916da95fd43aa8aae90f0f7c7ebf8f18b13b2cfff9f78"
+      },
+      {
+        "id": "gta_story_fnfl_amad_01",
+        "sha256": "b43d6fa1db7b0bae04a8cc7b9e3046f96f556c56bf2defbeb726be80b16f798b"
+      },
+      {
+        "id": "gta_story_fnfl_amae_01",
+        "sha256": "fb58fc5d0420ae3d4f534cfdbc4f2c8db5ecdbcc1af076030d4c680bc03b1857"
+      },
+      {
+        "id": "gta_story_fnfl_amah_01",
+        "sha256": "99bdef5a7fbe85a3b7dbd2c737caceb36107409f943f7ed35b3f89448a56a83b"
+      },
+      {
+        "id": "gta_story_fnfl_amaf_01",
+        "sha256": "7e36b13fd200bb53d322ea8cd34ff597b50e031966f747d000195166aba001ef"
+      },
+      {
+        "id": "gta_story_fnfl_amag_01",
+        "sha256": "f0b31882e83e062675bfc43aa86840cb3a3d55c49302eec851b330bc58a2dffb"
+      },
+      {
+        "id": "gta_story_fnfl_amai_01",
+        "sha256": "24a890af2cbe7d0a81976da5c0f1bc35f1b38b9e4c0efbddd0f8079aa0f3226d"
+      }
+    ],
+    "sha256": "aa1ec4f95a7cd05faf9e6875b140c928a258f447513b7d10486f632fd89e3229",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 26.36375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_18.wav",
+    "source_id": "sequence:call_18",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_avaa_01",
+        "sha256": "2f6e2c793596df95218627be5f89f8f44562e29bb1dfab2040d02727679f42a1"
+      },
+      {
+        "id": "gta_story_fnfl_avab_01",
+        "sha256": "46c37965d182b7294ffd1b5f5c1f150014e0d7c206dcfc9495e0981a9b97acbd"
+      },
+      {
+        "id": "gta_story_fnfl_avac_01",
+        "sha256": "2dbcd59012988e69f4d2aedff85852a52864ffb3fbf43f388f6bd16c8e283fc3"
+      },
+      {
+        "id": "gta_story_fnfl_avad_01",
+        "sha256": "753dde4e8122bb9793b968e7fa5cb4f7303f8252553f00a67e9216080ceadc05"
+      },
+      {
+        "id": "gta_story_fnfl_avae_01",
+        "sha256": "9028a20fea74340d2959be32151d19788e4ab704ef941610bf2b7d1e770bdc34"
+      },
+      {
+        "id": "gta_story_fnfl_avaf_01",
+        "sha256": "f7c34047b0cd27f6f9fffc3e61454ed624ace1be375f4c32659e897b6c81407b"
+      },
+      {
+        "id": "gta_story_fnfl_aval_01",
+        "sha256": "21cf47499bec2be4e2a49fa95943cdfde16782651d5ba27704e00ba8d23a067a"
+      },
+      {
+        "id": "gta_story_fnfl_avag_01",
+        "sha256": "b8869db73c14e8acb9f3fe12432f3729a5ff8ba8c3c75f256792396f813d8a8f"
+      },
+      {
+        "id": "gta_story_fnfl_avah_01",
+        "sha256": "02bcce8a082b32a0392f8942a7de9e838c9ce762397e554b34b1d943146de348"
+      },
+      {
+        "id": "gta_story_fnfl_avai_01",
+        "sha256": "01b94fcb22c82dbb7f6e9d207be5f47f2235c8766e4a2d018f1163aec917096f"
+      },
+      {
+        "id": "gta_story_fnfl_avaj_01",
+        "sha256": "1206c4c1160ed0fa3135f4a0364b2ee146b531f631ac9501a558994f2c0fbd7f"
+      },
+      {
+        "id": "gta_story_fnfl_avak_01",
+        "sha256": "ec0d93af8bdfa0b515294df205a6bc785cb1c253f9461af176c82177f08bf6bf"
+      }
+    ],
+    "sha256": "ca2d950425e54fea7ceecf79bec97d68d1b1b9a4f8a68efb1923ad86f48ea3ca",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 40.1268125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_19.wav",
+    "source_id": "sequence:call_19",
+    "sources": [
+      {
+        "id": "gta_story_fnfl_awaa_01",
+        "sha256": "e16d1c08aecccb76d31fab22941ba9a468ead0c052a2c3ad3294aee980650421"
+      },
+      {
+        "id": "gta_story_fnfl_awab_01",
+        "sha256": "75e73f3f8b5d19755e2e2995fc9c90f1a12819dc7173709f839a32be501e8dcd"
+      },
+      {
+        "id": "gta_story_fnfl_awac_01",
+        "sha256": "99559966751e5c577fd3f540faf1cef18202c1f76aac9e407a9243dbde1e860b"
+      },
+      {
+        "id": "gta_story_fnfl_awad_01",
+        "sha256": "3d73a1cf184e987e99da94e649ad1bf81804d5d328eae135e7da93e5eb7bd134"
+      },
+      {
+        "id": "gta_story_fnfl_awae_01",
+        "sha256": "fe4bae8deff2e093408af2234d3191a8571d47527941d2ed2563bf23762f46ad"
+      }
+    ],
+    "sha256": "000f107534a0527ce1ba5d5d0a6ef850434e3664d97b514781dbdee17644a0f1",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 18.97925,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_20.wav",
+    "source_id": "sequence:call_20",
+    "sources": [
+      {
+        "id": "gta_story_fofl_aaaa_01",
+        "sha256": "228d7d100858dcaf1d2fedee851d0186c164ef210b4151cb7852d3de4e729336"
+      },
+      {
+        "id": "gta_story_fofl_aaab_01",
+        "sha256": "fd13283c8caea08f2c418e580393b89c99d63bea22c0bc50661191adf419cf9b"
+      },
+      {
+        "id": "gta_story_fofl_aaac_01",
+        "sha256": "f89fd19c1e52e3aae3302e59148fb45f8029f45f396569fe7ce30bc5f7c6d375"
+      },
+      {
+        "id": "gta_story_fofl_aaad_01",
+        "sha256": "34cf8c091d8ed703affbcb44140163760d6e41d9eb566f2ed60e2cd8ffc1696c"
+      },
+      {
+        "id": "gta_story_fofl_aaaf_01",
+        "sha256": "38873c9fe07e4e18a119be5d2b227cb8a222eea6c6350dff9f7b80cfcabb891e"
+      },
+      {
+        "id": "gta_story_fofl_aaae_01",
+        "sha256": "70cc91fa3aa379cd9339a692ec70318fbd1f699fa9f6146d2d3963dba89fb6ee"
+      }
+    ],
+    "sha256": "e3951092f33fc3163e5df9cf40d2448d1f955841a87d147e7c70ac571416eede",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 19.1748125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_21.wav",
+    "source_id": "sequence:call_21",
+    "sources": [
+      {
+        "id": "gta_story_fofl_apaa_01",
+        "sha256": "107117183a086023f1c614a2e616d8c7acd909a3e33c318b4480123e57ef5a51"
+      },
+      {
+        "id": "gta_story_fofl_apab_01",
+        "sha256": "4a995f7e8ed6e89cb41d6cb1a269af15ae6368add658fdd3eb59cc2a904c7798"
+      },
+      {
+        "id": "gta_story_fofl_apac_01",
+        "sha256": "442cd13af0451babc466533e386afd172c7d7fc07cffbe9ce470b02f3577dec9"
+      },
+      {
+        "id": "gta_story_fofl_apad_01",
+        "sha256": "c05cbbbfa6106e7e71ac192c37cb634c29f4e3138d1c84e810afe2f6aefa3b2f"
+      },
+      {
+        "id": "gta_story_fofl_apae_01",
+        "sha256": "51fd0aaca9f14cbe1cdf7b76cbcd4ead2c8980b86431b610f933221080195131"
+      },
+      {
+        "id": "gta_story_fofl_apaf_01",
+        "sha256": "af241930747f335608d0afc108568aa5188778e86fc16fb10eb00a40ab6f786d"
+      }
+    ],
+    "sha256": "c51cc4606dcc893208f9ccf898c1e6d1f914d8b99abfb66cf1a029f2213127fd",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 18.6805,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_22.wav",
+    "source_id": "sequence:call_22",
+    "sources": [
+      {
+        "id": "gta_story_fofl_abaa_01",
+        "sha256": "e007f9fd165d885cbf5d8d4067a13f0c3637345223dd616a535c873131057ba7"
+      },
+      {
+        "id": "gta_story_fofl_abab_01",
+        "sha256": "0c462c20b921cea07b7d20c3f6334691b138a22ffdc12d8115dc83465a0e32b9"
+      },
+      {
+        "id": "gta_story_fofl_abad_01",
+        "sha256": "6a2fbb34b6d32440307320870647e33f8d87234bdced854a06bfe8fe71efb95b"
+      },
+      {
+        "id": "gta_story_fofl_abac_01",
+        "sha256": "8d38c94aba536802969d0c38036b634ef199e6433064579985aae6fc0e121134"
+      }
+    ],
+    "sha256": "9d4689220e50bcf3dca01528676c2bd426ba8702524d54556135366f668791f4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 12.381,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_23.wav",
+    "source_id": "sequence:call_23",
+    "sources": [
+      {
+        "id": "gta_story_fofl_aoaa_01",
+        "sha256": "20a18aaeefd4699ca6d0fa2bf49dd929416e7b9c9ad191a61d2e024ee4343981"
+      },
+      {
+        "id": "gta_story_fofl_aoab_01",
+        "sha256": "1c3de91bee6b3819404ae61c81080b7cc360c3a2b250b87a9e1fcfa0b197f510"
+      },
+      {
+        "id": "gta_story_fofl_aoac_01",
+        "sha256": "6b873aa9147abf89f50c5f4f1066a911cf64d0c53c19c2b0eaf797aad0c00bd0"
+      },
+      {
+        "id": "gta_story_fofl_aoad_01",
+        "sha256": "4bb669b162e853bdef95767cf091c4305c8e791cbc2d628ea268d16a3cac0415"
+      },
+      {
+        "id": "gta_story_fofl_aoae_01",
+        "sha256": "bf6ab78eaa6d113c7df41a359c20da232afd9a4950f97e1cd42752d3a8d9ea9e"
+      },
+      {
+        "id": "gta_story_fofl_aoag_01",
+        "sha256": "b64def27691602aa9dca41fac385a9a49863cb24f1d78fb90ace8fa3e7578b51"
+      },
+      {
+        "id": "gta_story_fofl_aoah_01",
+        "sha256": "5b67c2f64dccc6525388a31434628ae767b5f9311d083e4c5ab54d28901f7cb0"
+      },
+      {
+        "id": "gta_story_fofl_aoai_01",
+        "sha256": "245ffbdf5adf419a78131964d67f8b54a627f3dfcd6d36f12600aba583c50693"
+      }
+    ],
+    "sha256": "f32f324be1a8cd055c940d5af84f69cb4405a0c5aafebab6b374c73729b953d5",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 31.517,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_24.wav",
+    "source_id": "sequence:call_24",
+    "sources": [
+      {
+        "id": "gta_story_pafl_aaaa_01",
+        "sha256": "0f1e79c4e9555fef8a64f9e8388de97d738c706e53c0074a60d68e4615309db5"
+      },
+      {
+        "id": "gta_story_pafl_aaab_01",
+        "sha256": "3fe0a9c12677783d79132ab8719d60c78c754ebd8fc6f507309f941c1d2128a4"
+      },
+      {
+        "id": "gta_story_pafl_aaac_01",
+        "sha256": "32c8aa4d90dd78ed348df4790c49313664ca20c15a6ae656c9b526ce09ad4f67"
+      },
+      {
+        "id": "gta_story_pafl_aaad_01",
+        "sha256": "942952e9dd0e459d493022f6ea566c2012db14d003e5025135205a13d4d2c834"
+      },
+      {
+        "id": "gta_story_pafl_aaae_01",
+        "sha256": "b26c69d02986a1c84841332d2cdf97012b86f9c184c5790aa74fb898922a3c89"
+      },
+      {
+        "id": "gta_story_pafl_aaaf_01",
+        "sha256": "b8d6e8500878f6bf9946152bb6b6a642fec655b635889ae321a0d6c3a3fa3198"
+      },
+      {
+        "id": "gta_story_pafl_aaag_01",
+        "sha256": "91fac002b65378b0152b0960d50971a7fc3ae73fc75aeeca5c1283fd9aaf237b"
+      },
+      {
+        "id": "gta_story_pafl_aaai_01",
+        "sha256": "7a4444bb19b39bc84fee5ff7c91ecbad8c6c4f8241a0361aca38159cebafb76f"
+      },
+      {
+        "id": "gta_story_pafl_aaah_01",
+        "sha256": "57b9281739cf92aed43c07aa6ba259784bb9471d2cf2f9f0c55b32919c3c431d"
+      }
+    ],
+    "sha256": "afc24789335b92d78815ff3853b51b56cca9b2dcd2e414a84bc7e146f0fdd375",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 24.7844375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_25.wav",
+    "source_id": "sequence:call_25",
+    "sources": [
+      {
+        "id": "gta_story_fmfl_araa_01",
+        "sha256": "6357016babbab00f0ea3bc7301759a444d31e4d88c62cf7b94e0725fb4b846ce"
+      },
+      {
+        "id": "gta_story_fmfl_arab_01",
+        "sha256": "df06250b95fff10126abe99c86fe0e9f43f71adca8a2dd78523167ecf6bf6774"
+      },
+      {
+        "id": "gta_story_fmfl_arac_01",
+        "sha256": "f55a259490805d902591ec84cf87258690d27ecfe7164f3e75b2669ad154e8bf"
+      },
+      {
+        "id": "gta_story_fmfl_arad_01",
+        "sha256": "377787a430f9ea67a1b6d2e8e98a7457111f9e5c53fb465642b09ec1da766a0e"
+      },
+      {
+        "id": "gta_story_fmfl_arae_01",
+        "sha256": "b1a4595d5c5c443866de9b732d81a428dbcfc3bff7af17ba02505d194ec12890"
+      },
+      {
+        "id": "gta_story_fmfl_araf_01",
+        "sha256": "e27aede05f826479e6e4a8b4832b00144a187f03e62646993e94ff68d415e9ad"
+      },
+      {
+        "id": "gta_story_fmfl_arag_01",
+        "sha256": "e88b14b6629357b512108706150f93de151af47b73e29bbe8ee3b3bb67fa198a"
+      }
+    ],
+    "sha256": "21836634606f79ae49fb685e51e25ffbb91f20e0946d283040e447aee2a26bfb",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 27.016625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_26.wav",
+    "source_id": "sequence:call_26",
+    "sources": [
+      {
+        "id": "gta_story_fmfl_asaa_01",
+        "sha256": "808596c35256729b2f345df6965edae90889ae2607ac9bd9c92db2431b3d1d05"
+      },
+      {
+        "id": "gta_story_fmfl_asab_01",
+        "sha256": "563865802144d1ebbb07e196edd1f1ba5a03f59255c7773b5d2a63e683a41660"
+      },
+      {
+        "id": "gta_story_fmfl_asac_01",
+        "sha256": "14781caec448fd23331f9ca21f86e1029bd7111a05e21244b17b8052b70a6b09"
+      },
+      {
+        "id": "gta_story_fmfl_asad_01",
+        "sha256": "52e20e0a3f2820867c55850b40982b6c24c1e16ffe6795f0d6aee53b2feec872"
+      },
+      {
+        "id": "gta_story_fmfl_asae_01",
+        "sha256": "d1e481b08ed16685db02afd47dbd102d009ad3a8296e40eb8d0ed9cb46adb5f7"
+      },
+      {
+        "id": "gta_story_fmfl_asaf_01",
+        "sha256": "069526e813cfd9794068887cda708b46e0b6a0f9635b9569a4d0f3c47de17f7f"
+      },
+      {
+        "id": "gta_story_fmfl_asag_01",
+        "sha256": "1cb02efdca2102e755f982cc994c21ceefbb8b317e6a7482f88586e954237941"
+      }
+    ],
+    "sha256": "fe3f2d937fad9ec497ddc4c55df36660508c4aebbbe0fe89082feaaa7e26d386",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 25.96025,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_27.wav",
+    "source_id": "sequence:call_27",
+    "sources": [
+      {
+        "id": "gta_story_fmfl_aqaa_01",
+        "sha256": "1c2bfdac19fa15caf2a275426e09d19c3f48c7b7ad86a217c4e3123869abd205"
+      },
+      {
+        "id": "gta_story_fmfl_aqab_01",
+        "sha256": "84b97e70c17df31a83b537b9551288c4d494a02a44dcfb8139ec9a8a390bf46e"
+      },
+      {
+        "id": "gta_story_fmfl_aqac_01",
+        "sha256": "19443dea44e24979176eaa1719c0313c8494b02135bf230fe0add406d7cb56d9"
+      },
+      {
+        "id": "gta_story_fmfl_aqad_01",
+        "sha256": "798ff252f959fed50eca7bc8d4950d318526b5ab876b0df184e82188d3ea4707"
+      },
+      {
+        "id": "gta_story_fmfl_aqae_01",
+        "sha256": "f086412d7db5802bbb188b87916e7b9c6e710b5204ea57cb611e2a3efe87b358"
+      },
+      {
+        "id": "gta_story_fmfl_aqaf_01",
+        "sha256": "f64b2b54d04cf1dbc4b356eea71821a074aca9bb799ef9c2e57fa05034b3a630"
+      },
+      {
+        "id": "gta_story_fmfl_aqag_01",
+        "sha256": "324c641dd6a37cd9a9e8444c7f21b65cf1a95219baece2c410b74908637fc275"
+      },
+      {
+        "id": "gta_story_fmfl_aqah_01",
+        "sha256": "c18ce31df5555f9a8b3faa985fb20f468211a1db38dc04cbdaab415237508ce6"
+      },
+      {
+        "id": "gta_story_fmfl_aqai_01",
+        "sha256": "7f14dbcb1f8cb61814e91b776954967192d33bd9dbeb162a24a643444e71c131"
+      },
+      {
+        "id": "gta_story_fmfl_aqaj_01",
+        "sha256": "b3e23eef6e83900095ee54d261155ec9e226b25d5c18a3fd28d28d930221942d"
+      }
+    ],
+    "sha256": "c51adf1ed8c1176376381e5822df1b7f73aef441d7f1c241c579a3bfbee7b0da",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 36.5668125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_28.wav",
+    "source_id": "sequence:call_28",
+    "sources": [
+      {
+        "id": "gta_story_exil_agaa_01",
+        "sha256": "c76276c05826c4c98a3d4acc8d14f5243e7e69981a65506c2d7be373be0b4730"
+      },
+      {
+        "id": "gta_story_exil_agab_01",
+        "sha256": "19dfb9e59021e011ca2d9632f69bce6cd70b823f0528ced1c114d27ecd1d474e"
+      },
+      {
+        "id": "gta_story_exil_agac_01",
+        "sha256": "3990c9117d0cf025406078f77cb688c1d725a1dfb3e46d0d743cb460dfb66a7d"
+      },
+      {
+        "id": "gta_story_exil_agad_01",
+        "sha256": "9684c0f6330dceff32a0b58d4c344883dad798546cfc99b119f485b57aafe309"
+      },
+      {
+        "id": "gta_story_exil_agae_01",
+        "sha256": "3d510969656d4fa74be6bbc0a8d6917276bc4bc4ba17e56efc4ada55dffd2632"
+      },
+      {
+        "id": "gta_story_exil_agaf_01",
+        "sha256": "3ee4c73e56391aefa066186235e9ad1eeb6a8675c75c3590a9ddc2fe5a10e9ba"
+      }
+    ],
+    "sha256": "cffa3b9b182dde8ebb326fd6ce645ff0a548ca963631fe713376ebe14ae5fb91",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 20.4089375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_29.wav",
+    "source_id": "sequence:call_29",
+    "sources": [
+      {
+        "id": "gta_story_exil_aeaa_01",
+        "sha256": "949b490fe2bc2df0e713fdfa7effcbd314226631d4c7720737d0d7c6b873d23d"
+      },
+      {
+        "id": "gta_story_exil_aeab_01",
+        "sha256": "52c67a826a3e94790a057ea37a005ec60dd58c137945d84b1b09a026d9aacac2"
+      },
+      {
+        "id": "gta_story_exil_aeac_01",
+        "sha256": "77673a5755b14d3ac64b4d7aa230f2f17465162887626ac18f862a7e7d96e610"
+      },
+      {
+        "id": "gta_story_exil_aead_01",
+        "sha256": "e46335e2ce0fb263205961632930ef4a34cba3bc582f9bfdef47b36e4fe581d7"
+      }
+    ],
+    "sha256": "e5dbbba08d5d649af4d973d42779e93a0911bac2c165f7d9eea7f4d2c935d759",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 12.2965,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_30.wav",
+    "source_id": "sequence:call_30",
+    "sources": [
+      {
+        "id": "gta_story_exl3_fcaa_01",
+        "sha256": "cc89b8dbc346df0ce4a2f4e4c49e00d22be20280ed699244c8da676f43ae26d0"
+      },
+      {
+        "id": "gta_story_exl3_fcab_01",
+        "sha256": "de6b5c328cbadab0862911f27cf1c65c190b69ed7a9a4c8768e854c3dbd03bed"
+      },
+      {
+        "id": "gta_story_exl3_fcac_01",
+        "sha256": "937bb19b2b5837464531c0deb5c388526c759dce86e318c997cff246e4d843f8"
+      },
+      {
+        "id": "gta_story_exl3_fcad_01",
+        "sha256": "df190c3bf169e0d309528eb320ad6901cb44f5342cb2f92b06fd5b4b1a8569a1"
+      },
+      {
+        "id": "gta_story_exl3_fcae_01",
+        "sha256": "d1bb1c82868e0ba5b44c3bc3184c50677393f249be66bf198b248f17e4d3c092"
+      },
+      {
+        "id": "gta_story_exl3_fcaf_01",
+        "sha256": "fe7b312fc7697c350d9d70e6237f803393721f9afe4af9566995c9bf0b4a321a"
+      },
+      {
+        "id": "gta_story_exl3_fcag_01",
+        "sha256": "4365d5e3ffddeda3bd1adf23d8e6ef7f1e09c74f613fbc7f9306e68f738dc31a"
+      },
+      {
+        "id": "gta_story_exl3_fcah_01",
+        "sha256": "a5cc3649a3feced3691b833a19339830cc29c0f00283cf92e81166700421f7fd"
+      },
+      {
+        "id": "gta_story_exl3_fcai_01",
+        "sha256": "5edd0069fe08a4a43ae4f33a8ac986b1698633f072455a3efea63d50d07adf27"
+      },
+      {
+        "id": "gta_story_exl3_fcaj_01",
+        "sha256": "83cdeb971f785ec5c88338469fe3ef9089c1d6b37f7542832d440403ee4a8b9f"
+      }
+    ],
+    "sha256": "61baea3baff4170c14f9ef2ffd097a98dcaab02093374cd816a21973f9ec27c5",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 29.350625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_31.wav",
+    "source_id": "sequence:call_31",
+    "sources": [
+      {
+        "id": "gta_story_dhf_avaa_01",
+        "sha256": "6e6a2559a5daf020129fe8a3b2483d711227c8444ea840f873b09db7af7c1420"
+      },
+      {
+        "id": "gta_story_dhf_avab_01",
+        "sha256": "a892d2a4b946be08a9b4a7a09c04799ed79491c8088221742f50a0d419c2907f"
+      },
+      {
+        "id": "gta_story_dhf_avac_01",
+        "sha256": "1d28b384ef8745145821d68c4bb9f90b926659d4bb6b370017523dfba8aae761"
+      },
+      {
+        "id": "gta_story_dhf_avad_01",
+        "sha256": "be6df62f5e8aeda4da3696b3a2a8ccb7898a099f987b1915470c0c6c42388e7f"
+      },
+      {
+        "id": "gta_story_dhf_avae_01",
+        "sha256": "f49236835da81e1cf5fc7906bf63fba7bf30fdfc1ed39a7e792c9273a313cffa"
+      }
+    ],
+    "sha256": "9bdc46931aad1970dc4c27b30e84875a4809b29cd1d755e7904c60cea089b6f4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 17.3736875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_32.wav",
+    "source_id": "sequence:call_32",
+    "sources": [
+      {
+        "id": "gta_story_exil_abaa_01",
+        "sha256": "ba8819b0de0ef42ae68f907c5551c9c3659463e9f1b8829171d563d097d97346"
+      },
+      {
+        "id": "gta_story_exil_abab_01",
+        "sha256": "232254d295dc5e13dc533b02197565ec279aa7c2d13f7c6347cd356f6aba27d9"
+      },
+      {
+        "id": "gta_story_exil_abac_01",
+        "sha256": "a4ebce60a5f8adf91f8164fd4f4110244c826c9bea0663c3b0851321f15b877d"
+      },
+      {
+        "id": "gta_story_exil_abad_01",
+        "sha256": "cf809fee28d95324c26e8cc44bb19518b155fb2a90c06b2d2a452df7ed735458"
+      },
+      {
+        "id": "gta_story_exil_abae_01",
+        "sha256": "b0fc294bcbf1094c3336fcfb04d12c652bd70c9784f56e23f4016c173f3467c6"
+      },
+      {
+        "id": "gta_story_exil_abaf_01",
+        "sha256": "c6e67ff30e95d5104c4799ebdd1436135d8870e93cc10dba888fb38dd8bd702a"
+      },
+      {
+        "id": "gta_story_exil_abag_01",
+        "sha256": "1d46de21d4c198924c87ff965d75d751cc0bfd87a5d4872a5423e4b819c238be"
+      },
+      {
+        "id": "gta_story_exil_abah_01",
+        "sha256": "d867fb3217404c4303149d13876992ff50dad012d937511fea48217b06dcf2d8"
+      },
+      {
+        "id": "gta_story_exil_abaj_01",
+        "sha256": "dad64bc6e17566249d0e8b5a9e001ee3942a869fd82cd9681c65bef7f4f67ed5"
+      },
+      {
+        "id": "gta_story_exil_abai_01",
+        "sha256": "c3e14cd73696fd60286ff3b54522b6754051813c162255b86a2d3599e7b22305"
+      }
+    ],
+    "sha256": "04d915266d204ef7a424ca28edede96e3d3ab4518c3c018f74664ddc8e27552e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 36.1606875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_33.wav",
+    "source_id": "sequence:call_33",
+    "sources": [
+      {
+        "id": "gta_story_chfl_aaaa_01",
+        "sha256": "fb8f2fa828d9dec5b654c8cd926d753817e58a3571e434a21651c77a6927904c"
+      },
+      {
+        "id": "gta_story_chfl_aaab_01",
+        "sha256": "b50ae501dc21b2302d63be5fa5f187787e5adbe0cf632f8f81d83088a4b8554e"
+      },
+      {
+        "id": "gta_story_chfl_aaac_01",
+        "sha256": "bacccdd22311e48d62f7b1030892e7ab78f38986f51398605391b2ef33b74a68"
+      },
+      {
+        "id": "gta_story_chfl_aaad_01",
+        "sha256": "b952725c584a3fb98cefd866e2c9ceaa30e6c44fe985dc63abd83798475542c5"
+      },
+      {
+        "id": "gta_story_chfl_aaae_01",
+        "sha256": "499c554d0be5ad45953943aa84c2567bf0858332f4df3a0df297cf495043944c"
+      },
+      {
+        "id": "gta_story_chfl_aaaf_01",
+        "sha256": "0a356296796755e8bf4b9dff8588155b6c4246be9455a72fdbf4efd5d38d3cca"
+      }
+    ],
+    "sha256": "cf39eaf5ec19ab4832e258f5266a437a30d9761e65b86d3e1f162879ab93c164",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 20.136,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_34.wav",
+    "source_id": "sequence:call_34",
+    "sources": [
+      {
+        "id": "gta_story_chfl_abaa_01",
+        "sha256": "cc904bb25b9ca4e8b86839d250e0c8e42bbaf12f02df76fc966e16891bd524fb"
+      },
+      {
+        "id": "gta_story_chfl_abab_01",
+        "sha256": "be95098a8b5f3555009531e3ab180bbd9b360070e3407465071167a376a3a87e"
+      },
+      {
+        "id": "gta_story_chfl_abac_01",
+        "sha256": "15a35777b2380724e2538cbe73afbe376c41846428a860daa167134176c64c3e"
+      },
+      {
+        "id": "gta_story_chfl_abae_01",
+        "sha256": "173f61de0bd1db2cdbbf8d77bd5d7d8fb8d341222bd1f5db4fb03fb7e6b00c1e"
+      },
+      {
+        "id": "gta_story_chfl_abad_01",
+        "sha256": "903ca712fc8d2beec15e4eb2dddc517130baf05a1a3eb699912281502c55b4ce"
+      }
+    ],
+    "sha256": "73ef89c5e564425cfd635e3d2dfdb072225e8241d172fcb86475f2f26e1644c0",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 18.338375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_35.wav",
+    "source_id": "sequence:call_35",
+    "sources": [
+      {
+        "id": "gta_story_arfl_acaa_01",
+        "sha256": "c810b598653433f5787204fcf3ec29096eb22b3b36e9aebcbc972a463617a76d"
+      },
+      {
+        "id": "gta_story_arfl_acab_01",
+        "sha256": "4c1af4f49bbd3c9ff1b223cca6910eb78c9cf21ea69d9fd4458d62f1a8d82c31"
+      },
+      {
+        "id": "gta_story_arfl_acac_01",
+        "sha256": "3e01a5d1ecf34f222d24b6b9083a1c38260aa50c96836fb936a308505a017c27"
+      },
+      {
+        "id": "gta_story_arfl_acad_01",
+        "sha256": "7f5915cd2d5b64c5a46f92bb2841287fcc023b158d495794319a81e45a1e8391"
+      }
+    ],
+    "sha256": "679af8b7fdc5b7178dadbcaee04b8f539a65637630a7165823f3f823eda9e090",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 14.573375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_36.wav",
+    "source_id": "sequence:call_36",
+    "sources": [
+      {
+        "id": "gta_story_arfl_aaad_01",
+        "sha256": "b7fb9a931d74ba895ecd00ca6de9fc92492131dcaa7568b0eb161ff19b9b7afe"
+      },
+      {
+        "id": "gta_story_arfl_aaaa_01",
+        "sha256": "f1e269ea2a07e73e12a10eb54fbe1ca6b59eaffb8541b0049328873dbc7e05e7"
+      },
+      {
+        "id": "gta_story_arfl_aaab_01",
+        "sha256": "df6ea7369d1eef40679e2d325a02bdf90473e8adf6f2681b281a626e8b1320e4"
+      },
+      {
+        "id": "gta_story_arfl_aaac_01",
+        "sha256": "ac615fe4b0a762fee8f1e9cfa061ce6aa8f0b3e3c09603cd74d97e8200cdf9cf"
+      }
+    ],
+    "sha256": "72bdfef48a769af1eaa1075d4239f70d20ece8fc49b25fbeb08440f59fef59c6",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.751625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_37.wav",
+    "source_id": "sequence:call_37",
+    "sources": [
+      {
+        "id": "gta_story_arfl_abaa_01",
+        "sha256": "a19709f04ae1567be5a7756938315511f63cd67380aa616218e4abac53e748b6"
+      },
+      {
+        "id": "gta_story_arfl_abab_01",
+        "sha256": "9f28bb9c9973ad546882e5f8524e743fce95a6d4a3f9ba03bab713415ec772cf"
+      },
+      {
+        "id": "gta_story_arfl_abac_01",
+        "sha256": "77563b3158b2671408acc56c30ab860873241328baf5ee27b557315c161262f8"
+      },
+      {
+        "id": "gta_story_arfl_abad_01",
+        "sha256": "cd108e4938076bd17834137b2d5911c473fcf013474e1252c33015144d38dbef"
+      },
+      {
+        "id": "gta_story_arfl_abae_01",
+        "sha256": "ffacf8035f5fa731bc7fb8a012e880664496fa98d041439932d9949456295652"
+      }
+    ],
+    "sha256": "2dd471f9b0909754ba192520cefc33ecfd2e393414325ac874dc970807419ded",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 18.469,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_38.wav",
+    "source_id": "sequence:call_38",
+    "sources": [
+      {
+        "id": "gta_story_lsfl_afaa_01",
+        "sha256": "29034626918bc0c44bc2b7572c14a908a4e2bd839b05ff8e1613ec22f394d655"
+      },
+      {
+        "id": "gta_story_lsfl_afab_01",
+        "sha256": "88d5a5d28b7f5fc76fb04d7b7cd63c41a4959982207e2a593be8677fcd329434"
+      },
+      {
+        "id": "gta_story_lsfl_afac_01",
+        "sha256": "30ebbd75ad660ccee3abf39067accebeeaf2aca41bf7873c5bd55e7a11604c35"
+      },
+      {
+        "id": "gta_story_lsfl_afae_01",
+        "sha256": "b062211fcff71be5179eaddba5733b1ee30d5a88f15f0c9ad6bc6b17e429d8d8"
+      },
+      {
+        "id": "gta_story_lsfl_afad_01",
+        "sha256": "b5e9e793faf7c7fa29db7566acde9b640b9e6601e01ad93c1ff7cc202537c15d"
+      }
+    ],
+    "sha256": "6d955492354e7d1d5c2eee3b224442c5ec09841b9cdd4b4d158ea385b95651c4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 16.60675,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_39.wav",
+    "source_id": "sequence:call_39",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmf_aaaa_01",
+        "sha256": "236f879452e81fd81c20dcf7c27d8dc7ece541415422475bf1117a0124f45983"
+      },
+      {
+        "id": "gta_outgoing_fpmf_abaa_01",
+        "sha256": "367b3eeb59449840d9d6cd82b6231f3687a413f813d35b430b7d62669ae11b46"
+      },
+      {
+        "id": "gta_outgoing_fpmf_ahaa_01",
+        "sha256": "4453ac06aa6bb335a6579f161e99be9adb6b8a7a2a25b5c67b707bdc5ac14122"
+      },
+      {
+        "id": "gta_outgoing_fpmf_anaa_01",
+        "sha256": "c6b67ee083c558eeffcff1f455f04fe528a33cfc0f94e925c5c9139015f17f06"
+      }
+    ],
+    "sha256": "f150d55a42c1499c85e4f080dbb09908b479c6cff0279a94b4bf2957eeffc5de",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.9565625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_40.wav",
+    "source_id": "sequence:call_40",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmt_aaaa_01",
+        "sha256": "786cae50056cc208895eb57213cb063b5d8229baaf41cde41cab295419cd46d2"
+      },
+      {
+        "id": "gta_outgoing_fpmt_abaa_01",
+        "sha256": "cfdf9bd2838c02265e46f4c34b739a5dd59818a1228e1d4e63799dce439d65e8"
+      },
+      {
+        "id": "gta_outgoing_fpmt_ahaa_01",
+        "sha256": "83643cf7a65226477dc360b53b83bbf1d2bfe4a789eb9578c9c837b894de6629"
+      },
+      {
+        "id": "gta_outgoing_fpmt_anaa_01",
+        "sha256": "86cf41abcdd993a00803c62129be2a58d03bd0c8352b96d133cf2b15e27a8ae3"
+      }
+    ],
+    "sha256": "d07678cf5ef8e2f570430739fe287567ca4f8483b7a5fc10296fb376d8bc220e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.311125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_41.wav",
+    "source_id": "sequence:call_41",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmj_bfaa_01",
+        "sha256": "c88305158e13c2fd7aef45e07ac3b604767aac9d4fbee41b0c2b2ec495c7534c"
+      },
+      {
+        "id": "gta_outgoing_fpmj_bgaa_01",
+        "sha256": "724062d4ceb24408de8f81ed1689dc8d67c8a169dcf272a4e64983f387fabda5"
+      },
+      {
+        "id": "gta_outgoing_fpmj_bhaa_01",
+        "sha256": "cd300f0a60a0be1604fade0012a85204c2d19528583abb8f001cae546d187bf5"
+      },
+      {
+        "id": "gta_outgoing_fpmj_biaa_01",
+        "sha256": "5546a4ac938a1b14680543c5d3647f3602d5e308d976557398fd552a3f04f1e7"
+      }
+    ],
+    "sha256": "2b1d71f133675ecded84f51f308e9f99b56394135be74b0d28f6b2dd4629726d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.989875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_42.wav",
+    "source_id": "sequence:call_42",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpma_bdaa_01",
+        "sha256": "f602f38d7d89a589a30c4e96261c802ba21c7785277d98c4bc292992d9986a3f"
+      },
+      {
+        "id": "gta_outgoing_fpma_beaa_01",
+        "sha256": "599c37a6c9be7c0f6316dbedab2f5fa311bc82555e01b9b132f9546256967c1e"
+      },
+      {
+        "id": "gta_outgoing_fpma_bfaa_01",
+        "sha256": "dee42e59c1e1a932cca61446ce5ed78c8e781af1790d02a7a078bb192b2b97b3"
+      },
+      {
+        "id": "gta_outgoing_fpma_anaa_01",
+        "sha256": "c8ab0700313a7f7672602562b1d6c139c6317da76148ad3b2c4940e10d01f388"
+      }
+    ],
+    "sha256": "aeb0c6e0b606f68c494e7f88cba7d9194147f3cb22cf722ec4148a6c58f7c543",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.474875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_43.wav",
+    "source_id": "sequence:call_43",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfm_aaaa_01",
+        "sha256": "28527fe62207fe50e18938244229a9cc77f1b7d617574805729333817f435b30"
+      },
+      {
+        "id": "gta_outgoing_fpfm_abaa_01",
+        "sha256": "dec80122b869e9d60c76410d373ddc260909141afcc5e12feb321a8229f1a811"
+      },
+      {
+        "id": "gta_outgoing_fpfm_acaa_01",
+        "sha256": "0fe52c3238f59393ddec2e12833dce4ad51d623f56f8bf0c2c953e92aa96bf0e"
+      },
+      {
+        "id": "gta_outgoing_fpfm_anaa_01",
+        "sha256": "ebbdcb1913ebca894b4e546726e58768b1b84d6f9dd283a22668d651e1c70396"
+      }
+    ],
+    "sha256": "0a09a8659b2264e378fd45e2998f1df149fd7bf7ce4b78e96b53d6fb452efa30",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.755125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_44.wav",
+    "source_id": "sequence:call_44",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpft_aaaa_01",
+        "sha256": "95f1fb2a4f2f1e4b801196d92866809cd90155bb13b68efeeefccb78b303cc60"
+      },
+      {
+        "id": "gta_outgoing_fpft_abaa_01",
+        "sha256": "7b9cb00993da867fe775436a4cc36417fae2a724f65bba03413554d37df4e22d"
+      },
+      {
+        "id": "gta_outgoing_fpft_ahaa_01",
+        "sha256": "4e695894401cac03948c0ba06f6af595d922d840c8f32f766683ebed94c2509f"
+      },
+      {
+        "id": "gta_outgoing_fpft_anaa_01",
+        "sha256": "89b714f97664c0f6701b1cd64f5e280ceb702c1f3cb82aac2558e58dea369f81"
+      }
+    ],
+    "sha256": "4cf7637045b7b5bc5e1020921213a89e61322787ba05d71f9864fd8a3b596dda",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.917875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_45.wav",
+    "source_id": "sequence:call_45",
+    "sources": [
+      {
+        "id": "gta_outgoing_frlfa_aaaa_01",
+        "sha256": "74005fa390259484775b03e3abb7feba0e5635576a94a0928af0c19d68487ea6"
+      },
+      {
+        "id": "gta_outgoing_frlfa_abaa_01",
+        "sha256": "979d600ebd75962774cc2b5be7242cde2bca46c6ee9d7310281359ce5d951a07"
+      },
+      {
+        "id": "gta_outgoing_frlfa_acaa_01",
+        "sha256": "54e69c1711c32beb539cf3f6d44be2476b4d902727f8486e3c6b5f323c79c525"
+      },
+      {
+        "id": "gta_outgoing_frlfa_adaa_01",
+        "sha256": "1a21e66fc3dfe9f64f5228e2c799863dddc917cbe95e6ac1b7c2553e5bcd8721"
+      }
+    ],
+    "sha256": "09c47869adcb7849f346e9182ff670e9bb44b0726e58ceb6f863a0f148d0691a",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.984125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_46.wav",
+    "source_id": "sequence:call_46",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfj_bfaa_01",
+        "sha256": "a9c553db43b200af9f901dc92c2481a5a8519fee3d3751ae1008e735272cfc2c"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bgaa_01",
+        "sha256": "8aa0d604347ec626aaceb84ca48bdf0a5cfb81f8e67b0b6623c1cc8ecfeb38c8"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bhaa_01",
+        "sha256": "c894edc67b10d1839b81ffbe17f57efc722a221eabfc9082bc75d733f2ab1ec8"
+      },
+      {
+        "id": "gta_outgoing_fpfj_biaa_01",
+        "sha256": "127aa249b04e939902fd7cda3bfeaed0ba5922157db709ea9704acab2f94a3b2"
+      }
+    ],
+    "sha256": "661d8e6da02808e50c9569ea8675bddf0e6233ae1ae5228ddde1d525176e52f1",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.705375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_47.wav",
+    "source_id": "sequence:call_47",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptm_aaaa_01",
+        "sha256": "07cea97f4e4fe1dc6e6eb55b38415f245f110df7912f827564795fa1185af254"
+      },
+      {
+        "id": "gta_outgoing_fptm_abaa_01",
+        "sha256": "332c37b986351b762a6d617295b8744538ec66f56b2edef79f3f0fcbb74901db"
+      },
+      {
+        "id": "gta_outgoing_fptm_ahaa_01",
+        "sha256": "64e3b431f78e513e27c98725668960c458defcdc9a749fe94aaf0c38987486f1"
+      },
+      {
+        "id": "gta_outgoing_fptm_anaa_01",
+        "sha256": "154772aea785ab5712cdfa3626bbe5ec15b072174f55fb555a8621a29cc1d40d"
+      }
+    ],
+    "sha256": "838c5794efd8a629a9e2e879a0ad765aff4649084c3f2d13495a47e913fbbd35",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 9.907625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_48.wav",
+    "source_id": "sequence:call_48",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptf_aaaa_01",
+        "sha256": "acacae1896adf4205d793a49d4b45b635e236737616495ced857b1e0fa310d35"
+      },
+      {
+        "id": "gta_outgoing_fptf_abaa_01",
+        "sha256": "91180f35b95d0de7c9b4492a4b9db19dbe8035dc5e65e1b58ed9b208337b2dcb"
+      },
+      {
+        "id": "gta_outgoing_fptf_ahaa_01",
+        "sha256": "0f04d7caa34048f626e3859cf7e70ebab68256335f6ea33735b0b5c126924c41"
+      },
+      {
+        "id": "gta_outgoing_fptf_anaa_01",
+        "sha256": "978ebbfd8121c1c161738ff5736d43323f1a4adb12478a41a467d235580ff3f6"
+      }
+    ],
+    "sha256": "904c94e9f2ccbfcbaf6d03f559a538d93486ec2138fbc47537c45f6e3aae919f",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.91075,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_49.wav",
+    "source_id": "sequence:call_49",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptl_bdaa_01",
+        "sha256": "ef06e8ca7cfab080f2075b87c43d134d300e3761412b18948dd37da83e02eb90"
+      },
+      {
+        "id": "gta_outgoing_fptl_beaa_01",
+        "sha256": "0d902ba06a87bd0c07448d2d47295383592cc942fedded168f8bb9800f1393f3"
+      },
+      {
+        "id": "gta_outgoing_fptl_bfaa_01",
+        "sha256": "868e41ff49daf6dda43304d1d1336fbbb0b9150770dc8c3feca8c230214eab70"
+      },
+      {
+        "id": "gta_outgoing_fptl_bgaa_01",
+        "sha256": "9880b48413003a7306ee48b4891ea816cc4e858d358e3dc55fe95db2c05ae1f0"
+      }
+    ],
+    "sha256": "b34e1780cbc049b76d5b6c477cea83aa96233d2661a5664544527a45de255098",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 4.0726875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_50.wav",
+    "source_id": "sequence:call_50",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptj_auaa_01",
+        "sha256": "75e37b1bdf43663f1028f83584719b3d65532fc9dd7ca97f48273d39d2bc6e42"
+      },
+      {
+        "id": "gta_outgoing_fptj_avaa_01",
+        "sha256": "aa85619f9c0af078870a0feb0ae1a581cf15f48ac211865912eee6986d9f504b"
+      },
+      {
+        "id": "gta_outgoing_fptj_awaa_01",
+        "sha256": "fd54f28a00923aa34e25a30e00b2c0330b583c8fab1cd3308a9e517fa6a9d023"
+      },
+      {
+        "id": "gta_outgoing_fptj_axaa_01",
+        "sha256": "5abb38ce3088a9038ce1ef67e3944ae651a30792bbf10fba4709659a39592325"
+      }
+    ],
+    "sha256": "11f10081b65e2555773bfead35c7ae1150d61801baf76d44777621dd951efb69",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.843875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_51.wav",
+    "source_id": "sequence:call_51",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmf_aaaa_01",
+        "sha256": "236f879452e81fd81c20dcf7c27d8dc7ece541415422475bf1117a0124f45983"
+      },
+      {
+        "id": "gta_outgoing_fpmf_abaa_01",
+        "sha256": "367b3eeb59449840d9d6cd82b6231f3687a413f813d35b430b7d62669ae11b46"
+      },
+      {
+        "id": "gta_outgoing_fpmf_aoaa_01",
+        "sha256": "a524ed31ac1d3f0aa9d36637f18b848175c550f2b78f8e39f08d2ef92b12a422"
+      },
+      {
+        "id": "gta_outgoing_fpmf_apaa_01",
+        "sha256": "92ccdbc4869ce9ba943bc0be3ce73f5ac088ed2b49859a49eac0da0cafb0df1f"
+      }
+    ],
+    "sha256": "3810cc40327d63c6ccc7ef824cb1a91e40dde804b558cb5b3befd2c7f4d3c4be",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.2723125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_52.wav",
+    "source_id": "sequence:call_52",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmf_aaaa_01",
+        "sha256": "236f879452e81fd81c20dcf7c27d8dc7ece541415422475bf1117a0124f45983"
+      },
+      {
+        "id": "gta_outgoing_fpmf_abaa_01",
+        "sha256": "367b3eeb59449840d9d6cd82b6231f3687a413f813d35b430b7d62669ae11b46"
+      },
+      {
+        "id": "gta_outgoing_fpmf_asaa_01",
+        "sha256": "56b0d558597ec3c173a0a012fcd4b5aa558e91c74edd10b1b9952845b29f79dd"
+      },
+      {
+        "id": "gta_outgoing_fpmf_apaa_01",
+        "sha256": "92ccdbc4869ce9ba943bc0be3ce73f5ac088ed2b49859a49eac0da0cafb0df1f"
+      }
+    ],
+    "sha256": "4224f0a7546fdc56ec0ae322566e9633ff68a4e9f494ccb549515716c60d2906",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.9499375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_53.wav",
+    "source_id": "sequence:call_53",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmt_aaaa_01",
+        "sha256": "786cae50056cc208895eb57213cb063b5d8229baaf41cde41cab295419cd46d2"
+      },
+      {
+        "id": "gta_outgoing_fpmt_abaa_01",
+        "sha256": "cfdf9bd2838c02265e46f4c34b739a5dd59818a1228e1d4e63799dce439d65e8"
+      },
+      {
+        "id": "gta_outgoing_fpmt_aoaa_01",
+        "sha256": "c9456c202ac345d423978906a1222f1a1f68930ec6fa77d1c3d77a4ba7777d45"
+      },
+      {
+        "id": "gta_outgoing_fpmt_apaa_01",
+        "sha256": "120e1967c33de0336cdf4147c116711fe15b010e8b3f63887be2d5142a8c4b05"
+      }
+    ],
+    "sha256": "dece5d98cb042c275e6cbaa35f55eafad45af01441d4669218ce2789f7027bc4",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.8499375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_54.wav",
+    "source_id": "sequence:call_54",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmt_aaaa_01",
+        "sha256": "786cae50056cc208895eb57213cb063b5d8229baaf41cde41cab295419cd46d2"
+      },
+      {
+        "id": "gta_outgoing_fpmt_abaa_01",
+        "sha256": "cfdf9bd2838c02265e46f4c34b739a5dd59818a1228e1d4e63799dce439d65e8"
+      },
+      {
+        "id": "gta_outgoing_fpmt_asaa_01",
+        "sha256": "7adf5c7dba532e5f557ac96a08ac241936d1c7d57c6dca18cb0f80d8426db3e7"
+      },
+      {
+        "id": "gta_outgoing_fpmt_apaa_01",
+        "sha256": "120e1967c33de0336cdf4147c116711fe15b010e8b3f63887be2d5142a8c4b05"
+      }
+    ],
+    "sha256": "4ac2682c352f62838566b5a1f9d0ce9c827e4eef94a8c84a5d709499f3ff81ee",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.81625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_55.wav",
+    "source_id": "sequence:call_55",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmj_bfaa_01",
+        "sha256": "c88305158e13c2fd7aef45e07ac3b604767aac9d4fbee41b0c2b2ec495c7534c"
+      },
+      {
+        "id": "gta_outgoing_fpmj_bgaa_01",
+        "sha256": "724062d4ceb24408de8f81ed1689dc8d67c8a169dcf272a4e64983f387fabda5"
+      },
+      {
+        "id": "gta_outgoing_fpmj_bqaa_01",
+        "sha256": "7a3b05a12eb4180b0b5da6a207e56241213d7ad6016dcacec6b79354ab658787"
+      },
+      {
+        "id": "gta_outgoing_fpmj_braa_01",
+        "sha256": "167aa2a6aedfa68f4bdd4610459ed7f159996e0f793f1be98673b85859dac886"
+      }
+    ],
+    "sha256": "f987f2472b5ab4c5c2088cb69a92f254d7946c13739473a068e777afc3927cc1",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 9.0790625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_56.wav",
+    "source_id": "sequence:call_56",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpmj_bfaa_01",
+        "sha256": "c88305158e13c2fd7aef45e07ac3b604767aac9d4fbee41b0c2b2ec495c7534c"
+      },
+      {
+        "id": "gta_outgoing_fpmj_bgaa_01",
+        "sha256": "724062d4ceb24408de8f81ed1689dc8d67c8a169dcf272a4e64983f387fabda5"
+      },
+      {
+        "id": "gta_outgoing_fpmj_buaa_01",
+        "sha256": "cdc70e7c8db4b21c7019c800204b059558c6ce0e3e4cc9484c68676b9863bc1e"
+      },
+      {
+        "id": "gta_outgoing_fpmj_braa_01",
+        "sha256": "167aa2a6aedfa68f4bdd4610459ed7f159996e0f793f1be98673b85859dac886"
+      }
+    ],
+    "sha256": "06853b57f23335e4fd1461d960e3d29d195a8bfb7b797d817ec95346409edbcd",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.1638125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_57.wav",
+    "source_id": "sequence:call_57",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpma_bdaa_01",
+        "sha256": "f602f38d7d89a589a30c4e96261c802ba21c7785277d98c4bc292992d9986a3f"
+      },
+      {
+        "id": "gta_outgoing_fpma_beaa_01",
+        "sha256": "599c37a6c9be7c0f6316dbedab2f5fa311bc82555e01b9b132f9546256967c1e"
+      },
+      {
+        "id": "gta_outgoing_fpma_bkaa_01",
+        "sha256": "4c7885bf7a9f0e7e459e030c2c16eb5131a1339c9472d04a3a850b7b08cdeca6"
+      },
+      {
+        "id": "gta_outgoing_fpma_blaa_01",
+        "sha256": "44944dcc63961ada60e40f4e1b1c079e57426f888b908f098fb71cc76d41bd35"
+      }
+    ],
+    "sha256": "d7ab6606fffce87a46336d47b0114b268bc0b435753f2268528acf3797fc14eb",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.0881875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_58.wav",
+    "source_id": "sequence:call_58",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpma_bdaa_01",
+        "sha256": "f602f38d7d89a589a30c4e96261c802ba21c7785277d98c4bc292992d9986a3f"
+      },
+      {
+        "id": "gta_outgoing_fpma_beaa_01",
+        "sha256": "599c37a6c9be7c0f6316dbedab2f5fa311bc82555e01b9b132f9546256967c1e"
+      },
+      {
+        "id": "gta_outgoing_fpma_bmaa_01",
+        "sha256": "949d44c36df7e81c28b3e1f32f734eb24ad28f58708d3711fe4fc12d1ba8447f"
+      },
+      {
+        "id": "gta_outgoing_fpma_blaa_01",
+        "sha256": "44944dcc63961ada60e40f4e1b1c079e57426f888b908f098fb71cc76d41bd35"
+      }
+    ],
+    "sha256": "57548be972eaa9690d668699bfe4e5619cd102c18fe7bf428162281a78fb2737",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.69375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_59.wav",
+    "source_id": "sequence:call_59",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfm_aaaa_01",
+        "sha256": "28527fe62207fe50e18938244229a9cc77f1b7d617574805729333817f435b30"
+      },
+      {
+        "id": "gta_outgoing_fpfm_abaa_01",
+        "sha256": "dec80122b869e9d60c76410d373ddc260909141afcc5e12feb321a8229f1a811"
+      },
+      {
+        "id": "gta_outgoing_fpfm_aoaa_01",
+        "sha256": "07e462df4754c074fa09855217004cdfa535e649ae15c137d53a2df9671d57b6"
+      },
+      {
+        "id": "gta_outgoing_fpfm_apaa_01",
+        "sha256": "87250205acf7af975186027cebcc3787cffb041cfb2e4be46649bd582b3a29b3"
+      }
+    ],
+    "sha256": "493f22f8d38654ab9c15a5b129393e63497f3cf27832b14dda0e834fb9d84106",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.5670625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_60.wav",
+    "source_id": "sequence:call_60",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfm_aaaa_01",
+        "sha256": "28527fe62207fe50e18938244229a9cc77f1b7d617574805729333817f435b30"
+      },
+      {
+        "id": "gta_outgoing_fpfm_abaa_01",
+        "sha256": "dec80122b869e9d60c76410d373ddc260909141afcc5e12feb321a8229f1a811"
+      },
+      {
+        "id": "gta_outgoing_fpfm_asaa_01",
+        "sha256": "c29368e6200781f725b5f9aabc41e1c994ff0768b38c84444737e34397265a28"
+      },
+      {
+        "id": "gta_outgoing_fpfm_apaa_01",
+        "sha256": "87250205acf7af975186027cebcc3787cffb041cfb2e4be46649bd582b3a29b3"
+      }
+    ],
+    "sha256": "88066784ac9bfa0088eea6c17c0d2ba31c7ba27018ee47a0d3db7c757f003483",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.14425,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_61.wav",
+    "source_id": "sequence:call_61",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpft_aaaa_01",
+        "sha256": "95f1fb2a4f2f1e4b801196d92866809cd90155bb13b68efeeefccb78b303cc60"
+      },
+      {
+        "id": "gta_outgoing_fpft_abaa_01",
+        "sha256": "7b9cb00993da867fe775436a4cc36417fae2a724f65bba03413554d37df4e22d"
+      },
+      {
+        "id": "gta_outgoing_fpft_agaa_01",
+        "sha256": "bdfd2722058d7171d1f65e9015449e96b9f0d306eda9f55ee2e4abdfd984b141"
+      },
+      {
+        "id": "gta_outgoing_fpft_ajaa_01",
+        "sha256": "fbd79330840265ee34d018eeef348b2752365a1bc134a5507984924517e47048"
+      }
+    ],
+    "sha256": "ada7961171360ecaca8570c61f323de570c567cbf7ac5eb23348e8417f7821b9",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.262,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_62.wav",
+    "source_id": "sequence:call_62",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpft_aaaa_01",
+        "sha256": "95f1fb2a4f2f1e4b801196d92866809cd90155bb13b68efeeefccb78b303cc60"
+      },
+      {
+        "id": "gta_outgoing_fpft_abaa_01",
+        "sha256": "7b9cb00993da867fe775436a4cc36417fae2a724f65bba03413554d37df4e22d"
+      },
+      {
+        "id": "gta_outgoing_fpft_aoaa_01",
+        "sha256": "9d3428e934428b287a73f21a2ee8172ab4f44ca07d4507ec67072ae8ab816db5"
+      },
+      {
+        "id": "gta_outgoing_fpft_ajaa_01",
+        "sha256": "fbd79330840265ee34d018eeef348b2752365a1bc134a5507984924517e47048"
+      }
+    ],
+    "sha256": "6cf8903b565add5195a583e39ec277feafad5987f82ca572132f68d87594058e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.4265,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_63.wav",
+    "source_id": "sequence:call_63",
+    "sources": [
+      {
+        "id": "gta_outgoing_frlfa_aaaa_01",
+        "sha256": "74005fa390259484775b03e3abb7feba0e5635576a94a0928af0c19d68487ea6"
+      },
+      {
+        "id": "gta_outgoing_frlfa_abaa_01",
+        "sha256": "979d600ebd75962774cc2b5be7242cde2bca46c6ee9d7310281359ce5d951a07"
+      },
+      {
+        "id": "gta_outgoing_frlfa_ahaa_01",
+        "sha256": "e9d702e4d9ae26b2b31294f8bd3cae8165c4cba06ec3dfb2ad9885e05a3b487b"
+      },
+      {
+        "id": "gta_outgoing_frlfa_aiaa_01",
+        "sha256": "cae36d4d49f52973a7858a08e68f3bcaa3b9da64f5ea780e5bc63ddd1d8b9333"
+      }
+    ],
+    "sha256": "f29eaf33adf7df62b682cc7f63a2a5fb5d363f1bb0e5711bd5ea7f82bcc66a5f",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.5171875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_64.wav",
+    "source_id": "sequence:call_64",
+    "sources": [
+      {
+        "id": "gta_outgoing_frlfa_aaaa_01",
+        "sha256": "74005fa390259484775b03e3abb7feba0e5635576a94a0928af0c19d68487ea6"
+      },
+      {
+        "id": "gta_outgoing_frlfa_abaa_01",
+        "sha256": "979d600ebd75962774cc2b5be7242cde2bca46c6ee9d7310281359ce5d951a07"
+      },
+      {
+        "id": "gta_outgoing_frlfa_anaa_01",
+        "sha256": "845be5e55c7ee224cb580400143461fe406500f16e81efac62a992c34adcb681"
+      },
+      {
+        "id": "gta_outgoing_frlfa_aiaa_01",
+        "sha256": "cae36d4d49f52973a7858a08e68f3bcaa3b9da64f5ea780e5bc63ddd1d8b9333"
+      }
+    ],
+    "sha256": "1d42d20d03e3c262e5c013da2fb653964b334f33b7d2196aa8867b966fb91fc6",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.0668125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_65.wav",
+    "source_id": "sequence:call_65",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfj_bfaa_01",
+        "sha256": "a9c553db43b200af9f901dc92c2481a5a8519fee3d3751ae1008e735272cfc2c"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bgaa_01",
+        "sha256": "8aa0d604347ec626aaceb84ca48bdf0a5cfb81f8e67b0b6623c1cc8ecfeb38c8"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bpaa_01",
+        "sha256": "bc9d19289eba72b52a4e4ca97f2318471f63b2e60318a21d9a4ef4f449a077bb"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bqaa_01",
+        "sha256": "31fe40ea4f9a4ff7b245a94eaf4946488078a79bc2eb89da1c19aefad4d69d4a"
+      }
+    ],
+    "sha256": "dc72a829e403b8671c972c60f604df265a94436c98705f25461396a5ed6e2031",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 11.4550625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_66.wav",
+    "source_id": "sequence:call_66",
+    "sources": [
+      {
+        "id": "gta_outgoing_fpfj_bfaa_01",
+        "sha256": "a9c553db43b200af9f901dc92c2481a5a8519fee3d3751ae1008e735272cfc2c"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bgaa_01",
+        "sha256": "8aa0d604347ec626aaceb84ca48bdf0a5cfb81f8e67b0b6623c1cc8ecfeb38c8"
+      },
+      {
+        "id": "gta_outgoing_fpfj_btaa_01",
+        "sha256": "8efce8a684779214f9c982b891e39854340788ceb80b31d1d6530c6b620e8ffd"
+      },
+      {
+        "id": "gta_outgoing_fpfj_bqaa_01",
+        "sha256": "31fe40ea4f9a4ff7b245a94eaf4946488078a79bc2eb89da1c19aefad4d69d4a"
+      }
+    ],
+    "sha256": "b6bfd472e34bf6e386d124b4f0e24bfa0fe8592ed7240336aa914c1b3eed7a8a",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.1045,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_67.wav",
+    "source_id": "sequence:call_67",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptm_aaaa_01",
+        "sha256": "07cea97f4e4fe1dc6e6eb55b38415f245f110df7912f827564795fa1185af254"
+      },
+      {
+        "id": "gta_outgoing_fptm_abaa_01",
+        "sha256": "332c37b986351b762a6d617295b8744538ec66f56b2edef79f3f0fcbb74901db"
+      },
+      {
+        "id": "gta_outgoing_fptm_aoaa_01",
+        "sha256": "d00314f716b6e5ff66388176058e678d9541be0b7dd503825972f520cf06974b"
+      },
+      {
+        "id": "gta_outgoing_fptm_apaa_01",
+        "sha256": "61cdb7d5e504bdc6f660cd842dc2280b4d5ceb6863c02d8b9a8477e084a9275a"
+      }
+    ],
+    "sha256": "10a18edd267d33229bc16840db6d7026117e4df95f508d37fcad65d215fe929e",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.8635625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_68.wav",
+    "source_id": "sequence:call_68",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptm_aaaa_01",
+        "sha256": "07cea97f4e4fe1dc6e6eb55b38415f245f110df7912f827564795fa1185af254"
+      },
+      {
+        "id": "gta_outgoing_fptm_abaa_01",
+        "sha256": "332c37b986351b762a6d617295b8744538ec66f56b2edef79f3f0fcbb74901db"
+      },
+      {
+        "id": "gta_outgoing_fptm_asaa_01",
+        "sha256": "f1245c370e1d15b80cde2f794cbfbcfb9524ac1d9b5d91f8398838ae0d4187f8"
+      },
+      {
+        "id": "gta_outgoing_fptm_apaa_01",
+        "sha256": "61cdb7d5e504bdc6f660cd842dc2280b4d5ceb6863c02d8b9a8477e084a9275a"
+      }
+    ],
+    "sha256": "c7172e478fc9b934279b6a6d41248bd9614c8daaaf9c3bc592000de4b2f1eedd",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 12.3275,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_69.wav",
+    "source_id": "sequence:call_69",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptf_aaaa_01",
+        "sha256": "acacae1896adf4205d793a49d4b45b635e236737616495ced857b1e0fa310d35"
+      },
+      {
+        "id": "gta_outgoing_fptf_abaa_01",
+        "sha256": "91180f35b95d0de7c9b4492a4b9db19dbe8035dc5e65e1b58ed9b208337b2dcb"
+      },
+      {
+        "id": "gta_outgoing_fptf_aoaa_01",
+        "sha256": "3c52e75f60e9a89877d623968d7e2def72a1ddb01bbf84bb1b0658cfd2433582"
+      },
+      {
+        "id": "gta_outgoing_fptf_apaa_01",
+        "sha256": "2f4da4f3982ef3295d7c99b4dcebba145ee79448e6c38277b46a2f1fc66076f7"
+      }
+    ],
+    "sha256": "0f277c42f672aa9acdb88a6e9782522c0fabeb565edff0f660e9a54ed4009b60",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 9.6375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_70.wav",
+    "source_id": "sequence:call_70",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptf_aaaa_01",
+        "sha256": "acacae1896adf4205d793a49d4b45b635e236737616495ced857b1e0fa310d35"
+      },
+      {
+        "id": "gta_outgoing_fptf_abaa_01",
+        "sha256": "91180f35b95d0de7c9b4492a4b9db19dbe8035dc5e65e1b58ed9b208337b2dcb"
+      },
+      {
+        "id": "gta_outgoing_fptf_asaa_01",
+        "sha256": "897c04ba1e79b7a87be44520d5f68dbdb5f0643201ac4d8ebbcf0543e116968f"
+      },
+      {
+        "id": "gta_outgoing_fptf_apaa_01",
+        "sha256": "2f4da4f3982ef3295d7c99b4dcebba145ee79448e6c38277b46a2f1fc66076f7"
+      }
+    ],
+    "sha256": "6665d8ef9c0f4f439422980c2d1c59e2a6fb92e409cf9ca2f14fdef065f393ae",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.56125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_71.wav",
+    "source_id": "sequence:call_71",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptl_bdaa_01",
+        "sha256": "ef06e8ca7cfab080f2075b87c43d134d300e3761412b18948dd37da83e02eb90"
+      },
+      {
+        "id": "gta_outgoing_fptl_beaa_01",
+        "sha256": "0d902ba06a87bd0c07448d2d47295383592cc942fedded168f8bb9800f1393f3"
+      },
+      {
+        "id": "gta_outgoing_fptl_bmaa_01",
+        "sha256": "89b6f3a8c8ab53b37ee4f32ad94ba00680ae08d75c1cb2b6c5de8fbcdfa80113"
+      },
+      {
+        "id": "gta_outgoing_fptl_bnaa_01",
+        "sha256": "c5933985c692f0d79b218bae8fde81b2040cc2175383a94fef87b91172bbf5ab"
+      }
+    ],
+    "sha256": "231a913a7dfcc2be6cb649f877984ed59c506ab0361002c847f55edb25c8df73",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 7.486,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_72.wav",
+    "source_id": "sequence:call_72",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptl_bdaa_01",
+        "sha256": "ef06e8ca7cfab080f2075b87c43d134d300e3761412b18948dd37da83e02eb90"
+      },
+      {
+        "id": "gta_outgoing_fptl_beaa_01",
+        "sha256": "0d902ba06a87bd0c07448d2d47295383592cc942fedded168f8bb9800f1393f3"
+      },
+      {
+        "id": "gta_outgoing_fptl_bqaa_01",
+        "sha256": "461eec8777207fa8f25987994875f84373baa3d3849b5aa7a0c6e5fdc16c7ef2"
+      },
+      {
+        "id": "gta_outgoing_fptl_bnaa_01",
+        "sha256": "c5933985c692f0d79b218bae8fde81b2040cc2175383a94fef87b91172bbf5ab"
+      }
+    ],
+    "sha256": "ce51a778617edffe26a6c4f1c0ad1fefe4ae9294866aee862ce5d19df1af4421",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 6.7208125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_73.wav",
+    "source_id": "sequence:call_73",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptj_auaa_01",
+        "sha256": "75e37b1bdf43663f1028f83584719b3d65532fc9dd7ca97f48273d39d2bc6e42"
+      },
+      {
+        "id": "gta_outgoing_fptj_avaa_01",
+        "sha256": "aa85619f9c0af078870a0feb0ae1a581cf15f48ac211865912eee6986d9f504b"
+      },
+      {
+        "id": "gta_outgoing_fptj_beaa_01",
+        "sha256": "2d7e59edc540b502c8da3bda0ac74564c48b5c5b1d66ff4e104a102179f7deac"
+      },
+      {
+        "id": "gta_outgoing_fptj_bfaa_01",
+        "sha256": "afbd626e9223627a16bf92a6c6d337ad35a3ef3e7bdfe4ccecc828d097fb392e"
+      }
+    ],
+    "sha256": "0ccc2a099152273eadb051a27ab7fcfe4b1275bd60629b95492c23c643b4186a",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 10.9341875,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "call_74.wav",
+    "source_id": "sequence:call_74",
+    "sources": [
+      {
+        "id": "gta_outgoing_fptj_auaa_01",
+        "sha256": "75e37b1bdf43663f1028f83584719b3d65532fc9dd7ca97f48273d39d2bc6e42"
+      },
+      {
+        "id": "gta_outgoing_fptj_avaa_01",
+        "sha256": "aa85619f9c0af078870a0feb0ae1a581cf15f48ac211865912eee6986d9f504b"
+      },
+      {
+        "id": "gta_outgoing_fptj_biaa_01",
+        "sha256": "9b55aac14e6144c6f2737ef2272e0f9a0f1f311011ca0742ab6f904adcf48350"
+      },
+      {
+        "id": "gta_outgoing_fptj_bfaa_01",
+        "sha256": "afbd626e9223627a16bf92a6c6d337ad35a3ef3e7bdfe4ccecc828d097fb392e"
+      }
+    ],
+    "sha256": "cfd01ae7934fe5e75b0bdad69fe3d5ecad8e0843ee53e22814687afeaa8d224b",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 8.4463125,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "taxi_0.wav",
+    "source_id": "sequence:taxi_0",
+    "sources": [
+      {
+        "id": "gta_taxi_taxis_adaa_01",
+        "sha256": "77f890a42cbf8e87521ff1e110432d7b9c84ad2021ec892ea42a5c3602affdc8"
+      },
+      {
+        "id": "gta_taxi_taxis_agaa_01",
+        "sha256": "4669a4e98f907a00d747457ed75bf30ab50c4f76fdce230af0a43193ba196806"
+      },
+      {
+        "id": "gta_taxi_taxis_ahaa_01",
+        "sha256": "8b2b532455ddff1d82c31ed5cae223090d7b99b5e4f37dc1bcad8013542f34ef"
+      }
+    ],
+    "sha256": "a61ea85108b90e14e3cca846afad55b929a50ae2bf33318750904c0db1577f28",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.616625,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "taxi_1.wav",
+    "source_id": "sequence:taxi_1",
+    "sources": [
+      {
+        "id": "gta_taxi_taxis_aeaa_01",
+        "sha256": "e95bd9c479d4d34ea156d101c725f354545ecdde13ca83cdb5d200334ce98776"
+      },
+      {
+        "id": "gta_taxi_taxis_agaa_01",
+        "sha256": "4669a4e98f907a00d747457ed75bf30ab50c4f76fdce230af0a43193ba196806"
+      },
+      {
+        "id": "gta_taxi_taxis_aiaa_01",
+        "sha256": "dd565081ca070dcaa2f8aafd745e1d21083545e5e5fad909b9a14c17c9e5cb37"
+      }
+    ],
+    "sha256": "13699af9681ce74ab1d8f5fbcb858e2f32c7cb363348fefde6957cc4c46b541d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 3.823375,
+    "codec": "GSM_MS"
+  },
+  {
+    "file": "taxi_2.wav",
+    "source_id": "sequence:taxi_2",
+    "sources": [
+      {
+        "id": "gta_taxi_taxis_afaa_01",
+        "sha256": "2bf758679a5954f03fa678eb4bab84feabf18ff9d656533420af1607457b031e"
+      },
+      {
+        "id": "gta_taxi_taxis_agaa_01",
+        "sha256": "4669a4e98f907a00d747457ed75bf30ab50c4f76fdce230af0a43193ba196806"
+      },
+      {
+        "id": "gta_taxi_taxis_ajaa_01",
+        "sha256": "d6a77ef2a64524aa418af7cd1cc8d701a0f09b96866d12b8551dd1af3d60eb8f"
+      }
+    ],
+    "sha256": "891c85f7127863d18477c7e766ff1be6fff3b187a3d294e37bd1f85ef08e8a3d",
+    "timing": "Original speech order and pauses; overlap cue retained as metadata, not reconstructed",
+    "sample_rate": 8000,
+    "channels": 1,
+    "sample_width": 2,
+    "duration_seconds": 5.17475,
+    "codec": "GSM_MS"
+  }
+]
