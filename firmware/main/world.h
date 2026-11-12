@@ -1,7 +1,7 @@
 #pragma once
 #include <stdbool.h>
 #include <stdint.h>
-enum { WORLD_ROLES=3, WORLD_TASKS=6 };
+enum { WORLD_ROLES=3, WORLD_TASKS_PER_ROLE=10, WORLD_TASKS=30 };
 typedef struct { uint32_t role, active[3], done[3], rng, wait_ms; } world_t;
 extern const char *const world_roles[3];
 extern const char *const mission_names[WORLD_TASKS];

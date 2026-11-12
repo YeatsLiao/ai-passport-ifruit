@@ -1,0 +1,7 @@
+{
+  "source": "https://www.quut.com/gsm/gsm-1.0.24.tar.gz",
+  "version": "1.0.24",
+  "sha256": "a3c40c6471928383f4abfcb2e8f24012a1f562be2f17b8d672145d5986681a92",
+  "official_checksum_page": "https://www.quut.com/gsm/",
+  "changes": "Decoder source subset only; all copied source and headers byte-for-byte unchanged. Build enables WAV49, arithmetic shift, NDEBUG. No encoder entrypoint or toast application included."
+}

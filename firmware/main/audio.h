@@ -9,3 +9,4 @@ uint32_t phone_audio_play(const char *path, bool loop);
 /* Main task consumes completion IDs; cancelled/replaced requests do not complete. */
 bool phone_audio_result(uint32_t *request_id);
 void phone_audio_status(char *out, size_t capacity);
+void phone_audio_set_volume(unsigned percent);

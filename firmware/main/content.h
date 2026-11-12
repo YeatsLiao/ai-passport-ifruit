@@ -1,7 +1,7 @@
 #pragma once
 #include <stdbool.h>
 #include <stdint.h>
-enum { SET_BACKGROUND, SET_PROFILE, SET_RINGTONE, SET_THEME, SET_VIBRATE, SET_COUNT };
+enum { SET_BACKGROUND, SET_PROFILE, SET_RINGTONE, SET_THEME, SET_VIBRATE, SET_VOLUME, SET_BRIGHTNESS, SET_COUNT };
 extern const char *const setting_names[SET_COUNT];
 extern const char *const setting_options[SET_COUNT][15];
 extern const unsigned setting_counts[SET_COUNT];

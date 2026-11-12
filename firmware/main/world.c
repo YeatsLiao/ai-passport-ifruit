@@ -2,7 +2,7 @@
 #include <string.h>
 const char *const world_roles[3]={"Michael","Franklin","Trevor"};
 void world_init(world_t *w){memset(w,0,sizeof(*w));w->rng=1;w->wait_ms=45000;}
-static uint32_t mask(unsigned role){return 3u<<(role*2);}
+static uint32_t mask(unsigned role){return ((1u<<WORLD_TASKS_PER_ROLE)-1)<<(role*WORLD_TASKS_PER_ROLE);}
 bool world_valid(const world_t *w){
  if(w->role>=3 || !w->rng || w->wait_ms>180000)return false;
  for(unsigned i=0;i<3;i++)if(((w->active[i]|w->done[i])&~mask(i)) || (w->active[i]&w->done[i]))return false;
@@ -15,13 +15,14 @@ bool world_step(world_t *w,uint32_t elapsed,bool eligible){
  w->wait_ms=90000+w->rng%90001;
  uint32_t available=mask(w->role)&~(w->active[w->role]|w->done[w->role]);
  if(!available || w->active[w->role])return false;
- unsigned first=w->role*2+(w->rng&1);
- if(!(available&(1u<<first)))first=w->role*2+((first+1)&1);
+ unsigned first=w->role*WORLD_TASKS_PER_ROLE+w->rng%WORLD_TASKS_PER_ROLE;
+ if(w->role==0 && !w->done[0])first=1;
+ while(!(available&(1u<<first)))first=w->role*WORLD_TASKS_PER_ROLE+(first+1)%WORLD_TASKS_PER_ROLE;
  w->active[w->role]|=1u<<first;return true;
 }
 bool world_complete(world_t *w,unsigned task){
- if(task>=6 || !(mask(w->role)&(1u<<task)) || !(w->active[w->role]&(1u<<task)))return false;
+ if(task>=WORLD_TASKS || !(mask(w->role)&(1u<<task)) || !(w->active[w->role]&(1u<<task)))return false;
  w->active[w->role]&=~(1u<<task);w->done[w->role]|=1u<<task;return true;
 }
-int world_task(const world_t *w,unsigned row){for(unsigned i=0;i<6;i++)if(w->active[w->role]&(1u<<i)){if(!row--)return (int)i;}return -1;}
+int world_task(const world_t *w,unsigned row){for(unsigned i=0;i<WORLD_TASKS;i++)if(w->active[w->role]&(1u<<i)){if(!row--)return (int)i;}return -1;}
 unsigned world_count(const world_t *w,bool done){uint32_t bits=done?w->done[w->role]:w->active[w->role];unsigned n=0;while(bits){n+=bits&1;bits>>=1;}return n;}
